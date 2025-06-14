@@ -169,11 +169,3 @@ Installation :
 
 `pip3 install BTrees lxml matplotlib numpy sentence_transformers stanza`
 
-
-## Crédits et licence
-
-Conçu et réalisé par Olivier Kraif, Université Grenoble Alpes, 2023-2025. Pour la partie alignement lexical / alignement des chunks, conçu et réalisé avec Elnaz Jalilian.
-
-Merci à Inès Adjoudj, Beliz Ozkan et Beining Yang pour leurs contributions lors de leur stage.
-
-(cc) CC-BY-NC
