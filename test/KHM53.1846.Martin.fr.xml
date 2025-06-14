@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Blancheneige</title>
+        <author></author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+        <date></date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title type="alt"></title>
+          <editor role="translator">Pitre-Chevalier, Martin</editor>
+          <publisher></publisher>
+          <date>1846</date>
+          <edition>
+            Edition du texte original
+            <date></date>
+          </edition>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"></language>
+      </langUsage>
+    </profileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Pas de traitement des titres et division. Balisage simple des paragraphes, des passages en italiques et des saut de page.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body><p>
+<s> Blancheneige.</s>
+</p>
+<p>
+<s> Un jour d’hiver, tandis que les flocons de neige tombaient du ciel comme des plumes, il arriva qu’une reine était assise à sa fenêtre à la bordure noire comme de l’ébène, et qu’elle cousait.</s>
+
+<s>Et tandis qu’elle était ainsi occupée à coudre et à regarder tomber la neige, elle s’enfonça l’aiguille dans le doigt, et trois gouttes de sang tombèrent dans la neige.</s>
+
+<s>Et comme ce sang brillait si rouge dans la blanche neige, la reine se dit en elle-même:</s>
+
+<s>Si j’avais un enfant aussi blanc que cette neige, aussi rouge que ce sang, et aussi noir que cette bordure!</s>
+
+<s>Peu de temps après, elle eut une petite fille blanche comme neige, rouge comme du sang et noire comme de l’ébène, ce qui fut cause qu’on la nomma Blancheneige.</s>
+
+<s>Et dès que l’enfant fut né, la reine mourut.</s>
+</p>
+<p>
+<s> Un an après, le roi prit une autre épouse: </s>
+
+<s>c’était une<pb/> belle femme, mais orgueilleuse et vaine; </s>
+
+<s>elle ne pouvait souffrir que personne la surpassât en beauté.</s>
+
+<s>Elle avait un miroir merveilleux; </s>
+
+<s>lorsqu’elle se plaçait devant lui et s’y regardait, elle disait:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> Et le miroir répondait:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle du pays.</l></lg></s>
+</p>
+<p>
+<s> Alors elle était satisfaite, car elle savait que le miroir disait la vérité!</s>
+</p>
+<p>
+<s> Cependant Blancheneige grandissait et devenait toujours plus jolie, et quand elle eut atteint l’âge de sept ans, elle était belle, belle comme le jour, et plus belle que la reine elle-même.</s>
+
+<s>Un jour que celle-ci disait à son miroir:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> II répondit:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle ici,</l> <l>Mais Blancheneige est mille fois plus belle que vous.</l></lg></s>
+</p>
+<p>
+<s> Cela effraya la reine, qui devint jaune et verte de jalousie.</s>
+
+<s>Dès ce moment, lorsqu’elle regardait Blancheneige, son cœur bondissait dans sa poitrine, tant elle haïssait la petite fille.</s>
+
+<s>Et sa jalousie et son orgueil<pb/> s’accrurent, et ils devinrent si grands en elle, que ses jours et ses nuits furent désormais sans repos.</s>
+
+<s>Enfin, elle fit venir un chasseur et lui dit:</s>
+</p>
+<p>
+<s> – Emmène cette enfant dans la forêt, je ne veux plus voir son image devant mes yeux.</s>
+
+<s>Là, tu la tueras, puis tu m’apporteras son cœur comme signe de sa mort.</s>
+</p>
+<p>
+<s> Le chasseur obéit et emmena l’enfant dans la forêt.</s>
+
+<s>Lorsqu’il eut tiré son couteau de chasse, et qu’il fit mine de vouloir en percer le cœur innocent de Blancheneige, la petite se mit à pleurer et à dire:</s>
+</p>
+<p>
+<s> – O bon chasseur! </s>
+
+<s>laisse-moi la vie, je te promets de courir dans la forêt sauvage et de ne jamais plus revenir à la maison.</s>
+</p>
+<p>
+<s> Et comme elle était si belle, le chasseur, se laissant attendrir, lui dit:</s>
+</p>
+<p>
+<s> – Cours donc, ma pauvre enfant!</s>
+</p>
+<p>
+<s> Les bêtes féroces t’auront bientôt dévorée, pensa-t-il en lui-même; </s>
+
+<s>et pourtant il lui sembla qu’une pierre se soulevait de dessus sa poitrine, maintenant qu’il n’avait plus besoin de tuer la jeune fille; </s>
+
+<s>et comme à l’instant même un marcassin bondissait près de là, il le perça de son couteau, lui enleva le cœur, et le porta à la reine pour lui prouver qu’il avait exécuté ses ordres.</s>
+
+<s>Le cuisinier dut le faire cuire dans du sel, et la méchante femme le mangea, et elle crut avoir mangé le cœur de Blancheneige.</s>
+</p>
+<p>
+<s> La pauvre petite était donc maintenant tout à fait<pb/> seule dans la grande forêt, et elle était si effrayée, qu’elle regardait en tremblant toutes les feuilles des arbres, et ne savait pas comment elle pourrait s’arracher à ce péril.</s>
+
+<s>Soudain elle se mit à courir, et elle courut sur la pointe des pierres et à travers les épines; </s>
+
+<s>et les bêtes sauvages bondissaient autour d’elle, mais sans lui faire aucun mal.</s>
+
+<s>Elle courut aussi longtemps que ses pieds purent la porter, et le soir allait paraître, quand elle aperçut une petite maisonnette où elle entra pour se reposer.</s>
+</p>
+<p>
+<s> Dans la maisonnette, tout était petit, mais si élégant et si propre qu’on ne saurait en donner une idée.</s>
+
+<s>Là était dressée une petite table couverte de linge blanc avec sept petites assiettes, chaque assiette avec sa petite cuillère; </s>
+
+<s>un peu plus loin, sept petits couteaux avec leurs fourchettes et sept petits gobelets; </s>
+
+<s>contre le mur, sept petits lits étaient rangés à la suite les uns des autres, recouverts de draps d’un blanc éclatant.</s>
+
+<s>Blancheneige, qui avait faim et soif, mangea de chaque petite assiette un peu de légumes et de pain, et but de chaque petit gobelet une goutte de vin, car elle ne voulait pas tout prendre à un seul; </s>
+
+<s>puis comme elle était très fatiguée, elle essaya de se placer dans un petit lit, mais aucun ne semblait convenir à sa taille.</s>
+
+<s>L’un était trop long, l’autre trop court, enfin le septième se trouva juste; </s>
+
+<s>elle y resta couchée, se recommanda à Dieu et s’endormit.</s>
+</p>
+<p>
+<s> Lorsqu’il fut nuit noire, arrivèrent les maîtres de la<pb/> petite maison.</s>
+
+<s>C’étaient les sept nains qui dans les montagnes, cherchent le fer avec la pioche et la hache.</s>
+
+<s>Ils allumèrent leurs sept petites chandelles, et lorsqu’il fit clair dans la maisonnette, ils remarquèrent que quelqu’un y était venu, car tout ne se trouvait plus dans le même ordre où ils l’avaient laissé.</s>
+
+<s>Le premier dit:</s>
+</p>
+<p>
+<s> – Qui s’est assis sur ma petite chaise?</s>
+</p>
+<p>
+<s> Et le second:</s>
+</p>
+<p>
+<s> – Qui a mangé dans ma petite assiette?</s>
+</p>
+<p>
+<s> Et le troisième:</s>
+</p>
+<p>
+<s> – Qui a pris de mon petit pain?</s>
+</p>
+<p>
+<s> Et le quatrième:</s>
+</p>
+<p>
+<s> – Qui a enlevé de mes légumes?</s>
+</p>
+<p>
+<s> Et le cinquième:</s>
+</p>
+<p>
+<s> – Qui a piqué avec ma petite fourchette?</s>
+</p>
+<p>
+<s> Et le sixième:</s>
+</p>
+<p>
+<s> – Qui a coupé avec mon petit couteau?</s>
+</p>
+<p>
+<s> Et le septième:</s>
+</p>
+<p>
+<s> – Qui a bu dans mon petit gobelet?</s>
+</p>
+<p>
+<s> Alors le premier se mit à regarder autour de lui, il aperçut un petit creux sur son lit, et s’écria:</s>
+</p>
+<p>
+<s> – Qui a marché sur mon petit lit?</s>
+</p>
+<p>
+<s> Les autres accoururent et s’écrièrent:</s>
+</p>
+<p>
+<s> – Sur le mien aussi s’est posé quelqu’un!</s>
+</p>
+<p>
+<s> Mais le septième, tournant les yeux sur son lit, remarqua Blancheneige qui était étendue là, et dormait.</s>
+
+<s>Il appela aussitôt les autres, qui accoururent, poussèrent<pb/> des cris d’étonnement, allèrent prendre leurs sept petites chandelles, et éclairèrent le visage de Blancheneige.</s>
+</p>
+<p>
+<s> – Mon Dieu! </s>
+
+<s>mon Dieu! </s>
+
+<s>s’écrièrent-ils, que cette petite est jolie!</s>
+</p>
+<p>
+<s> Et ils étaient si contens, qu’ils ne voulurent pas la réveiller; </s>
+
+<s>ils la laissèrent continuer de dormir dans le petit lit; </s>
+
+<s>le septième nain se coucha avec ses compagnons, une heure avec chacun d’eux, et la nuit s’écoula.</s>
+</p>
+<p>
+<s> Quand le jour fut venu, Blancheneige s’éveilla, et quand elle vit les sept nains elle eut peur.</s>
+
+<s>Ceux-ci étaient joyeux, ils lui demandèrent:</s>
+</p>
+<p>
+<s> – Comment te nommes-tu?</s>
+</p>
+<p>
+<s> – Je me nomme Blancheneige, répondit-elle.</s>
+</p>
+<p>
+<s> – Comment es-tu venue dans notre maison? </s>
+
+<s>demandèrent encore les nains.</s>
+</p>
+<p>
+<s> Alors elle raconta que sa belle-mère avait voulu la faire mourir, mais que le chasseur lui avait laissé la vie, et qu’ensuite elle avait couru tout le jour, jusqu’à ce qu’enfin elle eût trouvé la petite maison.</s>
+</p>
+<p>
+<s> Les nains dirent:</s>
+</p>
+<p>
+<s> – Veux-tu te charger de tenir notre maison, de préparer la cuisine, de faire les lits, de laver, de coudre et de tricoter? </s>
+
+<s>et veux-tu tenir tout avec ordre et propreté?</s>
+
+<s>Si tu le veux, tu peux rester près de nous, et il ne te manquera rien.</s>
+</p>
+<p>
+<s> Blancheneige le promit, et demeura avec eux.</s>
+
+<s>Elle<pb/> tenait la maison avec ordre.</s>
+
+<s>Le matin, les nains allaient dans la montagne et cherchaient le fer et l’or; </s>
+
+<s>le soir ils revenaient, et leur manger devait se trouver prêt.</s>
+
+<s>Durant toute la journée la petite fille restait seule, car les bons nains l’avaient avertie, en lui disant:</s>
+</p>
+<p>
+<s> – Méfie-toi de ta belle-mère, qui saura bientôt que tu es ici, et ne laisse entrer personne.</s>
+</p>
+<p>
+<s> Persuadée qu’elle avait mangé le cœur de Blancheneige, la reine ne pensa plus de nouveau qu’à être la plus belle; </s>
+
+<s>elle s’approcha de son miroir et dit:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> Et le miroir répondit:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle ici,</l> <l>Mais Blancheneige, par delà les montagnes,</l> <l>Chez les Sept Nains,</l> <l>Est mille fois plus belle que vous.</l></lg></s>
+</p>
+<p>
+<s> Cela effraya la reine, car elle savait que le miroir ne mentait jamais, et elle comprit que le chasseur l’avait trompée, et que Blancheneige était encore en vie.</s>
+
+<s>Elle se mit à réfléchir longtemps au moyen qu’elle emploierait pour la faire mourir, car aussi longtemps qu’elle ne serait pas la plus belle dans tout le pays, la jalousie ne devait point lui laisser de repos.</s>
+
+<s>Après avoir roulé dans son esprit plusieurs projets, elle résolut de se déguiser en vieille mercière; </s>
+
+<s>déguisement qui la rendit<pb/> méconnaissable.</s>
+
+<s>Elle se dirigea de la sorte du côté des sept montagnes, vers la maison des sept nains, frappa à la porte et cria:</s>
+</p>
+<p>
+<s> – Jolies marchandises à vendre!</s>
+</p>
+<p>
+<s> Blancheneige pencha la tête hors de la fenêtre et dit:</s>
+</p>
+<p>
+<s> – Bonjour, bonne femme, qu’avez-vous à vendre?</s>
+</p>
+<p>
+<s> – De bonnes marchandises, de jolies marchandises, répondit-elle, des lacets de toutes les couleurs.</s>
+</p>
+<p>
+<s> Et en disant cela, elle montra un lacet composé de soies bariolées.</s>
+</p>
+<p>
+<s> – Je puis laisser entrer cette bonne femme, pensa Blancheneige; </s>
+
+<s>elle tira les verrous de la porte et acheta le joli lacet.</s>
+</p>
+<p>
+<s> – Petite, dit la vieille, approche, que je te pare une fois comme il faut.</s>
+</p>
+<p>
+<s> Blancheneige, qui était sans malice, se plaça devant elle et se laissa mettre le nouveau lacet; </s>
+
+<s>mais la vieille se prit à la lacer si vite et d’une manière si serrée, que Blancheneige perdit la respiration et tomba comme morte devant la maison.</s>
+</p>
+<p>
+<s> – Maintenant tu as été la plus belle, dit la fausse vieille, et elle s’enfuit aussitôt.</s>
+</p>
+<p>
+<s> Peu de temps après, la nuit approchant, arrivèrent les sept nains, qui furent saisis d’effroi lorsqu’ils virent leur chère Blancheneige étendue par terre, immobile et sans mouvement, comme une morte.</s>
+
+<s>Ils la soulevèrent<pb/>, et remarquant qu’elle était trop serrée, ils coupèrent le lacet; </s>
+
+<s>aussitôt la petite se mit à respirer un peu, et la vie lui revint par degrés.</s>
+
+<s>Lorsque les nains surent ce qui était arrivé, ils dirent:</s>
+</p>
+<p>
+<s> – La vieille femme n’était autre que cette méchante reine; </s>
+
+<s>prends garde à toi, et ne laisse entrer personne quand nous ne sommes point près de toi.</s>
+</p>
+<p>
+<s> La méchante femme ne fut pas plutôt arrivée chez elle, qu’elle s’approcha de son miroir et lui dit:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> Et le miroir répondit comme auparavant:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle ici,</l> <l>Mais Blancheneige par delà les montagnes,</l> <l>Chez les Sept Nains,</l> <l>Est mille fois plus belle que vous.</l></lg></s>
+</p>
+<p>
+<s> A ces mots, tout son sang lui remonta au cœur, car elle vit bien que Blancheneige était revenue à la vie.</s>
+
+<s>Cette fois, dit-elle, je veux trouver un moyen qui m’en débarrasse pour toujours.</s>
+
+<s>Et, par un secret magique qu’elle possédait, elle composa un peigne empoisonné, puis elle se déguisa de nouveau sous les traits d’une autre vieille femme.</s>
+
+<s>Elle se dirigea de la sorte du côté des sept montagnes, vers la demeure des sept nains, frappa à la porte et cria:</s>
+</p>
+<p>
+<s> – Bonnes marchandises à vendre!<pb/></s>
+</p>
+<p>
+<s> Blancheneige mit la tête à la fenêtre et dit:</s>
+</p>
+<p>
+<s> – Passez votre chemin, je ne dois laisser entrer personne.</s>
+</p>
+<p>
+<s> – La vue du moins n’est pas défendue, dit la vieille en tirant de son panier le peigne empoisonné qu’elle leva en l’air.</s>
+</p>
+<p>
+<s> II plut tant à la petite fille, qu’elle se laissa séduire et ouvrit la porte.</s>
+</p>
+<p>
+<s> Quand elle eut vendu le peigne, la vieille dit:</s>
+</p>
+<p>
+<s> – Je veux te peigner une fois comme il faut.</s>
+</p>
+<p>
+<s> La pauvre Blancheneige, ne se doutant de rien, laissa faire la vieille; </s>
+
+<s>mais à peine le peigne fut-il enfoncé dans ses cheveux, que le poison produisit son effet et que la petite tomba par terre sans connaissance.</s>
+</p>
+<p>
+<s> – Merveille de beauté, dit la méchante femme, c’en est fait de toi désormais.</s>
+
+<s>Et elle s’enfuit.</s>
+</p>
+<p>
+<s> Par bonheur il était déjà presque nuit, le moment où les sept nains avaient coutume de revenir au logis.</s>
+
+<s>Quand ils virent Blancheneige étendue comme une morte devant la maison, la pensée de sa belle-mère leur vint aussitôt; </s>
+
+<s>ils firent des recherches, et trouvèrent le peigne empoisonné, qu’ils se hâtèrent de retirer de ses cheveux.</s>
+
+<s>Blancheneige revint bien vite à elle, et raconta ce qui s’était passé.</s>
+
+<s>Après l’avoir entendue, les nains lui recommandèrent de nouveau d’être plus prudente et de n’ouvrir la porte à personne.</s>
+</p>
+<p>
+<s> A peine arrivée à la maison, la reine alla à son miroir et dit:<pb/></s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> Il répondit comme auparavant:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle ici,</l> <l>Mais Blancheneige, par delà les montagnes,</l> <l>Chez les Sept Nains,</l> <l>Est mille fois plus belle que vous.</l></lg></s>
+</p>
+<p>
+<s> A ces paroles du miroir, elle frémit de colère;</s>
+
+<s>Blancheneige doit mourir, s’écria-t-elle, quand même il devrait m’en coûter ma propre vie.</s>
+
+<s>Cela dit, elle se rendit dans une chambre tout à fait solitaire et cachée, où personne ne pénétrait jamais, et là elle se mit à préparer une pomme empoisonnée.</s>
+
+<s>A l’extérieur cette pomme était très belle, blanche avec des joues rouges, au point qu’à la voir seulement le jus venait à la bouche; </s>
+
+<s>mais celui qui en mangeait, rien qu’un petit morceau, devait infailliblement mourir.</s>
+
+<s>Après avoir ainsi préparé la pomme, la reine se peignit le visage, mit des vêtemens de paysanne, et ainsi déguisée, elle s’achemina du côté des sept montagnes, vers la demeure des sept nains.</s>
+</p>
+<p>
+<s> Elle frappa à la porte.</s>
+</p>
+<p>
+<s> Blancheneige mit la tête à la fenêtre et dit:</s>
+</p>
+<p>
+<s> – Je ne dois laisser entrer personne; </s>
+
+<s>les sept nains me l’ont défendu.</s>
+</p>
+<p>
+<s> – C’est bon, répondit la paysanne, je trouverai<pb/> bien ailleurs à me défaire de mes pommes; </s>
+
+<s>pourtant je veux t’en donner une.</s>
+</p>
+<p>
+<s> – Non, dit Blancheneige, je ne dois pas l’accepter.</s>
+</p>
+<p>
+<s> – Aurais-tu peur du poison? </s>
+
+<s>dit la fausse paysanne; </s>
+
+<s>regarde, je vais couper la pomme en deux, tu mangeras le côté rouge, et moi le blanc.</s>
+
+<s>Il faut dire que la pomme avait été si habilement préparée que le côté rouge seul contenait du poison.</s>
+</p>
+<p>
+<s> Blancheneige dévorait des yeux la jolie pomme, et quand elle vit que la paysanne en mangeait, elle n’eut pas le courage de résister plus longtemps, elle avança la main et prit la partie empoisonnée.</s>
+
+<s>Mais à peine eut-elle un petit morceau dans la bouche qu’elle tomba morte dans la chambre.</s>
+</p>
+<p>
+<s> Alors la reine, la regardant avec des yeux effrayans se mit à rire aux éclats et dit:</s>
+</p>
+<p>
+<s> – Blanche comme neige, rouge comme du sang, noire comme de l’ébène! </s>
+
+<s>cette fois les nains ne pourront plus te réveiller.</s>
+</p>
+<p>
+<s> Et lorsque arrivée au logis, elle demanda à son miroir:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> Il répondit enfin:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle de tout le pays.</l></lg><pb/></s>
+</p>
+<p>
+<s> Et le repos rentra dans son cœur envieux, s’il est possible qu’un cœur envieux puisse jamais trouver du repos.</s>
+</p>
+<p>
+<s> Lorsque, le soir, les nains revinrent, ils virent Blancheneige étendue par terre sans mouvement et sans respiration: </s>
+
+<s>elle était morte.</s>
+
+<s>Ils la relevèrent, et cherchèrent avec soin s’ils ne trouveraient pas du poison.</s>
+
+<s>Ils la délacèrent; </s>
+
+<s>ils lui peignèrent les cheveux; </s>
+
+<s>ils la lavèrent avec de l’eau et du vin, mais rien n’y fit, la chère petite était morte et resta morte.</s>
+
+<s>Ils l’étendirent sur une bière, se placèrent tous les sept à l’entour, et ils la pleurèrent pendant trois jours entiers.</s>
+
+<s>Puis ils voulurent l’enterrer, mais elle paraissait encore fraîche comme une personne vivante, et elle avait encore ses jolies joues rouges.</s>
+
+<s>Alors ils dirent:</s>
+</p>
+<p>
+<s> – Nous ne pourrions pas nous décider à l’ensevelir dans le sein noir de la terre.</s>
+</p>
+<p>
+<s> Ils firent donc construire un cercueil de verre transparent afin que l’œil pût y voir de tous côtés; </s>
+
+<s>ils y placèrent le corps de la morte, et inscrivirent son nom au sommet, en lettres d’or, en ajoutant qu’elle était fille d’un roi.</s>
+
+<s>Cela fait, ils portèrent le cercueil au haut de la montagne, et l’un d’eux dut sans cesse faire sentinelle à l’entour et veiller sur lui.</s>
+</p>
+<p>
+<s> Et les bêtes aussi vinrent pleurer Blancheneige: </s>
+
+<s>d’abord une chouette, puis un corbeau, enfin une tourterelle.</s>
+</p>
+<p>
+<s> Blancheneige resta ainsi longtemps, longtemps dans<pb/> le cercueil sans se putréfier; </s>
+
+<s>au contraire, on eût dit, à la voir, qu’elle dormait, tant sa peau était blanche, ses joues et ses lèvres rouges, et noirs ses cheveux.</s>
+</p>
+<p>
+<s> Il advint un jour que le fils d’un roi traversa la forêt, et qu’il entra dans la maison des nains afin d’y passer la nuit.</s>
+
+<s>Il aperçut, sur la montagne, le cercueil et la belle Blancheneige, et lut l’inscription en lettres d’or.</s>
+</p>
+<p>
+<s> Il dit aussitôt aux nains:</s>
+</p>
+<p>
+<s> – Abandonnez-moi ce cercueil, et je vous donnerai en échange tout ce que vous voudrez.</s>
+</p>
+<p>
+<s> Mais les nains répondirent:</s>
+</p>
+<p>
+<s> – Nous ne le céderions point pour tout l’or du monde.</s>
+</p>
+<p>
+<s> Le prince reprit:</s>
+</p>
+<p>
+<s> – Alors faites-m’en cadeau, car je sens que je ne puis plus vivre sans voir Blancheneige, et je veux l’honorer et la vénérer comme ma bien-aimée.</s>
+</p>
+<p>
+<s> En l’entendant parler ainsi, les bons nains eurent pitié de lui, et lui donnèrent le cercueil.</s>
+</p>
+<p>
+<s> Le fils du roi ordonna, sans retard, à ses gens de l’emporter sur leurs épaules.</s>
+
+<s>Mais il arriva que ceux-ci trébuchèrent entre des broussailles, et la secousse fit sortir de la gorge de Blancheneige le morceau de pomme empoisonnée.</s>
+
+<s>Celle-ci rouvrit ses yeux aussitôt, et se dressa sur son séant: </s>
+
+<s>la vie lui était revenue.</s>
+</p>
+<p>
+<s> – Mon Dieu! </s>
+
+<s>cria-t-elle, où suis-je?</s>
+</p>
+<p>
+<s> Le fils du roi répondit plein de joie:</s>
+</p>
+<p>
+<s> – Tu es près de moi.</s>
+
+<s>Et il lui raconta ce qui s’étai<pb/> passé.</s>
+
+<s>Je te préfère au monde entier, ajouta-t-il, suis-moi dans le palais de mon père; </s>
+
+<s>tu deviendras mon épouse.</s>
+</p>
+<p>
+<s> Cette proposition plut à Blancheneige; </s>
+
+<s>elle consentit à le suivre, et les préparatifs de leurs noces furent ordonnés avec autant de pompe que de solennité.</s>
+</p>
+<p>
+<s> Cependant la méchante belle-mère de Blancheneige fut au nombre des personnes invitées à la fête.</s>
+
+<s>Après s’être parée de vêtemens magnifiques, elle s’approcha de son miroir et dit:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Petit miroir, petit miroir contre le mur,</l> <l>Quelle est la plus belle dans tout le pays?</l></lg></s>
+</p>
+<p>
+<s> Le miroir répondit:</s>
+</p>
+<p>
+<s> <lg type="formulette"><l>Madame la reine, vous êtes la plus belle ici,</l> <l>Mais la jeune reine est mille fois plus belle que vous.</l></lg></s>
+</p>
+<p>
+<s> A ces mots, la méchante femme proféra une malédiction, et elle devint si inquiète, si inquiète, qu’elle eut peine à se remettre.</s>
+
+<s>D’abord elle ne voulut point aller à la noce; </s>
+
+<s>mais son trouble était si grand qu’il la chassa malgré elle et la força d’aller voir la jeune reine.</s>
+</p>
+<p>
+<s> A peine eut-elle franchi la porte de la salle, qu’elle reconnut Blancheneige, et que, immobile de dépit et d’effroi, elle ne put plus faire un pas.</s>
+</p>
+<p>
+<s> Cependant le jeune roi, qui connaissait toutes les<pb/> cruautés de la méchante femme, avait, pour la punir comme elle le méritait, fait placer des pantoufles de fer sur des charbons ardens.</s>
+
+<s>Quand ces pantoufles furent devenues toutes rouges à la flammes des braises, deux valets robustes les apportèrent et les mirent aux pieds de l’affreuse marâtre qu’ils forcèrent de danser avec ces chaussures brûlantes, malgré les douleurs atroces qu’elle ressentait.</s>
+
+<s>Et elle ne put cesser de danser, que pour tomber morte dans la salle. </s>
+</p>
+</body>
+  </text>
+</TEI>

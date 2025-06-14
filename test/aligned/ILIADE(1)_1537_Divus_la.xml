@@ -1,0 +1,1332 @@
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encodage développé pour le projet ParaTAXE</title>
+                <!--####################################################
+               Ici, veuillez encoder les différents responsables qui ont travaillé et/ou modifié ce fichier
+            #########################################################-->
+                <respStmt>
+                    <resp>Responsable du projet</resp>
+                    <name><!--Insérer le nom ici.--></name>
+                </respStmt>
+                <respStmt>
+                    <resp>Élaboration du schéma d'encodage</resp>
+                    <name>Anne Garcia Fernandez, Serena Crespi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transformation en XML-TEI</resp>
+                    <name>Serena Crespi</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UMR Litt&amp;Arts (UGA-CNRS)</publisher>
+                <address>
+                    <addrLine>UGA Grenoble</addrLine>
+                </address>
+            </publicationStmt>
+            <!--####################################################
+            ATTENTION: Ici c'est possible d'insérer les informations 
+               bibliographiques de l'édition.
+            ########################################################-->
+            <sourceDesc>
+                <bibl>
+                    <title n="I">Iliade</title>
+                    <author>Homère</author>
+                    <editor>trad. Andrea Divo Justinopolitano</editor>
+                    <publisher/>
+                    <pubPlace>Venise</pubPlace>
+                    <date>1537</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <!--####################################################
+            ATTENTION : Ici, il est possible d'insérer les informations 
+            des sections. Chaque section doit présenter un attribut 
+            xml:id qui permet de l'identifier.
+            ########################################################-->
+            <interpGrp source="livreI_Homère">
+                <interp xml:id="p1a">Proposition et invocation</interp>
+                <interp xml:id="p2a">Narration</interp>
+                <interp xml:id="p3a">Discours de Chrysès aux Atrides et aux Grecs</interp>
+                <interp xml:id="p4a">Agamemnon repousse Chrysès avec outrage</interp>
+                <interp xml:id="p5a">Chrysès à Apollon</interp>
+                <interp xml:id="p6a">Apollon envoie la peste au camps des Grecs</interp>
+                <interp xml:id="p7a">Achille convoque les Grecs</interp>
+                <interp xml:id="p8a">Achille à Agamemnon</interp>
+                <interp xml:id="p9a">Calchas à Achilles</interp>
+                <!--Achille ici vs. Achilles Word-->
+                <interp xml:id="p10a">Achilles à Calchas</interp>
+                <interp xml:id="p11a">Avis de Calchas touchant la peste au camp des Grecs</interp>
+                <interp xml:id="p12a">Agamemnon à Calchas</interp>
+                <interp xml:id="p13a">Achilles à Agamemnon</interp>
+                <interp xml:id="p14a">Agamemnon à Achilles</interp>
+                <interp xml:id="p15a">Achilles en colère à Agamenon</interp>
+                <interp xml:id="p16a">Agamemnon à Achilles</interp>
+                <interp xml:id="p17a">Achilles en pensée s'il doit tuer Agamemnon</interp>
+                <interp xml:id="p18a">Achilles à Pallas</interp>
+                <interp xml:id="p19a">Pallas à Achilles</interp>
+                <interp xml:id="p20a">Achilles encore à Pallas</interp>
+                <interp xml:id="p21a">Injures d'Achilles à Agamemnon</interp>
+                <interp xml:id="p22a">Nestor</interp>
+                <interp xml:id="p23a">Harangue de Nestor à Agamemnon</interp>
+                <interp xml:id="p24a">Agamemnon à Nestor</interp>
+                <interp xml:id="p25a">Achilles à Agamemnon</interp>
+                <interp xml:id="p26a">Agamemnon renvoie Chryséis à son père</interp>
+                <!--Version word : Fait repugner le camp-->
+                <interp xml:id="p27a">Fait repurger le camp</interp>
+                <!--Version word : Envoye oster... vs. Agamemnon envoie -->
+                <interp xml:id="p28a">Envoye oster Briséis à Achille par ses hérauts</interp>
+                <interp xml:id="p29a">Achilles aux hérauts d'Agamemnon</interp>
+                <interp xml:id="p30a">Patrocle leur délivre Briséis</interp>
+                <interp xml:id="p31a">Achilles à Thétis sa mère</interp>
+                <interp xml:id="p32a">Elle vient à son fils</interp>
+                <!--Version word : Elle vient à son fils vs. Thétis vient à son fils-->
+                <interp xml:id="p33a">Plaintes d'Achilles à Thétis</interp>
+                <interp xml:id="p34a">Thétis à Achilles</interp>
+                <interp xml:id="p35a">Ulysse arrive vers Chrysès et lui rend Chryséis sa
+                    fille</interp>
+                <interp xml:id="p36a">Ulysse à Chrysès</interp>
+                <interp xml:id="p37a">Prière de Chrysès à Apollon pour retirer la peste du camp des
+                    Grecs</interp>
+                <interp xml:id="p38a">Apollon entend la prière de Chrysès</interp>
+                <interp xml:id="p39a">Thétis à Jupiter pour son fils</interp>
+                <interp xml:id="p40a">Jupiter à Thétis</interp>
+                <interp xml:id="p41a">Junon à Jupiter</interp>
+                <interp xml:id="p42a">Jupiter à Junon</interp>
+                <interp xml:id="p43a">Junon encore à Jupiter</interp>
+                <interp xml:id="p44a">Jupiter à Junon</interp>
+                <interp xml:id="p45a">Vulcan à Junon sa mère</interp>
+            </interpGrp>
+        </front>
+        <body>
+            <lg n="1" ana="#p1a">
+                <anchor xml:id="l20" corresp="l11"/><l>IRAM cane Dea Pelidae Achillis </l><anchor xml:id="l21" corresp="l12 l13"/>
+                <l>Pernitiosam: quae infinitos Achivis dolores inflixit </l><anchor xml:id="l22" corresp="l16"/>
+                <l>Multas aut fortes animas inferis misit </l><anchor xml:id="l23" corresp="l17"/>
+                <l>Heroum, ipsos aut laniamenta fecit canibus </l><anchor xml:id="l24" corresp="l18"/>
+                <l>Avibusque omnibus. Jovis autem perficiebat voluntas </l><anchor xml:id="l25" corresp="l19"/>
+                <l>Ex quo sane primum divisi sunt contendentes </l><anchor xml:id="l26" corresp="l110 l111"/>
+                <l>Atridesque Rex virorum, et divus Achilles. </l><anchor xml:id="l27" corresp="l112"/>
+                <l>Quis nam ipsos Deorum contentioni commisit pugnaret </l>
+            </lg>
+            <lg n="2" ana="#p2a">
+                <anchor xml:id="l28" corresp="l113 l114"/><l>Latonae, et Jovis filius. hic enim regi iratus </l><anchor xml:id="l29" corresp="l115 l116"/>
+                <l>Morbum per exercitum suscitavit malunt: peribant autem populi, </l><anchor xml:id="l210" corresp="l117"/>
+                <l>Quoniam Chrysem inhonoravit sacerdotem </l><anchor xml:id="l211" corresp="l118"/>
+                <l>Atrides. hic enim venit celeres ad naves Achivorum, </l><anchor xml:id="l212" corresp="l119"/>
+                <l>Liberaturusque filiam ferensque infinita dona; </l><anchor xml:id="l213" corresp="l120 l121 l122"/>
+                <l>Coronas habens in manibus longejaculantis Apollinis </l><anchor xml:id="l214" corresp="l123"/>
+                <l>Aureo cum sceptro: et obsecrabat omnes Achivos. </l><anchor xml:id="l215" corresp="l124"/>
+                <l>Atridas autem maxime duos principes populorum. </l>
+            </lg>
+            <lg n="3" ana="#p3a">
+                <anchor xml:id="l216" corresp="l125"/><l>Atridaeque et alii beneocreati Achivi, </l><anchor xml:id="l217" corresp="l126"/>
+                <l>Vobis quidem Dii dent coelestes domos habentes </l><anchor xml:id="l218" corresp="l127 l128"/>
+                <l>Expugnare Priami civitatem: bene vero domum reverti. </l><anchor xml:id="l219" corresp="l129 l130"/>
+                <l>Filiam autem mihi solvite dilectam: haec dona accipite: </l><anchor xml:id="l220" corresp="l131"/>
+                <l>Venerantes Jovis filium longejaculantem Apollinem. </l><anchor xml:id="l221" corresp="l132"/>
+                <l>Tunc alii quidem omnes laudaverunt Achivi </l><anchor xml:id="l222" corresp="l133"/>
+                <l>Reverendumque esse sacerdotem et splendida accipienda dona. </l><anchor xml:id="l223" corresp="l134 l135"/>
+                <l>Sed non Atridae Agamemnoni placuit animos </l><anchor xml:id="l224" corresp="l136"/>
+                <l>Sed male dimisit gravem et sermonem jussit. </l>
+            </lg>
+            <lg n="4" ana="#p4a">
+                <anchor xml:id="l225" corresp="l137 l138"/><l>Ne te Senex concavas ego apud naves comprehendam, </l><anchor xml:id="l226" corresp="l139"/>
+                <l>Vel nunc tardantemque, vel post retro venientem: </l><anchor xml:id="l227" corresp="l140"/>
+                <l>Non utique tibi proderit sceptrum et corona Dei. </l><anchor xml:id="l228" corresp="l141 l142"/>
+                <l>Hanc autem ego non solvam antequam ipsam et senectus invadat. </l><anchor xml:id="l229" corresp="l143"/>
+                <l>Nostra in domo in Argis procul a patria </l><anchor xml:id="l230" corresp="l144"/>
+                <l>Telam texentem, et meum lectum instruentem. </l><anchor xml:id="l231" corresp="l145"/>
+                <l>Sed abi: ne me irrites; sanus ut redeas. </l><anchor xml:id="l232" corresp="l146 l147"/>
+                <l>Sic dixit; timuit autem Senex et obedivit verbo. </l><anchor xml:id="l233" corresp="l148"/>
+                <l>Ibat autem tacitus juxta littus multisonantis maris. </l><anchor xml:id="l234" corresp="l149"/>
+                <l>Multum autem postea seorsum iens precabatur Senex </l><anchor xml:id="l235" corresp="l150"/>
+                <l>Apollinem regem: quem pulchricoma peperit Latona. </l>
+            </lg>
+            <lg n="5" ana="#p5a">
+                <anchor xml:id="l236" corresp="l151 l152"/><l>Exaudi me argenteum arcum habens, qui Chrysam custodis, </l><anchor xml:id="l237" corresp="l153"/>
+                <l>Cillamque per divinam, Tenedoque fortiter imperas, </l><anchor xml:id="l238" corresp="l154"/>
+                <l>Smintheu: siquando tibi gratum templum coronavi, </l><anchor xml:id="l239" corresp="l155"/>
+                <l>Vel siquando tibi perpinguia crua cremavi </l><anchor xml:id="l240" corresp="l156"/>
+                <l>Taurorum et caprarum: hoc mihi perfice votum. </l><anchor xml:id="l241" corresp="l158"/>
+                <l>Pendant Danai meas lachrymas tuis sagittis. </l>
+            </lg>
+            <lg n="6" ana="#p6a">
+                <anchor xml:id="l242" corresp="l159 l160"/><l>Sic dixit orans. hunc autem exaudivit Phoebus Apollo. </l><anchor xml:id="l243" corresp="l161"/>
+                <l>Venit autem ex coeli summitatibus iratus cor; </l><anchor xml:id="l244" corresp="l163"/>
+                <l>Arcus humeris habens circumtectamque pharetram. </l><anchor xml:id="l245" corresp="l165"/>
+                <l>Resonuerunt autem sagittae in humeris irati, </l><anchor xml:id="l246" corresp="l166"/>
+                <l>Ipso moto. ipse autem ibat nocti similis: </l><anchor xml:id="l247" corresp="l167"/>
+                <l>Sedit postea seorsum a navibus; posthaec aut sagittam emisit. </l><anchor xml:id="l248" corresp="l168"/>
+                <l>Terribilis autem clangor factus est argentei arcus. </l><anchor xml:id="l249" corresp="l170"/>
+                <l>Mulos quidem primum invasit et canes veloces. </l><anchor xml:id="l250" corresp="l171"/>
+                <l>Sed postea in ipsos sagittam mortiferam immittens </l><anchor xml:id="l251" corresp="l172"/>
+                <l>Jecit. semper autem pyre morturoum incendebantr frequentes, </l><anchor xml:id="l252" corresp="l174"/>
+                <l>Novem dies quidem per exercitum ibant sagittae Dei. </l>
+            </lg>
+            <lg n="7" ana="#p7a">
+                <anchor xml:id="l253" corresp="l175 l176 l177"/><l>Decimo autem ad concionem vocavit populum Achilles. </l>
+                <l>Huic enim in mentibus posuit Dea albasulnashabens Juno. </l><anchor xml:id="l255" corresp="l178 l179"/>
+                <l>Curam namque gerebat Danaorum, quia utique morientes videbat. </l><anchor xml:id="l256" corresp="l180"/>
+                <l>Hi autem postquam congregati sunt simulque convenerunt, </l><anchor xml:id="l257" corresp="l181"/>
+                <l>Hos exurgens intersitus est pedes velox Achilles. </l>
+            </lg>
+            <lg n="8" ana="#p8a">
+                <anchor xml:id="l258" corresp="l183"/><l>Atride nunc nos iterum errantes puto </l><anchor xml:id="l259" corresp="l184"/>
+                <l>Retro recessuros, si modo mortem quidem fugiamus : </l><anchor xml:id="l260" corresp="l185"/>
+                <l>Ecce simul bellumque domat et pestis Achivos. </l><anchor xml:id="l261" corresp="l187"/>
+                <l>Sed age jam aliquem vatem interrogemus, vel sacerdotem; </l><anchor xml:id="l262" corresp="l188 l189"/>
+                <l>Vel et somniorum interpretem (etenim somnium ex Jove est) </l><anchor xml:id="l263" corresp="l190 l191"/>
+                <l>Qui dicat, cur tantum iratus est Phoebus Apollo. </l><anchor xml:id="l264" corresp="l192"/>
+                <l>Sive hic supplicationis accusat, sive hecatombes. </l><anchor xml:id="l265" corresp="l193 l194"/>
+                <l>Si forte ovium nidorem caprarumque perfecturum </l><anchor xml:id="l266" corresp="l196"/>
+                <l>Vult, assecutus nobis pestem avertere. </l>
+            </lg>
+            <lg n="9" ana="#p9a">
+                <anchor xml:id="l267" corresp="l197 l198"/><l>Certe hic ita locutus consedit. his autem exurrexit </l>
+                <l>Calchas Thestorides augurum longe optimus: </l><anchor xml:id="l269" corresp="l199 l1100"/>
+                <l>Qui sciebat et presentia, et futura, et praeterita: </l><anchor xml:id="l270" corresp="l1102"/>
+                <l>Et navibus Dux fuit Achivorum Ilium intra, </l><anchor xml:id="l271" corresp="l1103"/>
+                <l>Suam propter vaticinationem, quam ei praebuit Phoebus Apollo: </l><anchor xml:id="l272" corresp="l1104"/>
+                <l>Qui ipsis benesapiens concionatus est et interfatus est. </l><anchor xml:id="l273" corresp="l1105"/>
+                <l>O Achilles, jubes me Jovi dilecte loqui </l><anchor xml:id="l274" corresp="l1107"/>
+                <l>Iram Apollinis longejaculantis regis ? </l><anchor xml:id="l275" corresp="l1108 l1109"/>
+                <l>Igitur ego dico: tu autem paciscere, et mihi jura. </l><anchor xml:id="l276" corresp="l1110"/>
+                <l>Certe quidem mihi promptus verbis et manibus auxiliari. </l><anchor xml:id="l277" corresp="l1111 l1112"/>
+                <l>Certe enim puto virum irasciturum, qui valde omnium </l>
+                <l>Argivorum dominatur, et ei obediunt Achivi. </l><anchor xml:id="l279" corresp="l1113"/>
+                <l>» Potentior enim Rex quando irascitur viro inferiori. </l><anchor xml:id="l280" corresp="l1114"/>
+                <l>» Quanvis enim iram et eodem die decoxerit: </l><anchor xml:id="l281" corresp="l1115 l1116"/>
+                <l>» Tamen et postea continet iram, donec perfecerit; </l><anchor xml:id="l282" corresp="l1117"/>
+                <l>» In pectoribus suis. tu autem dic si me servabis. </l>
+            </lg>
+            <lg n="10" ana="#p10a">
+                <anchor xml:id="l283" corresp="l1118"/><l>Huic autem respondens allocutus est pedes velox Achilles. </l><anchor xml:id="l284" corresp="l1119"/>
+                <l>Confisus valde dic vaticinium quod scis. </l><anchor xml:id="l285" corresp="l1120"/>
+                <l>Non enim per Apollinem Jovi dilectum, quem tu calchas </l><anchor xml:id="l286" corresp="l1121"/>
+                <l>Precatus Danais vaticinia ostendis, </l><anchor xml:id="l287" corresp="l1123"/>
+                <l>Nemo me vivente et in terra vidente, </l><anchor xml:id="l288" corresp="l1124"/>
+                <l>Tibi concavas apud naves graves manus inferet </l><anchor xml:id="l289" corresp="l1126"/>
+                <l>Cunctorum Danorum: neque si Agamemnona dicas, </l><anchor xml:id="l290" corresp="l1129"/>
+                <l>Qui nunc longe optimus in exercitu jactatur esse. </l>
+            </lg>
+            <lg n="11" ana="#p11a">
+                <anchor xml:id="l291" corresp="l1130 l1131"/><l>Et tunc jam fidit et dixit vates irreprehensibilis. </l><anchor xml:id="l292" corresp="l1132"/>
+                <l>Neque hic supplicationis accusat, neque hecatombes. </l><anchor xml:id="l293" corresp="l1133 l1134"/>
+                <l>Sed gratia sacerdotis quem inhonoravit Agamemnon: </l>
+                <l>Neque liberavit filiam, et non accepit dona. </l><anchor xml:id="l295" corresp="l1136"/>
+                <l>Idcirco dolores dedit longejaculans, et item dabit. </l><anchor xml:id="l296" corresp="l1137 l1138"/>
+                <l>Neque hic prius a peste graves manus continebit, </l><anchor xml:id="l297" corresp="l1139"/>
+                <l>Quam patri dilecto reddatur nigraoculos puella </l><anchor xml:id="l298" corresp="l1140"/>
+                <l>In empta sine munere, et ducatur sacra hecatomba </l><anchor xml:id="l299" corresp="l1141"/>
+                <l>In Chrysam. tunc ipsum forte placantes persuadebimus. </l>
+            </lg>
+            <lg n="12" ana="#p12a">
+                <anchor xml:id="l2100" corresp="l1142 l1143 l1144"/><l>Certe hic ita locutus consedit. his autem surrexit </l><anchor xml:id="l2101" corresp="l1145"/>
+                <l>Heros Atrides latedominans Agamemnon </l><anchor xml:id="l2102" corresp="l1146"/>
+                <l>Contristatus. ira autem valde praecordia circum nigra </l><anchor xml:id="l2103" corresp="l1147 l1148"/>
+                <l>Plena erant: oculi autem sibi igni lucenti similes erant: </l><anchor xml:id="l2104" corresp="l1149"/>
+                <l>Calchanta primum male intuens allocutus est. </l><anchor xml:id="l2105" corresp="l1150"/>
+                <l>Vates malorum nunquam mihi bonum dixisti. </l><anchor xml:id="l2106" corresp="l1151"/>
+                <l>Semper tibi mala sunt amica mentibus ad vaticinanda. </l><anchor xml:id="l2107" corresp="l1153 l1154"/>
+                <l>Bonum autem nondum aliquod dixisti verbum, neque perfecisti: </l><anchor xml:id="l2108" corresp="l1155"/>
+                <l>Et nunc inter Danaos vaticinans concionaris. </l><anchor xml:id="l2109" corresp="l1156"/>
+                <l>Quod idcirco ipsis longejaculans dolores facit. </l><anchor xml:id="l2110" corresp="l1157 l1158"/>
+                <l>Quoniam ego Puellae Chryseidis clara dona </l><anchor xml:id="l2111" corresp="l1159 l1160"/>
+                <l>Nequaquam volui accipere: quoniam multum volo ipsam </l><anchor xml:id="l2112" corresp="l1161"/>
+                <l>Domi habere. etenim Clytemnestrae praeposui. </l><anchor xml:id="l2113" corresp="l1162"/>
+                <l>Puellari uxori: quoniam non ipsa est pejor </l><anchor xml:id="l2114" corresp="l1163 l1164"/>
+                <l>Neque corpore, neque aetate, neque mentibus, neque item opibus. </l><anchor xml:id="l2115" corresp="l1166"/>
+                <l>Sed et sic volo dare retro. si hoc est melius. </l><anchor xml:id="l2116" corresp="l1167"/>
+                <l>Volo ego populum salvum esse, non perire. </l><anchor xml:id="l2117" corresp="l1168"/>
+                <l>Sed mihi praemium statim praeparate: ut non solus </l><anchor xml:id="l2118" corresp="l1170"/>
+                <l>Argivorum praemiocarens sim: quoniam neque decet. </l><anchor xml:id="l2119" corresp="l1171"/>
+                <l>Videtis enim hoc omnes quod mihi praemium recedit alio. </l>
+            </lg>
+            <lg n="13" ana="#p13a">
+                <anchor xml:id="l2120" corresp="l1172"/><l>Huic autem respondit postea pedibus praestans divus Achilles. </l><anchor xml:id="l2121" corresp="l1173"/>
+                <l>Atride gloriosissime, avarissime omnium; </l><anchor xml:id="l2122" corresp="l1174 l1175"/>
+                <l>Quomodo enim tibi dabunt praemium magnanimi Achivi ? </l><anchor xml:id="l2123" corresp="l1176"/>
+                <l>Neque item adhuc scimus communia posita multa. </l><anchor xml:id="l2124" corresp="l1177 l1178"/>
+
+                <l>Sed partim quidem ex urbibus depraedati sumus, partim vero divisa sunt. </l><anchor xml:id="l2125" corresp="l1179"/>
+
+                <l>Populos autem non decet iterum collecta haec congregare. </l><anchor xml:id="l2126" corresp="l1180"/>
+
+                <l>Sed tu quidem nunc hanc Deo permitte. at Achivi </l><anchor xml:id="l2127" corresp="l1181"/>
+
+                <l>Triplicia quatyrupliciaque remunerabimus: siquam Jupiter </l><anchor xml:id="l2128"/>
+
+                <l>Dabit urbem Troiam benemuratam debellare. </l>
+            </lg>
+            <lg n="14" ana="#p14a">
+
+                <anchor xml:id="l2129" corresp="l1182"/><l>Huic autem respondens interfatus est Rex Agamemnon. </l><anchor xml:id="l2130" corresp="l1183 l1184"/>
+
+                <l>Neque sic fortis, quanvis existens Deosimilis Achilles </l><anchor xml:id="l2131" corresp="l1185"/>
+
+                <l>Tege mente, quoniam non praeteribis, neque mihi persuadebis. </l><anchor xml:id="l2132" corresp="l1186 l1187"/>
+
+                <l>Nunquid vis ut ipse habeas praemium, sed me invanum </l><anchor xml:id="l2133" corresp="l1189"/>
+
+                <l>Sedere indigentem ? jubes autem me hanc reddere ? </l><anchor xml:id="l2134" corresp="l1190"/>
+
+                <l>Sed siquidem dabunt praemium magnanimi Achivi </l><anchor xml:id="l2135" corresp="l1191"/>
+
+                <l>Componentes secundum animum, ut aequale sit. </l><anchor xml:id="l2136" corresp="l1193 l1194"/>
+
+                <l>Si autem non dabunt; ego certe ipse accipiam </l><anchor xml:id="l2137" corresp="l1195"/>
+
+                <l>Vel tuum, vel Ajacis veniens, praemium, vel Ulyssis </l><anchor xml:id="l2138" corresp="l1196"/>
+
+                <l>Abducam accipiens; ille autem irascetur ad quem ibo. </l><anchor xml:id="l2139" corresp="l1197 l1198"/>
+
+                <l>Sed certe quidem haec post consultabimus et rursus. </l><anchor xml:id="l2140" corresp="l1199"/>
+
+                <l>Nunc autem age navem nigram trahamus in mare divum. </l><anchor xml:id="l2141" corresp="l1200"/>
+
+                <l>Intus aut remiges idoneos congregemus, intus aut hecatombem </l><anchor xml:id="l2142" corresp="l1201"/>
+
+                <l>Ponamus, ipsam vero Chryseida pulchram genas </l><anchor xml:id="l2143" corresp="l1202"/>
+
+                <l>Ascendere faciamus. unus autem aliquis princeps vir consultor sit </l><anchor xml:id="l2144" corresp="l1203"/>
+
+                <l>Vel Ajax, vel Idomeneus, vel divus Ulysses: </l><anchor xml:id="l2145" corresp="l1204"/>
+
+                <l>Vel tu Pelide omnium splendidissime virorum, </l><anchor xml:id="l2146" corresp="l1205"/>
+
+                <l>Ut nobis longejaculantem places sacra faciens. </l>
+            </lg>
+            <lg n="15" ana="#p15a">
+
+                <anchor xml:id="l2147" corresp="l1206 l1207"/><l>Hunc autem torveintuens allocutus est pedes velox Achilles. </l><anchor xml:id="l2148" corresp="l1208"/>
+
+                <l>Heu impudentia indute, astute; </l><anchor xml:id="l2149" corresp="l1210"/>
+
+                <l>Quando aliquis tibi promptus verbis obediet Achivorum; </l><anchor xml:id="l2150" corresp="l1211"/>
+
+                <l>Vel viam ire, vel adversus viros fortiter pugnare? </l><anchor xml:id="l2151" corresp="l1212 l1213"/>
+
+                <l>Non enim ego troianorum gratia veni bellicosorum </l><anchor xml:id="l2152" corresp="l1214"/>
+
+                <l>Huc pugnaturus: quia nullae mihi causae sunt. </l><anchor xml:id="l2153" corresp="l1215 l1216"/>
+
+                <l>Non enim unquam meas boves abegerunt, neque equos: </l><anchor xml:id="l2154" corresp="l1217"/>
+
+                <l>Neque unquam in Phthia fertili populosa </l><anchor xml:id="l2155" corresp="l1218"/>
+
+                <l>Fructum laeserunt: quoniam valde multi </l><anchor xml:id="l2156" corresp="l1219"/>
+
+                <l>Montes umbrosique intermedii sunt, mareque resonans. </l><anchor xml:id="l2157" corresp="l1220 l1221"/>
+
+                <l>Sed te ô valde impudens consequimur, ut tu gaudeas </l><anchor xml:id="l2158" corresp="l1222 l1223"/>
+
+                <l>Poenam sumentes Menelao tibique canino vir aspectu </l><anchor xml:id="l2159" corresp="l1224"/>
+
+                <l>A Troianis: quos neque advertis neque curas: </l><anchor xml:id="l2160" corresp="l1225"/>
+
+                <l>Et jam mihi praemium ipse auferre minaris. </l><anchor xml:id="l2161" corresp="l1227 l1228"/>
+
+                <l>Super quo multum laboravi. dederunt autem mihi filii Achivorum. </l><anchor xml:id="l2162" corresp="l1229"/>
+
+                <l>Non equidem tibi unquam aequale habeo praemium, quum Achivi </l><anchor xml:id="l2163" corresp="l1230"/>
+
+                <l>Troianorum destruent benehabitatam urbem. </l><anchor xml:id="l2164" corresp="l1231 l1232"/>
+
+                <l>Sed quidem plus impetuosi belli </l><anchor xml:id="l2165" corresp="l1233"/>
+
+                <l>Manus meae gubernant. sed si quando divisio venerit, </l><anchor xml:id="l2166" corresp="l1234"/>
+
+                <l>Tibi praemium multo maius. ego autem parvumque dilectumque </l><anchor xml:id="l2167" corresp="l1235"/>
+
+                <l>Venio habens ad naves postquam laboravi bellans. </l><anchor xml:id="l2168" corresp="l1237 l1238"/>
+
+                <l>Nunc autem vado Phthiam, quoniam multo melius est </l><anchor xml:id="l2169" corresp="l1239"/>
+
+                <l>Domum ire cum navibus rostratis: neque te puto </l><anchor xml:id="l2170" corresp="l1241"/>
+
+                <l>Hic inhonoratus existens divitias et opes exhausturum. </l>
+            </lg>
+            <lg n="16" ana="#p16a">
+
+                <anchor xml:id="l2171" corresp="l1242"/><l>Huic autem respondit postea Rex virorum Agamemnon. </l><anchor xml:id="l2172" corresp="l1243 l1244"/>
+
+                <l>Fuge valde, si tibi animus turbatur: neque te ego </l><anchor xml:id="l2173" corresp="l1245"/>
+
+                <l>Rogo gratia mei manere. apud me et alii, </l><anchor xml:id="l2174" corresp="l1246 l1247"/>
+
+                <l>Qui me honorabunt: maxime autem prudens Jupiter. </l><anchor xml:id="l2175" corresp="l1248"/>
+
+                <l>Inimicissimus autem mihi es a Jove nutritorum regum. </l><anchor xml:id="l2176" corresp="l1249"/>
+
+                <l>Semper enim tibi contentioque amica, bellaque, pugnaeque. </l><anchor xml:id="l2177" corresp="l1250"/>
+
+                <l>Si valde fortis es: Deus certe tibi hoc dedit. </l><anchor xml:id="l2178" corresp="l1251 l1252"/>
+
+                <l>Domum vero iens cum navibusque tuis, et tuis sociis, </l><anchor xml:id="l2179" corresp="l1253"/>
+
+                <l>Myrmidonibus impera. te autem ego non curo: </l><anchor xml:id="l2180" corresp="l1255 l1256"/>
+
+                <l>Neque adverto irascentem. minabor autem tibi sic. </l>
+
+                <l>Quoniam a me aufert Chryseida Phoebus Apollo; </l><anchor xml:id="l2182" corresp="l1257 l1258"/>
+
+                <l>Hanc quidem ego cum navique mea et meis sociis </l><anchor xml:id="l2183" corresp="l1259"/>
+
+                <l>Mittam: ego autem duco Briseida pulchram genas </l><anchor xml:id="l2184" corresp="l1260"/>
+
+                <l>Ipse veniens ad tentorium, tuum praemium, ut bene scias </l><anchor xml:id="l2185" corresp="l1262"/>
+
+                <l>Quanto melior sim te: timeat autem et alius </l><anchor xml:id="l2186" corresp="l1263"/>
+
+                <l>Aequalem se mihi dicere et assimilari contra. </l>
+            </lg>
+            <lg n="17" ana="#p17a">
+
+                <anchor xml:id="l2187" corresp="l1264 l1265"/><l>Sic dixit. Pelidae autem dolor factus est: intus autem sibi cor </l><anchor xml:id="l2188" corresp="l1266"/>
+
+                <l>In pectoribus hirsutis bifariam cogitavit: </l><anchor xml:id="l2189" corresp="l1267"/>
+
+                <l>An ipsemet ensem acutum extrahens a femore: </l><anchor xml:id="l2190" corresp="l1268"/>
+
+                <l>Hos quidem fugaret: ipse autem Atridem interficeret. </l><anchor xml:id="l2191" corresp="l1269"/>
+
+                <l>An iram sedaret, compesceretque furorem. </l><anchor xml:id="l2192" corresp="l1270"/>
+
+                <l>Donec hic haec agitaret per mentem et per animum; </l><anchor xml:id="l2193" corresp="l1271"/>
+
+                <l>Traxit autem ex vagina magnum ensem. venit autem Pallas </l>
+            </lg>
+            <lg n="18" ana="#p18a">
+
+                <anchor xml:id="l2194" corresp="l1272"/><l>Coelitus. praemiserat enim Dea albaulnas Juno, </l><anchor xml:id="l2195" corresp="l1273"/>
+
+                <l>Ambos simul animo amansque curansque. </l><anchor xml:id="l2196" corresp="l1274"/>
+
+                <l>Stetit autem retro: per flavam autem comam apprehendit Pelidem </l><anchor xml:id="l2197" corresp="l1275"/>
+
+                <l>Soli apparens. aliorum autem nullus videbat. </l><anchor xml:id="l2198" corresp="l1276 l1277"/>
+
+                <l>Expavit autem Achilles. retro autem conversus, statim cognovit </l><anchor xml:id="l2199" corresp="l1278"/>
+
+                <l>Palladem Atheniensem: terribiles autem ei oculi lucebant. </l><anchor xml:id="l2200" corresp="l1279"/>
+
+                <l>Et ipsam vocans verba alata allocutus est. </l><anchor xml:id="l2201" corresp="l1280"/>
+
+                <l>Cur huc Aegiochi Jovis progenies venisti? </l><anchor xml:id="l2202" corresp="l1281"/>
+
+                <l>An ut injuriam noscas Agamemnonis Atridae? </l><anchor xml:id="l2203" corresp="l1282"/>
+
+                <l>Sed tibi edico hoc autem et perficiendum puto. </l><anchor xml:id="l2204" corresp="l1283"/>
+
+                <l>Suis superbiis cito tandem animum perdet. </l>
+            </lg>
+            <lg n="19" ana="#p19a">
+
+                <anchor xml:id="l2205" corresp="l1284"/><l>Hunc autem rursus allocuta est Dea caesiosoculostishabens Minerva </l><anchor xml:id="l2206" corresp="l1285 l1286"/>
+
+                <l>Veni ego sedatura tuam iram si mon persuadearis </l><anchor xml:id="l2207" corresp="l1287"/>
+
+                <l>Coelitus. premisit autem me Dea albaulnas Juno </l><anchor xml:id="l2208" corresp="l1288"/>
+
+                <l>Ambos simul animo diligensque curansque. </l><anchor xml:id="l2209" corresp="l1289"/>
+
+                <l>Sed age quiesce a contentione, neque ensem trahe manu. </l><anchor xml:id="l2210" corresp="l1290"/>
+
+                <l>Sed certe verbis quidem injuria affice, sicut erit. </l><anchor xml:id="l2211" corresp="l1292"/>
+
+                <l>Sic enim edico hoc et perfectum erit. </l><anchor xml:id="l2212" corresp="l1293"/>
+
+                <l>Et aliquando tibi ter tot aderunt splendida dona </l><anchor xml:id="l2213" corresp="l1294 l1295 l1296"/>
+
+                <l>Injurie causa huius. tu autem cohibere, obtempera autem nobis. </l>
+
+            </lg>
+            <lg n="20" ana="#p20a">
+
+                <anchor xml:id="l2214" corresp="l1297"/><l>Huic autem respondens allocutus est pedes velox Achilles. </l><anchor xml:id="l2215" corresp="l1299"/>
+
+                <l>Oportet quidem vestrum Dea verbum custodire, </l><anchor xml:id="l2216" corresp="l1300"/>
+
+                <l>Etiam valde animo iratum. sic enim melius. </l><anchor xml:id="l2217" corresp="l1302"/>
+
+                <l>Quisquis utique Diis obtemperaverit, magis exaudiunt ipsum. </l><anchor xml:id="l2218" corresp="l1303"/>
+
+                <l>Dixit, et in argenteo manubrio tenebat manum gravem. </l><anchor xml:id="l2219" corresp="l1304 l1305"/>
+
+                <l>Retro autem in vaginam impulit magnum ensem: neque non obedivit </l><anchor xml:id="l2220" corresp="l1306"/>
+
+                <l>Verbo Minervae. haec autem coelum ascendit </l><anchor xml:id="l2221" corresp="l1307"/>
+
+                <l>In domos Aegiochi Jovis ad daemonas alios. </l><anchor xml:id="l2222" corresp="l1308"/>
+
+                <l>Pelides autem iterum contumeliosis verbis </l><anchor xml:id="l2223" corresp="l1309"/>
+
+                <l>Atridem allocutus est; et nondum cessabat ab ira. </l>
+
+            </lg>
+            <lg n="21" ana="#p21a">
+
+                <anchor xml:id="l2224" corresp="l1310"/><l>Vino gravis, canis oculos habens, cor vero cervi. </l><anchor xml:id="l2225" corresp="l1312"/>
+
+                <l>Neque unquam in bellum una cum populo armari, </l><anchor xml:id="l2226" corresp="l1313"/>
+
+                <l>Neque ad insidias ire cum optimatibus Achivorum </l><anchor xml:id="l2227" corresp="l1314"/>
+
+                <l>Ausus es animo: hoc autem tibi mors videtur esse. </l><anchor xml:id="l2228" corresp="l1316"/>
+
+                <l>Certe multo melius est per exercitum latum Achivorum </l><anchor xml:id="l2229" corresp="l1317"/>
+
+                <l>Dona auferre quicunque tibi contrarium dixerit: </l><anchor xml:id="l2230" corresp="l1318"/>
+
+                <l>Populivorator Rex, quoniam vilibus imperas. </l><anchor xml:id="l2231" corresp="l1319"/>
+
+                <l>Certe enim Atride nunc postremum damnum intulisses. </l><anchor xml:id="l2232" corresp="l1320"/>
+
+                <l>Sed tibi edico, et super magnum juramentum juro. </l><anchor xml:id="l2233" corresp="l1321"/>
+
+                <l>Certe per hoc sceptrum, quod quidem nunquam folia et ramos </l><anchor xml:id="l2234" corresp="l1322"/>
+
+                <l>Producet, postquam primum incisionem in montibus reliquit, </l><anchor xml:id="l2235" corresp="l1323"/>
+
+                <l>Neque pullabit: circum enim gladius decorticavit </l><anchor xml:id="l2236" corresp="l1324"/>
+
+                <l>Foliaque et corticem: nunc iterum ipsum filii Achivorum </l><anchor xml:id="l2237" corresp="l1325"/>
+
+                <l>In manibus portant judices quique leges </l><anchor xml:id="l2238" corresp="l1326"/>
+
+                <l>A Jove hauserunt. hoc autem tibi erit juramentum. </l><anchor xml:id="l2239" corresp="l1328 l1329"/>
+
+                <l>Certe aliquum Achillis desyderium habebit filios Achivorum </l><anchor xml:id="l2240" corresp="l1330"/>
+
+                <l>Universos. his autem non poteris contristatus quanvis </l><anchor xml:id="l2241" corresp="l1331"/>
+
+                <l>Prodesse, quando multi ab Hectore homicida </l><anchor xml:id="l2242" corresp="l1332"/>
+
+                <l>Morientes cadent: tu autem intus animum lacerabis, </l><anchor xml:id="l2243" corresp="l1333"/>
+
+                <l>Iratus, quando optimum Achivorum non honorasti. </l><anchor xml:id="l2244" corresp="l1334"/>
+
+                <l>Sic dixit Pelides. sceptrum autem projecit in terram </l><anchor xml:id="l2245" corresp="l1335"/>
+
+                <l>Aureis clavis transfixum. consedit autem ipse. </l><anchor xml:id="l2246" corresp="l1336"/>
+
+                <l>Atrides vero ex alia parte irascebatur. </l>
+
+            </lg>
+            <lg n="22" ana="#p22a">
+
+                <anchor xml:id="l2247" corresp="l1338 l1339"/><l>his autem Nestor </l>
+
+                <l>Suaviloquus surrexit suavis Pyliorum concionator: </l><anchor xml:id="l2249" corresp="l1340 l1341"/>
+
+                <l>Cujus et a lingua melle dulcior fluebat sermo. </l><anchor xml:id="l2250" corresp="l1342"/>
+
+                <l>Huic jam duae quidem aetates mortalium hominum </l><anchor xml:id="l2251" corresp="l1343"/>
+
+                <l>Defecerant, quam cum ipso antea simul nutriti sunt, et geniti sunt </l><anchor xml:id="l2252" corresp="l1344"/>
+
+                <l>In Pylo divina: cum autem tertiis regnabat. </l><anchor xml:id="l2253" corresp="l1345"/>
+
+                <l>Hic illis benesentiens concionatus est, et dixit. </l>
+
+            </lg>
+            <lg n="23" ana="#p23a">
+
+                <anchor xml:id="l2254" corresp="l1346"/><l>O heu, certe magnus luctus Achivam terram invadit. </l><anchor xml:id="l2255" corresp="l1347"/>
+
+                <l>Certe laetabitur Priamus, Priamique filii, </l><anchor xml:id="l2256" corresp="l1349"/>
+
+                <l>Aliique Troiani valde gaudebunt animos </l><anchor xml:id="l2257" corresp="l1350"/>
+
+                <l>Si vos haec omnia audient decertatos: </l><anchor xml:id="l2258" corresp="l1351"/>
+
+                <l>Qui quidem consilio Danais antecellitis et pugnandi peritia. </l><anchor xml:id="l2259" corresp="l1352"/>
+
+                <l>Sed persuadeamni: ambo autem juniores estis me. </l><anchor xml:id="l2260" corresp="l1353"/>
+
+                <l>Jam enim aliquando ego et cum melioribus quam vos </l><anchor xml:id="l2261" corresp="l1354"/>
+
+                <l>Cum viris conversatus sum: et nunquam me ipsi parvi penderunt. </l><anchor xml:id="l2262" corresp="l1355"/>
+
+                <l>Non enim unquam tales vidi viros, neque videbo; </l><anchor xml:id="l2263" corresp="l1356"/>
+
+                <l>Qualem Pirithoumque, Dryanque gubernatorem populorum. </l><anchor xml:id="l2264" corresp="l1357 l1358"/>
+
+                <l>Caeneaque, Exadiumque, et aequalem Deo Polyphemum, </l><anchor xml:id="l2265" corresp="l1359"/>
+
+                <l>Theseumque Aegiden similem immortalibus. </l><anchor xml:id="l2266" corresp="l1360"/>
+
+                <l>Fortissimi jam illi terrestrium, qui nutriti sunt virorum. </l><anchor xml:id="l2267" corresp="l1361"/>
+
+                <l>Fortissimi quidem erant, et cum fortissimis pugnabant </l><anchor xml:id="l2268" corresp="l1362"/>
+
+                <l>Gigantibus monticolis, et gloriose interfecerunt. </l><anchor xml:id="l2269" corresp="l1364"/>
+
+                <l>Et quidem cum his conversabar ex Pylo veniens </l><anchor xml:id="l2270" corresp="l1365"/>
+
+                <l>Procul ex Apia terra. vocabant enim ipsi </l><anchor xml:id="l2271" corresp="l1366"/>
+
+                <l>Et pugnabam per me ipsum ego. cum illis autem nullus </l><anchor xml:id="l2272" corresp="l1367"/>
+
+                <l>Eorum qui nunc homines sunt terrestres pugnaret. </l><anchor xml:id="l2273" corresp="l1369 l1370"/>
+
+                <l>Et quidem mea consilia audiebant, obediebantque verbo. </l><anchor xml:id="l2274" corresp="l1371"/>
+
+                <l>Sed obedite et vos, quia obedire melius. </l><anchor xml:id="l2275" corresp="l1374"/>
+
+                <l>Neque tu ab isto fortis quanvis sis auferas puellam. </l><anchor xml:id="l2276" corresp="l1375"/>
+
+                <l>Sed concede sicut ei primum dederunt praemium filii Achivorum. </l><anchor xml:id="l2277" corresp="l1376"/>
+
+                <l>Neque tu Pelide velis contendere regem </l><anchor xml:id="l2278" corresp="l1378"/>
+
+                <l>Contra: quia nunquam similem sortitus est honorem </l><anchor xml:id="l2279" corresp="l1379"/>
+
+                <l>Sceptriger Rex; cuique Jupiter gloriam dedit. </l><anchor xml:id="l2280" corresp="l1380 l1381"/>
+
+                <l>Si autem tu fortior es: Dea te generavit mater. </l><anchor xml:id="l2281" corresp="l1382"/>
+
+                <l>Tamen hic potentior est; quia pluribus imperat. </l><anchor xml:id="l2282" corresp="l1383"/>
+
+                <l>Atride tu autem compesce tuam vim. sed ego </l><anchor xml:id="l2283" corresp="l1384"/>
+
+                <l>Precor Achillem deponere iram: qui magnum omnibus </l><anchor xml:id="l2284" corresp="l1385"/>
+
+                <l>Propugnaculum Achivis est belli mali. </l>
+
+            </lg>
+            <lg n="24" ana="#p24a">
+
+                <anchor xml:id="l2285" corresp="l1386"/><l>Hunc autem respondens allocutus est Rex Agamemnon. </l><anchor xml:id="l2286" corresp="l1387"/>
+
+                <l>Ita sane haec omnia senex secundum decens dixisti. </l><anchor xml:id="l2287" corresp="l1388"/>
+
+                <l>Sed hic autem vir vult supra omnes esse alios. </l><anchor xml:id="l2288" corresp="l1389 l1390"/>
+
+                <l>Omnes quidem vincere vult: omnibus et dominari: </l><anchor xml:id="l2289" corresp="l1391"/>
+
+                <l>Omnibus et praecipere quae non persuasurum puto. </l><anchor xml:id="l2290" corresp="l1392"/>
+
+                <l>Si autem ipsum bellicosum fecerunt Dii semper existentes: </l><anchor xml:id="l2291" corresp="l1393"/>
+
+                <l>Propterea ipsi permittunt contumelias loqui? </l>
+
+            </lg>
+            <lg n="25" ana="#p25a">
+
+                <anchor xml:id="l2292" corresp="l1394"/><l>Huic autem interpellato sermone respondit divus Achilles: </l><anchor xml:id="l2293" corresp="l1395"/>
+
+                <l>Certe timidusque et vilis vocari possem, </l><anchor xml:id="l2294" corresp="l1396"/>
+
+                <l>Si jam tibi per omne opus subjiciar quod dicis. </l><anchor xml:id="l2295" corresp="l1397"/>
+
+                <l>Alysiam haec jube, non enim mihi </l><anchor xml:id="l2296" corresp="l1398"/>
+
+                <l>Praecipe. non enim me tibi obtemperaturum puto. </l><anchor xml:id="l2297" corresp="l1399"/>
+
+                <l>Aliud autem tibi dico: tu autem in mentibus mitte tuis: </l><anchor xml:id="l2298" corresp="l1400 l1401"/>
+
+                <l>Manibus quidem non ego pugnabo gratia puellae, </l><anchor xml:id="l2299" corresp="l1402"/>
+
+                <l>Neque tecum, neque cum alio: quoniam a me aufertis dantes. </l><anchor xml:id="l2300" corresp="l1403 l1404"/>
+
+                <l>Aliarum autem rerum quae mihi sunt velocem apud navem nigram; </l><anchor xml:id="l2301" corresp="l1405"/>
+
+                <l>Harum nihil utique auferes accipiens invito me. </l><anchor xml:id="l2302" corresp="l1406"/>
+
+                <l>Sin autem, age, fac periculum, ut cognoscant et hi. </l><anchor xml:id="l2303" corresp="l1407"/>
+
+                <l>Statim tibi sanguis niger fluet per lanceam. </l>
+
+            </lg>
+            <lg n="26" ana="#p26a">
+
+                <anchor xml:id="l2304" corresp="l1408"/><l>Sic hi contrariis contendentes verbis </l><anchor xml:id="l2305" corresp="l1409"/>
+
+                <l>Surrexerunt: solverunt autem concionem apud naves Achivorum. </l><anchor xml:id="l2306" corresp="l1410"/>
+
+                <l>Pelides quidem ad tentoria et naves equales </l><anchor xml:id="l2307" corresp="l1411"/>
+
+                <l>Ivit cunque Menoetiade et propriis sociis. </l><anchor xml:id="l2308" corresp="l1412"/>
+
+                <l>Atrides autem navem velocem in mare protraxit. </l><anchor xml:id="l2309" corresp="l1413 l1414"/>
+
+                <l>Intus autem remiges elegit viginti: intus autem hecatombem </l><anchor xml:id="l2310" corresp="l1415"/>
+
+                <l>Imposuit Deo. supra vero Chryseidem pulchrigenam </l><anchor xml:id="l2311" corresp="l1416 l1417"/>
+
+                <l>Sedere fecit ducens: in ea aut princeps ascendit multiconsilii Ulysses </l><anchor xml:id="l2312" corresp="l1418 l1419"/>
+
+                <l>Qui quidem quum ascendissent innavigabant per humidas vias. </l>
+
+            </lg>
+            <lg n="27" ana="#p27a">
+
+                <anchor xml:id="l2313" corresp="l1420"/><l>Populos autem Atrides purgari jussit: </l><anchor xml:id="l2314" corresp="l1421"/>
+
+                <l>Qui purgati sunt, et in mare sordes jecerunt. </l><anchor xml:id="l2315" corresp="l1422 l1423"/>
+
+                <l>Sacrificabat autem Apollini perfectas hecatombas </l>
+
+                <l>Taurorum et caprarum juxta littus maris infructuosi. </l><anchor xml:id="l2317" corresp="l1424"/>
+
+                <l>Nidor autem ad coelum ibat involutus circa fumum. </l><anchor xml:id="l2318" corresp="l1425 l1426"/>
+
+                <l>Sic hi quidem haec operabant per exercitum: </l>
+
+            </lg>
+            <lg n="28" ana="#p28a">
+
+                <l>neque Agamemenon </l><anchor xml:id="l2320"/>
+
+                <l>Cessabat a rixa quam primum minatus est Achilli. </l><anchor xml:id="l2321" corresp="l1427"/>
+
+                <l>Sed hic Talthybiumque, et Eurybatem affatus est. </l><anchor xml:id="l2322" corresp="l1428"/>
+
+                <l>(Hi ipsi erant praecones et fortes ministri.) </l><anchor xml:id="l2323" corresp="l1429"/>
+
+                <l>Abite ad tentorium Pelidae Achillis, </l><anchor xml:id="l2324" corresp="l1430 l1431"/>
+
+                <l>Manu accipientes ducite Bryseida pulchrigenam. </l>
+
+                <l>Si autem non dabit: ego ipse auferam </l><anchor xml:id="l2326" corresp="l1432 l1433"/>
+
+                <l>Veniens cum pluribus: quod illi et horribilius erit. </l><anchor xml:id="l2327" corresp="l1434"/>
+
+                <l>Sic dicens praemisit, forte et verbum jussit. </l><anchor xml:id="l2328" corresp="l1435"/>
+
+                <l>Hi inviti iverunt juxta littus maris infructuosi: </l><anchor xml:id="l2329" corresp="l1436 l1437"/>
+
+                <l>Myrmidonum vero ad tentoriaque et naves pervenerunt. </l><anchor xml:id="l2330" corresp="l1438"/>
+
+                <l>Hunc autem invenerunt apudque tentorium et navem nigra </l><anchor xml:id="l2331" corresp="l1439"/>
+
+                <l>Sedentem: neque sane hos intuitus laetatus est Achilles. </l><anchor xml:id="l2332" corresp="l1440"/>
+
+                <l>Hi quidem timentes et reveriti Regem </l><anchor xml:id="l2333" corresp="l1441"/>
+
+                <l>Steterunt: ne quaquam vero ipsum alloquebantur, neque interrogabant. </l><anchor xml:id="l2334" corresp="l1442"/>
+
+                <l>Sed hic cognovit suis in mentibus, vocavitque. </l>
+
+            </lg>
+            <lg n="29" ana="#p29a">
+
+                <anchor xml:id="l2335" corresp="l1443 l1444"/><l>Avete praecones Jovis nuncii atque etiam virorum: </l><anchor xml:id="l2336" corresp="l1445 l1446"/>
+
+                <l>Propius accedite; nihil mihi vos culpabiles, sed Agamemnonis </l><anchor xml:id="l2337" corresp="l1447"/>
+
+                <l>Qui vos premisit Bryseidis causa puellae. </l><anchor xml:id="l2338" corresp="l1448"/>
+
+                <l>Sed age generose Patrocle educ puellam: </l><anchor xml:id="l2339" corresp="l1449"/>
+
+                <l>Et ipsis da ut ducunt. vos ipsi autem testes estote </l><anchor xml:id="l2340" corresp="l1450 l1451"/>
+
+                <l>Coram Diis beatis, coramque mortalibus hominibus; </l><anchor xml:id="l2341" corresp="l1452"/>
+
+                <l>Et coram rege crudeli, si unquam posthac </l><anchor xml:id="l2342" corresp="l1453"/>
+
+                <l>Indigentia mei fuerit indecentem pestem removere </l><anchor xml:id="l2343" corresp="l1454"/>
+
+                <l>Aliis. certe enim hic pernitiosis consiliis insanit. </l><anchor xml:id="l2344" corresp="l1455 l1456"/>
+
+                <l>Neque quicquam novit intelligere simul ante et retro: </l><anchor xml:id="l2345" corresp="l1457"/>
+
+                <l>Quomodo sibi apud naves salvi pugnare queant Achivi. </l>
+
+            </lg>
+            <lg n="30" ana="#p30a">
+
+                <anchor xml:id="l2346" corresp="l1458"/><l>Sic dixit. Patroclus autem dilecto obedivit socio. </l><anchor xml:id="l2347" corresp="l1460"/>
+
+                <l>Eduxit autem ex tentorio Bryseida pulchrigenam: </l><anchor xml:id="l2348" corresp="l1463"/>
+
+                <l>Dedit autem ducere. hi aut retro iverunt ad naves Achivorum. </l><anchor xml:id="l2349" corresp="l1464 l1465"/>
+
+                <l>illa vero invita una cum his mulier ibat. sed Achilles </l>
+
+                <l>Lachrymans seorsum a sociis statim sedit separatus, </l><anchor xml:id="l2351" corresp="l1466"/>
+
+                <l>Littus maris cani respiciens in nigrum pontum. </l><anchor xml:id="l2352" corresp="l1467"/>
+
+                <l>Multa autem Matri dilectae precabatur manus porrigent. </l>
+
+            </lg>
+            <lg n="31" ana="#p31a">
+
+                <anchor xml:id="l2353" corresp="l1468"/><l>Mater postquam me peperisti brevis temporis existentem, </l><anchor xml:id="l2354" corresp="l1470"/>
+
+                <l>Honorem mihi debebat Olympius tradere </l><anchor xml:id="l2355" corresp="l1471"/>
+
+                <l>Jupiter altitonans: nunc autem neque me paululum honoravit. </l><anchor xml:id="l2356" corresp="l1472"/>
+
+                <l>Certe enim me Atrides latedominans Agamemnon </l><anchor xml:id="l2357" corresp="l1473"/>
+
+                <l>inhonoravit: capiens enim habet praemium ipse auferens. </l>
+
+            </lg>
+            <lg n="32" ana="#p32a">
+
+                <anchor xml:id="l2358" corresp="l1474"/><l>Sic dixit lachrymans. hunc autem exaudivit veneranda mater </l><anchor xml:id="l2359" corresp="l1475"/>
+
+                <l>Sedens in profunditatibus maris apud patrem senem. </l><anchor xml:id="l2360" corresp="l1477"/>
+
+                <l>Statim autem prodiit ex cano mari, velut nebulat </l><anchor xml:id="l2361" corresp="l1478"/>
+
+                <l>Et ante ipsum sedit lachrymantem: </l><anchor xml:id="l2362" corresp="l1479"/>
+
+                <l>Manuque ipsum demulsit, verbumque dixit, et denoiavit. </l><anchor xml:id="l2363" corresp="l1480"/>
+
+                <l>Fili quid fles? quis vero tibi mentem invadit moeror? </l><anchor xml:id="l2364" corresp="l1481"/>
+
+                <l>Dic: ne tege animo, ut sciamus ambo. </l>
+
+            </lg>
+            <lg n="33" ana="#p33a">
+
+                <anchor xml:id="l2365" corresp="l1482 l1483"/><l>Hanc autem graviter suspirans allocutus est pedes velox Achilles: </l><anchor xml:id="l2366" corresp="l1484"/>
+
+                <l>Nosti cur tibi haec scienti omnia dicam. </l><anchor xml:id="l2367" corresp="l1485"/>
+
+                <l>Ivimus in Thebem sacram civitatem Eetionis: </l><anchor xml:id="l2368" corresp="l1486 l1487"/>
+
+                <l>Hanc depopulatique sumus, et portavimus huc omnia. </l><anchor xml:id="l2369" corresp="l1488"/>
+
+                <l>Et haec quidem bene diviserunt inter se filii Achivorum. </l><anchor xml:id="l2370" corresp="l1489"/>
+
+                <l>Elegerunt autem Atridae Kryseida pulchrigenam. </l><anchor xml:id="l2371" corresp="l1490"/>
+
+                <l>Chryses autem postea sacerdos longejacientis Apollinis </l><anchor xml:id="l2372" corresp="l1491"/>
+
+                <l>Venit ad veloces naves Achivorum ferrovestitorum, </l><anchor xml:id="l2373" corresp="l1492"/>
+
+                <l>Liberaturusque filiam, ferensque infinita dona, </l><anchor xml:id="l2374" corresp="l1493"/>
+
+                <l>Coronamque habens in manibus longejacientis Apollinis </l><anchor xml:id="l2375" corresp="l1495"/>
+
+                <l>Aureo cum sceptro, et deprecabatur omnes Achivos </l><anchor xml:id="l2376" corresp="l1496"/>
+
+                <l>Atridas autem maxime duos principes populorum. </l><anchor xml:id="l2377" corresp="l1497 l1498"/>
+
+                <l>Tunc alii quidem omnes laudaverunt Achivi, </l><anchor xml:id="l2378" corresp="l1499"/>
+
+                <l>Venerandum esse sacerdotem, et splendida accipienda esse dona. </l><anchor xml:id="l2379" corresp="l1500"/>
+
+                <l>Sed non Atridae Agamemnoni placuit animo: </l><anchor xml:id="l2380" corresp="l1501"/>
+
+                <l>Sed male dimisit: forte et verbum mandavit. </l><anchor xml:id="l2381" corresp="l1502 l1503"/>
+
+                <l>Iratus autem senex retro abivit. hunc autem Apollo </l><anchor xml:id="l2382" corresp="l1504"/>
+
+                <l>Precantem exaudivit, quoniam valde sibi amicus erat. </l><anchor xml:id="l2383" corresp="l1505"/>
+
+                <l>Misit autem in Argivos malam sagittam: hi autem populi </l><anchor xml:id="l2384" corresp="l1506"/>
+
+                <l>Moriebantur frequentes: ibant autem spicula dei </l><anchor xml:id="l2385" corresp="l1507"/>
+
+                <l>Quoquo versus per exercitum latum Achivorum. nobis autem vates </l><anchor xml:id="l2386" corresp="l1508"/>
+
+                <l>Bene sciens concionabatur vaticinationes longejacientis. </l><anchor xml:id="l2387" corresp="l1510"/>
+
+                <l>Statim ego primus jussi Deum placari. </l><anchor xml:id="l2388" corresp="l1511 l1512"/>
+
+                <l>Atridem autem postea ira cepit. Statim autem exurgens </l><anchor xml:id="l2389" corresp="l1513"/>
+
+                <l>Minatus est verbum, quod jam perfectum est. </l><anchor xml:id="l2390" corresp="l1514 l1515"/>
+
+                <l>Hanc quidem enim cum navi veloci nigrioculos Achivi </l>
+
+                <l>Ad Chrysem mittunt: ducunt autem dona regi. </l><anchor xml:id="l2392" corresp="l1516"/>
+
+                <l>Hanc autem nuper ex tentorio iverunt praecones ducentes </l><anchor xml:id="l2393" corresp="l1517"/>
+
+                <l>Puellam Brisei: quam mihi dederant filii Achivorum. </l><anchor xml:id="l2394" corresp="l1518"/>
+
+                <l>Sed tu, si potes, auxiliare filio tuo </l><anchor xml:id="l2395" corresp="l1519 l1520"/>
+
+                <l>Vadens ad coelum. Jovem precare, si unquam aliquid </l><anchor xml:id="l2396" corresp="l1521"/>
+
+                <l>Vel verbo iuvisti cor Jovis vel etiam opere. </l><anchor xml:id="l2397" corresp="l1522 l1523"/>
+
+                <l>Saepe enim te patris in aedibus audivi </l>
+
+                <l>Gloriantem, quod dicebas facienti nigras nubes Saturnio. </l><anchor xml:id="l2399" corresp="l1524 l1525"/>
+
+                <l>Sola inter immortales indecentem cladem expulisse: </l><anchor xml:id="l2400" corresp="l1526 l1527"/>
+
+                <l>Quoniam ipsum colligare coelestes volverunt alii </l>
+
+                <l>Juno et Neptunus et Pallas Minerva. </l><anchor xml:id="l2402" corresp="l1529"/>
+
+                <l>Sed tu hunc profecta dea liberasti a vinculis. </l><anchor xml:id="l2403" corresp="l1530"/>
+
+                <l>Statim Centimanum vocans in altum Olympum: </l><anchor xml:id="l2404" corresp="l1531"/>
+
+                <l>Quem Briareum vocant Dii: viri autem omnes </l><anchor xml:id="l2405" corresp="l1532"/>
+
+                <l>Aegeonem. hic enim rursus potentia proprio patre melior. </l><anchor xml:id="l2406" corresp="l1533"/>
+
+                <l>Qui apud Saturnium sedebat superbia tumens. </l><anchor xml:id="l2407" corresp="l1534"/>
+
+                <l>Hunc et timuerunt immortales Dii, neque ligaverunt. </l><anchor xml:id="l2408" corresp="l1535 l1536 l1537"/>
+
+                <l>His nunc illi in memoriam revocatis asside et accipe genuas </l><anchor xml:id="l2409" corresp="l1538"/>
+
+                <l>Si aliquo modo velit Troanis auxiliari. </l><anchor xml:id="l2410" corresp="l1539 l1540"/>
+
+                <l>Hos autem usque ad puppesque et circa mare expellere Achivos </l><anchor xml:id="l2411" corresp="l1541"/>
+
+                <l>Occisos, ut omnes fruantur rege. </l><anchor xml:id="l2412" corresp="l1542"/>
+
+                <l>Noscat autem et Atrides latedominans Agamemnon </l><anchor xml:id="l2413" corresp="l1543"/>
+
+                <l>Suum detrimentum, quod optimum Achivorum nihili fecit. </l>
+
+            </lg>
+            <lg n="34" ana="#p34a">
+
+                <anchor xml:id="l2414" corresp="l1544"/><l>Huic respondit postea Thetis lachrymas effundens. </l><anchor xml:id="l2415" corresp="l1545 l1546"/>
+
+                <l>Heu fili mi: cur te enutrivi in malum pariens? </l><anchor xml:id="l2416" corresp="l1547"/>
+
+                <l>Utinam posses apud naves sine lachrymis, et illaesus </l><anchor xml:id="l2417" corresp="l1548 l1549"/>
+
+                <l>Sedere: quoniam tibi parca paululum neque multum diu: </l><anchor xml:id="l2418" corresp="l1550"/>
+
+                <l>Nunc autem simul citomoriturus et erumnosus supra omnes </l><anchor xml:id="l2419" corresp="l1551"/>
+
+                <l>Es. idcirco te malo fato peperi in aedibus. </l><anchor xml:id="l2420" corresp="l1553 l1554"/>
+
+                <l>Hoc autem dictura verbum Jovi gaudenti fulmine </l><anchor xml:id="l2421" corresp="l1555"/>
+
+                <l>Vado ipsa in Olympum valdenivosum, si persuadeatur. </l><anchor xml:id="l2422" corresp="l1556"/>
+
+                <l>Sed tu quidem nunc navibus assidens velocibus </l><anchor xml:id="l2423" corresp="l1557"/>
+
+                <l>Irascere Achivis: bello autem abstine omnino. </l><anchor xml:id="l2424" corresp="l1559"/>
+
+                <l>Jupiter enim in Oceanum ad bonos Aethiopas </l><anchor xml:id="l2425" corresp="l1560 l1561"/>
+
+                <l>Hesternus ivit ad convivium. Dii autem simum omnies secuti sunt. </l><anchor xml:id="l2426" corresp="l1563"/>
+
+                <l>Duodecima autem rursus veniet ad coelum. </l><anchor xml:id="l2427" corresp="l1564"/>
+
+                <l>Et tunc postea vadam Jovis ad solidam domum. </l><anchor xml:id="l2428" corresp="l1565"/>
+
+                <l>Et ipsius genibus advolvar, et ipsum persuasurum puto. </l><anchor xml:id="l2429" corresp="l1566"/>
+
+                <l>Sic utique locuta abiit. hunc reliquit ibi </l><anchor xml:id="l2430" corresp="l1567"/>
+
+                <l>Iratum in animo propter formosam mulierem: </l>
+
+            </lg>
+            <lg n="35" ana="#p35a">
+
+                <anchor xml:id="l2431" corresp="l1569"/><l>Quam vi ab invito abstulerant. Sed Ulysses </l><anchor xml:id="l2432" corresp="l1570"/>
+
+                <l>In Chrysem pervenit ducens sacram hecatombem. </l><anchor xml:id="l2433" corresp="l1571"/>
+
+                <l>Hi quando jam portum valdeprofundum intra pervenerunt, </l><anchor xml:id="l2434" corresp="l1572"/>
+
+                <l>Vela quidem collegerunt, posueruntque in navi nigra. </l><anchor xml:id="l2435"/>
+
+                <l>Malum autem in thecam reposuerunt funibus demittentes. </l><anchor xml:id="l2436" corresp="l1573"/>
+
+                <l>Statim hanc autem in portum protraxerunt remis. </l><anchor xml:id="l2437" corresp="l1574"/>
+
+                <l>Anchoras jecerunt, ac funibus puppium ligaverunt. </l><anchor xml:id="l2438" corresp="l1575"/>
+
+                <l>Verum et ipsi exierunt in littus maris. </l><anchor xml:id="l2439" corresp="l1577 l1578"/>
+
+                <l>Et hecatombem exposuerunt longejacienti Apollini. </l><anchor xml:id="l2440" corresp="l1579"/>
+
+                <l>Sed et Chryseis navi exivit Pontigrada. </l><anchor xml:id="l2441" corresp="l1580"/>
+
+                <l>Hanc quidem postea ad altare ducens prudens Ulysses, </l><anchor xml:id="l2442" corresp="l1581"/>
+
+                <l>Patri charo in navibus posuit: et ipsum allocutus est. </l>
+
+            </lg>
+            <lg n="36" ana="#p36a">
+
+                <anchor xml:id="l2443" corresp="l1582 l1583"/><l>O Chryse praemisit me rex virorum Agamemnon: </l><anchor xml:id="l2444" corresp="l1584 l1585"/>
+
+                <l>Filiamque tibi ut ducerem: Pheoboque sacram hecatombem </l><anchor xml:id="l2445" corresp="l1587"/>
+
+                <l>Sacrificiarem pro Danais ut placemus regem. </l><anchor xml:id="l2446" corresp="l1588 l1589"/>
+
+                <l>Qui modo Argivis multisuspirii dolores immisit. </l>
+
+                <l>Sic dicens in manibus posuit: hic suscepit gaudens </l><anchor xml:id="l2448" corresp="l1590"/>
+
+                <l>Filiam dilectam. hi autem statim deo gloriosam hecatombem </l><anchor xml:id="l2449" corresp="l1591"/>
+
+                <l>Deinceps statuerunt bene aedificatum circa altare. </l><anchor xml:id="l2450" corresp="l1592"/>
+
+                <l>Manus laverunt autem postea, et molas sumpserunt. </l><anchor xml:id="l2451" corresp="l1593"/>
+
+                <l>His autem Chryses valde precabatur manus elevans. </l>
+
+            </lg>
+            <lg n="37" ana="#p37a">
+
+                <anchor xml:id="l2452" corresp="l1594"/><l>Audi me argenteumarcum habens, qui Chrysen gubernas, </l><anchor xml:id="l2453" corresp="l1595"/>
+
+                <l>Cillamque valde divinam, Tenedoque generose imperas. </l><anchor xml:id="l2454" corresp="l1596"/>
+
+                <l>Jam quidem aliquando me antea exaudisti precantem. </l><anchor xml:id="l2455" corresp="l1597 l1598"/>
+
+                <l>Honorasti quidem me: valde autem nocuisti populo Achivorum. </l><anchor xml:id="l2456" corresp="l1599"/>
+
+                <l>Jam item et nunc mihi hoc perfice desyderium. </l><anchor xml:id="l2457" corresp="l1601"/>
+
+                <l>Jam nunc Danais indecentem pestem remove. </l>
+
+            </lg>
+            <lg n="38" ana="#p38a">
+
+                <anchor xml:id="l2458" corresp="l1602 l1603"/><l>Sic dixit orans. hunc autem exaudivit Phoebus Apollo. </l><anchor xml:id="l2459" corresp="l1604"/>
+
+                <l>Sed postquam precati sunt, et molas projecerunt: </l><anchor xml:id="l2460" corresp="l1605 l1606"/>
+
+                <l>retro traxerunt quidem primum, et jugulaverunt, et excoriaverunt, </l><anchor xml:id="l2461" corresp="l1607"/>
+
+                <l>Femoraque secuerunt, arvinaque cooperuerunt. </l><anchor xml:id="l2462" corresp="l1608"/>
+
+                <l>Dupliciter facientes. super ipsis autem cruda posuerunt. </l><anchor xml:id="l2463" corresp="l1609"/>
+
+                <l>Adolebat autem in lignis incisis senex: in autem rubrum vinum </l><anchor xml:id="l2464"/>
+
+                <l>Libabat: juvenis autem apud ipsum tenebant verva quinque ordines habentia
+                    manibus. </l><anchor xml:id="l2465" corresp="l1610"/>
+
+                <l>Sed postquam femora cocta sunt: et viscera comederunt </l><anchor xml:id="l2466" corresp="l1611"/>
+
+                <l>Ac minutatim secuerunt, alia et in verubus transfixerunt, </l><anchor xml:id="l2467" corresp="l1612"/>
+
+                <l>Assaruntque accurate, traxeruntque omnia. </l><anchor xml:id="l2468" corresp="l1613 l1614"/>
+
+                <l>Caeterum ubi quieverunt a labore, praeparaveruntque convivium, </l><anchor xml:id="l2469" corresp="l1615"/>
+
+                <l>Convivati sunt: neque in aliquo ainus indiguit cibo aequali. </l><anchor xml:id="l2470" corresp="l1616"/>
+
+                <l>Sed postquam potus et escae desyderium ejecerunt: </l><anchor xml:id="l2471" corresp="l1617"/>
+
+                <l>Pueri quidem crateras coronaverunt vino: </l><anchor xml:id="l2472" corresp="l1618"/>
+
+                <l>Distribueruntque omnibus incipientes poculis. </l><anchor xml:id="l2473" corresp="l1619"/>
+
+                <l>Hi autem totamdiem cantu deum placabant: </l><anchor xml:id="l2474" corresp="l1621"/>
+
+                <l>Pulchrum canentes paeana pueri Achivorum </l><anchor xml:id="l2475" corresp="l1622 l1623"/>
+
+                <l>Canentes longe operante.hic autem mentem delectabatur audient. </l><anchor xml:id="l2476" corresp="l1624"/>
+
+                <l>Quando autem sol occidit, et crepusculum supervenit: </l><anchor xml:id="l2477" corresp="l1625"/>
+
+                <l>Tunc sane dormiverunt in puppibus navis. </l><anchor xml:id="l2478" corresp="l1626"/>
+
+                <l>Quum autem manegenita apparuit roseadigitos Aurorae: </l><anchor xml:id="l2479" corresp="l1627"/>
+
+                <l>Et tunc postea recesserunt ad exercitum latum Achivorum. </l><anchor xml:id="l2480" corresp="l1628 l1629"/>
+
+                <l>His autem concitatum ventum misit longejaculans Apollo. </l><anchor xml:id="l2481" corresp="l1630"/>
+
+                <l>Hi vero malum erexerunt, supraque vela alba extenderunt. </l><anchor xml:id="l2482" corresp="l1631"/>
+
+                <l>Ventus autem perflabat medium velum circum autem unda </l><anchor xml:id="l2483" corresp="l1632"/>
+
+                <l>Carinam nigra valde resonabat navi eunte. </l><anchor xml:id="l2484" corresp="l1633"/>
+
+                <l>Haec autem currebat per undam pertransiens vias. </l><anchor xml:id="l2485" corresp="l1634"/>
+
+                <l>Sed postquam venerunt ad exercitum latum Achivorum, </l><anchor xml:id="l2486" corresp="l1635"/>
+
+                <l>Navem quidem hi nigram. in continentem traxerunt </l><anchor xml:id="l2487" corresp="l1636"/>
+
+                <l>In summam harenam, ac sustentacula longa subextenderunt. </l><anchor xml:id="l2488" corresp="l1637"/>
+
+                <l>Ipsi autem sparsi sunt per tentoriaque navesque. </l><anchor xml:id="l2489"/>
+
+                <l>Verum hic irascebatur navibus assidens velocibus </l><anchor xml:id="l2490" corresp="l1638"/>
+
+                <l>Generosus Pelei filius pedes velox Achilles. </l><anchor xml:id="l2491" corresp="l1639 l1640"/>
+
+                <l>Neque unquam in concione versabatur gloriosos viros faciente, </l><anchor xml:id="l2492" corresp="l1641 l1642"/>
+
+                <l>Neque unquam in praelio: sed consumebat dilectum cor </l><anchor xml:id="l2493" corresp="l1643"/>
+
+                <l>Illic manens. desyderabat autem clamoremque pugnamque. </l>
+
+            </lg>
+            <lg n="39" ana="#p39a">
+
+                <anchor xml:id="l2494" corresp="l1644"/><l>Sed quando jam ex illo, duodecimus factus est dies; </l><anchor xml:id="l2495" corresp="l1645"/>
+
+                <l>Et tunc jam ad Olympum iverant dii semper existentes </l><anchor xml:id="l2496" corresp="l1646 l1647"/>
+
+                <l>Omnes simul. Jupiter autem praeibat. Thetis autem non oblita est mandatorum </l><anchor xml:id="l2497" corresp="l1648"/>
+
+                <l>Filii sui: sed emersit ex unda maris: </l><anchor xml:id="l2498" corresp="l1649"/>
+
+                <l>Matutinaque conscendit in magnum coelum olympumque: </l><anchor xml:id="l2499" corresp="l1650"/>
+
+                <l>Invenit autem latesonantem Saturnidem seorsum sedentem ab aliis </l><anchor xml:id="l2500" corresp="l1651"/>
+
+                <l>In summo vertice eminentis olympi: </l><anchor xml:id="l2501" corresp="l1652"/>
+
+                <l>Et ante ipsum sedit, et prehendit genibus </l><anchor xml:id="l2502" corresp="l1653"/>
+
+                <l>Sinistra: dextera autem mento apprehendens, </l><anchor xml:id="l2503" corresp="l1654"/>
+
+                <l>Supplicans allocuta est Jovem Saturnidem regem. </l><anchor xml:id="l2504" corresp="l1655 l1656"/>
+
+                <l>Jupiter pater, siquando te inter immortales juvi. </l><anchor xml:id="l2505" corresp="l1657"/>
+
+                <l>Vel verbo vel opere, hoc mihi perfice desyderium. </l><anchor xml:id="l2506" corresp="l1658 l1659"/>
+
+                <l>Honora mihi filium, qui brevissimae vitae inter alios </l><anchor xml:id="l2507" corresp="l1660"/>
+
+                <l>Est. sed ipsum nunc rex virorum Agamemnon </l><anchor xml:id="l2508" corresp="l1661"/>
+
+                <l>Inhonoravit: auferens enim habet praemium ipse abstrahens. </l><anchor xml:id="l2509" corresp="l1662"/>
+
+                <l>Sed tu ipsum honora coelestis consiliator Jupiter. </l><anchor xml:id="l2510" corresp="l1663 l1664"/>
+
+                <l>Tandiu autem Troianis adiice robur, donet Achivi </l><anchor xml:id="l2511" corresp="l1665"/>
+
+                <l>Filium meum honorent, augeantque ei honorem. </l><anchor xml:id="l2512" corresp="l1666"/>
+
+                <l>Sic dixit. hanc autem nihil allocutus est nubes congregans Jupiter </l><anchor xml:id="l2513"/>
+
+                <l>Sed tacitus diu sedit. Thetis autem sicut apprehenderat genibus </l><anchor xml:id="l2514"/>
+
+                <l>Sic inhaerebat advoluta, et rogabat sciendo iterum. </l><anchor xml:id="l2515"/>
+
+                <l>Verum quidem iam mihi promitte et annue: </l><anchor xml:id="l2516"/>
+
+                <l>Vel abnue (quoniam non tibi est timor) ut bene sciam, </l><anchor xml:id="l2517"/>
+
+                <l>Quantum ego inter omnes inhonoratissima dea sim. </l>
+
+            </lg>
+            <lg n="40" ana="#p40a">
+
+                <anchor xml:id="l2518" corresp="l1667 l1668"/><l>Hanc autem graviter suspirans allocutus est nubiumcongregator Jupiter. </l><anchor xml:id="l2519" corresp="l1675"/>
+
+                <l>Exitialia sane opera quod me inimicari adhortaris </l><anchor xml:id="l2520" corresp="l1676"/>
+
+                <l>Junoni, quando me irritat contumeliosis verbis. </l><anchor xml:id="l2521" corresp="l1677"/>
+
+                <l>Haec autem et vane mecum semper inter immortales deos </l><anchor xml:id="l2522" corresp="l1678"/>
+
+                <l>Contendit: et quam me dicit in pugna troianis auxiliari. </l><anchor xml:id="l2523" corresp="l1679"/>
+
+                <l>Sed tu quidem nunc rursus abi, ne te intelligat </l><anchor xml:id="l2524" corresp="l1680"/>
+
+                <l>Juno, mihi autem haec erunt curae ut perficiam. </l><anchor xml:id="l2525" corresp="l1681"/>
+
+                <l>Sed age, jam tibi capite annuam, ut credas. </l><anchor xml:id="l2526" corresp="l1683"/>
+
+                <l>Hoc enim a me cum immortalibus maximum </l><anchor xml:id="l2527" corresp="l1684 l1685"/>
+
+                <l>Signum. non enim meum irrevocabile, neque deceptorium, </l><anchor xml:id="l2528" corresp="l1687"/>
+
+                <l>Neque imperfectibile quodcunque capite annuam. </l><anchor xml:id="l2529" corresp="l1688"/>
+
+                <l>Dixit: et nigris superciliis annuit Saturnides. </l><anchor xml:id="l2530" corresp="l1689"/>
+
+                <l>Ambrosiae autem comae concussae sunt regis </l><anchor xml:id="l2531" corresp="l1690 l1691"/>
+
+                <l>Ex capite immortali: ac magnum tremefecit Olympum. </l><anchor xml:id="l2532" corresp="l1692 l1693"/>
+
+                <l>Hi sic consultantes diuisi sunt. haec quidem postea </l>
+
+                <l>In mare dilapsa est profundum a splendido Olympo. </l><anchor xml:id="l2534" corresp="l1694 l1695"/>
+
+                <l>Jupiter autem in sua domum. Dii vero simul omnes surrexerunt. </l><anchor xml:id="l2535" corresp="l1696"/>
+
+                <l>Ex sedibus sui patris in occursum: neque aliquis sustinuit </l><anchor xml:id="l2536" corresp="l1697"/>
+
+                <l>Expectare venientem: sed obvii steterunt omnes. </l><anchor xml:id="l2537" corresp="l1698 l1699"/>
+
+                <l>Sic hic quidem illic sedit in solio, neque ipsum Juno </l><anchor xml:id="l2538" corresp="l1700"/>
+
+                <l>Ignoravit intuita quod ei consultasset consilia </l><anchor xml:id="l2539" corresp="l1701"/>
+
+                <l>Argenteospedeshabens Thetis filia marini Senis. </l><anchor xml:id="l2540" corresp="l1702"/>
+
+                <l>Statim irritativis Jovem Saturnium allocuta est. </l>
+
+            </lg>
+            <lg n="41" ana="#p41a">
+
+                <anchor xml:id="l2541" corresp="l1703 l1704"/><l>Quis autem rursus tibi dolose deorum consultavit consiliat </l><anchor xml:id="l2542" corresp="l1705"/>
+
+                <l>Semper tibi amicum est me sine absentem </l><anchor xml:id="l2543" corresp="l1706"/>
+
+                <l>Occulta sapientem judicare: neque aliquod adhuc mihi </l><anchor xml:id="l2544" corresp="l1707"/>
+
+                <l>Promptus tolerasti dicere verbum quodcunque cogitas. </l>
+
+            </lg>
+            <lg n="42" ana="#p42a">
+
+                <anchor xml:id="l2545" corresp="l1708"/><l>Huic respondit postea pater virorumque deorumque. </l><anchor xml:id="l2546" corresp="l1709"/>
+
+                <l>Juno ne omnia mea spera verba </l><anchor xml:id="l2547" corresp="l1710"/>
+
+                <l>Scire, difficilia tibi erunt uxori quamvis existenti. </l><anchor xml:id="l2548" corresp="l1711"/>
+
+                <l>Sed quod quidem decens fuerit audire nullus postea </l><anchor xml:id="l2549" corresp="l1713"/>
+
+                <l>Neque dorum prior hoc sciet neque hominum. </l><anchor xml:id="l2550" corresp="l1714"/>
+
+                <l>Hoc autem ego seorsum a Diis vellem intelligere, </l><anchor xml:id="l2551" corresp="l1715 l1716"/>
+
+                <l>Ne tu haec singula interrogis, neque perscrutare. </l>
+
+            </lg>
+            <lg n="43" ana="#p43a">
+
+                <anchor xml:id="l2552" corresp="l1717"/><l>Huic respondit postea bovinosoculoshabens veneranda Juno. </l><anchor xml:id="l2553" corresp="l1718"/>
+
+                <l>Molestissime Saturnide quale verbum dixisti ? </l><anchor xml:id="l2554" corresp="l1719"/>
+
+                <l>Et valde te ante neque interrogavi, neque inquisivi, </l><anchor xml:id="l2555" corresp="l1720"/>
+
+                <l>Sed valde tacitus haec consultas quae vis: </l><anchor xml:id="l2556" corresp="l1721"/>
+
+                <l>Nunc autem valde timeo in mente, ne te seducat </l><anchor xml:id="l2557" corresp="l1722"/>
+
+                <l>Argenteospedeshabens Thetis filia marini Senis. </l><anchor xml:id="l2558" corresp="l1723"/>
+
+                <l>Matutina enim tibi assedit: et apprehendit genibus. </l><anchor xml:id="l2559" corresp="l1724"/>
+
+                <l>Cui te puto annuisse verum, ut Achillem </l><anchor xml:id="l2560" corresp="l1727"/>
+
+                <l>Honores : perdas autem multos in navibus Achivorum. </l>
+
+            </lg>
+            <lg n="44" ana="#p44a">
+
+
+                <anchor xml:id="l2561" corresp="l1728"/><l>Hanc respondens allocutus est nebularum congregator Jupiter. </l><anchor xml:id="l2562" corresp="l1729"/>
+
+                <l>Misera semper quidem suspicaris, neque te lateo. </l><anchor xml:id="l2563" corresp="l1730"/>
+
+                <l>Facere autem tamen nihil poteris. sed ab animo </l><anchor xml:id="l2564" corresp="l1731"/>
+
+                <l>Magis mihi eris. hoc tibi et molestum erit. </l><anchor xml:id="l2565" corresp="l1732"/>
+
+                <l>Si autem sic hoc est: mihi debet charum esse. </l><anchor xml:id="l2566" corresp="l1733"/>
+
+                <l>Sed tacita sede, meo et obedi verbo. </l><anchor xml:id="l2567" corresp="l1734"/>
+
+                <l>Ne te non juvent quotquot dii sunt in olympo </l><anchor xml:id="l2568" corresp="l1735"/>
+
+                <l>Prope venientem, quem tibi intangibiles manus injecero. </l><anchor xml:id="l2569" corresp="l1736"/>
+
+                <l>Sic dixit. timuit autem bovinosoculoshabens veneranda Juno. </l><anchor xml:id="l2570" corresp="l1737"/>
+
+                <l>Et tacita sedit inclinans dilectum cor. </l><anchor xml:id="l2571" corresp="l1739"/>
+
+                <l>Ingemuerunt autem in domo Jovis Dii coelicolae: </l>
+
+            </lg>
+            <lg n="45" ana="#p45a">
+
+
+                <anchor xml:id="l2572" corresp="l1740"/><l>His autem Vulcanus inclytus artifex incepti concionari. </l><anchor xml:id="l2573" corresp="l1741"/>
+
+                <l>Matri dilectae amabilia ferens albasulnashabenti Junoni. </l><anchor xml:id="l2574" corresp="l1742 l1743"/>
+
+                <l>Certe pestifera opera haec erunt, neque tolerabilia: </l><anchor xml:id="l2575" corresp="l1744"/>
+
+                <l>Si jam vos gratia mortalium contendetis sic: </l><anchor xml:id="l2576" corresp="l1745 l1746"/>
+
+                <l>Inter deos autem tumultum excitetis: neque convivii </l><anchor xml:id="l2577" corresp="l1747"/>
+
+                <l>Boni erit voluptas: quoniam pejora vincunt. </l><anchor xml:id="l2578" corresp="l1748 l1749"/>
+
+                <l>Matrem autem ego admoneo ipsam quamvis intelligentem. </l><anchor xml:id="l2579" corresp="l1750"/>
+
+                <l>Patri dilecto amabilia afferre Jovi, ut ne iterum </l><anchor xml:id="l2580" corresp="l1751"/>
+
+                <l>Contendat pater nobiscum, et convivium turbet. </l><anchor xml:id="l2581" corresp="l1752"/>
+
+                <l>Si vult coelestis fulminator </l><anchor xml:id="l2582" corresp="l1753"/>
+
+                <l>Ex sedibus quatere, hic enim multum potens est. </l><anchor xml:id="l2583" corresp="l1754"/>
+
+                <l>Sed tu hunc verbis demulce mollibus. </l><anchor xml:id="l2584" corresp="l1755"/>
+
+                <l>Statim postea benevolus coelestis erit nobis. </l><anchor xml:id="l2585" corresp="l1756 l1757"/>
+
+                <l>Sic dixit. et surgens poculum rotundum </l>
+
+                <l>Matri dilecte in manibus posuit: et ipsam allocutus est. </l><anchor xml:id="l2587" corresp="l1758 l1759"/>
+
+                <l>Tolera mater mea, et suffer, moesta quamvis </l><anchor xml:id="l2588" corresp="l1760"/>
+
+                <l>Ne te dilectam quamvis existentem oculis videam </l><anchor xml:id="l2589" corresp="l1761 l1762"/>
+
+                <l>Verberatam: tunc non in aliquo potero tristatus quamvis </l><anchor xml:id="l2590" corresp="l1763"/>
+
+                <l>Juvare. difficilis enim coelestis ut repugnetur. </l><anchor xml:id="l2591" corresp="l1765"/>
+
+                <l>Jam enim me et alias adjuvare desyderantem </l><anchor xml:id="l2592" corresp="l1766"/>
+
+                <l>Jecit pede extrahens a coelo divino. </l><anchor xml:id="l2593" corresp="l1767 l1768"/>
+
+                <l>Totam autem diem ferebar. una autem cum sole occidente </l><anchor xml:id="l2594" corresp="l1769"/>
+
+                <l>Decidi in Lemno, paucus autem animus erat. </l><anchor xml:id="l2595" corresp="l1770"/>
+
+                <l>Tunc me Sintii viri statim exceperunt cadentem. </l><anchor xml:id="l2596" corresp="l1771"/>
+
+                <l>Sic dixit. risit autem dea albasulnashabens Juno. </l><anchor xml:id="l2597" corresp="l1772"/>
+
+                <l>Ridens autem filii suscepit e manu poculum. </l><anchor xml:id="l2598" corresp="l1773"/>
+
+                <l>Sed hic aliis Diis apte omnibus </l><anchor xml:id="l2599" corresp="l1774"/>
+
+                <l>Propinabat dulce nectar ab cratere hauriens. </l><anchor xml:id="l2600" corresp="l1775"/>
+
+                <l>Inextinguibilis autem excitatus est risus beatis Diis; </l><anchor xml:id="l2601" corresp="l1776"/>
+
+                <l>Postquam viderunt Vulcanum per domum ministrantem. </l><anchor xml:id="l2602" corresp="l1778 l1779"/>
+
+                <l>Sic tunc quidem totam diem usque ad solem occidentem </l><anchor xml:id="l2603" corresp="l1780"/>
+
+                <l>Convivabantur. neque amplius animus indiguit convivio aequali: </l><anchor xml:id="l2604" corresp="l1781"/>
+
+                <l>Neque lyra pulchra, quam tenebat Apollo </l><anchor xml:id="l2605" corresp="l1782"/>
+
+                <l>Musisque, quae canebant invicem excipientes se voce pulchra. </l><anchor xml:id="l2606" corresp="l1783"/>
+
+                <l>Sed postaquam occidit splendida lux solis: </l><anchor xml:id="l2607" corresp="l1784"/>
+
+                <l>Hi quidem dormiturientes iverunt domum unusquisque </l><anchor xml:id="l2608" corresp="l1785"/>
+
+                <l>Ubi singulis domum inclytus utroquepedeclaudus </l><anchor xml:id="l2609" corresp="l1786"/>
+
+                <l>Vulcanus fecerat doctis arobtibus. </l><anchor xml:id="l2610" corresp="l1787"/>
+
+                <l>Jupiter autem ad suum lectum ivit coelestis fulminator. </l><anchor xml:id="l2611" corresp="l1788"/>
+
+                <l>Ubi antea dormiebat, quam ipsum dulcis somnus invaderet. </l><anchor xml:id="l2612" corresp="l1789"/>
+
+                <l>illic dormivit ascendens: juxtaque aureamsedemhabens Juno. </l>
+
+            </lg>
+        </body>
+    </text>
+</TEI>

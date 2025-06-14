@@ -1,0 +1,1568 @@
+COMMUNICATION AND INFORMATION TECHNOLOGIES AND OLDER ADULTS
+by
+Catherine Geoffroy Visiting researcher
+for
+Centre for Information Technology Innovation (CITI) One Voice, The Canadian Seniors Network
+A view of the Canadian and international situation relating to:
+1)
+the behaviour and attitudes of older adults toward technology;
+2)
+research and development programs concerning communication and information technologies for older adults;
+3)
+the possible contribution of communication and information technologies in meeting the needs and interests of older adults.
+Laval September 1994
+An english version of this document is also available to the same editor entitled:
+Les technologies de communication de l'information et les aîné(e)s
+In this report, the systematic use of masculine forms is intended only to facilitate reading.
+This report was prepared in connection with work carried out by the Centre for Information Technology Innovation (CITI) of Industry Canada.
+© Minister of Supply and Services Canada 1994 N de catalogue Co28-1/116-1994E ISBN 0-662-22769-7
+ACKNOWLEDGMENT
+One Voice and the CITI wish to thank all the different people who contributed to this research.
+We also thank the following persons for their special contribution to this research:
+Madeleine, Michel, Simone and Marcel who agreed to have their pictures taken;
+Pierre Billon and Robert Dupuy who were the instigators of CITI's "Technology and Society" aspect under which was undertaken the present research;
+Hélène Deslauriers, Heritage Canada who helped organize the different consultation sessions in three different cities;
+David Scott, English translation;
+Richard Lavoie, CITI, Picture taking;
+Geneviève Leclerc, One Voice, Research Assistant;
+Danielle Massé, for indexing, French text revision and editing.
+Litho et Ass.
+, Ville St-Laurent (Quebec), Cover Page design
+Copyright For more information:
+CITI One Voice 1575, boul.
+Chomedey 350 Sparks Street, Suite 1005 Laval (Québec) Ottawa (Ontario) H7V 2X2 K1R 7S8 att.
+: Mrs Catherine Geoffroy att.
+: Mrs Sylvie Deliencourt Tel.
+: 514-973-5779 Tel.
+: 613-238-7624 Fax.
+: 514-973-5757 Fax.
+: 613-235-4497
+PREFACE
+The study Communications and Information Technologies and Older Adults was conducted in co-operation with One Voice - The Canadian Seniors Network and the Centre for Information Technologies Innovation (CITI) under its Research Initiatives Program.
+The purpose of this report is to present data, analyses, recommendations and documents collected between January and June 1993.
+This is a reference document intended for readers wishing further details on material contained in the research summary published in February 1994.
+The Centre for Information Technologies Innovation (CITI) at Industry Canada
+CITI's mission is to promote the development and dissemination of information technology applications that improve the performance of individuals and the competitiveness of organizations working together across time and distance, through the computerization of their collaborative processes.
+CITI's Technology and Society team is concerned with the development and application of new information and communications technologies that improve access, for persons with disabilities and older adults, to the normal activities of daily life: education, work and leisure.
+Therefore, the program focusses primarily on individuals for whom communications services or technology-based tools and techniques represent the key to equality and independance.
+The program is designed to take account of the interests, characteristics and needs of users and the professionals who care for them.
+All projects conducted under this program are designed to foster partnership between the industry, research and development professionals, organizations representing target clienteles and the university community, and encourage co-operation between professionals concerned with improving the quality of life and social integration of older adults and the handicapped.
+By working in partnership, CITI and One Voice - The Canadian Seniors Network were able to harmonize their common objectives and interests and combine the former's expertise in technological innovation and scientific research with the latter's in-depth understanding of older adults and their networks.
+One Voice - The Canadian Seniors Network
+One Voice - The Canadian Seniors Network promotes the enhancement of the status and independence of older Canadians.
+The organization advocates policies and programs to improve the well-being of Canadian seniors and encourages and enables their full and active participation in decisions affecting their lives.
+It is a non-partisan, voluntary, not-for-profit organization working in both of Canada's official languages, providing leadership and working in partnership and consultation with others.
+TABLE OF CONTENTS
+Page
+ACKNOWLEDGMENT
+. . . . . . . . . . . . . . . . . . . . . . .
+iii
+PREFACE
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+v
+TABLE OF CONTENTS
+. . . . . . . . . . . . . . . . . . . . . .
+vii
+1.
+INTRODUCTION
+. . . . . . . . . . . . . . . . . . . . . .
+1
+2.
+RESEARCH METHODOLOGY
+. . . . . . . . . . . . . . . . . . .
+5
+2.1.
+Research design
+. . . . . . . . . . . . . . . . . . .
+5
+3.
+PORTRAIT OF SENIOR CITIZENS
+. . . . . . . . . . . . . . . .
+7
+3.1.
+Who are these people?
+. . . . . . . . . . . . . . . .
+7
+3.2.
+What groupings are most appropriate?
+. . . . . . . . .
+8
+3.3.
+What are their socio-demographic characteristics in Canada?
+8
+3.3.1.
+Breakdown by age group
+. . . . . . . . . . .
+8
+3.3.2.
+Breakdown by sex
+. . . . . . . . . . . . . .
+9
+3.3.3.
+Breakdown by ethnic group
+. . . . . . . . .
+9
+3.3.4.
+Life expectancy
+. . . . . . . . . . . . . .
+9
+3.3.5.
+Health status
+. . . . . . . . . . . . . . .
+10
+3.3.6.
+Consumption of health services
+. . . . . . .
+10
+3.3.7.
+Older adults and independence
+. . . . . . .
+10
+3.3.8.
+Satisfaction with life
+. . . . . . . . . . .
+11
+3.3.9.
+Marital status
+. . . . . . . . . . . . . . .
+11
+3.3.10.
+Living arrangements
+. . . . . . . . . . . .
+11
+3.3.11.
+Educational level and school attendance of older adults
+. . . . . . . . . . . . . . . . . . .
+12
+3.3.12.
+Literacy among older adults
+. . . . . . . .
+12
+3.3.13.
+How do older adults spend their time?
+. . .
+13
+3.3.14.
+Retirement
+. . . . . . . . . . . . . . . . .
+14
+3.3.15.
+What about seniors' incomes?
+. . . . . . . .
+14
+3.3.16.
+Social action among people 55 years and older
+17
+3.3.17.
+Predictions for the 21st century
+. . . . . .
+17
+3.4.
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . .
+18
+Page
+4.
+RESEARCH RESULTS
+. . . . . . . . . . . . . . . . . . . . .
+21
+4.1.
+Review of the Literature
+. . . . . . . . . . . . . . .
+21
+4.1.1.
+Goals and objectives
+. . . . . . . . . . . .
+21
+4.1.2.
+Methodology
+. . . . . . . . . . . . . . . .
+22
+4.1.3.
+Compilation of results. . . . . . . . . . .
+22 4.2.
+Older adults' attitudes, needs, interests and behaviour
+25
+4.2.1.
+Older adults and technology in general
+. . .
+26
+4.2.2.
+Principal conclusions related to particular technologies
+. . . . . . . . . . . . . . . .
+35
+5.
+INDUSTRY SURVEY
+. . . . . . . . . . . . . . . . . . . . . .
+49 5.1.
+Goals and objectives
+. . . . . . . . . . . . . . . . .
+49
+5.2.
+Methodology
+. . . . . . . . . . . . . . . . . . . . .
+49
+5.2.1.
+Banking industry
+. . . . . . . . . . . . . .
+50
+5.2.2.
+Visual Communication Network
+. . . . . . . .
+51
+5.2.3.
+Cable television and interactive television
+52
+5.2.4.
+Telephone
+. . . . . . . . . . . . . . . . .
+53
+5.2.5.
+Security systems manufacturers
+. . . . . . .
+54
+5.2.6.
+Home automation
+. . . . . . . . . . . . . .
+54
+5.2.7.
+Computers
+. . . . . . . . . . . . . . . . .
+55
+6.
+RESEARCH AND DEVELOPMENT
+. . . . . . . . . . . . . . . . .
+57
+6.1.
+Canadian projects
+. . . . . . . . . . . . . . . . . .
+57
+6.1.1.
+Creative Retirement Manitoba/Canadian Healthcare Telematics
+. . . . . . . . . . . . . . . . . . .
+57
+6.1.2.
+Applications of Building Automation for Elderly and Disabled Persons (Hickling Report)
+. . . . . . .
+58
+6.1.3.
+Info-3e âge project (Quebec)
+. . . . . . . .
+58
+6.1.4.
+Silver & Gold (Ontario)
+. . . . . . . . . .
+59
+6.1.5.
+Seniors Resources and Research Society (Infonet)
+60
+6.1.6.
+Project PAIR (Quebec)
+. . . . . . . . . . .
+61
+6.2.
+Project in the United States
+. . . . . . . . . . . . .
+62
+6.2.1.
+SeniorNet
+. . . . . . . . . . . . . . . . .
+62
+Page
+6.
+RESEARCH AND DEVELOPMENT (continued)
+6.3.
+Projects in Europe
+. . . . . . . . . . . . . . . . . .
+62
+6.3.1.
+RACE (Research and Advanced Development on Communications Technology in Europe)
+. . . . . .
+63
+6.3.2.
+TIDE: Technology Initiative for Disabled and Elderly People
+. . . . . . . . . . . . . . .
+64
+6.3.3.
+Home Shopping Systems
+. . . . . . . . . . .
+64
+6.3.4.
+Elderly and Self-Service Technology
+. . . .
+65
+6.4.
+Reactions
+. . . . . . . . . . . . . . . . . . . . . .
+66
+7.
+SURVEY OF ASSOCIATIONS AND GROUPS OF OLDER ADULTS
+. . . . .
+67
+7.1.
+Goals and objectives
+. . . . . . . . . . . . . . . . .
+67
+7.2.
+Methodology
+. . . . . . . . . . . . . . . . . . . . .
+67
+7.3.
+Results
+. . . . . . . . . . . . . . . . . . . . . . .
+69
+8.
+CONCLUSION
+. . . . . . . . . . . . . . . . . . . . . . . .
+75
+8.1.
+Older adults and technology
+. . . . . . . . . . . . .
+75
+8.1.1.
+Things are certain to improve
+. . . . . . .
+76
+8.2.
+What are seniors' attitudes toward technology?
+. . . .
+77
+8.3.
+What can the CIT industry do for seniors?
+. . . . . .
+78
+9.
+RECOMMENDATIONS
+. . . . . . . . . . . . . . . . . . . . . .
+79
+BIBLIOGRAPHY
+. . . . . . . . . . . . . . . . . . . . . . . . .
+81
+GLOSSARY
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+93
+1.
+INTRODUCTION
+This study examines the interaction between communication and information technologies (CITs) and older adults.
+Its purpose is to describe the basic tenets of gerontechnology; assess the impact of technology on specific groups of older adults; and determine the requirements and interests of Canadians conducting research and development in this area.
+Canada, like other industrialized countries, cannot avoid the two phenomena that will mark the history of the 20th century and determine the profile of the 21st, namely, an aging population and technological development.
+All changes brought about by CITs will have an increasingly important impact on older Canadians.
+The study has reviewed all relevant Canadian and international data, interviews, opinions and research dealing comprehensively with issues related to possible interactions between older adults and CITs.
+It has also devoted particular attention to determining priorities for both research and development and technology marketing.
+Problem
+As the phenomenon of technology development continues to unfold, communications and information technologies have come to play a critical role in late 20th-century Canadian life.
+These technologies are increasingly ubiquitous in the home, at work and in recreational activities.
+They make the activities of daily life easier for some people but more difficult for others.
+Commercially available technology-based tools are usually designed for broad segments of the productive population and are not necessarily appropriate for all groups.
+Modern consumers of all ages realize, however, that technological developments are slowly transforming their lifestyle whether they like it or not.
+At the same time, the population includes increasing numbers of individuals aged 55 years and over who, because they are getting older, experience changes involving functional, sensory and cognitive limitations.
+Furthermore, the trend toward earlier retirement leads to major changes in social status.
+The appearance of these generations of older adults calls for a re-appraisal of the role of senior citizens in society and the tools that they may require.
+The convergence of these two phenomena raises several issues and suggests a number of questions.
+For example: How do seniors react to technology?
+Can technology make it easier to maintain or improve older Canadians' quality of life?
+Is it true that older adults are afraid of technology?
+Is the technology industry prepared to adapt to the needs and interests of this new clientele?
+What, if anything, do seniors' associations and groups need with respect to technology?
+Not surprisingly, the need for a study of this kind has been recognized for some years.
+Seniors themselves, through One Voice - The Canadian Seniors Network, have expressed a desire for accurate information on this topic.
+Goals and objectives
+To establish the need for a Canadian program of technological development designed to encourage older adults to participate in society in such a way that the value of their experience, knowledge and skills is recognized.
+To discover mechanisms for finding efficient means, using CITs, for satisfying the health, economic and information needs of older adults.
+Significance of the study
+Even though CITs are present in all aspects of daily life, no study of this kind has ever been conducted in Canada or elsewhere.
+This research is therefore quite pertinent, to present and future seniors as well as to industry and government.
+Given that a growing part of the population is made up of older adults, that these people remain active longer and that more and more of them are likely to use various high-technology equipment, the time has come to separate myth from reality regarding seniors and technology.
+Finally, this research may serve as a point of departure for discussions on gerontechnology among the various stakeholders (seniors themselves, the CIT industry and research and development centres).
+Such co-operation will encourage associations, government and the private sector to share research and development responsibilities and costs.
+Ultimately, by facilitating interactions between older adults and technological applications, society as a whole stands to benefit from the potential and energy of older Canadians who want to feel useful in their community.
+Principal stakeholders
+Consequently, this study holds potential interest for a variety of stakeholders and researchers:
+older adults;
+equipment designers;
+service providers;
+manufacturers;
+researchers;
+governments;
+universities;
+municipalities;
+the building, electronics, computer and telecommunications industries;
+others.
+2.
+RESEARCH METHODOLOGY
+2.1.
+Research design
+The study was conducted between January and June, 1993.
+It was designed to simultaneously explore five research avenues:
+a portrait of the clientele (characteristics, statistics, etc.);
+a review of the literature;
+an inventory of existing or emerging technologies or services in the industry;
+a survey of experience in seniors' networks;
+consultations with seniors.
+Various methodological approaches were used, in keeping with the objective of each stage of the study: a literature survey, identification of technologies, an inventory of research and development and consultations with older adults and industry.
+3.
+PORTRAIT OF SENIOR CITIZENS
+3.1.
+Who are these people?
+At what age does one get old?
+When does one become a senior citizen?
+The answer to the first questions is very subjective;
+more often than not, an individual's psychological age, not biological age, is the determining factor.
+While some individuals under 45 display attitudes and behaviours generally thought of as typical of older people, others aged 75 years or older engage in activities similar to those of younger people and think largely as they do.
+Since old-age pensions and most retirement plans take effect at 65 years, however, the answer to the second question depends on biological age.
+On average, people retire after 62 years of age.
+They are eligible for golden age clubs at age 55 (in some cases, at age 50).
+Finally, older adults gain access to certain free or reduced-fee services based on their chronological age, not their needs.
+Furthermore, to follow the aging profile of the baby-boomers, Statistics Canada has established the 45-65 year group; this makes it even more difficult to break out data on this group.
+Nonetheless, most researchers seem to have adopted the following categories:
+45 to 65 years: older adults (which could include older workers, pre-retirees or young retirees);
+65 to 75 years: young-old people;
+80 years and older: old-old people.
+3.2.
+What groupings are most appropriate?
+In addition to age, there are other ways to group older adults: by cohort, degree of autonomy, place of residence, occupation, social or political involvement, field of interest, recreational pursuits, etc.
+Importantly, however, with the arrival of new generations of older adults at the beginning of the next millennium, it is becoming increasingly difficult to generalize and consider this entire population as a single group.
+3.3.
+What are their socio-demographic characteristics in Canada?
+3.3.1.
+Breakdown by age group
+According to Statistics Canada, in 1993 there were 27,296,860 people living in Canada and one Canadian out of five (20.4%) was 55 years of age or older.
+This group of 5,569,600 individuals could be broken down as follows:
+55 - 59 years 1,222,925
+60 - 64 years 1,176,705
+8.8%
+65 - 74 years 1,895,070
+75 years and over 1,274,900
+11.6%
+Interestingly, 94,000 Canadian seniors were 90 years of age or older in 1991.
+3.3.2.
+Breakdown by sex
+According to Statistics Canada data, the female:male ratio tends to increase considerably with advancing age.
+49.2% of people between 45 and 64 years of age are women;
+57% of people between 65 and 69 years of age are women.
+3.3.3.
+Breakdown by ethnic group
+According to 1981 data, about one senior Canadian in six was born outside of Canada.
+Britain and France were the countries of origin for 80% of these individuals; 17% belonged to the Jewish Community.
+In 1987, 40% of all elderly immigrants came from Great Britain, the United States, India and the Philippines.
+More recent trends in immigration, however, are causing this proportion to change.
+3.3.4.
+Life expectancy
+The average life expectancy for a Canadian male at birth is 73.1 years; for Canadian women, this figure is 79.7 years.
+The life expectancy of a 65-year-old man is 14.9 years (for an expected life of almost 80 years); that of a 65-year-old woman is 19.1 years (for an expected life of 84.1 years).
+3.3.5.
+Health status
+Most older adults claim to be in excellent or good health.
+This favourable perception declines with age:
+71 to 75% of individuals aged 55 to 64 years, 65% of those aged 65-69 years, 63% of those aged 70-74 years, 60% of those aged 75-79 years and only 57% of those aged 80 years claim to be in excellent or good health.
+3.3.6.
+Consumption of health services
+In 1993, the National Advisory Council on Aging (NACA) reported that 22% of the increase in health costs, estimated at 78% in industrialized countries, was due to demographic factors, including an aging population.
+3.3.7.
+Older adults and independence
+While independence can refer to many different things when describing different people -- for example, financial, social or psychological independence -- the appearance with age of one or more physical disabilities, combined with various irreversible effects of aging itself and perhaps aggravated by a handicap, may seriously impair an older person's independence.
+As many older adults can testify, however, the development of gerontology and geriatrics has removed any direct relationship between aging and disability, illness and dependence.
+The probability of disability and handicap does, however, increase with age.
+In 1991, 4.2 million Canadian (15.5% of the population) claimed to be disabled in some way: 7% of children aged less than 15 years, 8% of people aged 15-34 years, 14% of people aged 35-54 years, 27.1% of people aged 55-64 years and 45% of people aged 65 years and over (including 37% of people aged 65-74 years, 54% of people aged 75-84 years and 82% of people aged 85 years and over).
+Among the most frequently mentioned disabilities are mobility and agility problems such as arthritis and rheumatism (55% of respondents), hearing deficiencies (43%), eyesight deficiencies (24%), hypertension (39%) and respiratory problems (24%).
+Interestingly, the rate of dementia among older people is 6%.
+According to 1991 data, 20% of older adults require assistance to carry out some of their daily activities.
+3.3.8.
+Satisfaction with life
+More than 90% of individuals 45 years and over are satisfied with their lives, confirming that the quality of life in Canada is very good.
+3.3.9.
+Marital status
+Not surprisingly, since women have a longer life expectancy than men, there are more widows than widowers.
+Among Canadians between 65 and 69 years of age, 82% of men but only 53% of women are married.
+After 80 years of age, 70% of men are still married, compared to 18% of women.
+3.3.10.
+Living arrangements
+In 1991, according to NACA, 73% of older men and 43% of older women lived in private households with a spouse, while 14% of older men and 34% of older women (of which 40% were over 75 years) lived alone.
+In a proportion of 91%, older adults claim no problems with housing.
+Statistics Canada has reported that 80% of households headed by an older adults owned their own home, while 29% of adults 65 years and over rented their home.
+The figures are not the same for women, however: the proportion of women renters increases with age (28% for women 65-69 years old and 48% for women aged 80 years and over).
+Finally, between 41% and 46% of social housing units are occupied by older adults.
+3.3.11.
+Educational level and school attendance of older adults
+In 1986, about 27% of Canadians aged 65 years and over had graduated from high school or a post-secondary institution.
+Furthermore, this percentage will almost certainly increase in the coming decades.
+The increase is already under way:
+between 1984 and 1991, registrations in adult education programs and educational activities organized by Elderhostel grew from 3,000 to 15,000; similarly, those in Creative Retirement Manitoba programs grew from 200 to 3,000.
+NACA estimates that the percentage of registration in adult education programs will increase 94% by 2005 and 141% by 2010.
+3.3.12.
+Literacy among older adults
+As there is a direct, positive relationship between literacy and educational level, it is not surprising to find that illiteracy is more prevalent among older Canadians than among young adults.
+For example, while close to three Canadians in four between 16 and 34 years of age have sufficient skills to meet the requirements of everyday life, this proportion drops to one in three for people 55 to 69 years of age.
+Furthermore, there is a correlation between the age at which a language is learned and the acquisition of reading ability in that language.
+Literacy is therefore a particularly serious problem for older immigrants.
+About 2 million people, or 64% of Canadians between 55 and 69 years of age, have difficulty using written material.
+If this situation is not attended to immediately, it will cause serious problems in coming years as this cohort gets older.
+The higher literacy among succeeding generations, however, should alleviate the problem.
+In response to a national conference organized in 1990 by One Voice - The Canadian Seniors Network, a Canadian coalition for literacy among older Canadians will be established to encourage literacy among this age group.
+3.3.13.
+How do older adults spend their time?
+Despite the previous figures, however, this group's most popular activity is reading newspapers, magazines and books: 67% of people aged 45-64 years, 65% of those aged 65-69 years, 64% of those aged 70-74 years, 63% of those aged 75-79 years and 57% of those aged 80 years or more participate in this activity.
+Of seniors aged 65-74 years, 66% go out to a restaurant or the theatre once per month, as do 50% of seniors aged 75 and over.
+More than half of older adults have purchased recreational equipment (sporting goods, video cameras or VCRs) and use related services.
+On average, 51% of adults aged 45-64 years, 50% of those aged 65-80 years and 35% of those 80 years and older take regular walks.
+Television is a recreational activity for 42% of adults aged 45-64 years and 51% of those aged 65 years and older.
+Women watch 4.1 hours per day, compared with 3.7 hours for men.
+Social activities, such as visiting or receiving friends or relatives, have an important place in the life of 48% of adults aged 45-64 years and 47% of those 65 years and over.
+On average, 39% of people 65 years and over attend church, visit community or shopping centres or are members of an association.
+3.3.14.
+Retirement
+In 1991, the average retirement age was 62 years.
+Among the main factors influencing an individual's decision to retire are health status, age, job characteristics, income, spouse's retirement and pressure on the job.
+In 1991, there were 1.7 million men and 2 million women aged 55 years or more in the labour force.
+3.3.15.
+What about seniors' incomes?
+While older adults' economic situation has improved in recent decades, many older Canadians -- 4% of elderly couples -- still had incomes below the low-income cutoff in 1990 (in 1980, this percentage was 13%).
+Among older men living alone, this proportion fell from 53% to 26%; among older women living alone, it fell from 60% to 38%.
+In 1986, 18% of men aged 65-69 years had incomes below $10,000, compared to 48% of women (60% of these older adults were disabled in some way).
+In 1990, 39% of women and 33% of men aged 65 years and over received Guaranteed Income Supplements, while 70% of women aged 90 years and over received these benefits.
+Interestingly, however, statistics show that older adults pay more than 20 billion dollars in taxes; that they consume goods and services heavily; that 70% of adults 65 years old and over believe that their income and investments are sufficient for their future needs; and that 67% of future retirees consider that they will have enough income when they retire.
+A distinction should be made, however, between poverty statistics (which are based exclusively on income and do not consider assets) and people's perceptions of themselves as poor.
+According to 1986 statistics, seniors' main sources of personal income were the following:
+Canada and Quebec pension plans, which provided 14% of seniors' total incomes (16% for men and 11% for women);
+employers' pension, which provided 16% of their income (20% for men and 11% for women);
+in 1989, 50% of men and 39% of women were covered by private retirement plans, although the figures vary among occupational groups: 75% of unionized workers, 73% of public sector workers, 53% of full-time employees, 39% of private sector workers, 30% of non-unionized workers and 24% of part-time employees.
+With respect to seniors' assets, note that 91% of home-owners aged 65 years and over have completely paid off their mortgages (68% of those aged 55-59 years and 84% of those aged 65-70 years).
+The overall breakdown of seniors' assets is as follows:
+Distribution of assets among older adults
+Retirement plans
+Registered retirement plans
+Other investments
+Principal residence
+Mortgage-free residence
+Other real estate investments
+57%
+67%
+37%
+80%
+66%
+25%
+To summarize:
+older adults pay 20 billion dollars in taxes;
+in 1991, 20% of adults aged 65 years or older were living on an income below the low-income cutoff;
+of those living alone, average incomes were lowest for young people (15 to 24 years of age) and those 65 years and older: $14,935 and $18,056, respectively;
+women 65 years and older living alone formed the group in which low incomes were most prevalent;
+in 1991, median family income for seniors and non-family persons was $48,300; average income was $40,036.
+3.3.16.
+Social action among people 55 years and older
+Not only do seniors contribute to the national economy by paying taxes and consuming goods and services, they also contribute socially by doing volunteer work (more than 30% of people 65 years and older), providing various types of social support, helping their own children and grandchildren organize their lives, giving to charities, and so on.
+3.3.17.
+Predictions for the 21st century
+According to Statistics Canada's projections of population demographics by age group, the population of Canada will be 29,297,100 on June 1, 2010; close to 30% of these people will be more than 55 years old.
+Statistics Canada forecasts that, toward 2020, about 6 million Canadians will be 65 years old or more, and that in 2036 this number will be about 8 million.
+The numerical imbalance between the sexes for older adults is expected to continue.
+3.4.
+Conclusion
+To summarize, people 55 years old and over are a very heterogeneous group.
+Their interests, activities, living situation, needs, financial situation, health status, and family and social environments must be considered in products designed to serve them.
+Moreover, senior adults participate in a wide variety of activities individually, in their families, among friends or in groups.
+This group accounted for 20.4% of Canadians in 1991;
+by 2010, it is expected to include 29.5% of the population.
+The profile of senior Canadians at that time, however, will not be the same as it is today.
+For example, seniors will enjoy longer life expectancies and better overall health.
+Individuals born in 1960 can expect to live at least 20 years longer than those born at the beginning of the century.
+These new generations of older adults will also be increasingly well-educated.
+While workers in 1991 were retiring at 62 years of age on average, there are four reasons that suggest that the trend toward earlier retirement will not necessarily continue:
+the type of work and the organization of the workplace depend less and less on physical strength or endurance;
+older workers (45-64 years) will remain in good physical and intellectual condition (much more so than those of similar age who preceded them);
+a shortage of adequately trained, experienced and competent workers to meet society's needs is forecast for the not-too-distant future;
+insufficient income will compel some people to return to the labour force.
+The increase in the number of older adults, especially those over 80 years of age, will create additional demand for research and development to create new products to help a group in which most people have one or more disabilities.
+In a society aging at a phenomenal rate, there is ample justification for conducting research and development to create technology better adapted, on the one hand, to seniors' interests and the physiological, psychological and social changes they experience and, on the other hand, to society's changing information and communication needs for the 21st century.
+4.
+RESEARCH RESULTS
+4.1.
+Review of the Literature
+4.1.1.
+Goals and objectives
+A review of the literature and in-depth study of documents concerned with technology and relevant in some way to independent older adults was deemed essential to establish a reasonably accurate portrait of the status, as of 1993, of such technologies in Canada and abroad.
+This part of the research was guided by two sets of general objectives:
+A)
+Improve understanding of gerontechnology.
+Research of this type was conducted:
+to clearly identify the kinds of relationships that may exist between older adults and CITs;
+to gain a firm understanding of the way in which technologies may become a part of this clientele's everyday activities;
+to reveal the technology-related attitudes, needs and behaviour of various categories of Canadians aged 55 years and over and attempt to answer the following questions:
+Who are these older users?
+Why and how will they use some of these technologies?
+What are the incentives and hurdles to using them?
+to identify CIT-related research and development needs in the area of gerontology.
+B)
+Establish relationships with industry.
+4.1.2.
+Methodology
+A systematic data base search was relatively straightforward, through the co-operation of a number of reference resources such as the Information Service for Integrated Resources (ISIR) at CITI's Documentation Centre; the Cote des Neiges Hospital library; universities specializing in gerontology; gerontology associations in Quebec and the rest of Canada; the One Voice network; and government and municipal libraries.
+In addition, 250 agencies, associations, government departments, universities and other organizations working with older adults at the international, national and provincial level were invited to submit references.
+In all, 107 articles were eventually selected from the assembled literature.
+Most of these were produced in the United States and Canada, while some came from Europe.
+All were published between 1988 and 1993.
+4.1.3.
+Compilation of results
+Clientele under study
+Almost all studies place major emphasis on the effects of aging on various variables: for example, the impact of a number of technological components or a comparison of seniors' performance with that of other age groups.
+Since the conclusions do not apply to the same age groups, however, it is very difficult to compare findings.
+Although several authors speak out against the tendency to consider older adults as a homogeneous group, very few studies are sensitive to the subtle differences that distinguish one cohort from another.
+For while individual characteristics must not be overlooked, each cohort is typified by particular values, historical and psycho-social experiences, mechanisms for adaptation to the environment, and other traits.
+These cohorts are better understood by grouping them in various ways according to activities, interests, or life setting.
+Suggested groupings are based primarily on:
+degree of independence (independent, non-independent, bedridden, etc.);
+handicap (physical, social, mental);
+type of residence (house, apartment, low-rental housing, retirement community, rest home);
+recreational pursuits (physical, intellectual, social activities, etc.);
+meeting places (community, medical, social, religious, etc.);
+former workplace;
+mother tongue.
+Studies concerned with handicaps and sensory disabilities
+Too often, researchers view older adults and handicapped persons as one and the same clientele.
+Clearly, a handicapped person who has grown older does not have to cope with the same problems as an older person who becomes handicapped late in life and who, because of the risk of multi-pathological complications due to age itself, has even more obstacles to overcome than a younger person does.
+Although the risk of developing disabilities and handicaps increases significantly with age, studies of physically, mentally or psycho-geriatrically handicapped individuals and technologies designed to serve them have been purposely overlooked in favour of studies of sensory disabilities.
+In particular, given the critical importance of the senses in the use of CITs and the increased incidence of sensory impairment with age, this review covers about thirty articles concerned with technologies and sensory (visual, aural and tactile) disabilities or handicaps.
+Future research should therefore explore the relationship between CITs and older adults handicapped in one or more ways.
+Older adults and technologies reviewed in the research
+What follows is an inventory of technological applications recognized as useful for older adults with or without sensory impairment or handicap.
+The computer is central to more than half the research devoted to this area.
+The computer and its applications appear capable of meeting diverse needs, whether for personal purposes (such as electronic mail, spreadsheets or word processing), for access to information services or for teleworking.
+Telephony and telematics (advanced telephone services, video telephone, teleshopping, bank transactions, aural and visual electronic information in public places, etc.) were the topic of 22 studies.
+Home automation (to which 21 articles are devoted) is also generating considerable interest because it presents simple technical solutions capable of satisfying multiple, complex requirements arising from home care of individuals with health problems, disabilities or handicaps.
+About 12 studies were concerned with alarm systems capable of neutralizing feelings of insecurity and vulnerability (especially among women living alone and handicapped individuals), and therefore likely to encourage older people to continue living at home.
+The ten articles concerned with technologies (such as video cameras and VCRs) used for entertainment or heritage conservation purposes have been grouped under the same heading.
+Furthermore, five studies were concerned with the use of automated teller machines and cash dispensers.
+Completely unexpected findings appeared throughout these studies; a good example concerns older adults' interest in video games and their ability to use them.
+Finally, a few studies were concerned with assistance technologies such as hearing aids, telephones for hearing impaired, Braille readers and voice recognition techniques;
+two documents discussed bar code readers; and three discussed interactive television.
+4.2.
+Older adults' attitudes, needs, interests and behaviour
+Most attention focussed on studies of older adults' attitudes, needs, interests and behaviour with respect to technology.
+This section first groups studies according to the type of technology; they are then reviewed with respect to the role of the technologies in meeting seniors' existing and potential needs; the ability of a particular technology to penetrate this market; obstacles to its use and factors that facilitate learning; seniors' attitudes; and methods for promoting the technology.
+4.2.1.
+Older adults and technology in general
+Effects of aging
+In reporting on a major 1991 study concerned with older adults' attitudes toward technology (the TUDOR study), Collins and Bhatti remarked that the factor determining usage of a telecommunications technology is not the user's age but the level of his or her interest and that, consequently, equipment design is important.
+Physiological changes due to aging can cause problems for someone learning new technologies and using them.
+Girardin (1991) prepared a list of the principal changes (most of which, however, may be overcome through training) that can affect faculties essential for using CITs.
+In addition, Madden (1992) reported a positive correlation between an individual's age and his or her average reaction time, which increases with the complexity of the task and is longest for individuals with eyesight problems.
+Brooks and Gordon (1988) point out that CIT designers should take account of the following:
+12.8% of adults over age 65 suffer from significant eyesight deficits, which show up as a loss of visual acuity and increased difficulty in adapting to darkness and perceiving colours and contrasts.
+There is also an age-related decrease in tactile acuity in the fingertips, which reduces the potential for touch-sensitive screens or tactile reading of texts transcribed for this purpose (Stevens, 1992).
+According to Czaja and Barr (1989), new technologies must be reconciled with the phenomenon of an aging population; in particular, the various stages of life and the characteristics of older adults (specifically the abilities and limitations that affect them in their everyday lives) must be kept in mind.
+They recommend that special attention be given to the workplace environment, home workstations, possible uses of telecommunications for socializing and the educational potential of television.
+Care must also be taken to ensure that networks are used optimally and that relevant information is available.
+Alpiner and Vaughn (1988) report a loss of hearing acuity after 65 years (one of the five most common chronic afflictions in the United States), which may have important emotional consequences in the lives of older adults.
+Since current hearing aid technologies cannot always compensate for problems arising in public listening situations, and since older adults do not want to carry equipment that makes them look old, this problem tends to be overlooked.
+Bouchard-Ryan (1985) reports that, age-related memory loss problems notwithstanding, functional memory is a better indicator of video game learning than short-term memory.
+The author concludes that regular use of the game and relevant feedback (given on the screen at the end of the game) improves participants' reaction speed, regardless of age.
+Profile of older technology consumers
+A particular profile typifies older adults who understand the usefulness of new technologies.
+Festervand and Wylde (1988), Harris (1988), Blaich (1991) and Chappell (unpublished, 1993) describe older consumers favourable to technology as educated; urban; considerably younger than average; more active; financially well off; and possessing some prior experience with current technologies in one form or another.
+On the other hand, sex, health status and the quality of social relationships do not seem to directly influence people's opinions.
+Older adults having several of these characteristics are viewed as leaders within their cohort and act as the best means of promoting the technology.
+Gilly and Zeithaml (1985) write that today's older adults have already adjusted to many technological changes and can certainly do it again if made aware of the technology in the appropriate way.
+They suggest dealing directly with older adults, who demand adequate information before adopting an innovation.
+When computers were marketed to consumers, for example, they were completely ignored.
+Older adults show strong emotional reactions when asked to use a technology involving inappropriately designed equipment and unsatisfactory information on the existence, usefulness or advantages of possible applications (Brooks and Gordon, 1988).
+Jay and Willis (1992) confirm that older persons' attitudes can be modified by experience, which itself depends on training, product user-friendliness and products' ability to meet several needs.
+Several researchers, including Robert Kane, have advocated that particular attention be directed to the possible impacts of technological innovations on people's lives.
+An assessment of the appropriateness of a particular technology for older adults should not be based solely on immediate circumstances but should take account of consequences for society.
+Role of technologies
+Research has shown that, contrary to popular belief, older adults generally have a rather positive attitude toward technology.
+As Bjorneby (1991) and most other authors point out, however, seniors' attitudes are always favourable to the extent that they perceive some payoff such as the potential for meeting one or more of their needs or improving their health, quality of life or safety.
+They recognize that they rely on technology to preserve their independence.
+Technologies are viewed as useful to the extent that they alleviate seniors' concerns.
+Older consumers will modify their behaviour if two conditions are met: first, the technology must be useful to them; second, someone must make them aware of its advantages, demystify it and adequately train them (Harris, 1988).
+Older adults will be interested in any equipment, appliance or service likely to improve their quality of life, or in any innovation capable of linking them to information systems and providing them with services at home (Gilly and Zeithaml, 1985).
+According to Stunkel (1991), CITs can be used for distance education, teleshopping and remote medical consultation.
+They also increase the efficiency of existing distribution networks.
+Older adults appear to take easily to the following applications: remote medical consultations; home workstations; custom telephone calling services; and systems for electronic reading, direct payment in supermarkets and electronic funds transfer (Gilly and Zeithaml, 1985).
+Blaich (1992) recommends that product designers consider the entertainment value of the system to the user; his or her ability to dominate the system; installation cost and complexity; and the possibility of adding functions through modular design.
+Elmer-Dewit (1993) describes the unprecedented potential of electronic highways for meeting the daily needs of seniors.
+A number of interactive services for teleshopping, consulting databases at libraries or other institutions, and communicating with financial institutions are already available.
+New technologies will become increasingly important in our aging society, especially with the development of advanced medical technologies.
+Hindrances to the use of CITs by seniors
+The most frequently cited hindrances are cost, a lack of awareness and training and problems with user-friendliness.
+La Buda (1988) also notes that older adults are very concerned that certain equipment may make them look older or marginalize them.
+Stewart (1991) reviews problems experienced by older adults in coping with images, sound, the keyboard and the interface, by relating these to the effects of aging.
+He then recommends an ergonomic approach to the entire design process that would consider such characteristics of the older user as size, weight, strength, endurance and limitations.
+Watzke (1992) takes a similar approach to home automation by recommending elimination of obstacles (such as lighting, stairways or floor coverings) that can cause falls.
+While older adults take a fairly positive attitude toward technology, they do not act readily on these attitudes.
+For example, Gilly and Zeithaml (1985) conclude that a very small percentage of older adults intend to experiment with technologies such as the computer and that very few adults aged 65 years and older (less than 1% in the United States) actually use these technologies.
+Bouchard-Ryan (1986) cautions those who promote CITs to older adults that they should recognize that the later stages of life create significant needs, that certain factors may limit the usefulness of computers and that an individual's vitality and sociability can be negatively affected by computer overuse.
+Another problem has been brought to the attention of specialists in gerontechnology.
+Trencher (1988) complains of the lack of co-ordination and communication between designers, sellers, users and professionals in promoting new products, programs or technology-based services capable of improving the quality of life for older adults and compensating for a number of age-related disabilities.
+Older adults' technology-related attitudes and needs and technical capabilities vary greatly among nations and among continents, making any comparison difficult.
+Van Noorden and McEwan (1991) describe one of the European RACE program projects that attempts to demonstrate that telecommunications services (implementation of video telephones) may help individuals with motor, speech or eyesight disabilities.
+The authors note, for example, that older German adults do not want the technology to look like office equipment, and that Portuguese seniors reject anything having to do with telecommunication as too complicated.
+They conclude, nonetheless, that video telephone technology is easy for older adults to use and, by compensating for certain disabilities, may facilitate social relationships and improve the quality of their lives.
+Marketing, technology and seniors
+Furlong (1989) complains that the computer revolution neglected 35 million adults aged 55 years and older, that is, 20% of the total population.
+Similarly, Blaich (1991) indicates that American consumers aged 50 and over account for 47% of the potential market and 77% of household spending power and that older and younger clients' profiles are similar in a number of respects.
+Importantly, pre-retirees or retirees have more time for recreational activities and spend more time at home.
+La Buda (1988) points out that the needs and characteristics of older users must be understood and that companies must market products more actively to this clientele.
+Older adults represent a new, vast, diverse population that is fertile ground for telecommunications technologies (Stunkel, 1991).
+The technology should adapt to the consumer, not the contrary.
+Monk (1988) comments that while technology can harm older persons if used inappropriately, it can play an important role in seniors' everyday lives (by breaking their isolation) if used correctly.
+Bowe (1988) warns that manufacturers should design their products so as not to marginalize senior adults, who want to feel as if they belong in the community.
+Otherwise, as happened with Videotext in Florida, manufacturers may not get through to their target population.
+Note, too, that technology is developing more rapidly than psychology.
+Learning of CITs by older adults "You are never too old to learn."
+Rudick Roger (1988)
+Gilly and Zeithaml (1985), in reviewing the process of adoption of new technologies, conclude that it follows the following model:
+knowledge;
+persuasion;
+decision;
+implementation.
+Bouwhuis (1991) has demonstrated the need for thoroughly understanding the learning process and for working within the bounds of users' perceptual capabilities.
+Research by Bouchard-Ryan (1992) demonstrated that aging can have a significant impact on performance of a computer learning task.
+In Rott's (1988) opinion, older adults' judgments regarding CITs are shaped by their motivation for using the technologies and on perceived positive aspects or potential dangers, which in turn are influenced by an interaction between educational level and previous experience.
+Rott claims that programs to instruct seniors in the use of CITs will not be maximally effective and helpful unless their cost is reduced and they are made more accessible.
+By using current distribution networks more efficiently, CITs can play a role in satisfying increasing demand for adult education and distance education.
+For this to work, however, older adults must possess (and know how to use) basic equipment such as computers and modems.
+Among the advantages of CITs for such an application are their ability to work with instructional material in different formats (Young, 1989; Stunkel, 1991).
+Straka (1986) published a revealing study, based on results of a 1981 survey of Americans aged 45 years and over, of older adults' behaviour with respect to new technologies.
+As this survey is already over ten years old, the percentages may be slightly different today; they still, however, reflect the dissonance between discourse and behaviour.
+Here is a summary of the results of this survey:
+37% of subjects subscribed to cable television service;
+8% used a video cassette recorder;
+50% used a calculator;
+50% claimed that technology had not really made their daily life easier;
+50% said that machines did so much of the work that there was not much left to do;
+87% said that they make life very impersonal;
+87% said that people could do things faster and better using technologies;
+34% claimed that life would be easier and better when people could do everything from home using telephone and cable;
+women watch more television than men, regardless of age;
+watching increases at about age 55, reaches its peak at 70 years, and decreases afterwards.
+Eilers (1989) draws relationships between educational level, the use of electronic tools such as the VCR or calculator and older adults' attitudes and behaviour.
+She claims that older adults would be more interested in learning to use a computer if they were provided with adequate instructions, preferably by their peers.
+What do older adults look for in a technology?
+Most of the researches show that older adults who adopt CITs want to improve the quality of their lives.
+They have the following objectives:
+learn;
+satisfy general curiosity, keep up with the times;
+remain mentally active;
+encourage social contact between generations;
+develop new friendships based on common interests;
+improve their self-esteem;
+improve memory and skills;
+increase feelings of accomplishment;
+control the environment;
+make some extra money.
+4.2.2.
+Principal conclusions related to particular technologies
+Telephone
+Bowe (1990) indicates that 70% of Americans aged 51 and over, as well as of those with sensory, physical or learning disabilities, are interested in using CITs as long as they don't have to purchase a computer, modem or any other equipment (although 16% of those 51 years old and over already have a personal computer and modem).
+Seniors are, however, prepared to pay up to $14 extra per month for new telephone services, of which three were seen as priorities:
+electronic directories;
+home safety (fire and burglar alarms, etc.);
+medical advice.
+Like most researchers, Infante-Rivard (1988) points out that the telephone is the technological tool that older adults find easiest to use and integrate most easily into such daily activities as socializing, conducting bank transactions and obtaining medical care.
+Furthermore, it is essential in emergencies.
+The author notes that older adults find it easy to discuss their health over the telephone, accept advice regarding healthy life habits, and seek out recommendations on how to care for minor problems.
+Telephone contact between older adults and health professionals may reduce the demand for medical services and cause the frequency of medical consultations to decline.
+They also provide emotional comfort and serve to reassure family members.
+The key role of telephone systems in older adults' homes is underestimated; moreover, available services are poorly adapted to the needs of this clientele.
+For example, while 99% of Swedish seniors believe that the telephone is essential to their life and more than 50% of them have two or three telephones, 32% would like their telephone to be linked to an emergency response system, 15% would like a telephone with memory and 34% wished that the directory were easier to use (they find the printing too small and the presentation incoherent).
+Several respondents suggested that telephone booths should be better insulated from background noise (Collins et al, 1991; Östlund, 1993).
+Moreover, Van Noorden and McEwan (1991) conclude that advanced telecommunications services such as video telephones may be useful to older adults with one or more disabilities.
+When uncomplicated and easy to use, video telephones could establish contact between the home and an assistance centre, encourage social interaction, make it possible for responders to quickly obtain more complete information on a patient's status, provide an impression that someone is present and facilitate comprehension for those with hearing problems.
+Telephones can foster autonomy in older adults whose mobility has been reduced and, at the same time, make professional services designed for them less cumbersome.
+In addition, audiovisual material encourages high-quality interaction without generating a fear of technology (Robinson, 1991).
+Access to telephone systems designed for active and passive monitoring, listening and emergency response must be encouraged.
+Trickey (1993) claims that these systems will be more easily accepted if their advantages and operating instructions are more adequately presented and if the differences between the various types of systems are explained.
+Video cassette recorder
+While recognizing the recreational, informational and educational value of video cassette recorders (VCRs), Fletcher (1986) reviewed their appropriateness for certain projects.
+By recording reminiscences on audio or video tape, seniors foster a sense of continuity within the family, gain an opportunity to preserve their knowledge, wisdom and experience and help to strengthen family identity.
+Seniors who feel a profound need to tell their story could use this process, as could younger people who want to know about the past or find their place in their family tree.
+Yahnke (1989) strongly suggests using VCRs for educational films that involve older adults while meeting certain standards.
+In addition, he recommends that such equipment be used to create documentaries, portraits of real or fictional persons and concrete illustrations of the aging process.
+Computer
+The United States contains a pool of 35 million older potential computer users (Rudick, 1992).
+These individuals, who already consume heavily, will constitute a growing market.
+The percentage of seniors using the computer will increase phenomenally in the near future, as those currently on the job market retire.
+Among other services, older adults would like access to health information, teleshopping and home banking (Recio, 1990).
+Attitudes toward the computer
+Older adults express fear and reluctance toward new technologies such as the computer (Bouchard-Ryan, 1989).
+Seniors view the technology as worthwhile only if accompanied by satisfactory information concerning potential advantages and applications specifically relevant to them.
+In addition, there are a number of negative attitudes toward (and prejudices against) older adults with respect to their ability or skill in using computers.
+Most frequently heard are these:
+the older people get, the less capable they are of using computers;
+seniors who do manage to do this are not representative of their age group.
+Contact between health professionals and older adults using the telephone and computer may be appropriate for seniors (especially those in remote areas), particularly since older adults tend to complain about their relationships with their doctor (Greenberger and Puffer, 1989).
+Bouchard-Ryan (1990), in a portrait of the interaction between older adults and computers, points out that, while older adults have adapted to many technological changes since the beginning of the 20th century, they have more difficulty with the computer -- even if it is widely used throughout society and could improve the quality of daily life considerably.
+FThe author provides some statistics on seniors' attitudes toward computers:
+40% of those aged 45-64 years, 34% of those aged 55-64 years and 20% of those 65 years and older view this technology favourably.
+She explains the attitude of the older respondents as follows:
+they don't need it; they can't use it; and they are concerned by their relationship with the machine since the human dimension of various aspects of life increases in importance with age.
+Previous experience with technology and a positive attitude toward the phenomenon are two of the most important factors favouring adoption of the computer.
+Interestingly, attitudes are shaped by income.
+In keeping with other findings in the area, Hahm and Bickson (1989) precisely identified the factors influencing adoption and use of computers (specifically electronic mail and working in networks) by retirees: some knowledge of the technology, sufficient financial resources and a fairly strong educational background.
+Older adults are looking for different things depending on their age bracket:
+people aged 40-64 years want efficiency and safety;
+people aged 65-74 years want comfort and safety;
+people over 75 like programs, services and equipment that can help them in their everyday lives (Bouchard-Ryan, 1990).
+Obstacles to the use of computers by older adults
+Stewart (1991) explains that older adults may experience a number of problems when using computers, for the following reasons:
+they have more to unlearn from their accumulated experience;
+their faculties are diminished;
+they harbour certain fears, probably caused by their own or others' previous unfortunate experiences;
+they are afraid of making mistakes;
+they have preferences, needs and requirements that the marketplace ignores;
+they have doubts about the proclaimed wonders and benefits of this technology.
+Stewart notes, however, that the real problem can be found in unsatisfactory computer design, which does not consider the user's size, strength and limitations.
+The computer should be easy to understand and use, safe, attractive, practical, made of appropriate materials and durable; in addition, its performance should justify its cost.
+There is a relationship between people's facility in using the equipment and their motivation to do so.
+Older adults have positive attitudes toward technological changes and computers if they find these innovations useful in some way (Recio, 1990).
+As seniors form a heterogeneous group, however, close attention should be paid to their various attitudes, perceptions and modes of learning.
+The higher the income of older adults, the more education they have and the more interest they take in technological products -- if they see any use in them.
+Design, cost and system compatibility problems must be solved.
+Potential older users will accept any simple, attractive technology designed specifically for this group and marketed adequately (La Buda, 1988).
+Care should be taken to avoid situations that may provoke negative reactions in older adults and cause them to become discouraged.
+Older adults, particularly those undergoing rehabilitation for physical disabilities, are prone to anxiety (Ujimoto, 1992).
+Seniors react emotionally to equipment intended for them but poorly designed.
+Charness (1990) comments that, since design rules and standards generally do not consider population aging, the usefulness of such equipment for older adults is limited.
+The risks of overuse and isolation can have an impact on various facets of life.
+If technologies such as the computer reduce social contact, they run counter to stated objectives (Östlund, 1992).
+In addition, a number of older adults may engage in behaviour best described as passive.
+The technical benefits should be consistent with the user's objectives.
+For example, retired people have an ample supply of free time; therefore, they may not care if computers save time or not.
+Teaching older adults to use computers
+Learning a computer-related task depends on training, not attitudes.
+The effects of age on this process must be assessed using paradigms derived from perception and attitude research.
+Even if young people are often better at performing tasks requiring particular skills and show higher success rates when learning tasks, the learning abilities of people aged 55 and over must not be underestimated (Bouchard-Ryan, 1991; Czaja et al, 1989; Furlong, 1990).
+While attitudes toward the computer tend to become more negative with age, older adults who undergo training designed specifically for them obtain results similar to younger people (Zandri, 1989).
+Such training should be designed with the following ideas in mind:
+it is much more economical to conduct training in two-person teams;
+older adults take twice as long to learn as younger people;
+they should be able to learn at their own rate, with an instructor available to answer their questions;
+their attitudes are intimately linked to their performance.
+While older adults have ambiguous attitudes toward technology in general and computers in particular, they are willing to adapt to these technologies and learn the skills necessary for doing so.
+These attitudes can be modified through direct experience and depend on training, comfort and computer efficiency (Jay and Willis, 1992).
+McNeely (1991) confirms that while age, level of education and previous keyboard experience are important factors, do not determine learning achievement.
+Eilers (1989), in reviewing the receptivity to training of older workers, concluded that they managed to learn despite initial negative attitudes.
+Older workers can use computers to make a smooth transition between the labour force and retirement.
+Eilers gives the following examples of factors creating resistance to participation in a computer training course: course taught by a younger instructor; competition with younger students; program too mathematical or career-oriented; and problems caused by one or more physical disabilities.
+Older adults' computer needs
+There is an immediate, crying need for computer skills among older adults.
+Since the client profile changes regularly, the clientele is becoming more diversified and needs are changing, the system should be flexible (Merrill, 1992).
+Furlong, from the SeniorNet network in the United States, has remarked that older adults want intellectual stimulation and have a great deal of patience and perseverence.
+Computers and telecommunications are more than a means by which seniors can gain access to information: they can meet, work on individual or joint projects, communicate among themselves, and get emotional support as well.
+They view these technologies as a means of participating in contemporary culture and staying in touch with the world.
+Older Swedish adults have accepted the computer well.
+While some adaptation (particularly with respect to visual accessibility) remains to be made, computer technology has had positive effects (Östlund, 1992).
+A number of factors encourage seniors to participate in computer-related activities.
+Therapists and others who work with older adults should receive training to assist seniors losing their autonomy in using this equipment.
+Therefore, the abilities of new generations of older adults with respect to new technologies, (including the computer) should not be overlooked.
+It is no longer acceptable to extrapolate to tomorrow's older adults from experiments conducted with seniors of yesteryear (Kautzmann, 1990).
+Students in occupational therapy and others who work with older adults should be made aware of the recreational possibilities of the computer.
+Such activities can improve seniors' self-esteem and self-mastery; in addition, this approach can improve interaction with this clientele.
+One can expect that the attitudes and behaviour of the baby-boom generation with respect to technology, especially computers, will have a major impact on the use of technological devices (Chin, 1985).
+Television
+After the telephone, television is the technology most thoroughly integrated into the lives of retirees (Greenberger and Puffer, 1989; Caron et al, 1992).
+Erkert notes that American adults aged 70 and over watch twice as much television as the national average.
+This quite probably reflects the phenomenon of substitution, in which relationships established with program hosts or actors compensate for a lack of genuine emotional ties.
+Straka (1986) notes that women watch more television than men, regardless of age.
+Television watching begins to increase at about age 55, reaches its peak at age 70 and declines afterwards.
+While television is usually a source of entertainment, 34% of those interviewed by this researcher claimed that life would be easier and better when transactions take place from home, using telephone and cable.
+Older adults are also largely responsible for the increased use of media for educational purposes.
+Various forms of captioning enable older hearing-impaired adults to participate more easily in simple activities of everyday social life such as attending meetings or workshops; care must be taken, however, that characters do not leave the screen too fast or that the size of characters is appropriate to clients' abilities (Howe and Graham, 1990).
+Sensory assistance equipment
+As mentioned above, this review only covers research concerned with sensory disabilities or handicaps.
+Most of these studies look at technologies that compensate for auditory or visual handicaps.
+As a rule, older adults are reluctant to use assistive devices that may marginalize them or make them look older (Alpiner and Vaughn, 1988; Bowe, 1988).
+Attitudes toward hearing aids are somewhat more negative than those toward eyeglasses, which are more common because people of all ages wear them.
+Alpiner (1988) points out that attitudes toward hearing aids range from full acceptance to uncertainty and rejection.
+Senior adults who gradually lose their hearing have very specific problems, which are largely misunderstood.
+Pehringer (1989) notes that the network of alternative resources is not sufficiently well developed and accessible to make home autonomy possible on a broader scale.
+As Parker and Thorslund (1991) point out, this conclusion applies to many types of technical assistance intended for older adults.
+Their research revealed that little is known about these products because information is not available;
+they suggest that further information be disseminated to the general public, professionals who work with seniors, the staff of institutions, and the older adults who need it.
+While recognizing this problem of access to information, Trencher (1988) identifies other obstacles, such as the interest of professionals.
+Some time must be expected to pass before those with a direct interest in the equipment (seniors and care professionals) find out about them and take an interest.
+Trencher also notes that these products are not always commercially viable.
+Whitten (1988) adds that advantage should be taken of seniors' talents and experience throughout the process of designing and installing these assistance devices, so that the equipment can in fact help to maintain seniors' independence and society can give them an opportunity to earn an income despite their disability.
+Home automation
+Several researchers present home automation, or the smart house, as an advanced option for providing home care and for compensating for age-related disabilities.
+The changes that occur at retirement (as well as their causes) must be thoroughly understood, before technological applications or programs likely to help older adults remain independent as long as possible can be identified.
+Quite often, the following kinds of changes occur:
+the children leave home;
+income decreases substantially;
+health problems are more common;
+activities become increasingly limited;
+there may be housing problems;
+eventually, one of the spouses may die, or one or both may be institutionalized (Struyk, 1988).
+In addition, older adults' needs vary considerably depending on their status as home-owner or renter, their financial situation, their race, their residence (urban vs rural) and their problems of daily living related to age or physical limitations.
+Prud'homme (1986) points out that it is difficult to distinguish housing needs from more general needs for assistance.
+Therefore, housing needs must be specified precisely, if satisfactory home automation services are to be provided.
+In addition, a number of problems are not specific to older adults but affect the entire population.
+Smart houses will increase older adults' self-esteem if designed to encourage their autonomy in conducting their everyday activities such as bank transactions (Östlund, 1992).
+Home automation facilitates working at home and provides access to entertainment and telecommunications.
+In addition, it encourages access to information, makes the home more energy efficient and enables older adults and disabled persons to remain at home for longer periods (Chin, 1985; Girardin, 1991; Östlund, 1992).
+There are, however, a number of problems with home automation in general and applications intended for older consumers in particular.
+In addition to problems related to installation costs or difficulties, smart houses have the additional disadvantage of being designed for a specific stage of life without any thought given to changes and transitions that affect the individual throughout his or her life.
+As older adults want to remain independent and at home as long as possible, provision must be made for diminished perception and abilities that make people more vulnerable late in life.
+Whitten (1988) reminds the home automation industry that, to better meet the needs of older adults, they must actively consult seniors (disabled or not) in the design and installation process.
+Watzke and Kemp (1992) consider that home automation offers interesting prevention possibilities.
+Accidents are the fifth most common cause of death in the United States; in addition, falls are the most frequent accidents among older people, accounting for 70% of fatal accidents for those aged 65 and over.
+Most falls occur because older adults do not adjust their activities and demands on the environment to their ability level; various devices in an smart house (such as lighting systems that come on when a person walks by or devices sensitive to loss of balance and falls) could remedy this problem.
+Automated teller machines
+Very little research has examined the use of automated teller machines (ATMs).
+Moreover, while existing research is not very recent, their findings corroborate more current results regarding technology in general.
+Gilly and Zeithaml (1985) claim that older adults are a growing segment of consumers in this market segment.
+Since older consumers adopt a favourable attitude if the technology meets their needs and if they are well informed, they will probably accept the behavioural change introduced by automated teller machines.
+In addition, they are quite favourable to electronic funds transfer systems: 44% of those who requested information on this technology were older.
+In Europe, Rudinger et al (1991) reviewed technological applications used by older adults, such as public transport ticket dispensers.
+One of their conclusions is that designers of these terminals should eliminate all possible confusion regarding the type of information dispensed and provide for a response delay consistent with older adults' reaction times.
+Alarm systems
+Most studies of alarm or security systems were conducted in Europe.
+Collins et al (1992) remark that 20% of Dutch seniors have an alarm system, which gives them a feeling of safety, but that 33% of seniors who possessed a portable system were not carrying it when they needed it.
+In 1991 and 1992, Östlund conducted several studies on this topic which reviewed, among other things, older adults' behaviour with respect to residential alarm systems.
+She concluded that retirees tend to select residences equipped with these devices because they can then plan to live safely at home for longer periods.
+Seniors will not trust these systems unless they thoroughly understand how they work and are sufficiently skilled at using them.
+Finally, such systems lighten families' burden of responsibility.
+Care givers, however, may be the only daily contact for people connected to these emergency response systems.
+These devices do nothing to alleviate dependence, solitude and isolation.
+The idea of waiting for someone to come once the alarm has been sounded may in fact increase anxiety.
+Older adults themselves are not the chief proponents of these systems.
+5.
+INDUSTRY SURVEY
+5.1.
+Goals and objectives
+The second component of the study examines relevant issues from the point of view of private sector firms interested in developing CITs to serve people with special needs.
+5.2.
+Methodology
+This component of the study was concerned with roughly ten technological applications.
+In all, 25 private firms and about 30 government agencies and other Canadian or foreign organizations with an interest in older adults were identified.
+The heads of marketing, research, public relations and customer service departments were contacted.
+In telephone interviews, respondents were asked the extent to which their organization was interested in older adults, what services it offered them and, if appropriate, why they were not interested in this clientele.
+In addition, results from respondents' own in-house surveys and market studies were collected, accompanied by comments confirming the importance of this study and expressing a desire to be informed of the results and, possibly, take part in research and development to address these issues.
+What follows is a summary of their responses, which clearly indicates the nature of their concerns with respect to older adults.
+5.2.1.
+Banking industry
+Very few studies or statistics on the use of various banking services are available.
+For example, the banking industry was not particularly concerned with older adults when implementing automatic teller machines.
+It was not until the implementation process was under way or completed that any attention was paid to serving this clientele.
+One Canadian bank explains this by pointing out that only 13% of its customers are 55 years of age or older.
+Furthermore, it appears that 88% of its older customers do not want bank cards, preferring to be served at the counter.
+(Note, however, that 10% do have a card and have used it while 2% have a card but have never used it.)
+This behaviour can be explained by:
+fear of machines, especially among oldest customers;
+fear of making a mistake;
+intolerance toward having to wait in line in front of a machine (they are more tolerant of the same wait if they know that they will be served by a person).
+The caisse populaire and credit union movement, recognized as the banking institution preferred by retirees, conducted an internal survey of older adults' use of automatic banking services.
+Here is a summary of their findings:
+40% of retirees (aged 55 and over) personally carry one or more automatic teller machine cards; 75% of these people have only one card, while 13% have two;
+48% of retirees used their card(s) an average of 6.7 times in the month preceding the survey; 95% of the time they withdrew funds, while 34% of the time they made a deposit;
+during this month, people aged 65 years and over used their cards 6.8 times to make a direct payment, compared with 4.2 times for younger people.
+5.2.2.
+Visual Communication Network (Réseau de communication visuelle)
+In 1992, the research firm CROP conducted an opinion survey for the Montreal Urban Community Transport Corporation to gauge the attitudes and perceptions of riders with reduced mobility regarding the Visual Communication Network (Réseau de communication visuelle).
+The following riders were surveyed:
+visually impaired people;
+hearing impaired people;
+older adults.
+Older adults were very interested by this new application of technology, were not intimidated by it and even expressed a desire to co-operate in this kind of experiment right from the design stage, so that their needs would be better understood.
+Seniors' reactions indicated that the VCN should take account of the following:
+voice clarity and volume (there is no preference for male or female voices);
+display time (displays are easier to read if they last longer);
+there should be fewer advertising messages and they should not go so fast;
+there should be more information on transfers, upcoming stations, where to go to take a bus;
+there should be more practical information;
+weather and news messages were found to be very useful;
+advertising messages could be more informative.
+5.2.3.
+Cable television and interactive television
+The cable firm Videotron appears to be well informed regarding the profile of its older subscribers and indicates a willingness to accommodate them.
+In June 1992, Videotron commissioned the New Technologies Research Laboratory (Laboratoire de recherche sur les nouvelles technologies) at the University of Montreal to conduct a study of subscriber acceptance of its new Videoway technology (Analyse de l'adoption d'une nouvelle technologie : le système VIDEOWAY).
+The study found that 12% of subscribers were aged 55 years and over; furthermore, 76% subscribe to both Videoway and pay television, while 24% subscribed only to Videoway.
+The researchers obtained valuable information about the user-friendliness of the Videoway system, in that 70% of respondents found the system fairly or very easy to use but that only 30% were fully comfortable with it.
+They also asked respondents about the variety of services accessible at all times; on the time spent playing games; and on their preferences toward one or the other of these options.
+A total of 32% of interactive television viewers are 55 years of age or over; furthermore, 60% of these viewers watched interactive programs in the weeks preceding the interview.
+On average, seniors consume 16 hours and 32 minutes of pay television per week, including 6 hours and 10 minutes on weekends.
+They watch an average of 22 hours and 26 minutes of conventional television each week.
+The researchers conclude that people aged 55 years and over do not necessarily use the various system components more often, but stay with a particular component significantly longer each time they do use it (this is as true for games as for other telematic services).
+In addition, they are heavy consumers of conventional television.
+5.2.4.
+Telephone
+One Canadian telephone company has also studied the characteristics of users aged 50 and over in an internal survey designed to establish the profile of this clientele and identify their current and future telephone needs.
+The survey found that:
+today's seniors are wealthier and healthier than their predecessors, and this trend is continuing;
+with 55% of discretionary purchasing power, they are a significant retail market for a number of services;
+this is a clientele sought after by financial institutions; manufacturers of personal care products, upscale merchandise and health-related products; travel agencies; and relaxation centres (spas and health clubs);
+these consumers are nonetheless educated; determined to ask questions and take their time to find the right product; and demanding of quality;
+this is not a homogeneous group but multiple cohorts with diverse interests, values and needs.
+The survey also contains information on the attitudes of consumers aged 50-64 years and 65 years and over toward a number of other services.
+Finally, it provided some highly interesting information on the potential of telecommunications products and services, as well as products and services now available to older adults or that could be made available to them.
+5.2.5.
+Security systems manufacturers
+While this industry does not design its products to meet the needs of target clienteles, one of the firms interviewed is developing new portable alarm systems and other assistance devices (such as collars, bracelets and blood pressure or respiratory rate sensing devices) that may be appropriate for adults and seniors with health problems.
+This firm does not, however, have any way to determine whether these products meet the needs of older people, nor is it conducting research and development for new products intended for this age group.
+5.2.6.
+Home automation
+General Electric of Canada (GEC), which participated in a project for handicapped persons and older adults, reports that a very small percentage of the population uses the sophisticated functions of electronic devices used in home automation and that the products most in demand are those that are easiest to use.
+While all common household appliances could be considered part of home automation, smart houses are turning out to be more complex and costly, and less user-friendly, than was originally believed.
+The first pilot home automation project, an apartment adapted for an individual with reduced mobility, was carried out in Quebec by the Canada Mortgage and Housing Corporation (CMHC) in co-operation with the Quebec Housing Corporation (SHQ).
+5.2.7.
+Computers
+Despite a good deal of research, the computer industry was the most difficult to approach because staff turnover is high, research and development is carried out in the United States, Canadian branches are primarily sales offices, and so on.
+Representatives from two major computer companies were interviewed.
+These individuals reported that their companies had not conducted any surveys regarding older adults' use of computers or the interests or needs of this group.
+One of the companies markets solely to business, domestic, educational and government clients.
+Older adults do not fall into any of these categories.
+Moreover, the over-40 group is not seen as a priority for investment.
+This company has, however, specialized in technologies adapted for handicapped persons, such as voice recognition, adapted keyboards and special character fonts.
+The other company showed some interest in special client groups but so far has not embarked on any research projects, at least in Canada.
+The company has, however, co-operated on several smaller projects concerned with older adults.
+The respondents wanted to remain informed of any proposed CITI projects, and would even be interested in participating in them.
+6.
+RESEARCH AND DEVELOPMENT
+The last component of this study, a survey of various projects worldwide, was one of the most rewarding.
+These projects, of varying sizes and conducted over many years, have a number of points in common.
+First, they are all concerned with older adults aged over 55 years.
+Second, their purpose is to find ways to apply technology to improve the lives of older adults, keep them independent and lighten their day-to-day load.
+About 20 Canadian, American and European projects to explore the interaction of technology with various groups of older adults were surveyed but the most significant ones are discussed.
+6.1.
+Canadian projects
+6.1.1.
+Creative Retirement Manitoba/Canadian Healthcare Telematics
+Description
+The purpose of this project is to develop, test and evaluate an electronic network giving access to an on-line database and conferencing system specifically adapted to the needs of older consumers wishing to maintain an independent lifestyle.
+Objectives
+Develop a sound understanding of older adults' requirements, such as the nature of desired information and preferred format, when using on-line information systems;
+determine the relevance of telematics as a solution to problems experienced by older adults in obtaining information they need to live autonomous lives after retirement.
+6.1.2.
+Applications of Building Automation for Elderly and Disabled Persons (Hickling Report)
+Description
+This is a preliminary market study, commissioned by the Canadian Automated Buildings Association (CABA), to identify potential home automation applications most likely to help older adults and persons with disabilities.
+This study assessed opportunities for Canadian firms to participate in developing and marketing technologies to meet the needs of these clienteles.
+CABA wishes to develop a strategy to close the gap between consumers and suppliers.
+Implementation
+A review of consumer needs and related technological responses, through analysis of databases and literature;
+focus group sessions with elderly and disabled consumers;
+a survey of North American suppliers of automated building technology.
+6.1.3.
+Info-3e âge project (Quebec)
+Description
+This is a pilot project for an Info 3e âge Centre to provide information and referral services, based primarily on volunteer telephone assistance to older adults in specific geographic locations.
+The Centre will house all relevant documentation and (in certain cases) provide appropriate help and advice.
+The information should eventually be adapted for use in an electronic format.
+Implementation
+Adaptation of information and references to the diversity of older adult populations and to the specific characteristics of affected localities;
+collection of primarily local and regional documentation of interest to seniors;
+dissemination of information;
+management by older adults, supported by local groups.
+6.1.4.
+Silver & Gold (Ontario)
+Description
+This is an electronic network for communication between older adults.
+Objectives
+Set up a means for rapid, efficient and affordable communication to reduce seniors' isolation and put them in touch with others who share their interests;
+encourage intellectual activity to counteract memory loss, dementia and depression;
+provide seniors with an opportunity to share their knowledge and experience;
+provide community and government agencies with a medium for disseminating information that may affect older adults.
+6.1.5.
+Seniors Resources and Research Society (Infonet)
+Description
+This is an electronic communication and information network developed by and for older adults and any other interested individuals.
+The project includes development and evaluation components.
+This project is directed by Infonet, which establishes and manages computer learning centres for older adults in the United States and co-ordinates a network for electronic communication between its members.
+This Canada-wide electronic communication network, which links various organizations, provides access to an on-line database and several other services adapted to the needs of older consumers wishing to lead an autonomous lifestyle.
+The network includes various components, such as: news, electronic mail, library, forum, database and bulletin board.
+Objectives
+Give British Columbia seniors ready access to all information useful and interesting to them;
+revise and update this information;
+provide Infonet users with a simple, affordable communications network.
+6.1.6.
+Project PAIR (Quebec)
+Description
+This is a computerized system for regularly monitoring the status of individuals living at home.
+The system is made up of a computer, a loudspeaker, a telephone and a printer, and includes a database containing information on individuals registered in the program.
+When the system is activated, registered seniors are telephoned one by one with a computer-generated voice message.
+If there is no answer after a predetermined number of calls (usually two), an alarm sounds.
+The system prints out a complete report on the individual in difficulty, based on the calling history.
+A daily report is generally printed out as well.
+Objectives
+Meet a need for safety, while allowing older adults to maintain their independence;
+encourage individuals who wish to remain independent to take responsibility for themselves, provided that someone looks in on them;
+alleviate certain seniors' feelings of solitude or isolation;
+make older adults aware of the reality of getting older, which is often suppressed (illnesses, fears, etc.) while reassuring them with a service such as this;
+save lives by anticipating the worst.
+6.2.
+Project in the United States
+6.2.1.
+SeniorNet
+Description
+This is a non-profit organization to establish and manage computer learning centres for older adults in the United States.
+It also co-ordinates a network for electronic communication between its members.
+Objectives
+Determine if computers and telecommunications can enrich the lives of older Americans;
+provide a secure, friendly environment for learning about computers;
+bring older adults together in a single communications network;
+provide useful, relevant information to seniors over an on-line system.
+6.3.
+Projects in Europe
+In Europe, the principal projects are being conducted within major European research programs, either general programs (such as RACE) or specific ones (such as TIDE).
+Scandinavian countries (such as Norway and Sweden) with a well established tradition of research and development in the area of social applications of technology are also quite interested in the impact of technology on older adults.
+6.3.1.
+RACE (Research and Advanced Development on Communications Technology in Europe)
+Description
+Three major projects are being conducted under this Council of European Communities program:
+APPSN : Application Pilot for People with Special Needs;
+IPSNI : Integration of People with Special Needs in IBC;
+TUDOR : Tutorials about Users who Disabled are Retired.
+Industry, universities and user groups are co-operating on these projects.
+Objectives
+APPSN : Demonstrate the commercial potential of home support and care services using video telephones.
+IPSNI : Develop specifications for multimedia communications networks for persons with motor, vision and speech disabilities, to facilitate their professional and social integration, improve their cultural access and foster their independence.
+TUDOR : Evaluate the potential of broadband communications networks with respect to the integration of seniors and persons with disabilities in society and the improvement of their quality of life.
+A sample of 6,000 persons has been consulted.
+6.3.2.
+TIDE: Technology Initiative for Disabled and Elderly People
+Description
+This European Community project includes 21 projects designed to develop models and tools for manipulation and control, personal communication, safety and day-to-day support and access to information for people with special needs (Ballabio, 1992).
+Objectives
+Explore needs in adapted technology;
+make new technologies accessible to everyone, without discrimination as to disability;
+meet the everyday needs of persons with disabilities, compensating for certain impairments with new technologies.
+6.3.3.
+Home Shopping Systems
+Description
+This Swedish research project equips seniors with computers, faxes and adapted telephones to study various characteristics of home shopping systems.
+Objectives
+Describe these systems from the point of view of older consumers;
+specify procedures for implementing such systems in seniors' homes;
+assess the positive and negative aspects of various modes for communicating between consumers (seniors) and service dispensers (the commercial sector).
+6.3.4.
+Elderly and Self-Service Technology
+Description
+This Norwegian pilot project includes two parts:
+First part:
+a review of the literature on older adults and their use of modern technology;
+a survey of other projects concerned with this subject;
+observations of older adults and interviews in banks, automated self-service outlets, etc.;
+discussion groups and distribution of a questionnaire to randomly selected older adults.
+Second part:
+installation of various technological equipment in two day centres for older adults.
+Objectives
+Elucidate older adults' attitudes toward self-service communications technology;
+identify the conditions and user aspects that are relevant if older adults are to make use of such technology.
+6.4.
+Reactions
+Managers of most of the projects described showed considerable interest and willingness to co-operate, not only in providing information on their work but also with a view toward possible participation in projects to follow the present study.
+This interest is exemplified by the following remarks:
+"Your project looks very interesting!
+I am looking forward to hearing more about your work, as I am convinced there is an enormous challenge along these lines."
+Sidsel Bjorneby, Human Factors Solutions, Oslo, Norway.
+"We are very interested in expanding our involvement in the area of seniors and communications technology and would welcome co-ordination with you as your plans become more definite."
+Elliott Stein, Stein Gerontological Institute - Technology Centre for Independent Living, Miami, U.S.A.
+"It's wonderful that you have embarked upon this much-needed study!"
+Isobel Warren, Silver & Gold, Toronto, Ontario.
+"1993 Elderhostel would be extremely interested in working with you on the concept of using new technologies with seniors."
+Robert Williston, Elderhostel, Kingston, Ontario.
+7.
+SURVEY OF ASSOCIATIONS AND GROUPS OF OLDER ADULTS
+A major portion of the data was collected through direct contact with organizations of older adults and professionals working with this age group.
+To do this, a letter briefly describing the project, accompanied by an eight-point questionnaire, was sent to selected groups and individuals in Canada and abroad.
+7.1.
+Goals and objectives
+The purpose of this survey was to solicit information from groups representing older adults, to help senior networks and relevant professionals better understand gerontechnology issues in Canada.
+7.2.
+Methodology
+The questionnaire was mailed to the following groups:
+organizations of older adults (Canadian members or partners of One Voice);
+non-profit organizations;
+provincial government departments and advisory boards with responsibility for the status of older adults;
+members of the One Voice board of directors.
+A number of groups and professionals involved in research into technology, gerontology and other fields were also mailed or faxed the questionnaire, with a letter requesting additional information.
+Several contacts were made by telephone.
+Respondents were selected according to the following criteria:
+A)
+Representativeness of older adults and professionals
+To ensure that the sample was representative of older adults and professionals, experts on questions related to aging, non-profit organizations representing older adults and members of the One Voice board of directors were selected to participate.
+B)
+Representativeness of provinces and territories
+Representation by provinces and territories was guaranteed by sending the letter to departmental agencies responsible for the status of older adults in each province and territory.
+C)
+Diversity of the clientele
+Diversity of the clientele was guaranteed through contact with member groups of The Canadian Seniors Network, as well as with other non-profit organizations working in various areas.
+Some examples are:
+the Canadian Association for Adult Education;
+the Canadian Association for Independent Living Centres;
+the Confédération des organismes provinciaux pour les personnes handicappées (Quebec).
+Research groups such as the following were also consulted:
+gerontology centres and programs at universities;
+business firms conducting technological research;
+groups and individuals working with rehabilitation technologies.
+D)
+International participation
+International participation was guaranteed through contacts with professionals with an interest in gerontological issues in ten different countries.
+7.3.
+Results
+The overall response rate was 23.1%;
+the rate of response to the questionnaire was 11.1%.
+What follows is an analytic compilation of the questionnaire responses.
+QUESTION 1:
+In your opinion, what specific needs and services would new multimedia technologies help provide for?
+While several respondents claimed to know little about the new communications technologies, most respondents appeared to have no trouble identifying needs and services.
+According to 65% of respondents, one of older adults' principal needs is access to accurate, up-to-date information.
+"
+The level of autonomy of an aging individual can be increased by giving him or her fast, easy access to essential information."
+Many respondents also pointed out the huge potential of communications technologies for individuals living alone or in remote areas.
+In addition, 52% of respondents indicated that the technology could increase social interaction and reduce isolation, while 30% stressed its importance for guaranteeing older adults' safety.
+Finally 26% mentioned health and autonomy as issues of concern for older adults.
+Other points brought up included communication or language problems (26%) and mobility and transportation problems (17%).
+QUESTION 2:
+What form(s) would/could these new technologies take?
+The wide variety of responses to this question depended primarily on the degree to which the respondent was familiar with the new technologies.
+While several respondents listed simple, familiar technologies like the telephone, television or VCR, many of them identified more recent and complex technologies.
+The technologies most frequently mentioned were the computer and computerized systems (43%) followed by self-service type systems and security or emergency response systems (30%).
+Five respondents mentioned interactive television, adaptive telephones and VCRs.
+Importantly, the results of these first two questions are related.
+The computer and self-service systems provide access to information and communications, while security and emergency response systems are used to protect individuals living alone or in remote regions.
+QUESTION 3:
+What do you think would be possible barriers to bringing seniors and communication technologies together?
+How might these barriers be reduced or eliminated?
+Financial and psychological obstacles were mentioned most often.
+In all, 57% of the respondents claimed that cost could be a major hurdle.
+As one respondent put it, "Older persons on fixed income do not always have sufficient resources to secure the equipment, servicing and support required."
+As to psychological obstacles, 43% of the respondents mentioned feelings of fear or intimidation in dealing with new technologies; in addition, 26% believed that older adults may be resistant to change because of their habits or cultural upbringing.
+QUESTION 4:
+What do you think would be enabling factors to bringing seniors and communications technologies together?
+In all, 86% of the respondents felt that awareness on the part of older adults and the general public was very important;
+39% mentioned the importance of training and support to seniors in the learning process; and 35% cite promotion of the technology and education of the public by the media.
+The format of a course for seniors offered by adult education institutions or community centres is preferred by 22% of the respondents, while 17% preferred to be instructed by their peers.
+Other proposed solutions were subsidies and programs to reduce the cost of implementing the technology (30%) and the development of more suitable, user-friendly technology (17%).
+Only 8% of the respondents mentioned that public and private sector managers (who are responsible for developing, producing and distributing the technology) also needed to be better informed of older adults' situation and needs.
+QUESTION 5:
+Are you aware of any previous similar or related studies, by your organization or by other organizations in Canada and abroad?
+and
+QUESTION 6:
+Do you know individuals or organizations that could help us in our research?
+Both of these questions obtained a response rate of 73%.
+The information obtained from them was reviewed and the appropriate individuals or groups were contacted.
+QUESTION 7:
+What are your feelings and comments/ideas for this project?
+Most of the reactions expressed were enthusiastic.
+Many respondents who work either with older adults or with technology recognized that such issues needed to be addressed, and felt that strategies should be developed to encourage older Canadians to participate fully in modern society by efficiently using its tools.
+They recommended that this project continue over several years and consider a number of factors such as the cost, design and marketing (promotion, education, etc.) of technological devices.
+Here are some sample comments:
+"Communication will be essential to keep older adults in the mainstream of society.
+Strategies need to be developed so that the technology developed will be appropriate and adaptable to an aging population."
+"Technology has an enormous potential to make life easier for seniors.
+However, seniors need to know what kind of technology is out there to help them.
+They also need to feel comfortable using it."
+"People still have many misconceptions about aging and one of those is you can't teach an old dog new tricks!
+Seniors need to know that they are as capable of learning how to use new technology as younger people."
+"Anything that can promote the wider use, by seniors, of the rapidly proliferating, increasingly sophisticated, labour emancipating, ever more user-friendly instruments of modern technology, will have the potential for social and economic benefits that could improve the quality of life for all Canadians."
+"Technology for senior citizens is no longer an abstraction.
+The push-pull effect of new commercially available technologies is leading inexorably in that direction.
+Furthermore, we must see the train coming and act immediately if we don't want to miss it."
+"Important to recognize technology as a tool rather than a crutch.
+Hi-tech without integration to existing services for seniors will not solve communication/access problems."
+"Through efficient use of new technology, the government can save money in the medium term while improving older adults' quality of life, sense of well-being and social involvement."
+"We think that getting older people interested in multimedia is a wonderful idea!"
+QUESTION 8:
+Do you believe that you can make a particular contribution to this project?
+If so, how?
+Responses to this final question fall into three categories:
+individuals and groups who could act as intermediaries between the older adults they serve and the project co-ordinators;
+individuals and groups who could provide expertise;
+individuals and groups who volunteered to participate in a pilot project.
+Co-ordinators of any future project or projects will assess these possibilities for co-operation, and will determine human resource needs at that time.
+Summary
+The questionnaire responses indicate that older adults use CITs -- primarily computers, self-service or security and emergency response systems -- to satisfy information and psychosocial needs.
+Companies that develop and implement them should take account of equipment cost; psychological barriers; user training; promotion to the public; and possibilities for subsidies and programs designed to reduce cost to the consumer.
+It appears that a lack of contact and interaction with technological devices, rather than prejudice, is responsible for many seniors' resistance to new technology.
+The respondents, some of whom are unfamiliar with CITs, did not seem to have difficulty identifying needs that new technologies could satisfy, services that they could provide and possible hurdles to their adoption.
+Many seniors are intimidated or even frightened by these modern communications technologies; training and promotion would be the most effective ways to overcome these feelings of discomfort in the face of the unknown.
+In general, respondents were enthusiastic about CITs as long as they could understand why they were useful.
+The technology will be more effective, and more widely accepted, if the needs and interests of both young and old users are identified.
+The respondents did not appear to be afraid that the technology will hinder personal relationships, believing instead that it will enrich the social lives of older adults.
+The high response rate indicates that interest in this question is widespread.
+The findings agree with those from more comprehensive studies that most older adults are not put off by new technologies but are willing to learn to use any technology that is truly useful and for which suitable training and equipment are provided.
+8.
+CONCLUSION
+8.1.
+Older adults and technology
+Older Canadians are no longer a homogeneous group; in addition, today's seniors do not have much in common, from the point of view of life experiences, with the generations that preceded them.
+In the last ten years or so, recent retirees in particular have become the pioneers of modern aging, experimenting with new social trends such as early retirement; encouragement of home care by families of seniors who are losing their independence; the growth of seniors' rights groups; and special rates for people aged 55 years and over.
+The most recent wave of older adults has had to adapt to all kinds of major technological changes in the last quarter of the 20th century.
+Such innovations as radio, the telephone, sophisticated household appliances, television, video cassette recorders, and medical and biomedical technology have found their way into seniors' lives, whether they wanted them or not.
+Older adults have not adapted nearly so well, however, to newer communications and information technologies (such as computers, modems and electronic games) that still seem too closely associated with people under 40 and are developed to serve this market.
+Most research findings, as well as comments from private sector representatives, indicate that the CIT industry does not consider older adults as a target clientele; that the profile of this clientele is misunderstood by those with an interest in issues of gerontechnology; and that, too often, these professionals are still relying on obsolete data (information and statistics from previous generations).
+Most of these products, therefore, are developed based on obsolete assumptions.
+Older adults have a great deal of difficulty identifying their needs or interests with respect to technology or evaluating equipment or services, given that they are not very familiar with the phenomenon.
+They have trouble conceiving of what is described to them, given the highly technical nature of this field.
+This, in fact, was one of the main problems encountered by most researchers.
+Since opportunities for interaction between older adults and technology will probably become more numerous as the population ages and CITs become more advanced, it is time that the major actors prepare themselves for this phenomenon.
+In Canada, as in all industrialized countries, the new wave of older adults will have increasing contact with CITs.
+More Canadians than believed, aged 55 years and over, have now, and will continue to have, the characteristics cited by research studies as necessary for use of CITs, that is, suitable education, a desire to remain physically, intellectually and socially active, financial means and some familiarity with the technology.
+8.1.1.
+Things are certain to improve
+As the children of the postwar generation begin to reach 55, an older Canadian population will become an unprecedented reality.
+As people come to live ever longer lives, there will be more and more Canadians aged 80 years and older, both in proportion and in sheer number.
+In addition, if current trends continue, they will probably remain independent longer.
+Most studies find that older adults in general, and women especially, are reaching retirement age with more skills and better prepared to look out for their own interests.
+This situation is reflected in:
+unprecedented educational achievement, generally superior to that of preceding generations;
+for a larger proportion of seniors, a healthier financial situation compared with their predecessors;
+growing interest in continuing education.
+8.2.
+What are seniors' attitudes toward technology?
+Not surprisingly, given their constantly changing profile, older adults' attitudes toward technology are ambiguous.
+Seniors do modify these attitudes, however, if the technology works for them and is consistent with issues of interest to them, such as:
+improvement in the quality of life (self-esteem, satisfaction);
+socialization (meetings, communications, working in groups, emotional support);
+feelings of safety.
+Furthermore, older adults are very open to telecommunication systems that they can use from home:
+health information services;
+teleshopping;
+banking services.
+They are, however, reluctant to adopt products that may make them look older or marginalize them.
+Researchers have found that many more of tomorrow's older adults will make use of technology in general and CITs in particular.
+These same sources claim that today's older users show a great deal of patience and perseverence when learning a technology, especially since they desire intellectual stimulation.
+Their motivation depends, however, on the user-friendliness of the technology.
+8.3.
+What can the CIT industry do for seniors?
+The industry must take the following into consideration:
+product concept, design and price;
+consultation with older adults throughout the process of developing an application, from design to evaluation (in an iterative process if possible);
+the usefulness of technological innovations intended for older adults and the conditions under which they can be used;
+older users' awareness and training, depending on their cognitive abilities;
+the importance of demonstrating the potential of applications in seniors' daily lives, taking account of their abilities and motivation;
+full-time access to a help line;
+but also the possibility that technology may replace social contact and lead to isolation.
+A number of studies have found that older subjects' attitudes toward new technologies tend to become more negative with age.
+All studies show, however, that age is not a significant factor and that prejudices and stereotypes with respect to older adults are among the first hurdles to overcome.
+Relatively little research has been done on this subject, in Canada or elsewhere.
+The age of technology has ignored at least 20% of the population, thus underestimating the potential and abilities of people who have the time to learn and the desire to discover all possible ways in which these technologies can improve the quality of their lives and enhance their daily activities.
+9.
+RECOMMENDATIONS
+The information gathered for this study indicates that it would be appropriate to:
+develop a strategy for diffusing this study to all research partners and collaborators, to the research community and to anyone else interested in Canada and internationally;
+establish an ongoing process, using both Canadian and international resources, for updating the research;
+develop a research project to examine issues related to CITs and older adults who are handicapped in one or more ways;
+establish an advisory board composed of Canadian experts in gerontechnology, including the main stakeholders;
+encourage co-operation with the government departments, private firms and associations of older adults;
+identify technological applications capable of better meeting the information and communications needs of individual seniors and groups of older adults, within the framework of existing projects;
+develop a guide containing (among other things) advice, standards and factors to consider on these issues, to be made available to the research and development programs and sales and marketing departments of CIT firms;
+develop gerontechnology along the following dimensions:
+.
+older adults' human factors and general characteristics; technology needs; attitudes; cognitive skills; ability to use these tools; and motivation;
+.
+consultation with older adults at all stages of developing a technology;
+.
+awareness and training;
+.
+promotion of older adults' quality of life, autonomy, ability to live at home and socialization.
+BIBLIOGRAPHY
+ALLEN, P.A., MADDEN, D.J., GROTH, K.E. and CROZIER, L.C. (1992), "Impact of Age, Redundancy, and Perceptual Noise on Visual Search", Journal of Gerontology: PSYCHOLOGICAL SCIENCES, Vol. 47, No. 2, p. 69-74.
+ALPINER, Jerome G., and VAUGHN, Gwenyth R. (1988), "Hearing, Aging, Technology", International Journal of Technology and Aging, Vol. 1, No. 2, p. 126-132.
+ANSLEY, Jane and ERBER, Joan T. (1988), "Computer Interaction Effect on Attitudes and Performance in Older Adults", Educational Gerontology, Vol. 14, p. 107-119.
+BALLABIO, Egidio.
+(1992), "Assistive Technology", XIII Magazine, 2, p. B-7.
+BATT, Richard C. and LOUNSBURY, Peggy A. (1990), "Teaching the Patient With Cognitive Deficits to Use a Computer", American Journal of Technology, Vol. 44, No. 4, p. 364 (incomplete).
+BEAM, Dorothy E. (1986), "L'âge d'or et la surdité", Les conférences publiques du sommet québécois sur la déficience auditive, p. 310-321.
+BIAGE-MAJOR, Huguette.
+La Domotique, p. 6-8.
+BJORNEBY, Sidsel, COLLINS, Sylvie, NORDBY, Knut, PEREIRA, Leonor Moniz and PURIFICAÇAO, Joao.
+(1991), "Attitudes and Acceptance", Gerontechnology: 1st Conference on Technology and Aging, 9 p.
+BLAICH, Robert.
+Taming Technology for the Benefit of the Aging - and Everyone Else.
+BOUCHARD RYAN, Ellen.
+(1985), Memory for Gobling: a Computer Game for Assessing and Training Working Memory Skill.
+BOUCHARD RYAN, Ellen and HEAVEN, Roberta K.B. (1986), "Promoting Vitality Among Older Adults with Computers", Activities, Adaptation, and Aging, Vol. 8, No. 1, p. 15-30.
+BOUCHARD RYAN, Ellen and KWONG SEE, Sheree.
+(1990), Acceptance of Computer Technology by Older Adults, 18 p.
+BOUCHARD RYAN, Ellen, SZECHTMAN, Barbara and BODKIN, Jay.
+(1992), "Attitudes Toward Younger and Older Adults Learning to Use Computers", Journal of Gerontology: PSYCHOLOGICAL SCIENCE, Vol. 47, No. 2, p. 96-101.
+BOUWHUIS, Don.
+(1991), "Aging, Perceptual and Cognitive Functioning and Interactive Equipment", Gerontechnology: 1st International Conference on Technology and Aging, p. 94-112.
+BOWE, Frank.
+(1988), "Why Seniors Don't Use Technology", Technology Review, Vol. 91, No. 6, p. 34.
+BOWE, Frank G. (1990), National Survey on Telephone Services and Products: the Views of Disabled and Older Americans, 35 p.
+BRETON, Philippe.
+(1993), "Informatique et utopie", Le Monde diplomatique, p. 32.
+BROOKS LEVY, Sydelle and GORDON, Arlene R. (1988), "Age-Related Vision Loss: Functional Implications and Assistive Technologies", International Journal of Technology and Aging, Vol. 1, No. 2, p. 116-125.
+BURKE, Mary Ann.
+(1991), "Conséquence du vieillissement démographique", Tendances sociales canadiennes, p. 6-8.
+CCNTA.
+(1992), "Technologies that Promote Independence", Seniors Info Exchange, 2 p.
+CHAPPELL, L. Neena.
+The Perceived Helpfulness of New Technology Among a Population of Seniors, unpublished, 30 p.
+CHARNESS, N. and BOSMAN, E.A. (1990), "Human Factors and Design for Older Adults", Handbook of the Psychology of Aging, Third Edition, Academic Press, New York, p. 446-463.
+CHARNESS, N. and BOSMAN, E.A., SCHUMANN et GAYLA M. Boritz.
+(1992), "Training Older Adults in Word Processing: Effets of Age, Training Technique, and Computer Anxiety", International Journal of Technology and Aging, Vol. 5, No. 1, p. 79-106.
+CHARNESS, Neil and BOSMAN, Élizabeth A. Human Factors and Age, monographie.
+CHAWLA, Raj.
+(1991), "Une société vieillissante, un autre point de vue", Tendances sociales canadiennes, Vol. 11-008, No. 20, p. 2-5.
+CHIN, Kathy.
+(1985), "The Elderly Learn the Computer", Aging, 348, p. 4.
+CISLER, Steve.
+(1993), Hawaï Network Conference Report.
+COLLINS, S.C., BHATTI, J.Z., DEXTER, S.L. and RABBIT, P.M.A. Elderly People in a New World Attitudes to Advanced Communications Technologies, incomplete data, p. 277-282.
+COLLINS, Sylvie, PEREIRE, Lenonor Moniz, PERSSON, Camilla, PURIFICAÇAO, Joao and ASTBRINK, Gunela.
+(1991), "Telecommunications Needs as Expressed by Elderly People and People with Disabilities", Gerontechnology: 1st International Conference on Technology and Aging, 11 p.
+COOMBS, F. THOMPSON, B., MARTINO-SALTZMAN, D. and BLASCH, B. "Technology for the Wandering Patient", SOMA, engineering for the Human Body, p. 53-59.
+CULLEN, K. and MORAN, R. (1992), "Role of Technology in Prolonging the Independence of the Elderly in the Community Care Context", Technology and the Elderly, p. 37-125.
+CZAJA, Sara J. (1988), "Safety and Security of the Elderly: Implications for Smart House Design", International Journal of Technology and Aging, Vol. 1, No. 1, p. 49-66.
+CZAJA, Sara J., GUERRIER, José H. and LANDAUER, Thomas K. (1993), "Computer Communication as an Aid to Independence for Older Adults", Behavior and Information Technology, 37 p.
+CZAJA, Sarah J. and BARR, Robin A. (1989), "Technology and the Everyday Life of Older Adults", Annals of the American of Political and Socials, Vol. 505, No. 5, p. 127-137.
+CZAJA, Sarah J., HAMMOND, Katka, BLASCOVICH, James J. and SWEDE, Helen.
+(1989), "Age related Differences in Learning to Use a Text-editing System", Behaviour and Information Technology, Vol. 8, No. 4, p. 309-319.
+DIAZ, Michel.
+L'Explosion des technologies multimédias, MUL, 2, p. D-1.
+DUSTMAN, Robert E., EMMERSON, Rita Y., STEINHAUS, Laurel A., SHEARER, Donald E. and DUSTMAN, Theodore J. (1992), "The Effects of Videogame Playing on Neuropsychological Performance of Elderly Individuals", Journal of Gerontology: PSYCHOLOGICAL SCIENCES, Vol. 47, No. 3, p. 168-171.
+EILERS, Merry Lee.
+(1989), "Older Adults and Computer Education: Not to Have the World a Closed Door", International Journal of Technology and Aging, Vol. 2, No. 1, p. 56-75.
+ELMER-DEWITT, Philippe.
+(1993), "Electronics Super Highway", Time, p. 49-53.
+EMILIANI, Pier Luigi. "
+Some European Projects on Technology and People with Disabilities", Some European Research Projects p. 137-143.
+ENGELHARDT, K.G. (1989), "Health and Human Service Robotics: Multi-dimensional Perspectives", International Journal of Technology and Aging, Vol. 2, No. 1, p. 8-39, incomplete.
+ERKERT, T. Elderly Persons and Communications.
+FESTERVAND, Troy A. and WYLDE, Margaret A. (1988), "The Marketing of Technology to Older Adults", International Journal of Technology and Aging, Vol. 1, No. 2, p. 156-162.
+FLETCHER, William.
+(1986), Recording your Family History, 308 p.
+FRANK, Elaine and WARBUTON, Karen.
+(1989), "Evaluation of a Family-Resident Videotape Program (V-TV)", International Journal of Technology and Aging, Vol. 2, No. 2, p. 144-151.
+FURLONG, M.S. (1989), "Crafting an Electronic Community: the SeniorNet Story", Journal of Technology and Aging, Vol. 2, No. 2, p. 125-134.
+FURLONG, Mary and KEARSLEY, Greg.
+(1990), "Computer for Kids over 60 Opening New Windows on the World", SeniorNet, 127 p.
+FURLONG, Mary S. (1989), "An Electronic Community for Older Adults: The SeniorNet Network", Journal of Communication, Vol. 39, No. 3, p. 145-153.
+GARBE, D., STÖCKLER, F. and WALD, R. The State of The Art: Telecommunication and the Elderly.
+p. 283-292.
+GAUTHIER, Pierre.
+(1991), "Les Aînés au Canada", Tendance sociales canadiennes, p. 16-20.
+GILLY, Mary C. and ZEITHAML, Valarie A. (1985), "The Elderly Consumer and Adoption of Technologies", Journal of Consumer Research, Vol. 12, p. 353-357.
+GIRARDIN, Pierre.
+(1991), "La Domotique au Québec, technologie de l'avenir au service du handicap, du mieux être et de l'environnement", Actualité immobilière, Vol. 15, No. 2, p. 18-25.
+GRANT, Nancy C. and WALSH, Birrell.
+(1990), "Interpreted Captioning: Facilitating Interactive Discussion Among Hearing Impaired Adults", International Journal of Technology and Aging, Vol. 3, No. 2, p. 133-144.
+GREENBERGER, Martin and PUFFER, James C. (1989), "Facilitating Health Communication for the Older Person", International Journal of Technology and Aging, Vol. 2, No. 2, p. 153-170.
+GRIFFITH, D. (1990), "Computer Acces for Persons Who Are Blinds or Visually Impaired: Human Factors Issues", Journal Human Factors, Vol. 32, No. 4, p. 467-75.
+HABER, A.L. (1988), "Technology, Environments, and the Process of Aging", International Journal of Technology and Aging, Vol. 1, No. 1, p. 5-8.
+HAHM, W. and BIKSON, T. (1989), "Retirees Using EMail and Networked Computers", International Journal of Technology and Aging, Vol. 2, No. 2, p. 113-123.
+HARKINS, Judith E. (1990), "To The Moon and Back: Digital Technology and Hearing Impaired Adults", International Journal of Technology and Aging, Vol. 3, No. 2, p. 111-120.
+HARRIS, Helen.
+(1988), "Mature Market Overview: Marketing the Smart House", International Journal of Technology and Aging, Vol. 1, No. 1, p. 67-84.
+HIATT, Lorraine G. (1988), Smart Houses for Older People: General Considerations, Vol. 1, No. 1, p. 11-30.
+HOLMES, Douglas, HOLMES, Monica and TERESI, Jeanne.
+(1988), "Routine Collection of Medication Side Effect Data Using Computer Terminals Located in a Senior Center", The Gerontological Society of America, Vol. 28, No. 1, p. 105-107.
+HORSTMANN, Heidi M., LEVIN, Simon P. and JAROS, Lincoln A. (1989), "Keyboard Emulation for Access to IBM-PC-Compatible Computers by People with Motor Impairement", Assistive Technologies, 1, p. 63-70 (p. 63 only incomplete).
+HOWE, Marylin and GRAHAM, Bill.
+(1990), "The Importance of Captioning for Late-deafened Adults", International Journal of Technology and Aging, Vol. 3, No. 2, p. 121-131.
+INFANTE-RIVARD, Claire, KRIEGER, Monique, PETITCLERC, Marcelle and BAUMGARTEN, Mona.
+(1988), "A Telephone Support Service to Reduce Medical Care Use Among the Elderly", Journal of the American Geriatrics Society (JAGS), Vol. 36, p. 306-311.
+JAY, Gina M. and WILLIS, Sherry L. (1992), "Influence of Direct Computer Experience on Older Adults' Attitudes Toward Computers", Journal of Gerontology: Psychological Science, Vol. 47, No. 4, p. 250-257.
+KANE, Robert L. Technology and the New Environment for the Elderly, incomplete data.
+KAUTZMANN, Lisette.
+(1990), "Introducing Computers to the Elderly", Physical & Occupational Therapy in Geriatrics, Vol. 9, No. 1, p. 27 (summary of the article only).
+LA BUDA, Dennis R. (1988), "Education, Leisure, and Older Persons: Implications for Smart House Design", International Journal of Technology and Aging, Vol. 1, No. 1, p. 31-48.
+LAMEY, Mary.
+(1992), "High-Tech Goes Underground", The Gazette, p. F8-F9.
+MADDEN, David J. (1992), "Four to Ten Milliseconds Per Year: Age-Related Slowing of Visual Word Identification", Journal of Gerontology: PSYCHOLOGICAL SCIENCE, Vol. 47, No. 2, p. 59-68.
+MARGOLIN, Richard A. (1990), "Computerized Brain-imaged, Devices, Aging, and Mental Health", International Journal of Technology and Aging, Vol. 3, No. 1, p. 7-17.
+MCNEELY, Elizabeth.
+(1991), "Computer-Assisted Instruction and the Older-Adult Learner", Educational Gerontology, Vol. 17, p. 229-237.
+MERRILL, Frank H. (1992), "Automating the Information and Referral Function at a Regional Senior Citizen's Center", Journal of Systems Management, Vol. 43, No. 10, p. 6 (4).
+MONK, Abraham.
+(1988), "Marvels?
+Conondrums?
+Both?
+Technology, like the Genie in the Bottle, Is Best Approach Hopefully and Warily", Technology and Aging Feature Section, p. 4.
+MOODY, Harry R. (1986), "Late Life Learning in the Information Society", Education and Aging, p. 122-148.
+NIELSEN, Jakob and SCHAEFER, Lyon.
+(1993), "Sound Effects as an Interface Element for Older Users", Behaviour and Information technology, p. 208-215.
+O'CONNOR, Rory.
+(1992), "Apples's Tree Growing Into 21st Century", The Ottawa Citizen, p. E 5.
+O'LEARY, Stephanie, MANN, Charlotte and PERKASH, Inder.
+(1991), "Access to Computers for Older Adults: Problems and Solutions", American Journal of Technology, Vol. 45, No. 7, p. 636.
+ÖSTLUND, Britt.
+(1992), Do Komtex Replace the Home Help Service?
+ÖSTLUND, Britt.
+(1993), Information Technology in Elderly Peoples Housing.
+ÖSTLUND, Britt.
+(1991), Why the Safety Alarm Become a Success.
+PARKER, M.G. and THORSLUND, M. (1991), "The Use of Technical Aids Among Community-based Elderly", American Journal of Occupational Therapy, Vol. 45, No. 8, summary.
+PEHRINGER, James.
+(1989), "Assistive Devices: Technology to Improve Communication", Otorynologic Clinic of North America, Vol. 22, No. 1, p. 143-174.
+PRUD'HOMME, Arlette.
+(1986), "Entre le domicile et le centre d'accueil", Les conférences publiques du sommet québécois sur la déficience auditive, p. 290-309.
+RECIO, Irene.
+(1990), "The Passeword is Geezer: Golden Agers log on", Business Week, Vol. 3177, p. 74.
+REUTER.
+(1992), "Not Feeling Well?
+Is There a Senior in the House?"
+, The Toronto Star, Business Today, 1 p.
+ROBINSON, S. (1991), "Support for Elderly People Using Videotelephony: the Frankfurt Pilot", Gerontechnology: 1st International Conference on Technology and Aging, p. 305-316.
+ROIZEN, MF.
+, COALSON, D., HAYWARD, RS.
+, SCHMITTNER, J., THISTED, RA.
+, APFELBAUM, JL.
+, STOCKING, CB.
+, CASSEL, CK.
+, POMPEI, P., FORD, DE.
+et al. (1992), "Can Patients Use an Automated Questionnaire to Define Their Current Health Status?"
+, Journal: Medical Care, Vol. 30, No. 5 (suppl.).
+ROTT, Ch. (1988), "Einstellungsmuster Älterer Menschen zu Technischen Innovationnen", Zeitschrift fr Gerontologie, No. 21, p. 225-231.
+RUDICK, Roger J. (1992), "Seniors are Fastest Growing Group of New Computers Users", Computer Shopper, Vol. 12, No. 8, p. 152.
+RUDINGER, G., ESPEY, J., NEUF, H. and SIMON, U. (1991), "Technology and Aging: Using Tickets Machine", Gerontechnology: 1st International Conference on Technology and Aging, p. 349-353.
+STEIN, Elliott S. (1990), "Applications of Consumer Electronics and Other Gadget to the Mental Health and Well-Being of the Elderly", International Journal of Technology and Aging, Vol. 3, No. 1, p. 63-68.
+STEVENS, Joseph C. (1992), "Aging and Spatial Acuity of Touch", Journal of Gerontology: Psychological Sciences, Vol. 47, No. 1, p. 35-40.
+STEWART, Tom.
+(1991), "Physical Interfaces" or "Obviously It's for the Elderly, It's Grey, Boring and Dull", Gerontechnology: 1st International Conference on Technology and Aging, p. 197-207.
+STRAKA, Gerald A. (1986), "Television and The ElderlyFrom Broadcasting to Narrowcasting", Education and Aging, p. 93-120.
+STRUYK, Raymond J. (1988), "Current and Emerging Issues in Housing Environments for the Elderly", The Social and Built Environment in an Older Society, p. 134-143 (incomplete).
+STUNKEL, Edith L. (1991), "The Technological Fix: Tapping Media's Diverse Components for Gerontological Education", Gerontology and Geriatrics Education, Vol. 11, No. 4, p. 1-15 (missing pages).
+THE ASSISTIVE DEVICES RESEARCH & DEVELOPMENT GROUP.
+(1992), "Assistive Devices Research and Development Project", The Assistive Devices Research and Development Working Group, 8 p., Appendix 16 p.
+TRENCHER, Ellen.
+(1988), "A Sensory Technology Information Service (S.T.I.S)", International Journal of Technology and Aging, Vol. 1, No. 2, p. 163-165.
+TRICKEY, Francine.
+(1993), Les systèmes de surveillance et aide en cas d'urgence, Une technologie simple au service des personnes âgées.
+14 p.
+UJIMOTO, Victor K. (1992), "Technology and Aging in Canada", International Journal of Technology and Aging, Vol. 5, No. 1, p. 1-120 (summary).
+VALLIÈRES, Martin. "
+Après le métro de Montréal, Télécité convoite Toronto, Washington, Atlanta et Los Angeles", Les Affaires, 1 p.
+VAN NOORDEN, L. and MCEWAN, J. (1991), "Pilot Applications for Advanced Communication Technology in Care for the Elderly in Europe", Gerontechnology: 1st International Conference on Technology and Aging, p. 271-276.
+WATZKE, J., WISTER, A.V. and GUTMAN, G.M. (1993), Emergency Medical Alert Technology: Initial Results front the First Wave of a Longitudinal Study, 19 p.
+WATZKE, James and BIRCH, Gary. "
+Older Adults Responses to Automated Environmental Control Devices", Canadian Association on Gerontology, 23 p.
+WATZKE, James R. and KEMP, Bryan.
+(1992), "Safety for Older Adults: the Role of Technology and the Home Environment", Top Geriatr Rehabil, Vol. 7, No. 4, p. 9-21.
+WHITTEN, P. Raymond.
+(1988), "The National Aeronautics and Space Administration (NASA) Technology Transfer Process and Its Application to the Elderly", International Journal of Technology and Aging, Vol. 1, No. 1, p. 85-97.
+YAHNKE, Robert, E. (1989), "Using Educational Films to Recreate the Experience of Aging: A New Direction for Gerontological Education", Educational Gerontology, Vol. 15, p. 453-463.
+YOUNG, Jeffry J. (1989), Advancing the Continuing Learning Activities of Retired Persons: A Challenge for Higher Education, Vol. 2, No. 2, p. 135-141.
+ZANDRI, Elaine and CHARNESS, Neil.
+(1989), "Training Older and Younger Adults to Use Software", Educational Gerontology, Vol. 15, p. 615-631.
+GLOSSARY
+Older adult, senior and senior citizen:
+in the interest of convenience and representativeness, this study has selected the terms older adult, senior and senior citizen to refer to individuals aged 55 years or more.
+Home automation:
+this term refers to computerized management of various home functions from a central unit linked to various parts of the home, coupled with a capacity for bidirectional communication outside the home using an electronic network.
+Ergonomics:
+the scientific study of working conditions and human-machine relationships.
+Gerontechnology:
+the study of relationships between technology and aging, intended to facilitate daily life for older adults.
+Interface:
+a set of rules and conventions that two given systems must observe before they can exchange information.
+Multimedia:
+a term that encompasses the storage, processing and presentation of information in several different forms: text, fixed or animated images, sound, and the like.
+Communication and information technologies (CITs):
+all technologies supporting remote communication and the manipulation, management or production of information in the form of text, image or sound.
+Examples are cable television, video or audio cassettes, video discs, compact disc readers, computers, telephone, and the like.
+Assistive technologies:
+technologies enabling an individual to compensate for a disability (for example, adapted telephone for the hearing impaired) or overcome a handicap (for example, a computer voice recognition system).
+Telematics:
+all services and techniques that combine computer and telecommunications technologies.
+Telephony:
+telephone technology.
+Teleworking:
+a new organizational dynamic, making use of various communications and information technologies, in which individuals work remotely, that is, at some distance from their normal workplace; an example of this would be working at home.
+Interactive television:
+a type of technology that allows television viewers to select content or camera angles from a number of available options, and to obtain answers to certain questions.
+Video telephones or video phones:
+a technique by which sound and images can be simultaneously transmitted to a remote location.

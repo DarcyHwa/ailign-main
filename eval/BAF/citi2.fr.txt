@@ -1,0 +1,1622 @@
+LES TECHNOLOGIES DE COMMUNICATION DE L'INFORMATION ET LES AÎNÉ(E)S
+par
+Catherine Geoffroy Chercheure invitée
+pour
+Centre d'innovation en technologies de l'information (CITI) La Voix, le réseau canadien des aîné(e)s
+Un portrait canadien et international :
+1)
+des attitudes et des comportements des aîné(e)s face aux technologies;
+2)
+des programmes de recherche et développement des technologies de communication et de l'information au profit de la population vieillissante;
+3)
+des apports possibles des technologies de communication et de l'information et de leurs applications pouvant répondre aux besoins des aîné(e)s.
+Laval Septembre 1994
+Une version anglaise de ce document est également disponible chez le même éditeur sous le titre :
+Communication and Information Technologies and Older Adults
+Dans ce document, le générique masculin est utilisé sans aucune discrimination et uniquement pour alléger le texte.
+Ce rapport s'inscrit dans le cadre de travaux exécutés au Centre d'innovation en technologies de l'information (CITI), du ministère Industrie Canada.
+© Ministère des Approvisionnements et Services Canada 1994 N de catalogue Co28-1/116-1994F ISBN 0-662-99559-7
+REMERCIEMENTS
+La Voix et le CITI tiennent à remercier toutes les personnes et toutes les organisations qui ont contribué à la réalisation de cette recherche.
+Les responsables de cette recherche remercient plus particulièrement :
+Madeleine, Michel, Simone et Marcel pour avoir accepté d'être photographiés;
+Pierre Billon et Robert Dupuy, promoteurs du volet «Technologie et société» du CITI au sein duquel cette recherche a pu se réaliser;
+Hélène Deslauriers, Héritage Canada : collaboration à la réalisation des consultations auprès des aînés;
+David Scott : traduction anglaise;
+Richard Lavoie, CITI : prise des photos;
+Geneviève Leclerc, La Voix : assistante à la recherche;
+Danielle Massé : indexation des documents, révision de texte et mise en page.
+Page couverture : Litho et Ass.
+, Ville St-Laurent
+Droits d'auteur Pour plus de renseignements :
+CITI La Voix 1575, boul.
+Chomedey 350, rue Sparks, bureau 1005 Laval (Québec) Ottawa (Ontario) H7V 2X2 K1R 7S8 a/s de Mme Catherine Geoffroy a/s de Mme Sylvie Deliencourt Tél.
+: 514-973-5779 Tél.
+: 613-238-7624 Fax.
+: 514-973-5757 Fax.
+: 613-235-4497
+PRÉAMBULE
+La recherche intitulée Les Technologies de communication et de l'information et les aîné(e)s a été réalisée par le Centre d'innovation en technologies de l'information (CITI), dans le cadre de son Programme d'incitation à la recherche, en collaboration avec La Voix, le réseau canadien des aîné(e)s.
+Le présent rapport a pour objectif de présenter les informations, les analyses, les recommandations et les documents recueillis de janvier à juin 1993.
+Il s'agit d'un document de référence pour quiconque souhaite approfondir les informations contenues dans le résumé de la recherche, publié en février 1994.
+Le Centre d'innovation en technologies de l'information (CITI) d'Industrie Canada
+Le CITI a pour mission de favoriser le développement et la diffusion d'applications des technologies de l'information qui permettront l'amélioration de la performance des individus et de la compétitivité des organisations oeuvrant ensemble à travers le temps et l'espace, par le biais de l'informatisation de leurs moyens de communication et de collaboration.
+Le volet Technologie et société du CITI s'intéresse à l'innovation et à l'application des technologies de communication et de l'information dans les divers aspects de la vie quotidienne, tels l'accès à l'information, à l'éducation, au travail et aux loisirs pour les personnes âgées et pour les personnes handicapées.
+Dans ce contexte, on se préoccupera principalement des personnes pour qui les moyens et les aides techniques ou les services de communication représentent la voie de l'égalité et de l'autonomie.
+Son action se caractérise par la prise en compte des intérêts, caractéristiques et besoins des utilisateurs et des intervenants.
+Toutes les démarches entreprises au sein de ce volet favorisent le partenariat avec l'industrie, les professionnels de la recherche et du développement, les organisations représentant les clientèles ciblées et le milieu universitaire, et prônent la concertation des efforts de recherche entre les professionnels concernés par l'amélioration de la qualité de vie des personnes âgées et handicapées et leur intégration sociale.
+Le partenariat avec La Voix a permis de concilier les objectifs et les intérêts communs des deux organismes et d'allier l'expertise du CITI en matière d'innovations technologiques et de recherche scientifique à la connaissance approfondie des aînés et de leurs réseaux qui fait la force de La Voix.
+La Voix, le réseau canadien des aînés
+La Voix, le réseau canadien des aînés, s'emploie à améliorer la condition et l'autonomie des Canadiens âgés.
+L'organisme préconise l'adoption de programmes et de politiques visant leur mieux-être et leur épanouissement.
+Il les encourage à participer pleinement et activement aux décisions qui touchent leur existence et il leur en fournit la possibilité.
+La Voix est un organisme communautaire, non partisan et sans but lucratif qui, tout en jouant son rôle de leader, travaille, dans les deux langues officielles du Canada, en étroite collaboration avec d'autres intervenants.
+TABLE DES MATIÈRES
+Page
+REMERCIEMENTS
+. . . . . . . . . . . . . . . . . . . . . . . .
+iii
+PRÉAMBULE
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+v
+TABLE DES MATIÈRES
+. . . . . . . . . . . . . . . . . . . . .
+vii
+1.
+INTRODUCTION
+. . . . . . . . . . . . . . . . . . . . . .
+1
+2.
+MÉTHODOLOGIE DE LA RECHERCHE
+. . . . . . . . . . . . . . .
+5
+2.1.
+Étapes de la recherche
+. . . . . . . . . . . . . . . .
+5
+3.
+PORTRAIT DES AÎNÉS
+. . . . . . . . . . . . . . . . . . . .
+7
+3.1.
+De qui s'agit-il?
+. . . . . . . . . . . . . . . . . .
+7
+3.2.
+Comment les regrouper?
+. . . . . . . . . . . . . . . .
+8
+3.3.
+Quelles sont leurs caractéristiques sociodémographiques au Canada?
+. . . . . . . . . . . . . . . . . . . . . . .
+9
+3.3.1.
+Répartition par groupes d'âge
+. . . . . . .
+9
+3.3.2.
+Répartition par sexe
+. . . . . . . . . . . .
+9
+3.3.3.
+Répartition selon les ethnies
+. . . . . . .
+10
+3.3.4.
+Espérance de vie
+. . . . . . . . . . . . . .
+10
+3.3.5.
+État de santé
+. . . . . . . . . . . . . . .
+10
+3.3.6.
+Consommation de services de santé
+. . . . .
+11
+3.3.7.
+Autonomie et personnes âgées
+. . . . . . . .
+11
+3.3.8.
+Satisfaction face à la vie
+. . . . . . . . .
+12
+3.3.9.
+Statut matrimonial
+. . . . . . . . . . . . .
+12
+3.3.10.
+Modalités de vie
+. . . . . . . . . . . . . .
+12
+3.3.11.
+Niveau de scolarité et fréquentation scolaire des aînés
+. . . . . . . . . . . . . . . . . . .
+13
+3.3.12.
+Alphabétisation des aînés
+. . . . . . . . .
+13
+3.3.13.
+À quoi les aînés occupent-ils leur temps?
+.
+14
+3.3.14.
+Prise de la retraite
+. . . . . . . . . . . .
+15
+3.3.15.
+Qu'en est-il du revenu des aînés?
+. . . . .
+15
+3.3.16.
+Action sociale des 55 ans et plus
+. . . . .
+18
+3.3.17.
+Prévisions pour le 21e siècle
+. . . . . . .
+18
+3.4.
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . .
+19
+Page
+4.
+RÉSULTATS DE LA RECHERCHE
+. . . . . . . . . . . . . . . . .
+21
+4.1.
+Recherche bibliographique
+. . . . . . . . . . . . . .
+21
+4.1.1.
+Buts et objectifs
+. . . . . . . . . . . . .
+21
+4.1.2.
+Méthodologie
+. . . . . . . . . . . . . . . .
+22
+4.1.3.
+Compilation des résultats . . . . . . . . .
+22 4.2.
+Attitudes, besoins, intérêts et comportements des aînés
+26
+4.2.1.
+Aînés et technologies en général
+. . . . . .
+26
+4.2.2.
+Principales conclusions en rapport avec des technologies particulières
+. . . . . . . . . . . . . . . . .
+36
+5.
+RECHERCHE FAITE AUPRÈS DE L'INDUSTRIE
+. . . . . . . . . . .
+51 5.1.
+But et objectifs
+. . . . . . . . . . . . . . . . . . .
+51
+5.2.
+Méthodologie
+. . . . . . . . . . . . . . . . . . . . .
+51
+5.2.1.
+Secteur bancaire
+. . . . . . . . . . . . . .
+52
+5.2.2.
+Réseau de communication visuelle
+. . . . . .
+53
+5.2.3.
+Câblodistribution et télévision interactive
+54
+5.2.4.
+Téléphonie
+. . . . . . . . . . . . . . . . .
+55
+5.2.5.
+Systèmes de sécurité
+. . . . . . . . . . . .
+56
+5.2.6.
+Domotique
+. . . . . . . . . . . . . . . . .
+56
+5.2.7.
+Informatique
+. . . . . . . . . . . . . . . .
+57
+6.
+RECHERCHE ET DÉVELOPPEMENT
+. . . . . . . . . . . . . . . .
+59
+6.1.
+Au Canada
+. . . . . . . . . . . . . . . . . . . . . .
+59
+6.1.1.
+Creative Retirement Manitoba/Canadian Healthcare Telematics
+. . . . . . . . . . . . . . . . . . .
+59
+6.1.2.
+Applications of Building Automation For Elderly And Disabled Persons (Rapport Hickling)
+. . . . . .
+60
+6.1.3.
+Projet Info-3e âge (Québec)
+. . . . . . . .
+60
+6.1.4.
+Silver & Gold (Ontario)
+. . . . . . . . . .
+61
+6.1.5.
+Seniors Resources & Research Society (Colombie-Britannique)
+. . . . . . . . . . . . .
+62
+6.1.6.
+Projet PAIR (Québec)
+. . . . . . . . . . . .
+63
+6.2.
+Aux États-Unis
+. . . . . . . . . . . . . . . . . . . .
+64
+6.2.1.
+SeniorNet
+. . . . . . . . . . . . . . . . .
+64
+Page
+6.
+RECHERCHE ET DÉVELOPPEMENT (suite)
+6.3.
+En Europe
+. . . . . . . . . . . . . . . . . . . . . .
+64
+6.3.1.
+RACE (Recherche et développement avancé sur les technologies de communication en Europe)
+. . . .
+65
+6.3.2.
+TIDE: Technology Initiative For Disabled And Elderly People
+. . . . . . . . . . . . . . .
+66
+6.3.3.
+Home-Shopping Systems
+. . . . . . . . . . .
+66
+6.3.4.
+Elderly And Self-Service Technology
+. . . .
+67
+6.4.
+Réactions
+. . . . . . . . . . . . . . . . . . . . . .
+68
+7.
+SONDAGE AUPRÈS DES ASSOCIATIONS ET DES REGROUPEMENTS D'AÎNÉS
+. . . . . . . . . . . . . . . . . . .
+69
+7.1.
+But et objectifs
+. . . . . . . . . . . . . . . . . . .
+69
+7.2.
+Méthodologie
+. . . . . . . . . . . . . . . . . . . . .
+69
+7.3.
+Résultats
+. . . . . . . . . . . . . . . . . . . . . .
+71
+8.
+CONCLUSION
+. . . . . . . . . . . . . . . . . . . . . . . .
+79
+8.1.
+Aînés et technologie
+. . . . . . . . . . . . . . . . .
+79
+8.1.1.
+Améliorations certaines
+. . . . . . . . . .
+80
+8.2.
+Quelles sont les attitudes des aînés à l'égard de la technologie?
+81
+8.3.
+Que peut faire l'industrie des TCI pour les aînés?
+. .
+82
+9.
+RECOMMANDATIONS
+. . . . . . . . . . . . . . . . . . . . . .
+85
+BIBLIOGRAPHIE
+. . . . . . . . . . . . . . . . . . . . . . . . .
+87
+LEXIQUE
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+99
+1.
+INTRODUCTION
+Tout comme les autres pays industrialisés, le Canada n'échappe pas aux deux phénomènes qui marqueront l'histoire du 20e siècle et qui traceront le profil du 21e siècle, à savoir : le vieillissement de la population et le développement technologique.
+Tous les changements provoqués par les TCI auront un impact de plus en plus important sur la population âgée canadienne.
+Cette recherche porte sur l'interaction des technologies de communication et de l'information (TCI) et des personnes âgées.
+Elle a pour but de mettre en évidence les éléments qui permettront de mieux comprendre la situation de la gérontechnologie et d'évaluer les effets de la technologie sur des clientèles âgées spécifiques et de déterminer les besoins et les intérêts des différents intervenants participant à la recherche ou au développement dans ce domaine au Canada.
+Toutes informations, témoignages, constats et recherches, d'envergures nationale et internationale, permettant d'avoir une vue d'ensemble de la problématique sur les interactions possibles entre les aînés et les TCI ont été retenus.
+La recherche a également porté une attention particulière aux priorités qui devraient être établies tant sur le plan de la recherche et du développement que sur celui de la mise en marché de la technologie.
+Problématique
+Le développement technologique suit son cours et les TCI jouent un rôle très important dans la société canadienne de cette fin de siècle.
+Ces technologies sont de plus en plus présentes au domicile, au travail ou dans les loisirs.
+Pour certains, elles peuvent rendre la vie plus facile mais pour d'autres, elles viennent compliquer les activités de la vie quotidienne.
+En outre, les outils techniques disponibles sur le marché sont généralement conçus pour de larges segments de la population productive et ne conviennent pas nécessairement à toutes les clientèles.
+Quoiqu'il en soit, peu importe leur âge, les consommateurs du monde moderne réalisent que le développement technologique transforme peu à peu leur mode de vie, bon gré, mal gré.
+Parallèlement, la population compte de plus en plus de personnes âgées de 55 ans ou plus qui, du fait de leur vieillissement, subissent des changements sur le plan des limitations fonctionnelles, sensorielles et cognitives.
+En outre, la prise de la retraite de plus en plus précoce occasionne des changements importants de statut social.
+L'émergence de ces générations d'aînés nécessite une redéfinition du rôle que ces derniers auront à jouer dans la société et des outils dont ils pourraient avoir besoin.
+Comme la convergence de ces deux phénomènes risque de devenir problématique, certaines questions comme celles-ci doivent être posées : comment les aînés réagissent-ils face à la technologie?
+La technologie peut-elle faciliter le maintien ou l'amélioration de la qualité de vie de la population vieillissante canadienne?
+L'industrie de la technologie est-elle prête à répondre aux besoins et aux intérêts de cette nouvelle clientèle?
+Les associations ou regroupements d'aînés ont-ils des besoins d'ordre technologique?
+Si oui, quels sont-ils?
+Etc.
+Il n'est pas étonnant que le besoin d'une recherche comme celle-ci se soit fait sentir depuis quelques années, que ce soit les aînés eux-mêmes qui, par l'intermédiaire de La Voix aient manifesté le désir de connaître l'heure juste à ce sujet.
+Buts et objectifs
+Déterminer l'importance, pour le Canada, d'encourager la participation des aînés aux activités de la société, de manière à valoriser leurs acquis, leurs connaissances et leurs compétences et ce, en rapport avec le développement technologique.
+Trouver des solutions efficaces susceptibles de répondre aux besoins d'information et aux besoins sociosanitaires ou économiques des aînés, au moyen des TCI.
+Pertinence
+Aucune étude semblable n'a été faite auparavant, ni au Canada ni à l'étranger et ce, malgré la place des TCI dans tous les aspects de la vie quotidienne.
+Cette recherche sera donc fort pertinente tant pour les aînés d'aujourd'hui et de demain, que pour les industries et les gouvernements.
+Étant donné que les personnes âgées représentent une partie de plus en plus importante de la population, qu'elles demeurent actives de plus en plus longtemps et qu'un nombre croissant d'entre elles est susceptible d'utiliser les différents appareils technologiques, il devenait nécessaire de cerner les mythes et la réalité concernant les aînés face à la technologie.
+Finalement, cette recherche pourra servir de point de départ afin d'engager la communication en gérontechnologie entre les différents acteurs, soit les aînés eux-mêmes, l'industrie des TCI et les centres de recherche et de développement (R&D).
+Une telle collaboration favorisera le partage des responsabilités et des coûts en matière de recherche et de développement.
+En fin de compte, faciliter les interactions entre les clientèles âgées et les applications technologiques permettra à la société de bénéficier du potentiel et de l'énergie des retraités canadiens qui veulent se sentir utiles dans leur milieu.
+Principaux intéressés
+Cette recherche est donc potentiellement intéressante pour une variété d'intervenants et de chercheurs :
+les aînés;
+les concepteurs d'appareils;
+les fournisseurs de services;
+les fabricants;
+les chercheurs;
+les gouvernements;
+les universités;
+les municipalités;
+l'industrie du bâtiment, de l'électronique de l'information, des télécommunications;
+etc.
+2.
+MÉTHODOLOGIE DE LA RECHERCHE
+2.1.
+Étapes de la recherche
+La recherche s'est échelonnée de janvier à juin 1993.
+Elle devait suivre cinq avenues simultanées :
+le portrait de la clientèle (caractéristiques, statistiques, etc.);
+la revue de la documentation;
+l'inventaire des technologies et des services existants ou émergeants dans l'industrie;
+le relevé des expériences existantes dans les réseaux de personnes âgées;
+la consultation des aînés.
+Des approches méthodologiques différentes ont été retenues selon les objectifs poursuivis à chaque étape : recensement des écrits, identification des technologies, inventaire de la recherche et du développement, consultation des personnes âgées, contact auprès de l'industrie.
+3.
+PORTRAIT DES AÎNÉS
+3.1.
+De qui s'agit-il?
+À quel âge devenons-nous vieux?
+À partir de quel moment fait-on partie du groupe des aînés?
+La réponse à la première question est très subjective.
+Ce n'est pas l'âge chronologique qui est en cause mais, plus souvent qu'autrement, l'âge psychologique qui est le facteur déterminant.
+En effet, certaines personnes âgées de moins de 45 ans ont des attitudes et des comportements de personnes normalement plus âgées alors que des personnes de 75 ans ou plus ont des activités semblables à celles des gens moins âgés et pensent sensiblement de la même manière.
+La réponse à la deuxième question sera néanmoins dépendante de l'âge biologique : la pension de vieillesse et la plupart des régimes de retraite prennent effet à l'âge de 65 ans.
+En moyenne, les gens prennent leur retraite à partir de 62 ans.
+Ils peuvent bénéficier des avantages des clubs de l'âge d'or dès 55 ans et, dans certains cas, à partir de 50 ans.
+C'est en fonction de leur âge chronologique et non de leurs besoins que les personnes âgées pourront accéder à certains services gratuits ou à tarifs réduits.
+Par ailleurs, afin de suivre le profil de vieillissement des baby-boomers, Statistique Canada a créé le groupe des 45-65 ans, ce qui rend le départage encore plus difficile.
+Il n'en reste pas moins que les catégories qui semblent être adoptées par la majorité, se présentent comme suit :
+45 à 65 ans : catégorie des adultes âgés; il peut également s'agir des travailleurs âgés, des préretraités ou des jeunes retraités;
+65 à 75 ans, les jeunes-vieux;
+80 ans et plus, les vieux-vieux.
+3.2.
+Comment les regrouper?
+En plus du regroupement par âge, il existe d'autres façons de regrouper les aînés basées sur : la cohorte, le degré d'autonomie, le lieu d'habitation, l'occupation, l'engagement social ou politique, le champ d'intérêt, les loisirs, etc.
+Mais il est important de rester ouvert au fait qu'il est de plus en plus difficile de généraliser et d'inclure cette population dans un même groupe à cause des nouvelles générations d'aînés qui vont expérimenter le vieillissement dès le début du prochain millénaire.
+3.3.
+Quelles sont leurs caractéristiques sociodémographiques au Canada?
+3.3.1.
+Répartition par groupes d'âge
+En 1993, Statistique Canada indiquait que la population canadienne comptait 27 296 860 habitants et que un Canadien sur cinq (20,4 %) était âgé de 55 ans et plus, soit 5 569 600 personnes réparties comme suit :
+55 - 59 ans 1 222 925
+60 - 64 ans 1 176 705
+8,8 %
+65 - 74 ans 1 895 070
+75 ans et + 1 274 900
+11,6 %
+Il est intéressant de remarquer qu'en 1991, 94 000 aînés canadiens étaient âgés de 90 ans et plus.
+3.3.2.
+Répartition par sexe
+Les données de Statistique Canada font ressortir que la proportion de femmes par rapport à celle des hommes tend à s'accroître considérablement avec l'avance en âge.
+49,2 % des personnes âgées entre 45 et 64 ans sont des femmes;
+57 % des personnes âgées entre 65 et 69 ans sont des femmes.
+3.3.3.
+Répartition selon les ethnies
+D'après les données de 1981, environ un Canadien âgé sur six est d'origine étrangère, française ou britannique dans 80 % des cas et membre de la communauté juive dans une proportion de 17 %.
+En 1987, 40 % de tous les immigrants âgés provenaient principalement de la Grande-Bretagne, des États-Unis, de l'Inde et des Philippines mais cette proportion tend à se modifier compte tenu des nouvelles tendances en immigration.
+3.3.4.
+Espérance de vie
+À la naissance, les Canadiens peuvent espérer vivre en moyenne jusqu'à 73,1 ans et les Canadiennes jusqu'à 79,7 ans.
+Une fois passé le cap des 65 ans, l'espérance de vie augmente de 14,9 ans pour les hommes, ce qui les mène pratiquement à l'âge de 80 ans, et de 19,1 ans chez les femmes, leur permettant d'atteindre l'âge de 84,1 ans.
+3.3.5.
+État de santé
+La majorité des aînés s'estime en excellente ou en bonne santé.
+Cette perception favorable diminue avec l'âge :
+71 à 75 % des personnes âgées de 55 à 64 ans se disent en excellente ou bonne santé, 65 % des 65-69 ans, 63 % des 70-74 ans, 60 % des 75-79 ans contre seulement 57 % des 80 ans.
+3.3.6.
+Consommation de services de santé
+En 1993, le Conseil consultatif national sur le troisième âge (CCNTA) rapportait que l'augmentation des coûts de santé, estimée à 78 % dans les pays industrialisés, était due, dans une proportion de 22 %, à des facteurs démographiques, incluant le vieillissement de la population.
+3.3.7.
+Autonomie et personnes âgées
+La notion d'autonomie est très relative d'une personne à l'autre.
+Elle peut être reliée à des aspects financiers, sociaux, moraux, etc. Mais avec l'âge, l'apparition d'une ou de plusieurs incapacités physiques, à plus forte raison d'un handicap, combinée avec certains effets irréversibles du vieillissement, peut être lourde de conséquences pour l'autonomie d'un aîné.
+Toutefois, grâce au développement de la gérontologie, de la gériatrie, il est maintenant inexact de lier systématiquement vieillissement, incapacité, maladie et dépendance.
+Une multitude de témoignages d'individus âgés confirme cette allégation.
+Il n'en reste pas moins que les probabilités d'incapacité et de déficience augmentent avec l'âge.
+En 1991, 4,2 millions de Canadiens, soit 15,5 % de la population, déclarent une certaine forme d'incapacité soit 27,1 % des 55-64 ans et 45 % des personnes âgées de 65 ans et plus parmi lesquelles : 37 % des 65-74 ans; 54 % des 75-84 ans; 82 % des 85 ans et plus, (comparativement à 7 % des enfants de moins de 15 ans, 8 % des 15-34 ans et à 14 % des 35-54 ans).
+Parmi les incapacités les plus souvent mentionnées, se retrouvent, dans 55 % des cas, les troubles de mobilité et d'agilité tels que l'arthrite et le rhumatisme, 43 % d'incapacités auditives, 24 % d'incapacités visuelles, 39 % de troubles d'hypertension et 24 % de problèmes respiratoires.
+Il est intéressant de noter que le taux de démence chez les aînés est de 6 %.
+Selon les données de 1991, 20 % des aînés sont obligés de faire appel à de l'aide pour accomplir certaines de leurs activités quotidiennes.
+3.3.8.
+Satisfaction face à la vie
+Plus de 90 % des personnes de 45 ans et plus sont satisfaites de leur vie, affirmant que la qualité de vie au Canada est très bonne.
+3.3.9.
+Statut matrimonial
+Comme les femmes ont une espérance de vie plus longue que les hommes, il n'est pas étonnant de retrouver plus de veuves que de veufs.
+Parmi les Canadiens âgés entre 65 et 69 ans, 82 % des hommes sont mariés et seulement 53 % des femmes.
+Après 80 ans, 70 % des hommes sont encore mariés contre 18 % des femmes.
+3.3.10.
+Modalités de vie
+D'après les chiffres du CCNTA, en 1991, 73 % des aînés et 43 % des aînées vivaient en ménage privé avec un conjoint, 14 % d'entre eux et 34 % d'entre elles étaient seuls (dont 40 % avaient plus de 75 ans).
+Par rapport au logement, 91 % des aînés disent ne pas avoir de problèmes.
+En 1991, Statistique Canada indique que 80 % des familles dont le chef est une personne âgée sont propriétaires de leur résidence alors que 29 % des 65 et plus sont locataires.
+Ces statistiques sont tout de même différentes pour les femmes puisque la proportion de femmes locataires augmente avec l'âge (28 % pour les 65-69 ans et 48 % pour les 80 ans et plus).
+Enfin, notons que les aînés occupent entre 41 % et 46 % des logements publics.
+3.3.11.
+Niveau de scolarité et fréquentation scolaire des aînés
+En 1986, environ 27 % des Canadiens âgés de 65 ans et plus détenaient un diplôme d'études secondaires ou postsecondaires et tout porte à croire que ce pourcentage augmentera au cours des prochaines décennies.
+Déjà, la croissance est amorcée.
+Entre 1984 et 1991, les programmes d'éducation aux adultes et les activités éducatives organisées par le Elderhostel et Creative Retirement Manitoba sont passés pour le premier, de 3 000 à 15 000 inscriptions, et pour le second, de 200 à 3 000.
+Le CCNTA estime que le pourcentage des inscriptions aux services d'éducation des adultes augmentera de 94 % d'ici l'an 2005 et de 141 % d'ici 2010.
+3.3.12.
+Alphabétisation des aînés
+Comme il existe un lien étroit et positif entre l'alphabétisation et le degré de scolarité, il n'est pas surprenant de voir un taux d'analphabétisme plus élevé chez les Canadiens âgés que chez les jeunes adultes.
+En effet, près de trois Canadiens sur quatre, de 16 à 34 ans, ont des habiletés suffisantes pour leur permettre de satisfaire la plupart des exigences courantes alors que cette proportion n'est plus que de un sur trois chez les 55 à 69 ans.
+D'autre part, il existe une corrélation entre l'âge de l'apprentissage d'une langue et l'acquisition de capacités de lecture dans cette langue.
+Le problème est donc particulièrement présent chez les immigrants âgés.
+Environ deux millions de personnes, soit 64 % des Canadiens âgés entre 55 et 69 ans, éprouvent des difficultés à utiliser du matériel écrit, ce qui posera de graves problèmes au cours des années à venir, au fur et à mesure que cette cohorte vieillira, si l'on ne s'y attarde pas immédiatement.
+Cependant, le fait que les prochaines générations soient, dans une large mesure, davantage alphabétisées, signifie que le problème va se résorber.
+Afin d'encourager l'alphabétisation des aînés, la Coalition canadienne pour l'alphabétisation des Canadiens âgés sera créée pour donner suite à une conférence nationale organisée par La Voix, en 1990.
+3.3.13.
+À quoi les aînés occuppent-ils leur temps?
+Malgré les données précédentes, il est intéressant de constater que la lecture des journaux, revues ou livres est l'activité la plus populaire auprès de cette population compte tenu du fait que 67 % des individus du groupe des 45-64 ans s'y adonnent, 66 % des 65-69 ans, 64 % des 70-74 ans, 63 % des 75-79 ans et 57 % des 80 ans et plus.
+Parmi les aînés de 65-74 ans, 66 % vont au restaurant ou au théâtre une fois par mois, 50 % des 75 ans et plus le font.
+Plus de la moitié des aînés a acheté du matériel récréatif (articles de sport ou de loisirs, caméras ou magnétoscopes) et utilisé des services connexes.
+En moyenne, 51 % des 45-64 ans, 50 % des 65-80 ans et 35 % des 80 ans et plus pratiquent la marche.
+La télévision est un loisir pour 42 % des 45-64 ans et 51 % des 65 ans et plus.
+Les femmes passent 4,1 heures par jour devant le petit écran comparativement à 3,7 heures pour les hommes.
+Les activités reliées à la vie sociale, comme le fait de recevoir des parents ou des amis ou de leur rendre visite, occupent une place importante dans la vie de 48 % d'adultes âgés de 45-64 ans et de 47 % des gens de 65 ans et plus.
+En moyenne, 39 % des gens de 65 ans et plus fréquentent l'église, les centres communautaires et commerciaux ou sont membres d'une association.
+3.3.14.
+Prise de la retraite
+En 1991, l'âge moyen de la prise de la retraite était de 62 ans et dépendait de facteurs tels que la santé de l'individu, son âge, les caractéristiques de son emploi, son revenu, la prise de la retraite de son conjoint, les pressions du milieu de travail, pour ne nommer que les principaux.
+En 1991, 1,7 millions d'hommes et 2 millions de femmes âgés de 55 ans et plus étaient sur le marché du travail.
+3.3.15.
+Qu'en est-il du revenu des aînés?
+Bien que la situation économique des aînés se soit améliorée au cours des dernières décennies, en 1990, il y a encore beaucoup de Canadiens âgés qui vivent sous le seuil de la pauvreté : 4 % des couples âgés comparativement à 13 % en 1980.
+Chez les hommes âgés vivant seuls, cette proportion a chuté de 53 % à 26 %, et chez les aînées vivant seules, de 60 % à 38 %.
+En 1986, 18 % des hommes de 65-69 ans disposaient d'un revenu inférieur à 10 000 $, comparativement à 48 % des femmes (60 % de ces aînés éprouvent une incapacité quelconque).
+En 1990, 39 % des femmes et 33 % des hommes de 65 ans et plus ont bénéficié du Supplément de revenu garanti, alors que 70 % des femmes de 90 ans et plus en étaient bénéficiaires.
+Il est néanmoins intéressant de noter que, d'après les statistiques, les personnes âgées paient plus de 20 milliards de dollars d'impôts par année, qu'elles sont de grandes consommatrices de biens et services, que 70 % des 65 ans et plus croient que leur revenu et leurs placements sont suffisants pour leurs besoins futurs et que 67 % des futurs retraités estiment que leur revenu, au moment de la retraite, sera suffisant.
+Il est important de faire une distinction entre les statistiques sur la pauvreté qui sont exclusivement basés sur les revenus, sans tenir compte des actifs, et le sentiment de pauvreté perçu par les gens eux-mêmes.
+D'après les statistiques de 1986, les principales sources de revenu personnel des aînés étaient :
+le régime de pension du Canada et le Régime des rentes du Québec qui fournissaient 14 % du revenu total des aînés (16 % chez les hommes et 11 % chez les femmes);
+la pension des employeurs qui représentait 16 % de leur revenu (20 % chez les hommes et 11 % chez les femmes);
+en 1989, les régimes de retraite privés, bien qu'ils varient d'un milieu de travail à l'autre, qui couvraient 50 % des hommes et 39 % des femmes; ils peuvent atteindre 75 % des syndiqués, 73 % des travailleurs du secteur public, 53 % des employés à temps plein, 39 % des employés du secteur privé, 30 % des non syndiqués et 24 % des employés à temps partiel.
+En ce qui a trait aux actifs des aînés, notons que 91 % des propriétaires de 65 ans et plus ont remboursé totalement leur hypothèque (68 % des 55-59 ans, 84 % des 65-70 ans) et que, les actifs se répartissent comme suit :
+Répartition des actifs chez les adultes âgés
+Régimes de retraite
+Régimes enregistrés de retraite
+Autres investissements
+Résidence principale
+Résidence sans hypothèque
+Autres investissements immobiliers
+57 %
+67 %
+37 %
+80 %
+66 %
+25 %
+En résumé :
+les aînés paient 20 milliards de dollars d'impôts;
+en 1991, 20 % des personnes de 65 ans et plus vivaient avec un revenu inférieur aux seuils de faible revenu;
+parmi les personnes seules, les jeunes (âgés de 15 à 24 ans) et les personnes âgées de 65 ans et plus enregistrent les moyennes les plus faibles quant au revenu moyen soit respectivement 14 935 $ et 18 056 $;
+les femmes seules âgées de 65 ans et plus affichent le taux de faible revenu le plus marqué;
+en 1991, le revenu médian des familles d'aînés et des aînés hors famille était de 48 300 $ et le revenu moyen se situait à 40 036 $.
+3.3.16.
+Action sociale des 55 ans et plus
+Non seulement les aînés contribuent-ils à l'économie du pays en payant des impôts et en consommant des biens et des services, mais apportent-ils aussi une contribution sociale en faisant du bénévolat (plus de 30 % des 65 ans et plus), en offrant divers types d'appui social, en facilitant l'organisation de la vie de leurs propres enfants et petits-enfants, en donnant à des oeuvres de charité, etc.
+3.3.17.
+Prévisions pour le 21e siècle
+Dans l'hypothèse où, selon une des projections démographiques de la population par groupe d'âge faite par Statistique Canada, la population totale compterait, au 1er juin 2010, 29 297 100 Canadiens et près de 30 % d'entre eux auraient plus de 55 ans.
+Selon ce même scénario, Statistique Canada prévoit que, vers 2020, environ six millions de Canadiens seront âgés de 65 et plus et qu'en 2036, l'effectif oscillera autour de 8 millions.
+Le déséquilibre numérique entre les sexes chez les personnes âgées est appelé à se maintenir.
+3.4.
+Conclusion
+En résumé, les gens âgés de 55 ans et plus forment un groupe très hétérogène.
+Pour les rejoindre, il faudra tenir compte, lors de la conception des produits technologiques et de leur mise en marché, de leurs centres d'intérêt, leurs activités, leur lieu d'habitation, leurs besoins, leur situation financière, leur état de santé, leurs environnements familiaux, sociaux et autres.
+En outre, les aînés ont des activités très variées soit individuellement, en famille, entre amis ou en groupes.
+Ce groupe représentait 20,4 % de la population en 1991;
+il en comprendra 29,5 % en 2010.
+Le profil de cette génération cependant sera différent de celui d'aujourd'hui.
+Il bénéficiera d'une meilleure espérance de vie, d'une meilleure longévité, d'un meilleur état de santé en général.
+Les personnes nées en 1960 peuvent s'attendre à vivre au moins 20 ans de plus que celles qui sont nées au début du siècle.
+Ces nouvelles générations de personnes âgées seront également de plus en plus scolarisées.
+En 1991, les travailleurs prenaient leur retraite en moyenne à 62 ans mais il est loin d'être évident que la tendance encourageant la prise de la retraite de plus en plus jeune se poursuive et ce, pour quatre raisons :
+le type de travail et l'organisation du milieu de travail font de moins en moins appel à la force ou à l'endurance physique (comme c'était le cas dans le passé);
+les travailleurs âgés (45-64) seront encore en très grande forme physique et intellectuelle (beaucoup plus que les gens du même âge qui les ont précédés);
+une pénurie de travailleurs avec une formation adéquate, expérimentés et compétents, pouvant répondre aux besoins de la société est prévue d'ici quelques années;
+certaines personnes devront revenir sur le marché du travail en raison d'un manque de revenu.
+Avec l'augmentation du nombre d'aînés et surtout de ceux qui ont plus de 80 ans, les besoins en recherche et en développement de nouveaux produits d'assistance pouvant desservir une majorité de personnes avec des déficiences se feront sentir.
+Dans une société qui vieillit à une vitesse phénoménale, la recherche et le développement en vue d'un monde technologique mieux adapté aux changements physiologiques, psychologiques et sociaux des adultes âgés de même qu'à leurs intérêts et à leurs besoins, et également aux nouveaux besoins en information et en communication de la société de l'an 2000, se justifient amplement.
+4.
+RÉSULTATS DE LA RECHERCHE
+4.1.
+Recherche bibliographique
+4.1.1.
+Buts et objectifs
+Une recherche documentaire et une étude approfondie des documents traitant des différentes technologies associées aux adultes âgés autonomes se sont avérées essentielles pour tracer un portrait le plus précis possible de la situation, en 1993, à travers le Canada d'abord, mais aussi à l'étranger.
+Les grands objectifs de cette partie de la recherche tournaient autour de deux axes :
+A)
+Posséder une meilleure connaissance de la gérontechnologie.
+Ce type de recherche a permis :
+de bien identifier la nature des liens pouvant exister entre les aînés et les TCI;
+de bien comprendre la manière dont les technologies peuvent s'intégrer aux activités de la vie quotidienne de cette clientèle;
+de mettre en évidence les attitudes, les besoins et les comportements des différentes catégories de Canadiens âgés de 55 ans et plus par rapport aux technologies et de tenter de répondre aux questions suivantes :
+qui sont ces utilisateurs âgés?
+Pourquoi et comment vont-ils utiliser certaines technologies?
+Quels sont les barrières et les éléments favorables à cet usage?
+d'identifier, dans le domaine de la gérontologie, les besoins en recherche et développement en lien avec les TCI.
+B)
+Créer des liens avec l'industrie.
+4.1.2.
+Méthodologie
+Avec la collaboration de plusieurs centres de documentation tels que le Service intégré des ressources d'information (SIRI) du Centre de documentation du CITI, la bibliothèque du Centre Hospitalier Côte-des-Neiges, des centres universitaires spécialisés en gérontologie, des associations de gérontologie canadienne et québécoise, du réseau de La Voix, des bibliothèques nationales et municipales, une recherche systématique dans les banques de données a pu être réalisée relativement rapidement.
+En plus, 250 organisations, associations, ministères, universités et autres, oeuvrant auprès des aînés aux échelons international, national et provincial, ont été invités à transmettre des références.
+Parmi la documentation recueillie, 107 documents ont finalement été retenus.
+La majeure partie d'entre eux provenaient des États-Unis et du Canada, certains d'Europe.
+Ils ont tous été publiés entre 1985 et 1993.
+4.1.3.
+Compilation des résultats
+Clientèle étudiée
+Presque toutes les recherches accordent une importance majeure aux effets de l'âge sur différents paramètres, que ce soit en regard de l'impact de certaines composantes technologiques ou de l'évaluation des performances en comparaison avec d'autres groupes d'âge.
+Il est cependant très difficile de comparer les conclusions puisqu'elles s'appliquent à différents groupes d'âge.
+Bien que plusieurs auteurs se prononcent contre la tendance à considérer les personnes âgées comme un groupe homogène, très peu d'études sont sensibles aux nuances à apporter quant aux importantes différences qui se manifestent d'une cohorte à l'autre.
+En effet, en plus des caractéristiques individuelles dont il faut tenir compte, il est important de considérer que chaque cohorte véhicule des valeurs, un vécu historique et psychosocial, des expériences, des mécanismes d'adaptation à l'environnement qui lui sont particuliers.
+Pour mieux comprendre la réalité des aînés, il faut donc utiliser différentes façons de les regrouper, selon leurs champs d'intervention ou d'intérêt ou leur milieu de vie.
+Les regroupements suggérés sont basés principalement sur :
+le degré d'autonomie (autonomes, non autonomes, grabataires...)
+;
+le handicap (physique, social, mental);
+le lieu d'habitation, (maison, appartement, habitation à loyer modique, résidences pour personnes retraitées, centre d'accueil...)
+;
+les loisirs (activités physiques, intellectuelles, sociales...)
+;
+les centres de rassemblement (communautaire, médical, social, religieux...)
+;
+l'ancien milieu de travail;
+la langue maternelle.
+Recherches traitant des handicaps et déficiences sensorielles
+Il arrive trop souvent que les chercheurs considèrent les personnes âgées et les personnes handicapées comme une seule et même clientèle.
+Il est évident qu'une personne handicapée qui a vieilli ne fait pas face aux mêmes problèmes que la personne âgée qui est devenue handicapée à un âge avancé et qui a encore plus de barrières à franchir qu'un individu plus jeune, à cause notamment des risques de complications multipathologiques dues à l'âge.
+Même si les risques de développer des déficiences et des handicaps augmentent significativement avec l'âge, les recherches traitant des personnes ayant des handicaps physiques, psychiques ou psychogériatriques et des technologies les desservant ont été volontairement ignorées afin de mieux se concentrer sur les déficiences sensorielles.
+En effet, étant donné l'importance cruciale des sens dans l'utilisation des TCI et l'incidence accrue des déficiences sensorielles avec l'âge, l'analyse inclut une trentaine d'articles traitant des technologies et des déficiences ou des handicaps sensoriels soit les déficiences visuelles, auditives et tactiles.
+Il serait donc intéressant, dans le cadre d'une recherche ultérieure, d'explorer le rapport entre les aînés ayant un ou plusieurs autres types de handicap et les TCI.
+Aînés et technologies étudiées par la recherche
+Voici la liste des applications technologiques reconnues utiles aux adultes âgés avec ou sans déficience ou handicap sensoriel.
+Avec plus de la moitié des recherches qui lui sont consacrées, l'ordinateur occupe la première place.
+Qu'il soit utilisé à des fins personnelles, pour l'accès à des services d'information ou pour le télétravail, l'ordinateur et ses applications semblent être en mesure de répondre à de multiples besoins.
+La téléphonie et la télématique font l'objet de 22 recherches incluant les téléphones avec options, le vidéotéléphone, les téléachats, les transactions bancaires, les informations électroniques sonores et visuelles dans les lieux publics, etc.
+Avec 21 articles qui lui sont consacrés, la domotique suscite aussi beaucoup d'intérêt car elle présente des solutions technologiques simples, pouvant répondre aux besoins multiples et complexes découlant du maintien à domicile des personnes ayant des problèmes de santé, des déficiences ou des handicaps.
+Une douzaine de recherches traitent des systèmes d'alarme susceptibles de neutraliser le sentiment d'insécurité et de vulnérabilité et donc de favoriser le maintien à domicile, surtout chez les femmes vivant seules et chez les personnes handicapées.
+Les dix articles sur les technologies utilisées à des fins de divertissement ou pour la conservation du patrimoine, comme les magnétophones ou les caméras, ont été regroupés sous un même chapitre.
+En outre, cinq travaux traitent de l'utilisation des guichets automatiques ou des distributrices de billets.
+À travers cette recherche, des informations totalement imprévues ont surgi, notamment quant à l'intérêt des adultes âgés pour les jeux vidéo et sur leur capacité d'en user.
+Enfin, quelques recherches portent sur les technologies d'assistance telles que les prothèses auditives, les téléphones pour malentendants, les lecteurs Braille, les techniques de reconnaissance vocale, etc.;
+deux documents traitent des lecteurs de codes à barre et trois, de la télévision interactive.
+4.2.
+Attitudes, besoins, intérêts et comportements des aînés
+Ce sont les résultats des analyses des attitudes, des besoins, des intérêts et des comportements des sujets âgés en rapport avec la technologie qui retiennent surtout l'attention.
+Dans ce chapitre, les informations sont d'abord regroupées selon le type de technologie puis, elles seront traitées en tenant compte du rôle des technologies par rapport aux besoins actuels et potentiels des aînés, de la possibilité pour une technologie donnée de pénétrer ce marché, des obstacles liés à l'utilisation et des facteurs facilitant l'apprentissage, de l'attitude des aînés ainsi que des modes de promotion.
+4.2.1.
+Aînés et technologies en général
+Effets du vieillissement
+À la suite d'une vaste recherche réalisée en 1991 et portant sur les attitudes des personnes âgées à l'égard de la technologie (enquête TUDOR), Collins et Bhatti (~1992) soulignent que le facteur crucial dans l'utilisation d'une technologie de télécommunication n'est pas l'âge de l'utilisateur mais plutôt son intérêt, d'où l'importance de la conception des appareils.
+Les changements physiologiques dus au vieillissement peuvent causer des difficultés lors de l'apprentissage et de l'utilisation de nouvelles technologies.
+Girardin (1991) dresse la liste des principaux changements pouvant affecter des facultés essentielles à l'utilisation des TCI.
+La plupart de celles-ci pourraient toutefois s'améliorer avec l'entraînement.
+Il faut également se rappeler les résultats de l'expérimentation de Madden (1992) qui montrent une corrélation positive entre l'âge de la personne et son temps de réaction moyen, laquelle corrélation augmente avec la complexité de la tâche et est plus prononcée chez les gens affectés par des problèmes visuels.
+Brooks et Gordon (1988) mettent en évidence l'importance pour les concepteurs de TCI de tenir compte des faits suivants :
+12,8 % des personnes de plus de 65 ans souffrent d'une déficience visuelle significative qui se traduit par une perte d'acuité visuelle, une plus grande difficulté d'adaptation à la noirceur et de perception des couleurs et des contrastes.
+Avec l'âge, se produit une diminution de l'acuité tactile à l'extrémité des doigts, laquelle réduit le potentiel d'utilisation de l'écran tactile ou de lecture tactile de textes transcrits à cette fin (Stevens, 1992).
+Czaja et Barr (1989) soulignent l'urgence de concilier les nouvelles technologies et le phénomène du vieillissement de la population en gardant à l'esprit notamment, les différentes étapes de la vie et les caractéristiques des personnes âgées, leurs capacités et les limitations qui les affectent dans leur quotidien.
+Ils recommandent de porter une attention particulière à l'environnement en milieu de travail, à l'implantation de postes de travail à la maison, aux possibilités de socialisation offertes par la télécommunication et au potentiel éducatif de la télévision.
+Il faut également veiller à l'utilisation optimale des réseaux et s'assurer de la disponibilité d'informations pertinentes.
+Alpiner et Vaughn (1988) constatent une perte de l'acuité auditive après 65 ans (une des cinq affections chroniques les plus communes aux États-Unis) qui peut avoir des conséquences émotives importantes dans la vie des aînés.
+Comme les technologies d'assistance auditive actuelles ne peuvent pas toujours pallier les insuffisances des environnements sonores publics, et qu'en plus les aînés ne veulent pas porter des appareils qui pourraient les faire paraître vieux, on a tendance à négliger ce problème.
+Bouchard-Ryan (1985) fait ressortir que, malgré les problèmes de perte de mémoire reliés à l'âge et lorsqu'il s'agit d'apprendre à utiliser un jeu vidéo, il vaut mieux utiliser comme indicateur la mémoire fonctionnelle que la mémoire à court terme.
+L'auteure conclut qu'une utilisation régulière du jeu et qu'une rétroaction pertinente (donnée à l'écran dès la fin du jeu) améliorent la vitesse de réaction des participants, peu importe l'âge.
+Profil des consommateurs âgés favorables aux technologies
+Les personnes âgées qui perçoivent l'utilité des nouvelles technologies répondent à un certain profil.
+Festervand et Wylde (1988), Harris (1988), Blaich (1991) et Chappell (inédit, 1993) précisent que le profil des consommateurs âgés favorables aux technologies se décrit comme suit : des gens éduqués, urbains, sensiblement plus jeunes que la moyenne, plus actifs, financièrement à l'aise et qui ont déjà eu des contacts avec une forme ou l'autre des technologies actuelles.
+Par contre, le sexe, l'état de santé et la qualité des relations sociales ne semblent pas exercer une influence directe sur l'opinion des gens.
+Les aînés qui correspondent à plusieurs de ces caractéristiques sont considérés comme des leaders dans leur cohorte et deviennent les meilleurs outils de promotion.
+Les personnes âgées d'aujourd'hui se sont déjà accommodées d'une multitude de changements technologiques et peuvent sans doute encore le faire si, selon Gilly et Zeithaml (1985), la sensibilisation à la technologie se fait de façon appropriée.
+Ils suggèrent de traiter directement avec les aînés car ces derniers exigent une information adéquate avant d'adopter une innovation.
+Lors de la mise en marché de l'ordinateur, par exemple, ils ont été complètement ignorés.
+Les aînés manifestent une forte réaction émotionnelle en lien avec l'utilisation de la technologie résultant d'une conception peu appropriée de l'équipement et d'informations inadéquates sur les applications possibles, leur utilité ou leurs avantages (Brooks et Gordon, 1988).
+Jay et Willis (1992) confirment que l'attitude des plus âgés est modifiable par l'expérimentation, qui est elle-même fonction de l'entraînement, de la convivialité des produits et de leur potentiel à satisfaire plusieurs besoins.
+Plusieurs chercheurs, dont Robert Kane, (~1990) soulignent l'importance d'accorder une attention particulière aux conséquences possibles des innovations technologiques sur la vie des gens âgés.
+Le fait de déterminer si les aînés doivent ou non utiliser une technologie ne doit pas reposer uniquement sur la réalité immédiate mais tenir compte des conséquences sociales.
+Rôle des technologies
+Contrairement aux croyances populaires, les recherches démontrent qu'en général, les gens âgés ont une attitude plutôt favorable face aux technologies.
+Mais Bjorneby (1991) et la majorité des auteurs précisent que cette attitude est toujours favorable dans la mesure où ils y voient des aspects positifs comme la possibilité de répondre à certains de leurs besoins ou d'améliorer leur santé, leur qualité de vie et leur sécurité.
+Ils reconnaissent avoir besoin des technologies pour conserver leur autonomie.
+Plus celles-ci contribuent à alléger leurs préoccupations, plus elles sont jugées utiles.
+Les consommateurs âgés modifieront leur comportement si, d'une part, la technologie rencontre leurs besoins et si, d'autre part, on les sensibilise à ses avantages, on la démystifie et si on les initie adéquatement (Harris, 1988).
+Tout appareil, dispositif ou service susceptibles d'améliorer la qualité de vie de ces personnes, toutes les innovations qui pourraient les relier à des systèmes d'information et leur offrir des services à domicile seraient jugés intéressants (Gilly et Zeithaml, 1985).
+Selon Stunkel (1991), les TCI peuvent être utilisées pour l'enseignement à distance, les téléachats, la consultation médicale à distance et elles accroissent l'efficacité des réseaux de diffusion actuels.
+Parmi les applications auxquelles les aînés sembleraient souscrire volontiers, on retrouve la consultation médicale à distance, le poste de travail à la maison, les différents services du système téléphonique, les systèmes de lecture électronique, de paiement direct dans les supermarchés et de transfert électronique de fonds (Gilly et Zeithaml, 1985).
+Lors de la conception des produits, Blaich (1992) recommande de tenir compte du plaisir de l'utilisateur, de sa faculté de maîtriser le système, des frais d'installation, de la facilité d'installation et de la possibilité d'ajouter des fonctions grâce à une conception modulaire.
+Elmer-Dewit (1993) traite de la capacité inouïe des autoroutes électroniques de répondre aux besoins quotidiens des aînés.
+Déjà, certains services interactifs permettent le téléachat, la consultation de banques de données de bibliothèques ou d'autres institutions, la communication avec des institutions bancaires et plusieurs autres services.
+Les nouvelles technologies vont prendre de plus en plus d'importance dans notre société vieillissante, surtout au niveau du développement des technologies médicales de pointe.
+Obstacles à l'utilisation des TCI par les aînés
+Les obstacles les plus fréquemment cités sont les coûts, l'absence de sensibilisation et de formation ainsi que des lacunes sur le plan de la convivialité.
+La Buda (1988) ajoute que les personnes âgées sont très soucieuses du fait que certains appareils puissent contribuer à vieillir leur apparence ou les marginaliser.
+Stewart (1991) passe en revue les difficultés éprouvées par les plus âgés dans leur interaction avec l'image, le son, le clavier et l'interface, en les associant aux effets du vieillissement.
+Il en arrive ainsi à recommander une approche ergonomique à toutes les étapes de la conception, qui tiendrait compte des caractéristiques de l'utilisateur âgé comme sa grandeur, son poids, sa force, son endurance et ses limites, etc.
+Dans le domaine de la domotique, Watzke (1992) adopte une approche similaire afin d'éliminer les obstacles pouvant causer des chutes (éclairage, escaliers, revêtement de plancher, etc.).
+Même si les personnes âgées manifestent des attitudes plutôt favorables à l'égard des technologies, elles ne passent pas facilement à l'action.
+En effet, Gilly et Zeithaml (1985) concluent qu'un très faible pourcentage de personnes âgées envisage d'en faire l'expérimentation et que seulement un très petit nombre d'aînés de 65 ans et plus utilise des technologies comme l'ordinateur par exemple (moins de 1 % aux États-Unis).
+Bouchard-Ryan (1986) met en garde les promoteurs des TCI auprès des aînés car ils doivent connaître les besoins importants associés aux derniers stades de la vie, les facteurs qui limitent l'utilisation des ordinateurs et les dangers possibles pour la vitalité et la sociabilité, conséquences d'un usage abusif.
+Un autre problème est porté à l'attention des intervenants en gérontechnologie.
+En effet, Trencher (1988) déplore le manque de coordination et de communication entre les concepteurs, les vendeurs, les utilisateurs et les professionnels quant à la promotion de nouveaux produits, programmes ou services technologiques pouvant améliorer la qualité de vie des aînés et compenser certaines déficiences dues à l'âge.
+Les attitudes et les besoins des personnes âgées en matière de technologies et le degré d'avancement technique des sociétés varient considérablement d'un pays à l'autre et d'un continent à l'autre, rendant difficiles toutes comparaisons.
+Van Noorden et McEwan (1991) se penchent sur l'un des projets du programme européen RACE qui tente de démontrer que les services en télécommunications (implantation du vidéotéléphone) peuvent aider les personnes ayant des déficiences ou des incapacités motrices, verbales ou visuelles.
+Parmi les réactions recueillies, les auteurs remarquent qu'en Allemagne, les personnes âgées ne veulent pas que le matériel ressemble à du matériel de bureau et qu'au Portugal, elles trouvent que tout ce qui a trait aux télécommunications est trop compliqué.
+Ils concluent néanmoins que le vidéotéléphone est une technologie facile d'utilisation pour cette population, qu'il permet de pallier certaines déficiences, d'entretenir des relations sociales et d'améliorer la qualité de vie.
+Marketing, technologies et aînés
+Furlong (1989) déplore le fait qu'aux États-Unis, la révolution informatique ait ignoré 35 millions d'adultes âgés de 55 ans et plus (soit 20 % de la population totale).
+De son côté, Blaich (1991) précise le fait que les consommateurs américains de 50 ans et plus représentent 47 % du marché potentiel et 77 % de l'assiette financière des familles et que le profil des clientèles âgées ne diffère pas beaucoup des plus jeunes sur certains points.
+Il est important de tenir compte du fait que les préretraités ou retraités ont plus de temps à consacrer aux loisirs et passent plus de temps à la maison.
+La Buda (1988) met l'accent sur la nécessité de connaître les besoins et les caractéristiques des utilisateurs âgés et de procéder à la mise en marché des produits auprès de cette clientèle.
+Les personnes âgées sont des nouveaux publics plus larges, plus variés et facilement rejoints par les technologies de télécommunication (Stunkel, 1991).
+La technologie doit s'adapter aux consommateurs et non l'inverse.
+Comme le mentionne Monk (1988), un usage inadéquat pourrait nuire aux personnes âgées; par contre, grâce à un usage judicieux, la technologie pourrait jouer un rôle important dans le quotidien des aînés, en brisant leur isolement.
+Bowe (1988) prévient les manufacturiers qu'ils devraient penser leurs produits de façon à ne pas marginaliser les personnes âgées qui veulent avoir le sentiment d'appartenir à la collectivité.
+Ils risquent autrement de ne pas atteindre leurs cibles comme ce fut le cas du Videotext en Floride.
+Il fait aussi remarquer que la technologie se développe plus rapidement que les changements psychologiques.
+Apprentissage des TCI par les aînés «On est jamais trop vieux pour apprendre.»
+Rudick Roger (1988)
+Gilly et Zeithaml (1985) analysent le processus d'adoption de nouvelles technologies et en viennent à la conclusion qu'il suit le modèle de Rogers :
+connaissance;
+persuasion;
+décision;
+implantation.
+Bouwhuis (1991) démontre la nécessité de bien comprendre le processus d'apprentissage et de respecter les capacités perceptuelles des utilisateurs.
+De l'expérimentation de Bouchard-Ryan (1992), il ressort que les effets du vieillissement sont significatifs lors de l'apprentissage d'une tâche à l'ordinateur.
+Rott (1988) considère que le jugement des personnes âgées sur les TCI se fonde sur leur motivation à les utiliser et sur les aspects positifs ou les dangers potentiels qu'ils y détectent.
+Ces variables sont par ailleurs influencées par le degré d'instruction en interaction avec l'expérience antérieure des technologies.
+Ce même auteur soutient que, pour maximiser l'efficacité de l'enseignement auprès des personnes âgées et faciliter leur cheminement, il faut absolument diminuer les coûts de ces programmes et en faciliter l'accès.
+Grâce à une meilleure utilisation des réseaux actuels de diffusion, les TCI permettront de satisfaire la demande croissante à l'égard de l'éducation permanente et de l'enseignement à distance.
+Pour ce faire, il est néanmoins essentiel que la clientèle âgée possède les appareils de base tels que les ordinateurs, les modems...
+et sache les utiliser.
+Entre autres avantages, les TCI permettent d'offrir un contenu pédagogique sous différentes formes (Young, 1989; Stunkel, 1991).
+L'étude de Straka (1986), basée sur les résultats d'un sondage réalisé aux États-Unis en 1981 auprès de personnes âgées de 45 ans et plus, est révélatrice des comportements des aînés envers les nouvelles technologies.
+Comme ce sondage date déjà de plus de 10 ans, il est possible de présumer que, d'une part, ces pourcentages sont légèrement différents aujourd'hui mais que, d'autre part, ils reflètent toujours la dissonance entre le comportement et le discours.
+Voici un aperçu des résultats de ce sondage :
+37 % des personnes interrogées étaient abonnées à un service de câblodistribution;
+8 % utilisaient un magnétoscope;
+50 % utilisaient une calculatrice;
+50 % disaient que la technologie n'avait vraiment pas rendu leur vie quotidienne plus facile;
+50 % disaient que les machines en font tellement qu'il ne reste pas grand chose à faire;
+87 % disaient qu'elles rendent la vie très impersonnelle;
+87 % disaient que les technologies permettent de faire les choses plus vite et mieux qu'avant;
+34 % disaient que la vie serait plus facile et meilleure lorsqu'on pourra tout faire de la maison par téléphone et par câble;
+les femmes écoutent davantage la télévision que les hommes, quel que soit leur âge;
+l'écoute augmente vers l'âge de 55 ans, atteint son apogée à 70 ans et diminue après 70 ans.
+Eilers (1989) relie la scolarité, l'usage de certains outils électroniques tels le magnétoscope ou la calculatrice à l'attitude et au comportement des aînés.
+Elle affirme que les aînés seraient plus intéressés à apprendre à se servir d'un ordinateur si les instructions adéquates leur étaient fournies, de préférence par des pairs.
+Qu'est-ce que les aînés recherchent en utilisant une technologie?
+De l'ensemble des études, il ressort que les aînés qui adoptent les TCI veulent avant tout améliorer leur qualité de vie.
+Ils visent les objectifs suivants :
+apprendre;
+satisfaire la curiosité, rester en contact avec les temps nouveaux;
+rester actif mentalement;
+favoriser les interactions sociales et entre les générations;
+développer de nouvelles amitiés basées sur des intérêts communs;
+améliorer l'estime de soi;
+améliorer mémoire et capacités;
+accroître le sentiment d'accomplissement;
+contrôler son environnement;
+faire des revenus supplémentaires.
+4.2.2.
+Principales conclusions en rapport avec des technologies particulières
+Téléphone
+Bowe (1990) indique qu'aux USA, 70 % des personnes de 51 ans et plus et des personnes qui ont des handicaps sensoriels, physiques ou ayant des troubles d'apprentissage sont intéressées à utiliser les TCI à condition de ne pas avoir à s'équiper d'un ordinateur, d'un modem ou de tout autre matériel (bien que 16 % des personnes de 51 ans et plus possèdent un ordinateur personnel et un modem).
+Néanmoins, les aînés sont prêts à payer jusqu'à 14 $ supplémentaires par mois pour obtenir des nouveaux services téléphoniques.
+Parmi ceux-ci, trois sont jugés prioritaires :
+les bottins électroniques;
+la sécurité à la maison (alarmes contre le feu, le vol...)
+;
+les conseils médicaux.
+Comme le mentionne Infante-Rivard (1988), ainsi que la plupart des chercheurs, le téléphone est l'outil technologique le plus facile à utiliser par les plus âgés et le mieux intégré dans leur vie quotidienne.
+Il s'avère un soutien appréciable dans plusieurs activités quotidiennes, comme par exemple la vie sociale, les transactions bancaires, les soins médicaux et il est précieux dans les cas d'urgence.
+Selon l'auteure, les gens âgés discutent facilement de leur état de santé au téléphone, ils acceptent de recevoir des conseils portant sur de saines habitudes de vie, ils cherchent à obtenir des recommandations sur des soins concernant des problèmes mineurs.
+Les contacts téléphoniques entre personnes âgées et professionnels de la santé pourraient diminuer le recours aux services médicaux et la fréquence des rencontres avec le médecin.
+Ils procurent également un réconfort émotionnel et sont un gage de sécurité pour les proches.
+Le rôle vital des systèmes téléphoniques dans les domiciles des aînés est sous-estimé et les services offerts sont peu adaptés aux besoins de cette clientèle.
+En Suède, par exemple, où 99 % des aînés suédois croient que le téléphone est essentiel à leur vie et où plus de 50 % d'entre eux possèdent deux ou trois appareils, 32 % d'entre eux souhaitent que leur appareil soit relié à un système d'intervention d'urgence, 15 % souhaitent avoir un téléphone avec mémoire, 34 % aimeraient que l'annuaire soit plus facile d'utilisation car ils trouvent les caractères minuscules, la présentation incohérente...
+Plusieurs répondants suggèrent que les cabines téléphoniques soient mieux isolées contre le bruit environnant (Collins et al, 1991; Östlund, 1993).
+Van Noorden et McEwan (1991) concluent aussi que les services de pointe en télécommunication, tels que la vidéotéléphonie, peuvent servir aux aînés ayant une ou plusieurs incapacités.
+Les vidéotéléphones, simples et faciles d'utilisation, permettent d'établir des liaisons entre la résidence et un centre d'assistance, favorisent les interactions sociales, permettent aux intervenants d'obtenir rapidement des renseignements plus complets sur l'état des patients et donnent au client l'impression d'une présence tout en facilitant la compréhension de ceux qui ont des problèmes d'audition.
+La téléphonie peut favoriser l'autonomie des personnes âgées dont la mobilité est réduite et diminuer en même temps le poids des services professionnels requis à cette fin.
+Le matériel audiovisuel favorise des interactions de qualité et ne provoque aucune technophobie (Robinson, 1991).
+Il faut favoriser l'accessibilité des systèmes téléphoniques de surveillance, d'écoute et d'intervention d'urgence, en modes actif ou passif.
+Trickey (1993) soutient que l'on facilitera leur adoption en présentant adéquatement leurs avantages, leur mode de fonctionnement et en expliquant les différences entre les divers types de systèmes.
+Magnétoscope
+En plus de reconnaître l'utilité des magnétoscopes pour des fins de loisirs, d'information ou d'éducation, Fletcher (1986) étudie leur pertinence en regard de certains projets.
+Les souvenirs enregistrés sur bandes audio ou vidéo alimentent le sentiment de continuité au sein de la famille, permettent de conserver le savoir, la sagesse, l'expérience des aînés et de consolider l'identité familiale.
+S'ils ressentent un besoin profond de raconter leur histoire, les aînés peuvent avoir recours à ce procédé.
+Il en va de même pour les plus jeunes qui désirent connaître le passé ou se situer dans l'arbre généalogique.
+Yahnke (1989) suggère fortement l'utilisation du magnétoscope pour les films éducatifs requérant la participation des personnes âgées, en conformité toutefois avec certaines règles.
+Il recommande en plus la réalisation de documentaires, de portraits réels ou fictifs et d'illustrations concrètes du processus de vieillissement à l'aide de cet appareil.
+Ordinateur
+Aux États-Unis, il y a un bassin potentiel d'usagers de l'ordinateur de 35 millions de personnes âgées (Rudick, 1992).
+Ces gens, qui sont déjà de grands consommateurs, vont représenter un marché de plus en plus important.
+Le pourcentage de retraités utilisant l'ordinateur va augmenter d'une façon phénoménale lorsque ceux qui sont actuellement sur le marché du travail se retireront.
+Les personnes âgées aimeraient, entre autres, avoir accès aux services d'info-santé, de téléachats et de services bancaires à domicile (Recio, 1990).
+Attitudes face à l'ordinateur
+Les personnes âgées manifestent des craintes et des réticences quant à l'utilisation des nouvelles technologies comme l'ordinateur (Bouchard-Ryan, 1989).
+Pour cette clientèle, cette technologie n'est valable que si elle est accompagnée d'informations adéquates sur les applications qui la concernent particulièrement et sur les avantages possibles.
+D'autre part, il existe, a priori, des attitudes négatives et des préjugés sur les personnes âgées par rapport à leur capacité ou leur habileté à utiliser l'ordinateur.
+Parmi les plus fréquents :
+plus les gens sont âgés, moins ils sont aptes à se servir de l'ordinateur;
+les aînés qui y parviennent ne sont pas représentatifs de leur groupe d'âge.
+Les contacts entre les professionnels de la santé et les personnes âgées par l'intermédiaire du téléphone et de l'ordinateur, particulièrement en région éloignée, peuvent répondre aux besoins des aînés, d'autant plus qu'ils ont tendance à se plaindre de leurs rapports avec leur médecin (Greenberger et Puffer, 1989).
+Bouchard-Ryan (1990) trace un portrait de l'interaction entre les personnes âgées et l'ordinateur.
+L'auteure remarque en premier lieu que les personnes âgées se sont accommodées d'une multitude de changements technologiques depuis le début du 20e siècle, mais qu'elles semblent moins bien intégrer l'ordinateur même si son utilisation est très répandue dans la société et qu'il peut améliorer considérablement la qualité de vie quotidienne.
+Elle donne quelques statistiques sur leur attitude vis-à-vis l'ordinateur :
+40 % des 45-64 ans, 34 % des 55-64 ans et 20 % des 65 ans et plus se disent favorables à cette technologie.
+Cette auteure explique l'attitude des plus âgés de la façon suivante :
+ils n'en ont pas besoin, ils sont incapables de l'utiliser, ou encore ils sont préoccupés par la relation avec la machine car la dimension humaine des différents aspects de la vie prend plus d'importance avec l'âge.
+Une expérience préalable de la technologie et une attitude favorable envers le phénomène sont deux des plus importants éléments propices à l'implantation de l'ordinateur.
+Il est intéressant de noter que le revenu influence l'attitude.
+En accord avec ce qui a déjà été mentionné au sujet de la technologie, Hahm et Bickson (1989) identifient très précisément les facteurs qui affectent l'adoption et l'utilisation des ordinateurs (plus particulièrement le courrier électronique et le travail en réseau) par des retraités : il faut une certaine connaissance de la technologie, des moyens financiers suffisants et un certain degré d'instruction.
+Selon leur groupe d'âge, les gens âgés cherchent à satisfaire des besoins différents :
+les personnes de 40-64 ans veulent l'efficacité et la sécurité;
+les gens de 65-74 ans désirent le confort et la sécurité;
+les 75 ans et plus apprécient les programmes, services et appareils qui pourraient les assister dans leur vie quotidienne (Bouchard-Ryan, 1990).
+Obstacles à l'utilisation de l'ordinateur par les personnes âgées
+Stewart (1991) explique que les personnes âgées peuvent éprouver certaines difficultés en rapport avec l'ordinateur en raison des facteurs suivants :
+elles ont plus de comportements acquis à mettre de côté;
+leurs facultés sont diminuées;
+elles entretiennent certaines craintes probablement causées par des expériences antécédentes malheureuses qu'elles ont vécues ou dont elles ont été témoins;
+elles ont peur de faire des erreurs;
+elles ont des préférences, des besoins et des exigences dont le marché ne se préoccupe pas;
+elles doutent des vertus et des bienfaits de cette technologie.
+Mais le vrai problème, précise Stewart, réside dans la conception inadéquate des ordinateurs, laquelle ne tient pas compte de la grandeur, de la force et des limites de l'utilisateur.
+L'ordinateur doit être facile à comprendre et à utiliser, sécuritaire, attrayant, pratique, fait de matériaux appropriés et durables et son prix doit être justifié par son rendement.
+Il existe un lien entre la facilité d'utilisation de l'appareil et la motivation.
+Les aînés ont des attitudes favorables à l'égard des changements technologiques et de l'ordinateur si ces innovations satisfont leurs besoins (Recio, 1990).
+Mais comme ils représentent un groupe hétérogène, il est fortement recommandé de respecter chacune des différentes caractéristiques ayant trait aux attitudes, aux perceptions et aux modes d'apprentissage.
+Il faut résoudre les problèmes de design, de coût et de compatibilité entre les différents systèmes.
+Toute technologie, attrayante et simple, qui sera conçue particulièrement pour cette clientèle et qui sera mise en marché de façon adéquate, rejoindra les utilisateurs âgés potentiels (La Buda, 1988).
+Il s'agit d'éviter les situations pouvant provoquer des réactions négatives et du découragement chez les personnes âgées puisqu'elles sont sujettes à l'anxiété, surtout celles souffrant d'une déficience physique et qui sont en processus de réadaptation (Ujimoto, 1992).
+La conception peu appropriée des équipements s'adressant aux aînés génère une réaction émotionnelle.
+Charness (1990) affirme, qu'en général, les règles et les normes de conception ne tiennent pas compte du vieillissement de la population, ce qui en limite l'utilisation par les plus âgés.
+Les risques d'utilisation excessive et d'isolement peuvent influer sur différents aspects de la vie.
+Si les technologies, telles que l'ordinateur, réduisent les contacts sociaux alors elles vont nuire aux objectifs poursuivis (Östlund, 1992).
+Il faut par ailleurs tenir compte des facteurs de passivité susceptibles de caractériser les comportements de certains aînés.
+Les effets techniques doivent être conformes aux objectifs de l'utilisateur.
+L'ordinateur permet peut-être de sauver du temps, mais il faut considérer que les personnes retraitées disposent de passablement de temps libre!
+Apprentissage de l'ordinateur par les personnes âgées
+Le processus d'apprentissage d'une tâche reliée à l'ordinateur dépend avant tout de la formation et non des attitudes.
+Il faut utiliser les paradigmes de la perception et de l'attitude directe pour évaluer les biais dus à l'âge lors de ce processus.
+Même si les plus jeunes sont souvent meilleurs lors de l'exécution de tâches comportant des exigences particulières et qu'ils affichent un plus fort taux de réussite lors de l'apprentissage des tâches, il ne faut pas sous-estimer les capacités d'apprentissage des gens de 55 ans et plus (Bouchard-Ryan, 1991; Czaja et al., 1989; Furlong, 1990).
+L'attitude face à l'ordinateur tend à devenir plus négative avec l'âge.
+Les personnes âgées qui suivent une formation conçue à leur intention obtiennent des résultats semblables à ceux des plus jeunes (Zandri, 1989).
+Cette formation doit tenir compte des éléments suivants :
+l'entraînement par équipe de deux est beaucoup plus économique;
+les aînés prennent deux fois plus de temps que les jeunes pour apprendre;
+l'apprentissage doit se faire en fonction de leur propre rythme, avec un instructeur disponible pour répondre à leurs questions;
+leurs performances vont influencer leur attitude.
+Les attitudes des personnes âgées par rapport aux technologies en général et à l'ordinateur en particulier restent ambiguës mais les aînés ont la volonté de s'adapter à ces technologies et les habiletés nécessaires pour y parvenir.
+Ces attitudes sont modifiables grâce à l'expérience directe et sont fonction de l'entraînement reçu, du confort éprouvé et de l'efficacité de l'ordinateur (Jay et Willis, 1992).
+McNeely (1991) confirme que l'âge, le degré d'instruction, l'expérience précédente sur un clavier sont des facteurs déterminants de la performance réalisée lors de l'apprentissage.
+Eilers (1989) analyse la capacité de formation des travailleurs âgés et constate qu'ils réussissent l'apprentissage malgré une attitude négative de départ.
+L'usage de l'ordinateur chez les travailleurs âgés permet de faire une transition intéressante entre le marché du travail et la retraite.
+Parmi les facteurs de résistance à la participation à un cours de formation à l'ordinateur, Eilers mentionne l'enseignement dispensé par un professeur plus jeune, la compétition avec des étudiants moins âgés, les programmes axés sur les mathématiques ou sur la vie professionnelle, les difficultés reliées à une ou des incapacités physiques.
+Besoins des personnes âgées en lien avec l'ordinateur
+Il y a un besoin aigu et immédiat d'informatisation chez les plus âgés.
+Le système doit être flexible car le profil des clients change régulièrement, les clientèles sont diversifiées et les besoins se transforment (Merrill, 1992).
+Furlong (1989), du réseau américain SeniorNet, soutient que les personnes âgées ont le désir d'être stimulées intellectuellement et qu'elles ont beaucoup de patience, de persévérance.
+L'ordinateur et les télécommunications permettent aux aînés de se rencontrer, de travailler sur des projets individuels ou collectifs, de communiquer entre eux, et leur fournissent un soutien émotionnel en plus de leur donner accès à de l'information.
+C'est, pour eux, un moyen de participer à la culture contemporaine et de rester en contact avec le monde.
+En Suède, les personnes âgées ont très bien accueilli l'implantation des ordinateurs.
+Elle a produit des effets bénéfiques (Östlund, 1992) même si certaines adaptations doivent encore être faites, notamment sur le plan de l'accessibilité visuelle.
+Certains facteurs favorisent la participation aux activités liées à l'ordinateur.
+Les thérapeutes et les autres intervenants auprès des plus âgés devraient suivre une formation pour être en mesure d'aider les personnes âgées en perte d'autonomie à utiliser cet appareil.
+Il est important de tenir compte des capacités des nouvelles générations d'aînés face aux nouvelles technologies, dont l'ordinateur.
+Il faut arrêter d'extrapoler à partir des expériences menées avec les aînés d'hier pour jauger les aînés de demain (Kautzmann, 1990).
+Les étudiants en thérapie occupationnelle et les autres intervenants auprès des aînés doivent être sensibilisés aux possibilités que l'ordinateur recèle dans le domaine du loisir.
+Non seulement la pratique de telles activités pourraient-elles améliorer l'estime et la maîtrise de soi des aînés, mais en plus cette approche peut-elle améliorer les modes d'interaction avec cette clientèle.
+Il faut se préparer au fait que l'attitude et le comportement de la génération des baby-boomers à l'égard de la technologie et surtout des ordinateurs auront d'importantes répercussions sur l'utilisation des produits technologiques (Chin, 1985).
+Télévision
+La télévision est, après le téléphone, la technologie la plus intégrée dans la vie des retraités (Greenberger et Puffer, 1989; Caron et al., 1992).
+Erkert constate qu'en Amérique, l'écoute télévisuelle des gens de 70 ans et plus est deux fois plus élevée que la moyenne nationale.
+Il s'agit fort probablement d'un cas de substitution où les liens créés avec l'animateur ou les acteurs compensent pour les liens affectifs réels manquants.
+Straka (1986) précise que les femmes écoutent davantage la télévision que les hommes, quelque soit l'âge.
+L'écoute augmente vers l'âge de 55 ans, atteint son apogée à 70 ans et diminue après 70 ans.
+La télévision est généralement associée au divertissement.
+34 % des gens interrogés par ce chercheur soutenaient que la vie serait plus facile et meilleure lorsque les transactions se feront à partir de la maison, par l'intermédiaire du téléphone et du câble.
+L'utilisation des médias à fins éducatives se développe surtout en fonction de la clientèle âgée.
+Grâce aux diverses applications de sous-titrage, les aînés en perte d'acuité auditive pourront participer plus facilement à plusieurs activités simples de la vie quotidienne ou sociale comme assister à des réunions ou participer à des ateliers à condition toutefois que la vitesse de défilement et la taille des caractères conviennent à leurs capacités (Howe et Graham, 1990).
+Appareils d'assistance sensorielle
+Comme il l'a été déjà mentionné, seules les recherches traitant des déficiences ou handicaps sensoriels ont été retenues.
+Ces études portent le plus souvent sur les technologies qui compensent les déficiences auditives et visuelles.
+En règle générale, les personnes âgées se montrent réticentes à l'égard des appareils d'assistance qui peuvent les marginaliser ou les vieillir (Alpiner et Vaughn, 1988; Bowe, 1988).
+Les attitudes sont encore plus négatives à l'égard des prothèses auditives dont l'usage est relativement moins répandu que les lunettes, compte tenu du fait qu'elles se portent à tout âge.
+Alpiner (1988) fait remarquer que l'attitude face à ces appareils va de l'acceptation au rejet, en passant par l'incertitude.
+Les personnes âgées devenues progressivement sourdes connaissent des difficultés très spécifiques largement méconnues.
+Pehringer (1989) souligne que le réseau de ressources alternatives n'est pas suffisamment développé et accessible pour favoriser l'autonomie à domicile.
+Ce constat s'applique aux multiples types d'aides techniques destinées aux personnes âgées, comme le soulignent Parker et Thorslund (1991).
+Dans leur recherche, ils révèlent que les informations sur ces produits ne sont pas connues, qu'elles ne sont pas disponibles;
+ils suggèrent de les diffuser auprès de toute la population, des intervenants du milieu, du personnel des institutions, et sans oublier, bien sûr, auprès des aînés qui en ont besoin.
+En plus de reconnaître ce problème d'accès à l'information, Trencher (1988) identifie d'autres obstacles, tels que l'intérêt des intervenants.
+Il faut prévoir un certain laps de temps avant que les utilisateurs et les professionnels puissent connaître l'existence des appareils disponibles et s'y intéresser.
+En plus, dit Trencher, l'attrait commercial de ces produits n'est pas toujours évident.
+Whitten (1988) ajoute qu'il est essentiel d'utiliser les talents et l'expérience des aînés à toutes les étapes du processus, que ce soit lors de la conception ou de l'installation des dispositifs d'assistance, de manière à ce que ceux-ci servent réellement à maintenir leur indépendance et que la société puisse leur permettre de continuer à faire des revenus malgré leur déficience.
+Domotique
+La domotique ou la maison intelligente est présentée par plusieurs chercheurs comme étant une des solutions d'avenir pour le maintien à domicile et pour pallier les différentes déficiences dues à l'âge.
+Mais, pour être en mesure d'identifier les services, applications technologiques ou programmes susceptibles d'aider les personnes âgées à demeurer autonomes le plus longtemps possible, il est important de bien comprendre les changements qui surviennent à la retraite ainsi que leurs causes.
+Ce sont bien souvent des changements de cette nature :
+les enfants quittent la maison;
+le revenu diminue considérablement;
+des problèmes de santé surgissent;
+les activités deviennent de plus en plus restreintes;
+des problèmes de logement peuvent se produire;
+plus tard, surviennent la mort d'un des conjoints et le placement éventuel en institution (Struyk, 1988).
+En plus, les besoins des personnes âgées varient considérablement en fonction de leur statut de propriétaire ou de locataire, de leur situation financière, de leur race, de leur localisation (urbaine vs rurale) et de leurs problèmes de fonctionnement reliés à l'âge ou aux limitations physiques.
+Prud'homme (1986) insiste sur la difficulté de distinguer les besoins reliés à l'habitation et les besoins plus généraux d'assistance.
+C'est pourquoi il faut bien définir ces premiers pour offrir des services domotiques adéquats.
+En outre, certains problèmes ne sont pas propres aux aînés, ils touchent l'ensemble de la population.
+Si elle était conçue pour favoriser l'autonomie des personnes âgées dans leurs activités quotidiennes, telles que les transactions bancaires, la maison intelligente augmenterait leur estime de soi (Östlund, 1992).
+La domotique facilite le travail à domicile, le télédivertissement, les télécommunications, favorise l'accès à l'information tout en augmentant l'efficacité énergétique de la maison et en maintenant les personnes âgées et les personnes handicapées à domicile plus longtemps (Chin, 1985; Girardin, 1991; Östlund, 1992).
+Mais l'implantation de la domotique en général, et particulièrement des applications s'adressant aux consommateurs âgés, souffre de divers problèmes.
+En plus des problèmes reliés aux coûts ou aux particularités des installations, une des limitations des maisons intelligentes provient du fait qu'elles sont conçues en fonction d'un stade spécifique de la vie sans tenir compte des changements et des transitions qui affectent l'individu au cours de son existence.
+Comme les gens âgés veulent rester autonomes et demeurer dans leur foyer le plus longtemps possible, il faut prévoir la diminution des perceptions et des capacités qui survient vers la fin de la vie et qui rend les individus plus fragiles.
+Whitten (1988) rappelle aux responsables de l'industrie de la domotique la nécessité de recourir activement aux aînés, qu'ils soient handicapés ou non, dans le processus de conception, d'installation et ce, afin de mieux répondre à leurs besoins.
+Watzke et Kemp (1992) pensent que la domotique présente des solutions intéressantes pour la prévention.
+Les accidents représentent la cinquième cause de décès aux États-Unis et les chutes sont les accidents les plus fréquents chez les plus âgés car elles représentent 70 % des accidents fatals chez les 65 ans.
+Étant donné que la majorité des chutes sont causées par le fait que les aînés n'ajustent pas leurs activités et les demandes environnementales conformément à leur niveau de capacités, une maison intelligente pourrait pallier ce problème par différents dispositifs : des systèmes d'éclairage qui s'allument au passage, des appareils sensibles aux pertes d'équilibre et aux chutes, etc.
+Guichets automatiques
+Très peu de recherches se sont penchées sur l'utilisation des guichets automatiques et celles qui l'ont fait ne sont plus très récentes bien que leurs résultats corroborent ceux, plus généraux et plus actuels, portant sur les technologies.
+Gilly et Zeithaml (1985) considèrent que, dans ce secteur, les aînés forment un segment de consommateurs qui s'accroît;
+sachant que les consommateurs âgés adoptent une attitude favorable si la technologie satisfait leurs besoins, s'ils sont bien informés, il est probable qu'ils accepteront le changement de comportement introduit par les guichets automatiques.
+Ils sont d'ailleurs plutôt favorables au système électronique de transfert de fonds puisque 44 % des gens qui ont demandé de l'information à ce sujet étaient âgés.
+En Europe, Rudinger et al. (1991) étudient des applications technologiques utilisées par les aînés telles que les distributrices de billets de transport en commun.
+Une de leurs conclusions s'adresse aux concepteurs de ces bornes; ceux-ci doivent éliminer toutes confusions possibles dans les types d'information dispensés et prévoir un délai de réponse respectant le temps de réaction des aînés.
+Systèmes d'alarme
+Les recherches sur l'utilisation des systèmes d'alarme ou de sécurité sont surtout d'origine européenne.
+Au Pays-Bas, Collins et al. (1992) remarquent que 20 % des aînés ont un système d'alarme qui leur donne un sentiment de sécurité mais que 33 % des personnes âgées qui en possèdent un portatif ne le portaient pas lorsqu'elles en ont eu besoin.
+En 1991, puis en 1992, Östlund a mené plusieurs recherches sur le sujet.
+Cette chercheure étudie, entre autres, le comportement des aînés par rapport aux systèmes d'alarme résidentiels.
+Elle constate que les retraités choisissent plutôt des résidences munies de ces dispositifs car ils peuvent ainsi espérer vivre, en sécurité, à domicile, plus longtemps.
+Pour que les gens puissent avoir confiance en ces systèmes, ils doivent bien comprendre leur mode de fonctionnement et avoir l'habileté requise pour les utiliser.
+De plus, de tels systèmes allègent la responsabilité des familles.
+Néanmoins, le personnel qui dispense les soins risque de représenter le seul contact quotidien des personnes reliées à ces systèmes d'intervention d'urgence.
+La dépendance, la solitude et l'isolement ne sont aucunement atténués par ces dispositifs.
+Il y a même la possibilité que la perspective d'attendre l'aide, une fois l'alarme déclenchée, augmente l'anxiété.
+Les personnes âgées elles-mêmes ne sont pas des agents promoteurs de ces systèmes.
+5.
+RECHERCHE FAITE AUPRÈS DE L'INDUSTRIE
+5.1.
+But et objectifs
+Le deuxième volet de la recherche établit la problématique du point de vue des entreprises du secteur privé intéressées par le développement des TCI desservant les clientèles ayant des besoins spéciaux.
+5.2.
+Méthodologie
+Dans ce volet, la présente recherche s'est penchée sur une dizaine d'applications technologiques.
+Ont été identifiés 25 entreprises privées et une trentaine d'organismes canadiens ou étrangers, d'organisations ou de services gouvernementaux concernés par la clientèle âgée.
+Les responsables des services du marketing, de la recherche, des relations publiques ou du service à la clientèle ont été rejoints.
+Par l'intermédiaire d'une entrevue téléphonique, nous leur demandions dans quelle mesure leur organisation s'intéressait aux personnes âgées, quels services elle leur offraient, et le cas échéant, les raisons pour lesquelles elle ne s'en préoccupait pas.
+Nous avons recueilli les résultats de leurs sondages-maison ou études de marché, accompagnés de commentaires confirmant l'importance de notre démarche et exprimant le désir d'être informés des résultats et de participer éventuellement à la recherche ou au développement touchant cette problématique.
+Ce qui suit est le compte rendu de leurs réponses, lesquelles indiquent bien où se situent leurs préoccupations relatives à la clientèle âgée.
+5.2.1.
+Secteur bancaire
+Très peu d'études ou de statistiques sur l'utilisation des différents services des institutions bancaires par la clientèle âgée sont disponibles.
+Lors de l'implantation des guichets automatiques, par exemple, le milieu bancaire ne s'est pas vraiment préoccupé de la clientèle âgée.
+Ce n'est qu'une fois le processus d'implantation en marche ou terminé que le souci de répondre à cette clientèle de plus en plus nombreuse a vu le jour.
+Une banque canadienne explique cette situation par le fait que seulement 13 % de sa clientèle est âgée de 55 ans et plus.
+Il semble d'autre part que 88 % de ses clients âgés ne veulent pas de cartes bancaires car ils préfèrent le service au comptoir;
+par contre, 10 % d'entre eux en possèdent une et l'ont déjà utilisée et 2 % en possèdent une mais ne l'ont jamais utilisée.
+Ces comportements sont dus à :
+la crainte des appareils chez les plus âgés surtout;
+la peur de se tromper;
+l'intolérance face à une ligne d'attente devant un appareil (ils sont plus tolérants pour faire la même file sachant qu'une personne leur répondra).
+Le mouvement des caisses d'épargne et de crédit, reconnu pour être l'institution la plus fréquentée par les retraités, a fait part de certains résultats émanant d'un sondage-maison sur l'utilisation des services automatisés par les aînés.
+En voici un aperçu :
+40 % des retraités (55 ans et plus) disposent personnellement d'une ou de plusieurs cartes de guichet automatique, 75 % d'entre eux n'en ont qu'une seule alors que 13 % en ont deux;
+48 % des personnes retraitées ont utilisé en moyenne 6,7 fois, leur(s) carte(s) au cours du mois précédent le sondage, et ce, dans la majeure partie des cas, pour effectuer un retrait;
+au cours de ce mois, les personnes âgées de 65 ans et plus se sont servi 6,8 fois de leur carte pour faire un paiement direct comparativement à 4,2 fois chez les plus jeunes.
+5.2.2.
+Réseau de communication visuelle
+Un sondage d'opinion sur les attitudes et perceptions des clientèles à mobilité réduite à l'égard du Réseau de communication visuelle (RCV) a été effectué, en 1992, par la firme CROP pour la Société de transport de la Communauté urbaine de Montréal.
+Les clientèles visées par ce sondage étaient :
+les personnes handicapées visuelles;
+les personnes handicapées auditives;
+les personnes âgées.
+Très intéressées par cette nouvelle application technologique, les personnes âgées ne se sont pas laissé intimider et ont même exprimé le souhait de collaborer à ce genre d'expérimentation dès la conception du produit, afin de mieux faire comprendre leurs besoins.
+Leurs réactions à l'égard du RCV faisaient ressortir la nécessité de tenir compte des éléments suivants :
+la clarté et le volume de la voix, (il n'y a pas de préférence pour les voix masculine ou féminine);
+la durée de l'affichage (un temps d'affichage plus long faciliterait la lecture);
+les messages publicitaires (il en faudrait moins et il faudrait qu'ils soient plus informatifs et défilent moins rapidement);
+les informations sur les correspondances, les prochaines stations, sur la direction à suivre pour prendre un autobus (il en faudrait davantage);
+les renseignements pratiques (il en faudrait davantage);
+les messages sur la météo et sur l'actualité (sont jugés très utiles).
+5.2.3.
+Câblodistribution et télévision interactive
+Pour sa part, l'entreprise de câblodistribution Vidéotron semble bien renseignée quant au profil de ses consommateurs âgés et se montre apte à répondre à leurs besoins.
+En juin 1992, le Laboratoire de recherche sur les nouvelles technologies de l'Université de Montréal a mené une recherche pour Vidéotron intitulée : Analyse de l'adoption d'une nouvelle technologie : le système VIDÉOWAY.
+Cette recherche indique que 12 % de la clientèle est âgée de 55 ans et plus, que 76 % d'entre elle est abonnée à Vidéoway (VW) ainsi qu'à la télévision payante (TVP) tandis que 24 % l'est seulement à VW.
+Les chercheurs ont obtenu de précieuses informations sur la convivialité du système Vidéoway : 70 % des répondants ont trouvé l'apprentissage assez ou très facile, mais seulement 30 % d'entre eux sont très à l'aise avec le système;
+ils ont également questionné les répondants sur la variété des services accessibles en tout temps, sur le temps d'utilisation des jeux ainsi que sur leurs préférences envers l'une ou l'autre de ces options.
+Parmi les usagers de la télévision interactive, 32 % ont 55 ans et plus et 60 % d'entre eux ont regardé les émissions interactives au cours des semaines précédant l'entrevue.
+La consommation hebdomadaire moyenne de télévision payante des aînés est de 16 h 32 min dont 6 h 10 min durant le week-end alors que leur consommation hebdomadaire de télévision traditionnelle est de 22 h 26 min.
+En conclusion, les chercheurs précisent que les 55 ans et plus ne fréquentent pas plus souvent les composantes du système, mais y demeurent significativement plus longtemps à chaque fois, tant pour les jeux et que pour les autres services télématiques.
+Ils sont en outre de grands consommateurs de télévision traditionnelle.
+5.2.4.
+Téléphonie
+Une compagnie téléphonique canadienne s'est aussi penchée sur les caractéristiques du groupe des 50 ans et plus.
+Un sondage-maison a permis de dresser le profil de cette clientèle et d'identifier ses besoins actuels et futurs en matière de téléphonie.
+Il ressort que :
+les aînés d'aujourd'hui sont plus riches et en meilleure santé que ne l'étaient leurs prédécesseurs et cette tendance se maintient;
+avec 55 % du pouvoir d'achat discrétionnaire, ils représentent un marché important pour les détaillants de certains services;
+il s'agit d'une clientèle recherchée par les entreprises financières, les fabricants de produits de soins personnels, de marchandises de luxe et de produits reliés à la santé, par les agences de voyage et les centres de détente (SPA et clubs de santé);
+ces consommateurs sont instruits, déterminés à poser des questions et à prendre leur temps pour rechercher un produit et ils exigent la qualité;
+il ne s'agit pas d'un groupe homogène mais plutôt de multiples cohortes aux intérêts, aux valeurs et aux besoins diversifiés.
+5.2.5.
+Systèmes de sécurité
+Dans ce genre d'entreprises, les produits ne sont pas conçus en fonction des besoins de clientèles cibles.
+Néanmoins, une des entreprises interrogées développe de nouveaux systèmes d'alarme portatifs et d'autres appareils d'assistance (colliers, bracelets, mécanismes pour détecter la pression artérielle ou le rythme respiratoire...)
+qui peuvent répondre aux besoins des adultes et des personnes âgées ayant des problèmes de santé.
+Elle ne dispose toutefois d'aucun outil pour déterminer si ces produits répondent ou non aux besoins des plus âgés et n'axe pas son intervention sur la recherche et le développement de nouveaux produits destinés à ces derniers.
+5.2.6.
+Domotique
+La compagnie Général Électrique Canada (GEC), qui a participé à un projet pour personnes handicapées et personnes âgées, rapporte qu'une faible fraction de la population utilise les fonctions sophistiquées des appareils électroniques intégrés à la domotique.
+GEC insiste sur le fait que les produits les plus en demande sont les plus simples à utiliser.
+Actuellement, tous les appareils électroménagers peuvent être combinés à la domotique mais la réalisation de la maison intelligente est plus complexe, plus coûteuse et elle est moins conviviale qu'elle le laissait présager au départ.
+En collaboration avec la Société d'habitation du Québec (SHQ), la Société canadienne d'habitation et de logement (SCHL) a mené au Québec le premier projet-pilote en domotique dans un logement adapté pour une personne à mobilité réduite.
+5.2.7.
+Informatique
+Le domaine de l'informatique, celui qui a suscité le plus grande nombre de démarches, a sûrement été le plus difficile à approcher : le personnel connaît une grande mobilité, la recherche et le développement se font aux États-Unis, les succursales canadiennes sont avant tout des bureaux de ventes, etc.
+Nous sommes entrés en contact avec des représentants de deux importants fabricants d'ordinateur.
+Selon eux, leur entreprise n'a pas fait de sondage sur l'utilisation de l'informatique par les personnes âgées, ni sur leur intérêt ou leurs besoins.
+L'une des compagnies s'intéresse uniquement au milieu des affaires, aux marchés domiciliaire, éducatif et gouvernemental.
+Les aînés ne font pas partie de ses créneaux et les 40 ans et plus ne sont pas des clientèles prioritaires en termes d'investissement.
+Par contre, cette compagnie s'est spécialisée dans les technologies adaptées pour les personnes handicapées comme par exemple la reconnaissance vocale, les claviers adaptés, ou encore le grossissement des caractères.
+L'autre entreprise manifeste un intérêt pour les clientèles spéciales mais ne s'est pas engagée jusqu'à présent dans des projets de recherche, du moins au Canada.
+Néanmoins, la compagnie a collaboré, de façon ponctuelle, à plusieurs projets visant les personnes âgées.
+Les répondants souhaitent connaître les projets que le CITI mettra de l'avant et seraient même intéressés à y participer.
+6.
+RECHERCHE ET DÉVELOPPEMENT
+Le dernier volet de cette recherche, le recensement des différents projets qui existent un peu partout dans le monde, constitue un des aspects les plus enrichissants.
+Ces projets, plus ou moins récents et d'envergure variable, ont quelques points communs :
+ils concernent tous des personnes âgées de plus de 55 ans et ils répondent aux mêmes besoins de mettre à contribution les applications technologiques pour l'amélioration de la qualité de vie des aînés, le maintien de leur autonomie et l'allègement de leur quotidien.
+Une vingtaine de projets explorant l'interaction des technologies avec plusieurs types de clientèles âgées ont été recensés au Canada, aux États-Unis et en Europe et nous présentons les plus significatifs parmi ceux-ci.
+6.1.
+Au Canada
+6.1.1.
+Creative Retirement Manitoba/Canadian Healthcare Telematics
+Description
+Développement, vérification et évaluation d'un réseau électronique qui permet l'accès à une base de données en ligne et à un système de conférence adapté aux besoins des consommateurs aînés qui désirent maintenir un style de vie autonome.
+Objectifs
+Développer une bonne connaissance des exigences des aînés à l'égard des systèmes d'information en ligne, comme la nature de l'information recherchée et le format préféré;
+déterminer la pertinence de la télématique comme solution aux difficultés qu'éprouvent les aînés pour obtenir l'information dont ils ont besoin pour vivre leur vie de façon autonome après la retraite.
+6.1.2.
+Applications of Building Automation For Elderly And Disabled Persons (Rapport Hickling)
+Description
+Étude de marché préliminaire, menée par le Canadian Automated Buildings Automation (CABA), qui avait pour but d'identifier les applications de la domotique susceptibles d'aider les aînés et les personnes avec des incapacités.
+Cette étude évalue les possibilités pour des firmes canadiennes de participer au développement et à la mise en marché des technologies qui répondent aux besoins de ces clientèles.
+CABA souhaite développer une stratégie qui réduise le fossé entre le consommateur et le fournisseur.
+Mise en oeuvre
+Recensement des besoins des consommateurs et des réponses technologiques adéquates (documentation et bases de données);
+entrevues de groupes composées d'aînés et de consommateurs handicapés;
+sondage auprès des fournisseurs nord-américains de technologie intégrée à la domotique.
+6.1.3.
+Projet Info-3e âge (Québec)
+Description
+Il s'agit d'une expérience principalement basée sur l'assistance téléphonique bénévole : un Centre Info-3e âge qui offre de l'information et un service de références pour les aînés d'un territoire donné.
+Le Centre sera un lieu où l'on pourra retrouver toute la documentation pertinente et recevoir (dans certains cas) une aide et des conseils appropriés.
+L'information a été traitée en vue d'être informatisée.
+Mise en oeuvre
+Traitement de l'information et des références pour qu'elles s'adaptent à la diversité des populations du 3e âge et aux particularités des localités touchées;
+regroupement de l'essentiel de la documentation à portée principalement locale et régionale, s'adressant aux aînés;
+diffusion de l'information;
+gestion par les gens du troisième âge, secondés par les groupes locaux.
+6.1.4.
+Silver & Gold (Ontario)
+Description
+C'est un réseau électronique de communication entre les aînés.
+Objectifs
+Instaurer un moyen de communication rapide, efficace et abordable pour réduire l'isolement des aînés et les mettre en contact avec d'autres personnes partageant leurs intérêts;
+promouvoir l'activité intellectuelle dans le but de contrer la perte de mémoire, la démence et la dépression;
+fournir aux aînés une occasion de partager connaissances et expériences;
+fournir aux organisations communautaires et gouvernementales un médium de diffusion d'information pouvant toucher les aînés.
+6.1.5.
+Seniors Resources & Research Society (Colombie-Britannique)
+Description
+C'est un réseau électronique de communication et d'information développé par les aînés et utilisé par ceux-ci et par d'autres personnes intéressées.
+Le projet inclut le développement et l'évaluation.
+Il est piloté par Infonet qui crée et gère des centres d'apprentissage de l'informatique pour les aînés aux États-Unis, et coordonne un réseau de communication électronique entre ses membres.
+Il s'agit d'un réseau de communication électronique à travers le Canada reliant différents regroupements, qui donnera accès à une base de données en ligne et à plusieurs services adaptés aux besoins des consommateurs aînés qui désirent maintenir un style de vie autonome.
+Le réseau comprend différentes sections, telles que : nouvelles, courrier électronique, bibliothèque, forum, bases de données et babillard.
+Objectifs
+Rendre facilement accessible toute information utile et intéressante pour les aînés de la Colombie-Britannique;
+réviser et mettre à jour cette information;
+fournir un réseau de communication simple et abordable aux utilisateurs de Infonet.
+6.1.6.
+Projet PAIR (Québec)
+Description
+C'est un système informatisé permettant de vérifier régulièrement l'état d'une personne en situation de maintien à domicile.
+Le système est constitué d'un ordinateur, d'un haut-parleur, d'un téléphone et d'une imprimante, et contient une base de données relatives aux personnes inscrites au programme.
+Une fois le système activé, les personnes âgées inscrites à ce service sont appelées une à une grâce à un message vocal produit par l'ordinateur.
+S'il n'y a pas de réponse après une série d'appels déterminée à l'avance (habituellement deux), une alarme sonore est déclenchée.
+Le système imprime un rapport complet sur la personne en difficulté en s'inspirant de sa fiche signalétique.
+En temps normal, un rapport journalier est également émis.
+Objectifs
+Combler un besoin de sécurité tout en maintenant l'autonomie des personnes âgées;
+favoriser la prise en charge de l'individu voulant garder son indépendance et vivre seul, pourvu qu'on veille sur lui;
+pallier la solitude ou encore l'isolement, chez certaines personnes;
+sensibiliser les personnes âgées aux réalités du vieillissement, souvent refoulées (maladies, peurs, etc.), tout en les rassurant par l'existence d'un tel service;
+sauver des vies tout en prévenant le pire.
+6.2.
+Aux États-Unis
+6.2.1.
+SeniorNet
+Description
+Organisation sans but lucratif qui crée et gère des centres de formation en informatique pour les aînés et coordonne un réseau de communication électronique entre ses membres.
+Objectifs
+Déterminer si les ordinateurs et les télécommunications peuvent enrichir la vie des Américains âgés;
+fournir un environnement sécurisant et amical pour l'apprentissage de l'informatique;
+rassembler les aînés au sein d'un même réseau de communication;
+fournir une information utile et pertinente aux aînés par un système en ligne.
+6.3.
+En Europe
+En Europe, les principaux projets se déroulent dans le cadre des grands programmes européens de recherche, soit des programmes généraux tels que RACE ou des programmes particuliers comme TIDE.
+Les pays scandinaves, en particulier la Norvège et la Suède, qui ont une tradition bien établie de recherche et de développement dans le domaine des applications sociales des technologies, s'intéressent aussi beaucoup à l'effet des technologies sur les personnes âgées.
+6.3.1.
+RACE (Recherche et développement avancé sur les technologies de communication en Europe)
+Description
+Trois projets importants sont réalisés dans le cadre de ce programme du Conseil des communautés européennes :
+APPSN : Application Pilot for People with Special Needs;
+IPSNI : Integration of People with Special Needs in IBC;
+TUDOR : Tutorials about Users who Disabled are Retired.
+Il s'agit de projets regroupant plusieurs pays et auxquels collaborent des industries, des universités et des groupes d'usagers.
+Objectifs
+APPSN : Démontrer le potentiel commercial de services de soutien et de soins à domicile utilisant la vidéophonie.
+IPSNI : Développer des normes pour des réseaux de communication multimédia pour les personnes handicapées motrices, visuelles et verbales afin de faciliter leur intégration professionnelle et sociale, de leur donner un meilleur accès à la culture et de favoriser leur autonomie.
+TUDOR : Évaluer le potentiel des réseaux de communication à bande large pour l'intégration sociale des personnes âgées et handicapées et pour l'amélioration de leur qualité de vie.
+Pratiquement 6000 personnes ont été rejointes dans le cadre de ce programme.
+6.3.2.
+TIDE: Technology Initiative For Disabled And Elderly People
+Description
+Il s'agit d'un programme de la Communauté économique européenne comprenant 21 projets visant à développer des modèles et des outils de maniement et de contrôle, de communication, de sécurité, de soutien quotidien et d'accès à l'information pour les clientèles spéciales (Ballabio, 1992).
+Objectifs
+Explorer les besoins en technologie adaptée;
+rendre les nouvelles technologies accessibles à tous, sans discrimination quant au handicap;
+répondre aux besoins quotidiens des personnes handicapées et âgées en cherchant à compenser certaines déficiences au moyen de technologies.
+6.3.3.
+Home-Shopping Systems
+Description
+Projet de recherche suédois où l'on équipe des aînés avec des ordinateurs, des télécopieurs et des téléphones adaptés afin d'étudier certaines caractéristiques des systèmes de téléachats.
+Objectifs
+Décrire ces systèmes du point de vue du consommateur aîné;
+spécifier les modalités d'implantation de tels systèmes auprès des aînés;
+évaluer les aspects positifs et négatifs des différents modes de communication entre les consommateurs (aînés) et les dispensateurs de services (secteur commercial).
+6.3.4.
+Elderly And Self-Service Technology
+Description
+Étude norvégienne qui comporte deux parties :
+Première partie :
+recensement de la documentation sur les aînés et leur utilisation de la technologie moderne;
+recensement d'autres projets portant sur le sujet;
+observations des aînés et entrevues dans les banques, aux guichets de téléservices, etc.;
+groupes de discussion et distribution d'un questionnaire à des aînés sélectionnés de manière aléatoire.
+Deuxième partie :
+installation de différents appareils technologiques dans deux centres de jour pour aînés.
+Objectifs
+Identifier les attitudes des aînés face aux nouvelles technologies de communication libre-service;
+identifier les conditions d'utilisation de ces technologies par les aînés et les facteurs pertinents à celle-ci.
+6.4.
+Réactions
+Il est intéressant de souligner l'esprit de coopération et l'intérêt manifestés par la majorité des responsables des projets mentionnés et ce, non seulement lorsqu'il a été question de fournir l'information sur leurs travaux mais aussi en vue d'une collaboration éventuelle aux projets qui suivront la présente démarche.
+Les remarques suivantes démontrent bien cet esprit :
+«Votre projet semble très intéressant!
+J'espère bien en apprendre davantage sur votre travail tellement je suis convaincu qu'il y a de grands défis à relever dans ce domaine!»
+Sidsel Bjorneby, Human Factors Solutions, Oslo, Norvège.
+«Nous sommes très intéressés à accentuer notre engagement dans le domaine des personnes âgées et des technologies de communication, nous envisagerions volontiers de travailler avec vous quand vos projets seront déterminés.»
+Elliott Stein, Stein Gerontological Institute-Technology Centre for Independent Living, Miami, États-Unis.
+«C'est merveilleux que vous ayez entrepris cette étude si nécessaire!»
+Isobel Warren, Silver & Gold, Toronto, Ontario.
+«1993 Elderhostel serait extrêmement intéressé à collaborer avec vous sur des projets touchant l'utilisation des nouvelles technologies par les aînés.»
+Robert Williston, Elderhostel, Kingston, Ontario.
+7.
+SONDAGE AUPRÈS DES ASSOCIATIONS ET DES REGROUPEMENTS D'AÎNÉS
+Une composante importante de la collecte de données s'est effectuée par contact direct avec les organismes d'aînés et les professionnels.
+La méthode utilisée lors de cette démarche fut l'envoi, à des groupes et individus choisis au Canada et à l'étranger, d'une lettre décrivant brièvement le projet, accompagnée d'un questionnaire en huit points.
+7.1.
+But et objectifs
+Solliciter l'information des groupes représentant les aînés, afin de sensibiliser les réseaux d'aînés et le milieu professionnel concerné par les questions gérontechnologiques au Canada.
+7.2.
+Méthodologie
+Le questionnaire expédié par la poste visait les regroupements suivants :
+les organismes d'aînés membres ou partenaires canadiens de La Voix;
+des organismes sans but lucratif;
+les ministères et conseils consultatifs provinciaux responsables de la condition des aînés;
+les membres du conseil d'administration de La Voix.
+Nombre de groupes et professionnels engagés dans la recherche technologique, gérontologique et autres reçurent aussi, par télécopieur ou par la poste, le questionnaire et une lettre requérant de l'information additionnelle.
+Plusieurs contacts furent faits uniquement par téléphone.
+Les critères de sélection étaient les suivants :
+A)
+Représentativité des aînés et des professionnels
+La représentativité des aînés et des professionnels fut assurée grâce à la participation d'experts sur les questions relatives au vieillissement, des associations sans but lucratif représentant les aînés et des membres du conseil d'administration de La Voix.
+B)
+Représentativité des provinces et des territoires
+La représentativité des provinces et des territoires fut assurée par l'envoi de la lettre aux bureaux ministériels en charge des questions touchant les aînés dans chaque province et territoire.
+C)
+Diversité de la clientèle
+La diversité de la clientèle fut assurée par le contact avec des groupes membres du Réseau canadien des aînés, ainsi qu'avec d'autres organismes sans but lucratif oeuvrant dans différents domaines, tels que :
+l'Association canadienne pour l'éducation des adultes;
+l'Association canadienne des centres de vie autonome;
+la Coalition des organismes provinciaux pour les personnes handicapées.
+Des groupes de recherche furent également consultés, tels que :
+les centres et programmes universitaires en gérontologie;
+des entreprises effectuant de la recherche en technologie;
+des groupes et individus travaillant avec des technologies de réadaptation, etc.
+D)
+Participation internationale
+La participation à l'échelle internationale fut assurée par des contacts avec des professionnels intéressés par les questions gérontologiques dans dix différents pays.
+7.3.
+Résultats
+Le taux de réponse est de 23,1 % pour l'ensemble;
+le taux de réponse au questionnaire se situe à 11,1 %.
+Ce qui suit est une compilation analytique des réponses au questionnaire.
+QUESTION 1 :
+Quels seraient les besoins et services spécifiques auxquels pourraient répondre les nouvelles technologies multimédias?
+Malgré le fait que plusieurs répondants aient avoué une connaissance limitée des nouvelles technologies de communication, la majorité d'entre eux n'a semblé éprouver aucune difficulté à identifier des besoins et des services.
+Un des principaux besoins des aînés est l'accès à de l'information précise et actuelle ont affirmé 65 % des répondants.
+«Disposer de l'information requise, facilement et rapidement, permet d'accroître le niveau d'autonomie de la personne vieillissante.»
+Beaucoup d'entre eux ont également souligné l'énorme potentiel des technologies de communication pour les individus vivant seuls ou en région éloignée;
+52 % des répondants ont indiqué que la technologie pourrait augmenter les interactions sociales et réduire l'isolement, alors que 30 % ont souligné son importance pour assurer la sécurité des aînés et 26 % ont mentionné la santé et l'autonomie comme étant des aspects qui préoccupent les aînés.
+Les problèmes de communication ou de langue (26 %) et les problèmes de mobilité ou de transport (17 %) sont parmi les autres points soulevés.
+QUESTION 2 :
+Quelles seraient les formes que pourraient prendre ces technologies multimédiatiques?
+Les réponses à cette question furent très variées, principalement en fonction du degré de connaissance du répondant à l'égard des nouvelles technologies.
+Bien que plusieurs répondants aient énuméré des technologies plus simples et familières, telles que le téléphone, la télévision ou le magnétoscope, un grand nombre d'entre eux ont identifié des technologies plus récentes et complexes.
+Les technologies les plus fréquemment mentionnées ont été l'ordinateur et les systèmes informatisés (43 %), suivies par les systèmes de type guichet libre-service et les systèmes de sécurité ou d'intervention d'urgence (30 %).
+La télévision interactive, les téléphones adaptés et les magnétoscopes ont été mentionnés à cinq reprises.
+Il est important de remarquer que les résultats de ces deux premières questions sont reliés.
+Ainsi, l'ordinateur et les guichets libre-service permettent l'accès à l'information et la communication, alors que les systèmes de sécurité et d'intervention d'urgence sont utilisés afin de protéger les individus vivant seuls ou en régions éloignées.
+QUESTION 3 :
+Quels pourraient être les obstacles possibles à l'utilisation de telles technologies par les aînés?
+Les barrières les plus souvent mentionnées sont principalement d'ordre financier ou psychologique.
+57 % des répondants ont déclaré que le coût pouvait s'avérer un obstacle de taille.
+«Les personnes âgées dont les revenus sont fixes n'ont pas toujours les ressources suffisantes pour se procurer l'équipement, le service et le soutien requis» a précisé l'un des répondants.
+Quant aux obstacles psychologiques, 43 % des répondants ont mentionné la peur ou l'intimidation des aînés devant les nouvelles technologies, alors que 26 % pensent que les aînés peuvent manifester une résistance au changement due à leurs habitudes ou à des facteurs culturels.
+QUESTION 4 :
+Quels pourraient être les facteurs facilitant l'utilisation de telles technologies par les aînés?
+Pour 86 % des répondants, la sensibilisation des personnes âgées et du public est très importante :
+39 % soulignent l'importance de la formation et du soutien dans la démarche d'apprentissage, et 35 % citent la promotion et l'éducation du public par les médias.
+La formule de cours pour les aînés offerte par des établissements d'éducation aux adultes ou des centres communautaires est privilégiée par 22 % des répondants, alors que 17 % d'entre eux favorisent l'enseignement par les pairs.
+L'octroi de subventions et la mise sur pied de programmes pouvant réduire les coûts inhérents à l'implantation de la technologie (30 %) et le développement d'une technologie plus conviviale et adéquate (17 %) font également partie des solutions proposées.
+Environ 8 % des répondants ont souligné le fait que les gestionnaires des secteurs public et privé (qui sont responsables du développement, de la production et la distribution de la technologie) auraient également besoin d'être mieux informés sur la réalité des aînés et sur leurs besoins.
+QUESTION 5 :
+Êtes-vous au courant si des études similaires ou expérimentations pertinentes ont déjà été faites, soit par votre groupe, soit par un autre organisme au Canada ou à l'étranger?
+et
+QUESTION 6 :
+Connaissez-vous des individus ou des organismes auxquels vous pourriez nous référer et qui seraient susceptibles de pouvoir nous aider?
+L'une et l'autre de ces questions ont obtenu un taux de réponse de 73 %.
+Les renseignements recueillis furent passés en revue, et les individus ou groupes pertinents furent contactés.
+QUESTION 7 :
+Quels sont vos commentaires, vos idées ou vos réactions sur ce projet?
+Les réactions exprimées ont été largement enthousiastes.
+De nombreux répondants travaillant soit avec les aînés, soit dans le domaine de la technologie, ont reconnu le besoin de s'attarder à de telles questions.
+Selon eux, il est nécessaire d'élaborer des stratégies qui encouragent la pleine participation des Canadiens âgés dans la société et qui leur permettent d'utiliser efficacement les outils fournis par la société moderne.
+Ils considèrent que cette démarche devra se poursuivre pendant plusieurs années et devra prendre en considération différents facteurs tels que les coûts et le design des appareils technologiques et les mécanismes de mise en marché (promotion, éducation, etc.).
+Voici certains commentaires recueillis :
+«Il est essentiel de déployer des mécanismes de communication pour maintenir les adultes âgés en lien avec les principales tendances qui ont cours dans la société.
+Des stratégies doivent être développées de telle sorte que la technologie soit adaptée aux besoins de la population âgée.»
+«La technologie recèle un énorme potentiel pour rendre la vie des gens âgés plus facile.
+Cependant, les aînés ont besoin de savoir de quelle technologie ils peuvent disposer.
+Ils ont aussi besoin de se sentir confortable en l'utilisant.»
+«Les gens nourrissent encore de nombreux préjugés au sujet du vieillissement et l'un de ceux-ci est que vous ne pouvez enseigner de nouveaux trucs à un vieux chien.
+Les aînés ont besoin de savoir qu'ils sont parfaitement en mesure d'apprendre à se servir des nouvelles technologies comme le font les plus jeunes.»
+«Tout ce qui peut promouvoir un usage adéquat par les aînés de cette prolifération d'outils sophistiqués que la technologie moderne engendre sera source de bénéfices sociaux et économiques qui amélioreront la qualité de la vie de tous les Canadiens.»
+«La technologie au profit des aînés n'est plus une abstraction :
+l'effet push-pull des nouvelles technologies mises en marché nous amène inévitablement dans cette direction et il est primordial pour nous de voir le train venir et d'agir immédiatement pour ne pas le rater.»
+«Il est important de reconnaître que la technologie est un outil plutôt qu'une béquille.
+La haute technologie sans l'intégration des services existants offerts aux aînés ne résoudra pas les problèmes de communication et d'accès.»
+«Une utilisation efficace des nouvelles technologies permettrait à l'État, à moyenne échéance, de sauver de l'argent tout en améliorant la qualité de vie des retraités, leur sentiment de bien-être et leur engagement social.»
+«Nous trouvons que l'idée d'intéresser les aînés au multimédia est formidable!»
+QUESTION 8 :
+Croyez-vous pouvoir apporter une contribution particulière à ce projet?
+De quelle façon?
+Les réponses reçues à cette dernière question se regroupent en trois catégories :
+les individus et groupes qui peuvent servir d'intermédiaire entre les aînés qu'ils représentent et les coordonnateurs du projet;
+les individus et groupes qui offrent leur expertise;
+les individus et groupes qui se portent volontaires pour participer à un projet-pilote.
+Les coordonnateurs du ou des futurs projets évalueront ces possibilités de collaboration et détermineront à ce moment les besoins en ressources humaines.
+Résumé
+D'après les réponses obtenues, nous pouvons affirmer que, pour les aînés, les TCI satisferaient principalement des besoins en information et des besoins psychosociaux.
+Ces technologies pourraient prendre la forme de systèmes informatisés, de guichets libre-service et de systèmes de sécurité ou d'intervention d'urgence.
+Leur développement et leur implantation devront se faire en tenant compte du coût du matériel et des barrières psychologiques, de la formation des utilisateurs, de la promotion auprès du public, des possibilités de subventions et de programmes visant la réduction des frais pour les consommateurs.
+Il semble que la résistance de certains aînés envers les nouvelles technologies soit plutôt due à une absence de contact et d'interaction avec ces appareils qu'à des préjugés.
+Les répondants, qui sont quelquefois peu familiers avec les TCI, n'ont pas semblé éprouver de difficultés à identifier les besoins qu'elles pourraient satisfaire, les services qu'elles pourraient rendre et les obstacles possibles au processus d'adoption.
+Même si beaucoup d'aînés sont intimidés ou mêmes effrayés par ces technologies modernes de communication, la formation et la promotion seraient les moyens les plus efficaces d'éliminer ces sentiments d'inconfort face à l'inconnu.
+Dans l'ensemble, les répondants se sont révélés enthousiastes quant à l'implantation des TCI à la condition qu'elles répondent à un besoin.
+L'identification et le respect des besoins et des intérêts des utilisateurs jeunes et âgés rendront la technologie efficace et acceptable.
+Les répondants ne semblent pas craindre que la technologie réduise les relations personnelles, mais croient plutôt qu'elle enrichira la vie sociale des citoyens âgés.
+Le fort taux de réponse indique un intérêt généralisé pour cette question.
+Les résultats corroborent ceux de recherches de plus grande envergure, à savoir que la majorité des personnes âgées ne sont pas rébarbatives aux nouvelles technologies et qu'elles sont disposées à s'initier à leur fonctionnement si ces technologies leur sont réellement utiles et qu'on leur fournit la formation et le matériel adéquats.
+8.
+CONCLUSION
+8.1.
+Aînés et technologie
+Les aînés canadiens ne constituent plus un groupe homogène et les gens âgés d'aujourd'hui n'ont plus beaucoup de points communs, en termes d'expérience de vie, avec les générations qui les ont précédés.
+Depuis une dizaine d'années, les retraités de fraîche date notamment sont devenus des pionniers du vieillissement à la moderne et ils expérimentent les nouvelles tendances sociales : retraite anticipée, promotion de la prise en charge des aînés en perte d'autonomie par la famille et du maintien à domicile, importance des regroupements de défense des droits des retraités, tarifs spéciaux accordés aux 55 ans et plus, etc.
+Les aînés ont déjà eu à s'adapter à d'importants changements technologiques de toutes sortes durant le dernier quart du 20e siècle.
+Ils ont vu, bon gré mal gré, leur vie envahie par la radio, le téléphone, les électroménagers sophistiqués, la télévision, le magnétoscope, les technologies médicales et biomédicales, etc.
+Mais l'adaptation n'est pas aussi évidente en ce qui concerne les nouvelles technologies de communication et de l'information telles que l'ordinateur, le modem ou les jeux électroniques qui semblent encore être trop souvent associées aux clientèles de moins de 40 ans et sont développées en fonction de ce créneau.
+Les conclusions de la plupart des recherches et les commentaires formulés par les représentants du secteur privé indiquent que l'industrie des TCI ne considère pas la clientèle âgée comme une clientèle cible, que le profil de la nouvelle clientèle âgée est méconnu par les intervenants intéressés par la problématique de la gérontechnologie et que ces derniers se basent encore trop souvent sur des données périmées (informations et statistiques sur les générations antérieures).
+La plupart des produits ont donc été développés en se basant sur des prémisses désuètes.
+Toujours d'après ces études, les aînés ont dans l'ensemble beaucoup de difficultés à identifier leurs besoins ou leurs intérêts en matière de technologie ou à évaluer l'équipement ou les services, étant donné qu'ils sont peu familiers avec le phénomène.
+Ils ont de la difficulté à concevoir ce qui est décrit en raison de la nature hautement technique de ce domaine.
+En fait, il s'agit de l'un des principaux problèmes rencontrés par les chercheurs.
+Comme tout porte à croire qu'en raison du vieillissement de la population et de l'avancement des TCI, personnes âgées et technologie vont se côtoyer de plus en plus, il est plus que temps que les principaux acteurs s'y préparent.
+Au Canada, comme dans tous les pays industrialisés, la nouvelle vague d'aînés sera de plus en plus en contact avec les TCI.
+Il semble que les Canadiens âgés de 55 ans et plus possèdent et posséderont de plus en plus les caractéristiques citées par les recherches et nécessaires à l'utilisation des TCI, c'est-à-dire : un certain degré d'instruction, le désir de rester actif physiquement, intellectuellement et socialement, des moyens financiers et une certaine familiarité avec la technologie.
+8.1.1.
+Améliorations certaines
+Le vieillissement de la population canadienne deviendra un fait sans précédent, à partir du moment où les enfants de l'après-guerre commenceront à célébrer leur 55e anniversaire.
+Les gens vivront de plus en plus vieux.
+Il y aura, en nombre et en proportion, plus de personnes âgées de 80 ans et plus et si les tendances actuelles suivent leur cours, tout porte à croire qu'elles resteront autonomes plus longtemps.
+La majorité des études constatent que les aînés arrivent à la retraite, en général, mieux outillés, mieux en mesure de desservir leurs intérêts et cela est d'autant plus vrai pour les femmes.
+Cette situation se traduit ainsi :
+un niveau de scolarité moyen jamais égalé auparavant et, dans plusieurs cas, supérieur aux générations précédentes;
+une situation financière plus avantageuse pour une plus grande proportion d'entre eux en comparaison avec leurs prédécesseurs;
+un intérêt de plus en plus marqué pour l'éducation permanente.
+8.2.
+Quelles sont les attitudes des aînés à l'égard de la technologie?
+Comme le profil de la population âgée est en pleine mutation, il n'est pas étonnant de constater que les attitudes des aînés face aux technologies soient ambiguës.
+Il faut toutefois considérer que cette attitude se modifie si la technologie répond à un de leurs besoins et qu'elle est en rapport avec leurs préoccupations, telles que :
+l'amélioration de la qualité de vie (estime de soi, satisfaction);
+la socialisation (rencontres, communications, travail collectif, soutien émotif);
+leur sentiment de sécurité.
+D'autre part, les personnes âgées sont très ouvertes aux systèmes de télécommunication pouvant les desservir à partir de leur domicile :
+les services d'info-santé;
+les téléachats;
+les services bancaires.
+Elles sont toutefois réticentes à adopter des produits qui peuvent les vieillir ou les marginaliser.
+Les chercheurs soutiennent que les aînés de demain seront beaucoup plus nombreux à apprivoiser la technologie en général, et les TCI en particulier.
+D'après ces sources, les utilisateurs âgés d'aujourd'hui font preuve de beaucoup de patience et de persévérance lors de l'apprentissage d'une technologie d'autant plus qu'ils ont le désir d'être stimulés intellectuellement.
+Leur motivation dépend toutefois de la convivialité de la technologie.
+8.3.
+Que peut faire l'industrie des TCI pour les aînés?
+Il est urgent que l'industrie prenne en considération les éléments suivants :
+la conception, le design et le prix des produits;
+la consultation des aînés tout au long du processus de développement d'une application, depuis la conception jusqu'à l'évaluation, si possible itérative;
+l'utilité des innovations technologiques destinées aux aînés et les conditions dans lesquelles ils pourront les utiliser;
+la sensibilisation et la formation des utilisateurs âgés en fonction de leur habileté cognitive;
+l'importance de démontrer le potentiel des applications dans la vie quotidienne des aînés en tenant compte de leurs capacités et de leur motivation;
+l'accès permanent à une ligne d'aide;
+mais aussi la possibilité que la technologie remplace les contacts sociaux et provoque l'isolement.
+Sur la base de leurs expérimentations, certains chercheurs sont à même de constater qu'en rapport avec une nouvelle technologie, les sujets plus âgés ont des attitudes qui tendent à devenir de plus en plus négatives avec l'âge.
+Il n'en reste pas moins que les recherches sont unanimes à conclure que l'âge n'est pas un facteur significatif et que certains préjugés et stéréotypes sur les personnes âgées sont les premières barrières à franchir.
+Il existe relativement peu de recherches sur le sujet, au Canada ou ailleurs.
+L'ère technologique est passée à côté d'au moins 20 % de la population, sous-estimant ainsi le potentiel et les capacités de clientèles qui ont le temps d'apprendre, qui ont la volonté de découvrir toutes les applications possibles des différentes technologies en rapport avec leur qualité de vie et leurs activités de vie quotidienne.
+9.
+RECOMMANDATIONS
+Sur la foi des données recueillies au cours de cette recherche, il serait souhaitable de :
+développer une stratégie de diffusion de la présente recherche auprès de tous les partenaires et collaborateurs, de la communauté des chercheurs et des autres personnes intéressées, à l'échelon national et international;
+mettre en marche un processus continu de mise à jour de la recherche tant à l'échelon national qu'international;
+développer un projet de recherche sur la problématique des TCI et des personnes âgées ayant un ou plusieurs handicaps;
+mettre sur pied un comité consultatif d'experts canadiens en gérontechnologie incluant les principaux acteurs;
+encourager la collaboration avec d'autres ministères, avec des entreprises privées et des associations de retraités;
+identifier les applications technologiques pouvant le mieux satisfaire les besoins d'information et de communication des aînés ou de leurs regroupements, en tenant compte des projets existants;
+réaliser un guide de conseils, de normes, de facteurs à considérer, etc. relativement à la question, lequel sera mis à la disposition des industries pour leurs programmes de recherche et de développement et pour leurs services de vente et de mise en marché;
+développer la gérontechnologie en fonction des dimensions suivantes :
+.
+les facteurs humains et les caractéristiques générales des clientèles visées, leurs besoins face à la technologie, leurs attitudes, leurs habiletés cognitives, leurs capacités d'utiliser ces outils et leur motivation;
+.
+la consultation des aînés à toutes les étapes du développement d'une technologie;
+.
+la sensibilisation et la formation;
+.
+la promotion de la qualité de vie des aînés, de leur autonomie, leur maintien à domicile et de leur socialisation.
+BIBLIOGRAPHIE
+ALLEN, P.A., MADDEN, D.J., GROTH, K.E. et CROZIER, L.C. (1992), «Impact of Age, Redundancy, and Perceptual Noise on Visual Search», Journal of Gerontology: PSYCHOLOGICAL SCIENCES, vol.
+47, n 2, p. 69-74.
+ALPINER, Jerome G., et VAUGHN, Gwenyth R. (1988), «Hearing, Aging, Technology», International Journal of Technology and Aging, vol.
+1, n 2, p. 126-132.
+ANSLEY, Jane et ERBER, Joan T. (1988), «Computer Interaction Effect on Attitudes and Performance in Older Adults», Educational Gerontology, vol.
+14, p. 107-119.
+BALLABIO, Egidio.
+(1992), «Assistive Technology», XIII Magazine, 2, p. B-7.
+BATT, Richard C. et LOUNSBURY, Peggy A. (1990), «Teaching the Patient With Cognitive Deficits to Use a Computer», American Journal of Technology, vol.
+44, n 4, p. 364 (incomplet).
+BEAM, Dorothy E. (1986), «L'âge d'or et la surdité», Les conférences publiques du sommet québécois sur la déficience auditive, p. 310-321.
+BIAGE-MAJOR, Huguette.
+La Domotique, p. 6-8.
+BJORNEBY, Sidsel, COLLINS, Sylvie, NORDBY, Knut, PEREIRA, Leonor Moniz et PURIFICAÇAO, Joao.
+(1991), «Attitudes and Acceptance», Gerontechnology: 1st Conference on Technology and Aging, 9 p.
+BLAICH, Robert.
+Taming Technology for the Benefit of the Aging - and Everyone Else.
+BOUCHARD RYAN, Ellen.
+(1985), Memory for Gobling: a Computer Game for Assessing and Training Working Memory Skill.
+BOUCHARD RYAN, Ellen et HEAVEN, Roberta K.B. (1986), «Promoting Vitality Among Older Adults with Computers», Activities, Adaptation, and Aging, vol.
+8, n 1, p. 15-30.
+BOUCHARD RYAN, Ellen et KWONG SEE, Sheree.
+(1990), Acceptance of Computer Technology by Older Adults, 18 p.
+BOUCHARD RYAN, Ellen, SZECHTMAN, Barbara et BODKIN, Jay.
+(1992), «Attitudes Toward Younger and Older Adults Learning to Use Computers», Journal of Gerontology: PSYCHOLOGICAL SCIENCE, vol.
+47, n 2, p. 96-101.
+BOUWHUIS, Don.
+(1991), «Aging, Perceptual and Cognitive Functioning and Interactive Equipment», Gerontechnology: 1st International Conference on Technology and Aging, p. 94-112.
+BOWE, Frank.
+(1988), «Why Seniors Don't Use Technology», Technology Review, vol.
+91, n 6, p. 34.
+BOWE, Frank G. (1990), National Survey on Telephone Services and Products: the Views of Disabled and Older Americans, 35 p.
+BRETON, Philippe.
+(1993), «Informatique et utopie», Le Monde diplomatique, p. 32.
+BROOKS LEVY, Sydelle et GORDON, Arlene R. (1988), «Age-Related Vision Loss: Functional Implications and Assistive Technologies», International Journal of Technology and Aging, vol.
+1, n 2, p. 116-125.
+BURKE, Mary Ann.
+(1991), «Conséquence du vieillissement démographique», Tendances sociales canadiennes, p. 6-8.
+CCNTA.
+(1992), «Technologies that Promote Independence», Seniors Info Exchange, 2 p.
+CHAPPELL, L. Neena.
+The Perceived Helpfulness of New Technology Among a Population of Seniors, inédit, 30 p.
+CHARNESS, N. et BOSMAN, E.A. (1990), «Human Factors and Design for Older Adults», Handbook of the Psychology of Aging, 3e édition, Academic Press, New York, p. 446-463.
+CHARNESS, N. et BOSMAN, E.A., SCHUMANN et GAYLA M. Boritz.
+(1992), «Training Older Adults in Word Processing: Effets of Age, Training Technique, and Computer Anxiety», International Journal of Technology and Aging, vol.
+5, n 1, p. 79-106.
+CHARNESS, Neil et BOSMAN, Élizabeth A. Human Factors and Age, monographie.
+CHAWLA, Raj.
+(1991), «Une société vieillissante, un autre point de vue», Tendances sociales canadiennes, vol.
+11-008, n 20, p. 2-5.
+CHIN, Kathy.
+(1985), «The Elderly Learn the Computer», Aging, 348, p. 4.
+CISLER, Steve.
+(1993), Hawaï Network Conference Report.
+COLLINS, S.C., BHATTI, J.Z., DEXTER, S.L. et RABBIT, P.M.A. Elderly People in a New World Attitudes to Advanced Communications Technologies, données incomplètes, p. 277-282.
+COLLINS, Sylvie, PEREIRE, Lenonor Moniz, PERSSON, Camilla, PURIFICAÇAO, Joao et ASTBRINK, Gunela.
+(1991), «Telecommunications Needs as Expressed by Elderly People and People with Disabilities», Gerontechnology: 1st International Conference on Technology and Aging, 11 p.
+COOMBS, F. THOMPSON, B., MARTINO-SALTZMAN, D. et BLASCH, B. «Technology for the Wandering Patient», SOMA, engineering for the Human Body, p. 53-59.
+CULLEN, K. et MORAN, R. (1992), «Role of Technology in Prolonging the Independence of the Elderly in the Community Care Context», Technology and the Elderly, p. 37-125.
+CZAJA, Sara J. (1988), «Safety and Security of the Elderly: Implications for Smart House Design», International Journal of Technology and Aging, vol.
+1, n 1, p. 49-66.
+CZAJA, Sara J., GUERRIER, José H. et LANDAUER, Thomas K. (1993), «Computer Communication as an Aid to Independence for Older Adults», Behavior and Information Technology, 37 p.
+CZAJA, Sarah J. et BARR, Robin A. (1989), «Technology and the Everyday Life of Older Adults», Annals of the American of Political and Socials, vol.
+505, n 5, p. 127-137.
+CZAJA, Sarah J., HAMMOND, Katka, BLASCOVICH, James J. et SWEDE, Helen.
+(1989), «Age related Differences in Learning to Use a Text-editing System», Behaviour and Information Technology, vol.
+8, n 4, p. 309-319.
+DIAZ, Michel.
+L'Explosion des technologies multimédias, MUL, 2, p. D-1.
+DUSTMAN, Robert E., EMMERSON, Rita Y., STEINHAUS, Laurel A., SHEARER, Donald E. et DUSTMAN, Theodore J. (1992), «The Effects of Videogame Playing on Neuropsychological Performance of Elderly Individuals», Journal of Gerontology: PSYCHOLOGICAL SCIENCES, vol.
+47, n 3, p. 168-171.
+EILERS, Merry Lee.
+(1989), «Older Adults and Computer Education: Not to Have the World a Closed Door», International Journal of Technology and Aging, vol.
+2, n 1, p. 56-75.
+ELMER-DEWITT, Philippe.
+(1993), «Electronics Super Highway», Time, p. 49-53.
+EMILIANI, Pier Luigi.
+«Some European Projects on Technology and People with Disabilities», Some European Research Projects p. 137-143.
+ENGELHARDT, K.G. (1989), «Health and Human Service Robotics: Multi-dimensional Perspectives», International Journal of Technology and Aging, vol.
+2, n 1, p. 8-39, incomplet.
+ERKERT, T. Elderly Persons and Communications.
+FESTERVAND, Troy A. et WYLDE, Margaret A. (1988), «The Marketing of Technology to Older Adults», International Journal of Technology and Aging, vol.
+1, n 2, p. 156-162.
+FLETCHER, William.
+(1986), Recording your Family History, 308 p.
+FRANK, Elaine et WARBUTON, Karen.
+(1989), «Evaluation of a Family-Resident Videotape Program (V-TV)», International Journal of Technology and Aging, vol.
+2, n 2, p. 144-151.
+FURLONG, M.S. (1989), «Crafting an Electronic Community: the SeniorNet Story», Journal of Technology and Aging, vol.
+2, n 2, p. 125-134.
+FURLONG, Mary et KEARSLEY, Greg.
+(1990), «Computer for Kids over 60 Opening New Windows on the World», SeniorNet, 127 p.
+FURLONG, Mary S. (1989), «An Electronic Community for Older Adults: The SeniorNet Network», Journal of Communication, vol.
+39, n 3, p. 145-153.
+GARBE, D., STÖCKLER, F. et WALD, R. The State of The Art: Telecommunication and the Elderly.
+p. 283-292.
+GAUTHIER, Pierre.
+(1991), «Les Aînés au Canada», Tendance sociales canadiennes, p. 16-20.
+GILLY, Mary C. et ZEITHAML, Valarie A. (1985), «The Elderly Consumer and Adoption of Technologies», Journal of Consumer Research, vol.
+12, p. 353-357.
+GIRARDIN, Pierre.
+(1991), «La Domotique au Québec, technologie de l'avenir au service du handicap, du mieux être et de l'environnement», Actualité immobilière, vol.
+15, n 2, p. 18-25.
+GRANT, Nancy C. et WALSH, Birrell.
+(1990), «Interpreted Captioning: Facilitating Interactive Discussion Among Hearing Impaired Adults», International Journal of Technology and Aging, vol.
+3, n 2, p. 133-144.
+GREENBERGER, Martin et PUFFER, James C. (1989), «Facilitating Health Communication for the Older Person», International Journal of Technology and Aging, vol.
+2, n 2, p. 153-170.
+GRIFFITH, D. (1990), «Computer Acces for Persons Who Are Blinds or Visually Impaired: Human Factors Issues», Journal Human Factors, vol.
+32, n 4, p. 467-75.
+HABER, A.L. (1988), «Technology, Environments, and the Process of Aging», International Journal of Technology and Aging, vol.
+1, n 1, p. 5-8.
+HAHM, W. et BIKSON, T. (1989), «Retirees Using EMail and Networked Computers», International Journal of Technology and Aging, vol.
+2, n 2, p. 113-123.
+HARKINS, Judith E. (1990), «To The Moon and Back: Digital Technology and Hearing Impaired Adults», International Journal of Technology and Aging, vol.
+3, n 2, p. 111-120.
+HARRIS, Helen.
+(1988), «Mature Market Overview: Marketing the Smart House», International Journal of Technology and Aging, vol.
+1, n 1, p. 67-84.
+HIATT, Lorraine G. (1988), Smart Houses for Older People: General Considerations, vol.
+1, n 1, p. 11-30.
+HOLMES, Douglas, HOLMES, Monica et TERESI, Jeanne.
+(1988), «Routine Collection of Medication Side Effect Data Using Computer Terminals Located in a Senior Center», The Gerontological Society of America, vol.
+28, n 1, p. 105-107.
+HORSTMANN, Heidi M., LEVIN, Simon P. et JAROS, Lincoln A. (1989), «Keyboard Emulation for Access to IBM-PC-Compatible Computers by People with Motor Impairement», Assistive Technologies, 1, p. 63-70 (p. 63 seulement-incomplet).
+HOWE, Marylin et GRAHAM, Bill.
+(1990), «The Importance of Captioning for Late-deafened Adults», International Journal of Technology and Aging, vol.
+3, n 2, p. 121-131.
+INFANTE-RIVARD, Claire, KRIEGER, Monique, PETITCLERC, Marcelle et BAUMGARTEN, Mona.
+(1988), «A Telephone Support Service to Reduce Medical Care Use Among the Elderly», Journal of the American Geriatrics Society (JAGS), vol.
+36, p. 306-311.
+JAY, Gina M. et WILLIS, Sherry L. (1992), «Influence of Direct Computer Experience on Older Adults' Attitudes Toward Computers», Journal of Gerontology: Psychological Science, vol.
+47, n 4, p. 250-257.
+KANE, Robert L. Technology and the New Environment for the Elderly, données incomplètes.
+KAUTZMANN, Lisette.
+(1990), «Introducing Computers to the Elderly», Physical & Occupational Therapy in Geriatrics, vol.
+9, n 1, p. 27 (résumé de l'article seulement).
+LA BUDA, Dennis R. (1988), «Education, Leisure, and Older Persons: Implications for Smart House Design», International Journal of Technology and Aging, vol.
+1, n 1, p. 31-48.
+LAMEY, Mary.
+(1992), «High-Tech Goes Underground», The Gazette, p. F8-F9.
+MADDEN, David J. (1992), «Four to Ten Milliseconds Per Year: Age-Related Slowing of Visual Word Identification», Journal of Gerontology: PSYCHOLOGICAL SCIENCE, vol.
+47, n 2, p. 59-68.
+MARGOLIN, Richard A. (1990), «Computerized Brain-imaged, Devices, Aging, and Mental Health», International Journal of Technology and Aging, vol.
+3, n 1, p. 7-17.
+MCNEELY, Elizabeth.
+(1991), «Computer-Assisted Instruction and the Older-Adult Learner», Educational Gerontology, vol.
+17, p. 229-237.
+MERRILL, Frank H. (1992), «Automating the Information and Referral Function at a Regional Senior Citizen's Center», Journal of Systems Management, vol.
+43, n 10, p. 6 (4).
+MONK, Abraham.
+(1988), «Marvels?
+Conondrums?
+Both?
+Technology, like the Genie in the Bottle, Is Best Approach Hopefully and Warily», Technology and Aging Feature Section, p. 4.
+MOODY, Harry R. (1986), «Late Life Learning in the Information Society», Education and Aging, p. 122-148.
+NIELSEN, Jakob et SCHAEFER, Lyon.
+(1993), «Sound Effects as an Interface Element for Older Users», Behaviour and Information technology, p. 208-215.
+O'CONNOR, Rory.
+(1992), «Apples's Tree Growing Into 21st Century», The Ottawa Citizen, p. E 5.
+O'LEARY, Stephanie, MANN, Charlotte et PERKASH, Inder.
+(1991), «Access to Computers for Older Adults: Problems and Solutions», American Journal of Technology, vol.
+45, n 7, p. 636.
+ÖSTLUND, Britt.
+(1992), Do Komtex Replace the Home Help Service?
+ÖSTLUND, Britt.
+(1993), Information Technology in Elderly Peoples Housing.
+ÖSTLUND, Britt.
+(1991), Why the Safety Alarm Become a Success.
+PARKER, M.G. et THORSLUND, M. (1991), «The Use of Technical Aids Among Community-based Elderly», American Journal of Occupational Therapy, vol.
+45, n 8, résumé.
+PEHRINGER, James.
+(1989), «Assistive Devices: Technology to Improve Communication», Otorynologic Clinic of North America, vol.
+22, n 1, p. 143-174.
+PRUD'HOMME, Arlette.
+(1986), «Entre le domicile et le centre d'accueil», Les conférences publiques du sommet québécois sur la déficience auditive, p. 290-309.
+RECIO, Irene.
+(1990), «The Passeword is Geezer: Golden Agers log on», Business Week, vol.
+3177, p. 74.
+REUTER.
+(1992), «Not Feeling Well?
+Is There a Senior in the House?»
+, The Toronto Star, Business Today, 1 p.
+ROBINSON, S. (1991), «Support for Elderly People Using Videotelephony: the Frankfurt Pilot», Gerontechnology: 1st International Conference on Technology and Aging, p. 305-316.
+ROIZEN, MF.
+, COALSON, D., HAYWARD, RS.
+, SCHMITTNER, J., THISTED, RA.
+, APFELBAUM, JL.
+, STOCKING, CB.
+, CASSEL, CK.
+, POMPEI, P., FORD, DE.
+et al. (1992), «Can Patients Use an Automated Questionnaire to Define Their Current Health Status?»
+, Journal: Medical Care, vol.
+30, n 5 (suppl.).
+ROTT, Ch. (1988), «Einstellungsmuster Älterer Menschen zu Technischen Innovationnen», Zeitschrift fr Gerontologie, n 21, p. 225-231.
+RUDICK, Roger J. (1992), «Seniors are Fastest Growing Group of New Computers Users», Computer Shopper, vol.
+12, n 8, p. 152.
+RUDINGER, G., ESPEY, J., NEUF, H. et SIMON, U. (1991), «Technology and Aging: Using Tickets Machine», Gerontechnology: 1st International Conference on Technology and Aging, p. 349-353.
+STEIN, Elliott S. (1990), «Applications of Consumer Electronics and Other Gadget to the Mental Health and Well-Being of the Elderly», International Journal of Technology and Aging, vol.
+3, n 1, p. 63-68.
+STEVENS, Joseph C. (1992), «Aging and Spatial Acuity of Touch», Journal of Gerontology: Psychological Sciences, vol.
+47, n 1, p. 35-40.
+STEWART, Tom.
+(1991), «Physical Interfaces» or «Obviously It's for the Elderly, It's Grey, Boring and Dull», Gerontechnology: 1st International Conference on Technology and Aging, p. 197-207.
+STRAKA, Gerald A. (1986), «Television and The ElderlyFrom Broadcasting to Narrowcasting», Education and Aging, p. 93-120.
+STRUYK, Raymond J. (1988), «Current and Emerging Issues in Housing Environments for the Elderly», The Social and Built Environment in an Older Society, p. 134-143 (incomplet).
+STUNKEL, Edith L. (1991), «The Technological Fix: Tapping Media's Diverse Components for Gerontological Education», Gerontology and Geriatrics Education, vol.
+11, n 4, p. 1-15 (pages manquantes).
+THE ASSISTIVE DEVICES RESEARCH & DEVELOPMENT GROUP.
+(1992), «Assistive Devices Research and Development Project», The Assistive Devices Research and Development Working Group, 8 p., annexes 16 p.
+TRENCHER, Ellen.
+(1988), «A Sensory Technology Information Service (S.T.I.S)», International Journal of Technology and Aging, vol.
+1, n 2, p. 163-165.
+TRICKEY, Francine.
+(1993), Les systèmes de surveillance et aide en cas d'urgence, Une technologie simple au service des personnes âgées.
+14 p.
+UJIMOTO, Victor K. (1992), «Technology and Aging in Canada», International Journal of Technology and Aging, vol.
+5, n 1, p. 1-120 (résumé).
+VALLIÈRES, Martin.
+«Après le métro de Montréal, Télécité convoite Toronto, Washington, Atlanta et Los Angeles», Les Affaires, 1 p.
+VAN NOORDEN, L. et MCEWAN, J. (1991), «Pilot Applications for Advanced Communication Technology in Care for the Elderly in Europe», Gerontechnology: 1st International Conference on Technology and Aging, p. 271-276.
+WATZKE, J., WISTER, A.V. et GUTMAN, G.M. (1993), Emergency Medical Alert Technology: Initial Results front the First Wave of a Longitudinal Study, 19 p.
+WATZKE, James et BIRCH, Gary.
+«Older Adults Responses to Automated Environmental Control Devices», Canadian Association on Gerontology, 23 p.
+WATZKE, James R. et KEMP, Bryan.
+(1992), «Safety for Older Adults: the Role of Technology and the Home Environment», Top Geriatr Rehabil, vol.
+7, n 4, p. 9-21.
+WHITTEN, P. Raymond.
+(1988), «The National Aeronautics and Space Administration (NASA) Technology Transfer Process and Its Application to the Elderly», International Journal of Technology and Aging, vol.
+1, n 1, p. 85-97.
+YAHNKE, Robert, E. (1989), «Using Educational Films to Recreate the Experience of Aging: A New Direction for Gerontological Education», Educational Gerontology, vol.
+15, p. 453-463.
+YOUNG, Jeffry J. (1989), Advancing the Continuing Learning Activities of Retired Persons: A Challenge for Higher Education, vol.
+2, n 2, p. 135-141.
+ZANDRI, Elaine et CHARNESS, Neil.
+(1989), «Training Older and Younger Adults to Use Software», Educational Gerontology, vol.
+15, p. 615-631.
+LEXIQUE
+Aîné ou adulte âgé ou personne âgée :
+dans le cadre de cette recherche, pour des raisons de facilité et de représentativité, les appellations aîné, adulte âgé, personne âgée ont été choisies pour identifier les personnes âgées de 55 ans ou plus.
+Domotique :
+il s'agit de la gestion informatisée de différentes fonctions à accomplir dans une maison, doublée d'une capacité de communication bidirectionnelle avec l'extérieur via un réseau électronique.
+Ergonomie :
+étude scientifique des conditions de travail et des relations entre l'être humain et la machine.
+Gérontechnologie :
+étude des rapports entre la technologie et le vieillissement en vue de faciliter le fonctionnement quotidien de la personne âgée.
+Interface :
+ensemble des règles et des conventions à respecter pour que deux systèmes donnés puissent échanger des informations.
+Multimédia :
+expression qui désigne le stockage, le traitement et la présentation de plusieurs formes différentes d'information : texte, image fixe ou animée, son...
+Technologies de communication et de l'information (TCI) :
+ensemble des technologies permettant la communication à distance et la manipulation, la gestion ou la production de l'information par le texte, l'image ou le son.
+Exemples : câblodistribution, cassettes vidéo ou audio, vidéodisque, lecteurs de disques au laser, ordinateur, téléphone, etc.
+Technologies d'assistance :
+technologie permettant à une personne de pallier une déficience (exemple : téléphone adapté pour malentendants) ou de fonctionner malgré un handicap (exemple : la reconnaissance vocale).
+Télématique :
+ensemble des services et des techniques qui combinent les moyens de l'informatique avec ceux de la télécommunication.
+Téléphonie :
+technologie du téléphone.
+Télétravail :
+nouvelle dynamique organisationnelle faisant appel aux différentes technologies de communication et de l'information et permettant de travailler à distance, c'est-à-dire loin du lieu de travail habituel, à domicile par exemple.
+Télévision interactive :
+technologie permettant aux usagers de la télévision de sélectionner, parmi les possibilités offertes, des contenus ou des angles de caméra, d'obtenir des réponses à certaines questions et d'obtenir certains services.
+Vidéotéléphonie ou vidéophonie :
+technique permettant de transmettre à distance, simultanément, en temps réel, le son et l'image.

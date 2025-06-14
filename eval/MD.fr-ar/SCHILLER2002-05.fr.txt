@@ -1,0 +1,78 @@
+VIVENDI, UNE LEÇON DE CHOSES
+Informer, communiquer, vendre, tout contrôler
+DAN SCHILLER
+La technologie du numérique a mis en branle un grand mouvement de « convergence » qui se moque de la liberté de choix du consommateur et des préceptes de la concurrence.
+En quelques années, une kyrielle de nouveaux médias, dont les radios et télévisions analogiques, est venue prendre la place des supports traditionnels.
+Aux Etats-Unis, selon une enquête réalisée au printemps 2000, 79 % des foyers disposent de la télévision par câble ou par satellite, 59 % détiennent un ordinateur personnel, 53 % possèdent un téléphone portable, 29 % se connectent sur Internet de façon quasi quotidienne.
+A ces nouveaux outils s'ajoutent les lecteurs DVD (pour les films) ou MP3 (pour la musique), les fax, les assistants personnels numériques, les consoles de jeux vidéo, les graveurs de CD, etc.
+Tous ces nouveaux médias ont été commercialisés sous la bannière de l'innovation.
+De fait, ils reposent sur une révolution technologique, la numérisation, dont on n'entrevoit pas encore toutes les conséquences.
+Une part croissante de l'expérience humaine peut désormais être représentée, avec plus ou moins de réalisme, dans « l'espéranto des 1 et des 0 (1) ».
+Les avantages économiques et stratégiques de la numérisation - puissance, flexibilité, exactitude dans la reproduction du signal, dans le stockage et la transmission immédiate des données - l'ont rendue irrésistible.
+Les technologies numériques ont mis en branle un mouvement de « convergence ».
+Quand les médias analogiques sont, par nature, cantonnés à la distribution d'un type unique d'information (voix pour le téléphone et la radio, texte pour la presse, vidéo pour la télévision), les technologies numériques peuvent servir de support à une large gamme de services, tous réduits à des flux indifférenciés de 0 et de 1.
+De plus, les fabricants de produits électroniques grand public utilisent des composants similaires dans la plupart des appareils, même s'il s'agit de plates-formes aussi différentes, en apparence, que des téléviseurs, des ordinateurs personnels, des téléphones sans fil ou des consoles de jeux.
+La convergence des médias numériques déstabilise à son tour les médias classiques, qui jusqu'alors étaient régis par des marchés déconnectés les uns des autres, et dans une large mesure oligopolistiques.
+Les principales entreprises de communication ont tenté de maîtriser la transition et d'en définir les caractéristiques techniques et commerciales.
+Leur réponse a consisté en la construction rapide de conglomérats multimédias tels qu'AOL - Time-Warner ou Vivendi-Universal et autres consortiums industriels (2).
+Tous ces groupes cherchent à intégrer systèmes et services Internet dans des entreprises ou des segments de l'industrie déjà existants.
+Ils entendent surtout canaliser cette transformation majeure de façon à ce qu'elle puisse offrir le maximum de profits.
+Trois caractéristiques définissent la convergence.
+La première, c'est qu'elle s'exerce dans un paysage stratégique global.
+Du système d'exploitation (des ordinateurs ou d'autres produits électroniques) aux adresses Internet, en passant par les formats numériques de musique, les normes de diffusion de télévision, les règles d'interconnexion des réseaux...
+tout se trouve sous l'intense surveillance du marché.
+Chaque plate-forme médiatique pouvant se révéler être la porte d'entrée d'un nouveau marché, il faut la doter d'une certaine combativité, ou, du moins, d'une capacité à défendre ses acquis.
+La deuxième caractéristique tient précisément à ces féroces batailles industrielles.
+De plus en plus nombreuses, elles sont menées par une gamme beaucoup plus vaste d'entreprises.
+Aux fournisseurs de programmes, habituels protagonistes des batailles médiatiques, s'ajoutent les fabricants de produits de consommation électroniques, les opérateurs de télécommunication et les fabricants de logiciels.
+Souvent d'une importance capitale - lorsqu'il s'agit, par exemple, de fixer des normes ou de répartir des fréquences -, les enjeux restent toutefois opaques, et les décisions se prennent dans les allées du pouvoir.
+La troisième caractéristique est relative à la dimension transnationale de la lutte pour le contrôle de la dynamique de convergence qui fait exploser toutes les frontières des marchés nationaux.
+Avec sans doute une pointe de regret, le PDG de Vivendi-Universal a déclaré qu'« aucune entreprise médiatique ne peut espérer être à la tête de toutes les chaînes de distribution du monde entier ».
+A quels segments de la convergence Vivendi limitera-t-il ses appétits ?
+Le décodeur pourrait être l'un d'entre eux.
+Composé d'une alliance d'électronique numérique sophistiquée et de logiciels spécialisés, il constitue en effet un mécanisme de contrôle de nombreux services télévisés :
+de la programmation conventionnelle et de toutes les options interactives telles la vidéo sur commande ou les fonctions unissant la télévision à l'Internet (accès rapide au réseau, jeux interactifs, courrier électronique, achats en ligne, stockage de vidéos, de son ou de photographies, films à la demande, lecture de DVD...) jusqu'au réseau Intranet « domestique » reliant téléviseur et PC (3) !
+AOL-Time-Warner insiste - devant des analystes sceptiques - sur ses espoirs, dans quelques années, de facturer à chaque abonné une somme mensuelle de 180 euros, pour un assortiment comprenant entre autres des jeux, des services téléphoniques, de la musique et un accès rapide à Internet.
+Les dirigeants de Vivendi-Universal ont fait des déclarations similaires.
+Conscientes de l'importance grandissante du décodeur, de nombreuses entreprises rivales ont investi, notamment via des consortiums, dans des versions concurrentes de l'appareil.
+Avec Canal+, Vivendi dispose d'une longue expérience du décodeur et de la télévision payante.
+Son logiciel MediaHighway est installé dans 12,5 millions de foyers européens.
+Canal+ a par ailleurs formé un partenariat avec le fabricant d'appareils électroniques Sony, Sun MicroSystems et divers petits développeurs de décodeurs spécialisés s'occupant de la partie logicielle.
+Et ce n'est pas tout :
+Vivendi-Universal a dépensé 1,5 milliard de dollars pour entrer dans le capital d'EchoStar, un réseau de services par satellite qui dispose de 7 millions d'abonnés.
+Avec cet argent, EchoStar a pu faire avancer son projet de rachat - pour des milliards de dollars - de son concurrent Hughes, dont le service DirecTV bénéficie de 10 millions d'abonnés aux Etats-Unis.
+Si le feu vert des autorités de contrôle américaines était donné (ce qui n'est pas encore sûr), Vivendi obtiendrait alors une portion majeure du monopole des services satellitaires américains, et de 27 millions d'abonnés dans le monde entier.
+Il pourrait ainsi s'assurer qu'EchoStar, avec ou sans DirecTV, donne la part belle à son logiciel de décodeur MediaHighway, plutôt qu'à celui, différent, qu'utilise actuellement EchoStar.
+De plus, si EchoStar et DirecTV signent un accord, Vivendi espère faire oublier les logiciels Microsoft, jadis partenaires de DirecTV.
+Il ne s'agit pas uniquement de contrôler le marché des décodeurs, mais d'employer ces appareils pour prendre place sur le marché potentiellement plus important des services interactifs.
+Ces batailles industrielles ne bloquent aucunement les évolutions du décodeur, sans parler des marchés émergents de l'audiovisuel numérique.
+Les consoles de jeux vidéo, liées aux téléviseurs, ont des fonctions qui convergent rapidement avec celles des décodeurs.
+Les plus récentes d'entre elles peuvent contrôler les téléviseurs, fournissent un accès à Internet, permettent de jouer en ligne ou de passer des DVD.
+La sortie simultanée aux Etats-Unis, en Europe et au Japon, de la console Xbox de Microsoft constitue ainsi un défi à la domination de Sony et de Nintendo sur cette plate-forme (4).
+Les téléphones dits « de troisième génération » constituent une autre plate-forme de convergence dans laquelle Vivendi s'est grandement investie, via sa branche Cegetel et son partenariat, potentiellement significatif, avec l'entreprise mondiale de téléphones portables Vodafone.
+La stratégie employée est de livrer aux consommateurs des services d'information en temps réel - musique, cours de la Bourse, dessins animés, météo, gastronomie - « tout le temps, partout ».
+Accroître les débits
+L'ordinateur, moyen encombrant mais pratique pour participer aux divers flux de communication, offre un dernier véhicule d'importance dans une optique de convergence.
+Près de 40 % des utilisateurs écouteraient des disques sur leurs machines ;
+un peu moins d'un quart de la population américaine aurait écouté une radio Internet en 2001, ou regardé un film en direct à travers le réseau.
+Grâce à ses diffusions d'extraits de spectacles à succès, le plus grand studio indépendant de Hollywood, Carsey-Werner, divertit actuellement plus de 200 millions d'utilisateurs différents par mois dans le monde entier.
+Le studio cherche à obtenir le soutien d'annonceurs.
+RealNetworks, qui commercialise le principal logiciel de distribution de vidéo sur Internet, offre à 400 000 abonnés - payant au moins 9,95 dollars par mois - l'accès à un service vidéo unissant les programmes d'ABC News, de CNN, d'E ! Entertainment Television et de Fox Sports Net - qui reçoivent tous une part des revenus.
+Les plus récents logiciels d'AOL (32 millions d'abonnés) incluent, sur leur page d'accueil, un bouton pour écouter la radio.
+La pression intense, dans le monde entier, pour accroître les débits et permettre à un plus grand nombre de foyers d'accéder à l'Internet rapide signifie que le nombre de connexions à de tels services d'informations pourrait augmenter rapidement.
+Géant de la production musicale, détenant des droits sur 850 000 titres musicaux, Vivendi-Universal vient de lancer, en partenariat avec Sony et EMI - deux autres géants du secteur -, quelques labels indépendants, et Microsoft, un service de musique en ligne disponible sur abonnement. 
+Dénommé Pressplay, celui-ci n'a qu'un seul rival, lancé par un trio d'entreprises de production musicale transnationales. 
+Mais leur objectif commun a pris le pas sur la concurrence : 
+il s'agit d'établir des services payants et brevetés de musique par Internet, de les rendre légitimes auprès des internautes - et profitables.
+Ils mènent une lutte ardue contre les services gratuits de partage des fichiers musicaux, dont Napster (réprimé par les grandes entreprises de production de musique) n'a été qu'un catalyseur : 
+dénommés Morpheus, LimeWire ou Kazaa, ces réseaux continuent de grandir hors de toute étreinte commerciale (5). 
+Les fabricants de produits électroniques avivent le feu en vendant les nouvelles technologies d'enregistrement le plus largement possible. 
+L'industrie musicale, comme dans la totalité des médias créateurs de contenu, est à la veille de bouleversements majeurs. 
+Et l'on ne sait pas encore quelles méthodes, quels canaux de distribution et quels services de programmes s'imposeront commercialement.
+Quels que soient les plates-formes et les services qui prendront le dessus dans la culture numérique émergente, de nouvelles façons de choisir parmi une sélection potentiellement prodigieuse d'options vont apparaître.
+Les « guides de programmes électroniques » forment une réponse possible.
+Ces services interactifs, disponibles par téléviseur, souhaitent aider le consommateur à naviguer parmi les dizaines de chaînes télévisées, les jeux, l'e-mail, et autres offres constamment proposées par les industries multimédias.
+Gemstar-TV Guide est le plus important de ces guides électroniques télévisés.
+Il est allié à News Corporation et à Liberty Media.
+Proposés sur les ordinateurs ou les téléphones sans fil, les « portails » sont une autre solution.
+Les uns et les autres espèrent implanter, sur l'écran d'accueil du spectateur, un point de convergence destiné aux services commerciaux et à la publicité.

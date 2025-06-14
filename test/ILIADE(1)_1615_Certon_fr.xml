@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encodage développé pour le projet ParaTAXE</title>
+                <!--####################################################
+               Ici, veuillez encoder les différents responsables qui ont travaillé et/ou modifié ce fichier
+            #########################################################-->
+                <respStmt>
+                    <resp>Responsable du projet</resp>
+                    <name><!--Insérer le nom ici.--></name>
+                </respStmt>
+                <respStmt>
+                    <resp>Élaboration du schéma d'encodage</resp>
+                    <name>Anne Garcia Fernandez, Serena Crespi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transformation en XML-TEI</resp>
+                    <name>Serena Crespi</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UMR Litt&amp;Arts (UGA-CNRS)</publisher>
+                <address>
+                    <addrLine>UGA Grenoble</addrLine>
+                </address>
+            </publicationStmt>
+            <!--####################################################
+            ATTENTION: Ici c'est possible d'insérer les informations 
+               bibliographiques de l'édition.
+            ########################################################-->
+            <sourceDesc>
+                <bibl>
+                    <title n="I">Iliade</title>
+                    <author>Homère</author>
+                    <editor>trad. SALOMON CERTON</editor>
+                    <publisher>THOMAS BLAISE</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1615</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <!--####################################################
+            ATTENTION : Ici, il est possible d'insérer les informations 
+            des sections. Chaque section doit présenter un attribut 
+            xml:id qui permet de l'identifier.
+            ########################################################-->
+            <interpGrp source="livreI_Homère">
+                <interp xml:id="p1a">Proposition et invocation</interp>
+                <interp xml:id="p2a">Narration</interp>
+                <interp xml:id="p3a">Discours de Chrysès aux Atrides et aux Grecs</interp>
+                <interp xml:id="p4a">Agamemnon repousse Chrysès avec outrage</interp>
+                <interp xml:id="p5a">Chrysès à Apollon</interp>
+                <interp xml:id="p6a">Apollon envoie la peste au camps des Grecs</interp>
+                <interp xml:id="p7a">Achille convoque les Grecs</interp>
+                <interp xml:id="p8a">Achille à Agamemnon</interp>
+                <interp xml:id="p9a">Calchas à Achilles</interp>
+                <!--Achille ici vs. Achilles Word-->
+                <interp xml:id="p10a">Achilles à Calchas</interp>
+                <interp xml:id="p11a">Avis de Calchas touchant la peste au camp des Grecs</interp>
+                <interp xml:id="p12a">Agamemnon à Calchas</interp>
+                <interp xml:id="p13a">Achilles à Agamemnon</interp>
+                <interp xml:id="p14a">Agamemnon à Achilles</interp>
+                <interp xml:id="p15a">Achilles en colère à Agamenon</interp>
+                <interp xml:id="p16a">Agamemnon à Achilles</interp>
+                <interp xml:id="p17a">Achilles en pensée s'il doit tuer Agamemnon</interp>
+                <interp xml:id="p18a">Achilles à Pallas</interp>
+                <interp xml:id="p19a">Pallas à Achilles</interp>
+                <interp xml:id="p20a">Achilles encore à Pallas</interp>
+                <interp xml:id="p21a">Injures d'Achilles à Agamemnon</interp>
+                <interp xml:id="p22a">Nestor</interp>
+                <interp xml:id="p23a">Harangue de Nestor à Agamemnon</interp>
+                <interp xml:id="p24a">Agamemnon à Nestor</interp>
+                <interp xml:id="p25a">Achilles à Agamemnon</interp>
+                <interp xml:id="p26a">Agamemnon renvoie Chryséis à son père</interp>
+                <!--Version word : Fait repugner le camp-->
+                <interp xml:id="p27a">Fait repurger le camp</interp>
+                <!--Version word : Envoye oster... vs. Agamemnon envoie -->
+                <interp xml:id="p28a">Envoye oster Briséis à Achille par ses hérauts</interp>
+                <interp xml:id="p29a">Achilles aux hérauts d'Agamemnon</interp>
+                <interp xml:id="p30a">Patrocle leur délivre Briséis</interp>
+                <interp xml:id="p31a">Achilles à Thétis sa mère</interp>
+                <interp xml:id="p32a">Elle vient à son fils</interp>
+                <!--Version word : Elle vient à son fils vs. Thétis vient à son fils-->
+                <interp xml:id="p33a">Plaintes d'Achilles à Thétis</interp>
+                <interp xml:id="p34a">Thétis à Achilles</interp>
+                <interp xml:id="p35a">Ulysse arrive vers Chrysès et lui rend Chryséis sa
+                    fille</interp>
+                <interp xml:id="p36a">Ulysse à Chrysès</interp>
+                <interp xml:id="p37a">Prière de Chrysès à Apollon pour retirer la peste du camp des
+                    Grecs</interp>
+                <interp xml:id="p38a">Apollon entend la prière de Chrysès</interp>
+                <interp xml:id="p39a">Thétis à Jupiter pour son fils</interp>
+                <interp xml:id="p40a">Jupiter à Thétis</interp>
+                <interp xml:id="p41a">Junon à Jupiter</interp>
+                <interp xml:id="p42a">Jupiter à Junon</interp>
+                <interp xml:id="p43a">Junon encore à Jupiter</interp>
+                <interp xml:id="p44a">Jupiter à Junon</interp>
+                <interp xml:id="p45a">Vulcan à Junon sa mère</interp>
+            </interpGrp>
+        </front>
+        <body>
+            <lg n="1" ana="#p1a">
+                <l>Deesse je te prie apren moy et me chante</l>
+                <l>Du Pelide Achilles la colere sanglante</l>
+                <l>Qui nuisit tant aux Grecs, leur porta tant de maux,</l>
+                <l>Qu'elle força descendre aux regnes Infernaux</l>
+                <l>Les plus braves Espricts de leurs bons Capitaines</l>
+                <l>De leurs chefs genereux, exposant par les plaines</l>
+                <l>Leurs corps auparavant tant forts tant estimez,</l>
+                <l>Aux oiseaux devorants et aux chiens affamez.</l>
+                <l> Du puissant Iupiter l'ordonnance fut telle; </l>
+                <l>Des le premier instant qu'entrirent en querelle</l>
+                <l>Et furent divisez Achille au divin nom;</l>
+                <l>Et des hommes le Roy l'Atride Agamemnon.</l>
+                <l> Quel des Dieux leur causa contention si grande?</l>
+            </lg>
+            <lg n="2" ana="#p2a">
+                <l>Ce fut le Fils du Dieu qui sur le Ciel commande</l>
+                <l>Que Latone enfanta. Car il se courrouça</l>
+                <l>Au Roy Agamemnon, et la Peste poussa</l>
+                <l>Dans le camp, dont avint un horrible ravage,</l>
+                <l>Pource qu'il avoit dict vilenie et outrage</l>
+                <l>A son Prestre Chrises s'en venant aux vaisseaux </l>
+                <l>Pour rachetter sa fille, avec presens fort beaux </l>
+                <l>Et en grand quantité: Dans ses mains la Couronne</l>
+                <l>Et le beau sceptre d'or, du clair fils de Latone</l>
+                <l>Apollon loin-tirant. Il prioit ardamment</l>
+                <l>Tous les Grecs pour sa fille, et principalement,</l>
+                <l>Les Atrides Germains deux des chefs de la flotte.</l>
+            </lg>
+            <lg n="3" ana="#p3a">
+                <l> Atrides, et vous tous Grecs a la belle-botte</l>
+                <l>Les Dieux dessus les lieux celestes habitans</l>
+                <l>Vous facent prendre Troye, et retourner contans</l>
+                <l>Heureusement chez vous, Je vous pry' de me rendre</l>
+                <l>Ma fille bien-aymee, et ces beaux presens prendre</l>
+                <l>De moy, pour sa rançon, Respectez, reverez</l>
+                <l>Apollon de si loing jettant ses traicts dorez.</l>
+                <l>Les Grecs trouverent bon qu'on portast reverence </l>
+                <l>Au prestre, et qu'on receust pour ceste delivrance </l>
+                <l>Les dons qu'il presentoit, Mais le faict irrita</l>
+                <l>L'Atride Agamemnon, qui fort le rebuta</l>
+                <l>Et luy tint des propos d'ire et de mal-encontre. </l>
+            </lg>
+            <lg n="4" ana="#p4a">
+                <l>Vieillart, garde toy bien que je ne te rencontre</l>
+                <l>Autour de ses vaisseaux pour y faire sejour,</l>
+                <l>Et non plus pour y faire apres aucun retour:</l>
+                <l>Je ne respecterois ny Sceptre, ny Couronne.</l>
+                <l>Pour celle que tu dis, tant qu'elle soit grisonne</l>
+                <l>Je ne la lascheray, mais elle s'en viendra</l>
+                <l>En Argos ma maison, part de mon lict prendra,</l>
+                <l>Coudra, travaillera, bien loing de sa patrie,</l>
+                <l>Mais desloge d'icy, n'irrite ma furie,</l>
+                <l>Qu'il ne t'en prenne mal. Il dit, et le vieillart</l>
+                <l>Craignant lui obeit, et cheminant à part .</l>
+                <l>Pres du bord de la mer, il faisoit sa priere</l>
+                <l>D'Ardante affection au Dieu donne lumiere</l>
+                <l>Qu'avoit jadis Latone aux beaux poils enfanté. </l>
+            </lg>
+            <lg n="5" ana="#p5a">
+                <l>Escoute moy, dit-il, Dieu à l'arc argenté,</l>
+                <l>Sminthien, qui te tiens dans Cille la divine,</l>
+                <l>Dont la force dans Chryse, et Tenedos domine,</l>
+                <l>Si jamais à ton gré, j'ay ton Temple honoré,</l>
+                <l>Si j'ay bruslé jamais, pour ton nom reveré</l>
+                <l>Des chèvres, des taureaux les cuisses les plus grasses. </l>
+                <l>Je te pry' qu'en cecy mes desirs tu parfaces:</l>
+                <l>Que les Grecs par tes traicts ayent le chastiment</l>
+                <l>Pour mes pleurs mesprisez. Il prioit humblement,</l>
+            </lg>
+            <lg n="6" ana="#p6a">
+                <l>Et Phoebus exauça son ardante priere,</l>
+                <l>Si descendit soudain le cœur en grand colere,</l>
+                <l>Du sommet de l'Olympe, ayant l'arc sur son dos</l>
+                <l>Et la trousse couverte ou main trait estoit clos:</l>
+                <l>Au pris que s'esbranloit le Dieu tout flambant d'ire, </l>
+                <l>On oyoit la dedans les traicts, sonner et bruire, </l>
+                <l>Il vint comme une nuict, se voulut retirer </l>
+                <l>A l'écart des vaisseaux, puis se prit à tirer, </l>
+                <l>Et l'arc d'argent rendoit un son espouventable.</l>
+                <l>En premier il frappa d'une playe incurable</l>
+                <l>Les mulets et les chiens, et puis tirant aux Grecs</l>
+                <l>Dessus eux il lascha ses pestiferez traicts:</l>
+                <l>On voyoit les corps morts sur les buchers étendre,</l>
+                <l>Et sans relasche aucun estre reduits en cendre.</l>
+                <l>Durant neuf jours entiers le mortifere étour</l>
+            </lg>
+            <lg n="7" ana="#p7a">
+                <l>Courut par tout le camp. Mais au dixiesme jour, </l>
+                <l>Achilles convoqua le peuple à l'assemblee, </l>
+                <l>Incité par Iuno, de qui l'ame troublee,</l>
+                <l>Prenoit pitié de voir les Grecs ainsi mourir,</l>
+                <l>Et desirant leur bien les vouloit secourir. </l>
+                <l>Quand ils furent venus, de voix et haulte et forte</l>
+                <l>Achilles se levant parla de ceste sorte.</l>
+            </lg>
+            <lg n="8" ana="#p8a">
+                <l> Fils d'Atreus, je voy qu'il faudra que cet ost </l>
+                <l>Errant encore un coup s'en retourne bien tost, </l>
+                <l>Au moins si nous pouvons fuyr la mort funeste,</l>
+                <l>Car les Grecs sont batus et de guerre et de peste</l>
+                <l>Prests d'estre consumez. Mais s'il te semble bon</l>
+                <l>Sçachons de quelque Prestre ou devin de renom,</l>
+                <l>ou de quel'un qui sçache interpreter les songes, </l>
+                <l>(Car les songes toujours ne tournent en mensonges</l>
+                <l>Ains sont, de Jupiter) pourquoy ce grand courroux</l>
+                <l>De Phoebus Apollon est si fort dessus nous:</l>
+                <l>Si c'est que n'ayons pas deuement offert l'offrande,</l>
+                <l>Et l'hecatumbe deue à sa Deité grande</l>
+                <l>Ou si par les brebis que nous luy offririons,</l>
+                <l>Et par les boucs entiers que nous luy brulerions,</l>
+                <l>Il nous voudroit oster ceste peste meurtriere,</l>
+            </lg>
+            <lg n="9" ana="#p9a">
+                <l>Achille aux pieds legers dit en ceste maniere,</l>
+                <l>Puis Calchas se leva le divin predisant </l>
+                <l>Qui sçavoit le passé, le futur, le present, </l>
+                <l>Et qui pour son sçavoir et pour la prophetie</l>
+                <l>Que Phoebus Apollon luy avoit départie</l>
+                <l>S'en vint avec les Grecs, guide des grands vaisseaux</l>
+                <l>Qui venoient contre Troye à la faveur des eaux,</l>
+                <l>Si parla sagement à toute l'assistance,</l>
+                <l> Achilles aymé de Dieu, veux tu que je m'avance,</l>
+                <l>Afin de declarer d'où peut venir au vray</l>
+                <l>Le courroux d'Apollon? Doncques je le diray, </l>
+                <l>Mais tout premierement promes moy et me jure,</l>
+                <l>Que tu me deffendras et d'outrage, et d'injure,</l>
+                <l>De parole et de mains. Car je prevoy qu'un grand</l>
+                <l>Qui dessus tous les Grecs Empire et regne prend,</l>
+                <l>» S'en courroucera fort. Un Roy a grand puissance</l>
+                <l>» Sur un moindre que luy quand il croit qu'il offence.</l>
+                <l>Et bien qu'il ayt ce jour son courroux digeré</l>
+                <l>Il garde toutesfois son estomac iré</l>
+                <l>Tant qu'il s'en soit vangé. Donne moy donc parole</l>
+                <l>Que tu me deffendras. Achille au pied qui vole,</l>
+            </lg>
+            <lg n="10" ana="#p10a">
+                <l>Luy respondit ainsi, Parle, dy hardiment </l>
+                <l>Ce que te dit le cœur: Car je te fay serment, </l>
+                <l>Et te jure Apollon dont tu tiens ta science,</l>
+                <l>Et qui t'en fait donner aux Grecs l'inteligence,</l>
+                <l>Que nul, tant que le cœur là dedans me batra,</l>
+                <l>Et que mes yeux verront, dessus toy ne mettra</l>
+                <l>Les mains pour t'outrager, De tous ceux qui sur l'onde</l>
+                <l>Ont amené les Grecs à la perruque blonde:</l>
+                <l>Mesme quant ce seroit le Roy Agamemnon, </l>
+                <l>Dont si grand est la force, et si grand le renom,</l>
+                <l>Dont l'authorité grande et la force estimee</l>
+                <l>Pour le jourd'huy commande à toute ceste armee.</l>
+            </lg>
+            <lg n="11" ana="#p11a">
+                <l> A ces mots s'asseura le bon devin Calchas. </l>
+                <l>Pour les vœuz, ce dit il, qu'on ne luy paye pas, </l>
+                <l>Et moins pour les cent bœufs, le Dieu ne nous accuse, </l>
+                <l>Mais pource que sa fille à son Prestre on refuse,</l>
+                <l>Qu'on n'accepte ses dons, pource qu'Agamemnon</l>
+                <l>L'a par trop outragé, l'Archer Phoebé Apollon, </l>
+                <l>Nous a fait tous ces maux, prest à les faire encore</l>
+                <l>Sans retenir ses mains du mal qui nous devore</l>
+                <l>Qu'à son pere chery ne soit premierement</l>
+                <l>La Pucelle aux yeux noirs remise franchement</l>
+                <l>Je dy sans que rançon pour la rendre soit prise,</l>
+                <l>Et qu'on n'envoye apres une hecatumbe en Chryse:</l>
+                <l>Tout cela fait, peut-estre on le rapaisera,</l>
+                <l>Persuadé possible, il se retirera. </l>
+            </lg>
+            <lg n="12" ana="#p12a">
+                <l> Ayant dit, il s'assit. Alors le fils d'Atree</l>
+                <l>Agamemnon, ayant l'ame de dueil outree,</l>
+                <l>Plein d'extreme depit, le cœur noir au dedans</l>
+                <l>De coleres humeurs, et les deux yeux ardans,</l>
+                <l>Comme un éclair de feu, plus rouge que la braize,</l>
+                <l>Luy dit, le regardant d'une œillade mauvaise. </l>
+                <l> Malencontreux Devin, qui jamais ne me dis </l>
+                <l>Chose qui me sceut plaire, Et qui quand tu predis</l>
+                <l>Du mal'heur, ce plaisir grandement te console,</l>
+                <l>Qui jamais ne peus dire une bonne parole,</l>
+                <l>Moins faire un bon effect, Tu presche maintenant,</l>
+                <l>Tu vas encor' asteure aux Gregeois devinant,</l>
+                <l>Que la cause des maux dont Phœbus nous bourrelle,</l>
+                <l>Est que je ne veux pas delivrer la pucelle</l>
+                <l>La belle Chryseis, et que du beau present</l>
+                <l>Qu'on faict pour la r'avoir je me rends refusant,</l>
+                <l>Car de l'avoir chez moy, j'avois desir extrême</l>
+                <l>Et de la preferer à Clytemnestra mesme,</l>
+                <l>Que fille j'espousay. Pour ce qu'en aucun point</l>
+                <l>Ceste-cy n'est rien moindre, et ne luy cede point,</l>
+                <l>De beauté, d'art, d'esprit, ny de menagerie</l>
+                <l>Toutesfois pour cela je ne veux pas qu'on crie,</l>
+                <l>Je la rends volontiers, s'il est meilleur aussi,</l>
+                <l>Je ne veux que pour moy le peuple meure ainsi,</l>
+                <l>Plustost je veux sauver, mais j'entends que l'on pense</l>
+                <l>A me faire un present, et qu'on me recompense. </l>
+                <l>N'estant pas la raison, puis qu'on m'oste mon bien,</l>
+                <l>Que je sois seul des Grecs à qui ne reste rien.</l>
+            </lg>
+            <lg n="13" ana="#p13a">
+                <l>Auquel respond Achille en force de piez rare,</l>
+                <l> Atride ambitieux, de tous le plus avare, </l>
+                <l>Comme est-ce que les Grecs te recompenseront? </l>
+                <l>Où est-ce que pour toy des presens ils prendront? </l>
+                <l>Rien ne reste entre nous à remetre au partage,</l>
+                <l>Et tout ce qu'on a pris de butin, de pillage,</l>
+                <l>Au lot on l'a jetté, Qui voudroit contester</l>
+                <l>Pour faire encor le tout au peuple rapporter?</l>
+                <l>Mais les Grecs, si jamais Dieu leur fait prendre Troye,</l>
+                <l>Te donneront trois parts voire quatre en la proye.</l>
+            </lg>
+            <lg n="14" ana="#p14a">
+                <l> Agamemnon alors. Non, ne te trompe point </l>
+                <l>Achilles, quoy qu'aux Dieux tu sembles de tout point, </l>
+                <l>Et que tu sois tres-fort: Tu n'auras l'avantage</l>
+                <l>De tant m'en faire accroire à tout ton beau langage.</l>
+                <l>Tu voudrois volontiers qu'on te recompensast</l>
+                <l>Et sans avoir esgard à moy, qu'on me laissast</l>
+                <l>Après m'avoir contrainct de rendre la pucelle,</l>
+                <l>Dont je suis bien contant, moyennant que pour elle</l>
+                <l>Les Grecs facent estat de mettre en ma maison</l>
+                <l>Un present qui la vaille: Et c'est bien la raison</l>
+                <l>Qu'ils s'accommodent tous pour un si bon affaire</l>
+                <l>Selon ma volonté. S'ils ne le veulent faire</l>
+                <l>Je le feray moy-mesme, iray prendre le bien</l>
+                <l>D'Ajax ou d'Ulysses, voire mesme le tien.</l>
+                <l>Et s'en fasche quiconque à qui je l'iray prendre,</l>
+                <l>Mais ce sera mieux faict en autre temps d'attendre</l>
+                <l>A parler de cecy. Pensons presentement</l>
+                <l>De jetter un vaisseau sur la mer vitement,</l>
+                <l>Avec de bons rameurs, Puis y mettons l'offrande</l>
+                <l>Avecques Chryseis que l'on veut que je rende,</l>
+                <l>Qu'un Prince conduira, soit Idomeneus,</l>
+                <l>Soit Ajax, soit Ulysse, ou toy fils de Peleus</l>
+                <l>Le terrible de tous, Pour faire sacrifice</l>
+                <l>Au loin dardant Phœbus, et le rendre propice,</l>
+            </lg>
+            <lg n="15" ana="#p15a">
+                <l> A ces mots respondit de travers regardant</l>
+                <l>Achille aux pieds legers. O causeur impudent, </l>
+                <l>O renard deceveur, comme se peut-il faire </l>
+                <l>Qu'on vueille aller pour toy en quelque bon affaire?</l>
+                <l>Et que pas un des Grecs te puisse estimer tant</l>
+                <l>Que d'aller aux dangers sous ton nom combatant?</l>
+                <l>Pour moy, que m'importoit de venir à la guerre</l>
+                <l>Contre les forts Troyens si distans de ma terre,</l>
+                <l>Veu que je ne sçaurois en rien me plaindre d'eux,</l>
+                <l>Qui ne ravirent onc mes chevaux ne mes bœufs,</l>
+                <l>Et qui de leur pays onc ne firent sortie</l>
+                <l>Pour venir ravager la populeuse Phthie?</l>
+                <l>Pource qu'entr'eux et moy, il y a trop de mers</l>
+                <l>Il y a trop de monts de grands ombres couverts.</l>
+                <l>Cependant, impudent nous voicy à ta suite,</l>
+                <l>Afin que tout icy t'accroisse et te profite:</l>
+                <l>Nous conservons icy, ô visage de chien,</l>
+                <l>De ton frere et de toy et l'honneur et le bien,</l>
+                <l>Faisans teste aux Troyens, Sans graces nous en rendre,</l>
+                <l>Plustost me menaçant tu oses entreprendre</l>
+                <l>De me ravir mon bien, Où j'ay pour le gaigner</l>
+                <l>Couru risque et hazard, Que m'ont voulu donner</l>
+                <l>Les Grecs pour ma vertu. Eus-je oncques recompense</l>
+                <l>Qui la tienne égalast, alors que la puissance</l>
+                <l>Des Grecs bouleversoit tant de riches Citez?</l>
+                <l>Bien que j'aye le plus de leurs travaux portez</l>
+                <l>Et que la plus grand part des beaux exploicts de guerre</l>
+                <l>Soit faicte par mes mains? Tu prens alors, tu serre</l>
+                <l>Le meilleur du butin, J'en ay la moindre part,</l>
+                <l>Que j'emporte pourtant dans mes vaisseaux à part,</l>
+                <l>Et contant et sans bruit, Bien que j'aye le pire</l>
+                <l>Et que j'aye tout fait. Mais bien, je me retire</l>
+                <l>En Phthie mon pays, je mets dessus les eaux </l>
+                <l>Pour gaigner ma maison, mes gens et mes vaisseaux</l>
+                <l>Car c'est bien le meilleur. Toy si tu veux demeure</l>
+                <l>Sans honneur consumant tes biens à la mal'heure.</l>
+            </lg>
+            <lg n="16" ana="#p16a">
+                <l> Auquel Agamemnon des combatans le Roy.</l>
+                <l>Va, si le cœur t'en dit, fuy t'en viste, Pour moy </l>
+                <l>Je ne te priray pas d'arrester d'avantage. </l>
+                <l>D'autres demeureront qui auront le courage</l>
+                <l>De ne m'abandonner, Jupiter mesmement</l>
+                <l>Me donnera tousjours prudence et jugement:</l>
+                <l>Aussi bien ne sers-tu qu'à faire des querelles</l>
+                <l>Et des contentions par tes façons rebelles.</l>
+                <l>Si tu as de la force, elle te vient de Dieu.</l>
+                <l>Tu dis que tu t'en vas en ta maison: A dieu,</l>
+                <l>Va t'en, deloge, et toy, et ta flotte noircie</l>
+                <l>De tous tes Myrmidons, Car je ne me soucie</l>
+                <l>De toy, de ton depit, ny de ton cœur felon.</l>
+                <l>Mais je te dis aussi, Puis qu'il fault qu'Appollon</l>
+                <l>M'oste ma Chryseis, Je n'y veux contredire,</l>
+                <l>Je la vay renvoyer contant dans mon navire,</l>
+                <l>Mais quant et quant moy-mesme en tes tentes iray,</l>
+                <l>Prendray ta Bryseis, et me l'appropriray</l>
+                <l>Bien qu'elle t'apartienne, afin que tu apprenne</l>
+                <l>Que ma force est beaucoup plus grande que la tienne,</l>
+                <l>Et que tout autre apres, qui que ce soit, ayt peur</l>
+                <l>De s'esgaler à moy, abraver ma grandeur.</l>
+            </lg>
+            <lg n="17" ana="#p17a">
+                <l> A ces mots un dépit saisit l'ame d'Achille, </l>
+                <l>Son cœur dans sa poictrine et balance, et vacille </l>
+                <l>S'il doit tirer l'espee, et d'un vangeur effort </l>
+                <l>Jetter Agamemnon par terre roide mort,</l>
+                <l>En rompant l'assemblee: ou s'il doit au contraire</l>
+                <l>Retenir son courroux et forcer sa colere.</l>
+                <l>Ainsi comme il flotoit d'un douteux pensement</l>
+                <l>L'espee horrible il tire: Et voici promptement </l>
+            </lg>
+            <lg n="18" ana="#p18a">
+                <l>Pallas venir du Ciel, par Junon incitee </l>
+                <l>Qui les aymoit tous deux, Elle s'est arrestee</l>
+                <l>Par derriere le tire et luy prend les cheveux</l>
+                <l>De luy seul apperceuë et de nul autre d'eux:</l>
+                <l>Achille s'estonna, puis se tournant arriere </l>
+                <l>Cognut incontinent la Deesse guerriere, </l>
+                <l>Ses yeux étinceloient luisans terriblement:</l>
+                <l>Fille de Jupiter, pourquoy si vistement</l>
+                <l>Viens-tu icy? dit-il. Est-ce pour l'insolence</l>
+                <l>D'Agamemnon l'Atride, et pour son arrogance?</l>
+                <l>Mais laisse faire à moy, les doigts il s'en mordra,</l>
+                <l>Et pour son grand orgueil la vie il en perdra.</l>
+            </lg>
+            <lg n="19" ana="#p19a">
+                <l> A qui de Jupiter Pallas la fille chere, </l>
+                <l>Je viens expressement retenir ta colere,</l>
+                <l>Si tu me crois, au moins. Juno qui de tous deux </l>
+                <l>A soing extre[me]ment, m'envoye icy des Cieux,</l>
+                <l>Modere donc ton ire, et remets ton espee,</l>
+                <l>Que ta main dans le sang, ne soit icy trempee:</l>
+                <l>Et comba de propos tant que ton cœur voudra,</l>
+                <l>Car je te dy un faict qui sans doubte aviendra,</l>
+                <l>Un jour pour reparer ce tort et cete offence</l>
+                <l>Au triple on t'envoira dons beaux par excellence,</l>
+                <l>Afin de t'appaiser. Ainsi reprime toy,</l>
+                <l>Obey pour ce coup à ma voix et me croy,</l>
+            </lg>
+            <lg n="20" ana="#p20a">
+                <l>Deesse, la raison veut que je t'obtempere, </l>
+                <l>Luy respond Achilles, combien que ma colere </l>
+                <l>» Ait un juste dépit. Mais tousjours il vaut mieux</l>
+                <l>» En leur obeyssant porter respect aux Dieux.</l>
+                <l>» Et ne resister point à ce qu'ils nous commandent</l>
+                <l>» Afin qu'en nostre endroit propices ils se rendent</l>
+                <l>Et soyons ouys d'eux. Il tenoit, ce disant,</l>
+                <l>La main sur le pommeau d'argent fin et luysant,</l>
+                <l>Puis dedans le fourreau remit l'espee horrible,</l>
+                <l>Rendant obeyssance à Pallas la terrible:</l>
+                <l>Qui reprend sa volee au clair plancher des Cieux</l>
+                <l>Vers Jupiter l'Aegide et vers les autres Dieux.</l>
+                <l>Mais Achilles tousjours continuant sa rage</l>
+                <l>A l'Atride disoit et convice et outrage.</l>
+            </lg>
+            <lg n="21" ana="#p21a">
+                <l> Yvrongne aux yeux de chien, et du cœur ressemblant </l>
+                <l>Le plus timide cerf, aux coups tousjours tremblant </l>
+                <l>Qui n'osas onc t'armer, soit pour la guerre ouverte,</l>
+                <l>Soit pour aller dresser une embuche couverte,</l>
+                <l>Tant tu crains de mourir. Que s'est bien mieux ton cas</l>
+                <l>De piller un chacun, que d'aller aux combas,</l>
+                <l>Que tu te plais bien mieux à ravir, à detruire,</l>
+                <l>Et sur tous celuy-là qui t'ose contre-dire,</l>
+                <l>Roy mangeur de sujects, peu s'en faut et me crois</l>
+                <l>Que tu n'aye outragé pour la derniere fois.</l>
+                <l>Mais escoute à ce coup, par ce sceptre je jure</l>
+                <l>Qui n'aura jamais plus ne feuilles ne verdure,</l>
+                <l>(Pour ce qu'il fut coupé quand le cousteau tranchant</l>
+                <l>Fut son écorce vive à sa fueille arrachant)</l>
+                <l>Qu'ores les fils des Grecs exerceans la justice</l>
+                <l>Portent dedans leurs mains, justice protectrice</l>
+                <l>Des loix de Jupiter: Le jour viendra</l>
+                <l>Que le camp des Gregeois de moy se souviendra,</l>
+                <l>Et me voudra r'avoir, quant les mains homicides</l>
+                <l>D'Hector renverseront les soldats des Atrides,</l>
+                <l>Mais tu ne les pourras au besoin secourir;</l>
+                <l>Tu creveras de dueil de les voir tous mourir.</l>
+                <l>Lors en vain tu rompras ton ame de detresse</l>
+                <l>D'avoir deshonnoré le plus fort de la Grece.</l>
+                <l> Ce disant, contre terre il jetta de depit,</l>
+                <l>Son sceptre aux beaux cloux d'or, puis derechef s'assit.</l>
+                <l>L'Atride d'autre part sa colere remasche,</l>
+                <l>Ne se peut adoucir et grandement se fache.</l>
+            </lg>
+            <lg n="22" ana="#p22a">
+                <l>Surquoy vint se lever Nestor le doux parleur,</l>
+                <l>Nestor des Pyliens le disert harangueur, </l>
+                <l>De la bouche duquel paroles et langages</l>
+                <l>Plus doux que miel couloient. Il avoit veu deux aâge</l>
+                <l>Defaillir devant luy d'hommes auparavant,</l>
+                <l>Et levez et nourris quant et quant luy vivant,</l>
+                <l>Et si regnoit encor' entre ceux du troisiesme.</l>
+                <l>Lors il vint à parler d'une prudence extreme,</l>
+            </lg>
+            <lg n="23" ana="#p23a">
+                <l> O Dieux, quel grand malheur tombe dessus les Grecs! </l>
+                <l>Combien Priam, ses fils, et les Troyens apres, </l>
+                <l>Auront d'ayse en leur cœur, s'ils sçavent la nouvelle </l>
+                <l>Que les meilleurs des Grecz sont entrez en querelle,</l>
+                <l>Je dy vous les premiers de nostre nation</l>
+                <l>En combat, en conseil, en resolution.</l>
+                <l>Mais venez croyez-moy. Car j'ay cet avantage</l>
+                <l>Sur vous, qu'aupres de moy vous estes moindres d'aage:</l>
+                <l>J'ay veu, j'ay frequenté des hommes autresfois</l>
+                <l>Beaucoup meilleurs que vous, qui jamais toutesfois</l>
+                <l>Ne m'ont desestimé, tels qu'estoit Polypheme</l>
+                <l>Semblable aux immortels, Cené de force extreme,</l>
+                <l>Pirithous, Dryant, Exadie et Thesé,</l>
+                <l>Quand il vivoit au monde autant qu'un Dieu prisé.</l>
+                <l>Ils estoient des plus forts qui fussent en la terre,</l>
+                <l>Et contre des plus forts firent mortelle guerre</l>
+                <l>Monstre'-hommes montaignards qu'ils mirent tous à mort</l>
+                <l>Je venois avec eux, je les frequentois fort,</l>
+                <l>Parce qu'ils m'envoyoient querir jusques à Pyle</l>
+                <l>Assez loin de leur terre Apia la fertile:</l>
+                <l>Je me trouvois souvent à la guerre avec eux,</l>
+                <l>Nul de ceux d'aujourd'huy tant soient-ils belliqueux</l>
+                <l>N'oseroit s'esgaler à leur force et puissance:</l>
+                <l>Cependant ils m'oyoient en faits de consequence</l>
+                <l>Et ne mesprisoient pas mes conseils et advis.</l>
+                <l>Croyez-moy donc aussi, il vaut mieux mes amis,</l>
+                <l>Vivre entre vous en paix. Toy, bien que ta puissance </l>
+                <l>Soit grande entre les Grecs, ne pren pas la licence</l>
+                <l>De luy ravir la fille, ainsi laisse luy le prix</l>
+                <l>Qu'il a de tous les Grecs pour son merite pris.</l>
+                <l>Et toy fils de Peleus, ne vueille pas contendre </l>
+                <l>Contre nostre Empereur ny sur luy entreprendre,</l>
+                <l>Car jamais Roy aucun qui Sceptre sceust porter</l>
+                <l>N'a receu tel honneur qu'il a de Iupiter.</l>
+                <l>Si tu as plus de force, une Deesse grande</l>
+                <l>Aussi t'a engendré: Mais cetuy-cy commande</l>
+                <l>A plus de gens que toy, a plus d'authorité.</l>
+                <l>Toy, Atride, retien ton courroux depité,</l>
+                <l>J'en supply' tout de mesme Achil', qui de la Grece</l>
+                <l>Est le fort boulevard, l'appuy, la forteresse.</l>
+            </lg>
+            <lg n="24" ana="#p24a">
+                <l> Tout ce que tu as dit, respond Agamemnon </l>
+                <l>Mon pere, sans nul doute, est equitable et bon: </l>
+                <l>Mais aussi cestuy-cy en fait trop, il veut estre</l>
+                <l>Par sur tous dessus tous le Seigneur et le maistre,</l>
+                <l>Il veut tenir chascun sous son commandement:</l>
+                <l>Mais il n'en viendra pas à bout trop aysement.</l>
+                <l>Si les Dieux l'ont pourveu d'un grand et fort courage</l>
+                <l>Est il dit qu'il s'en serve à faire à tous outrage?</l>
+            </lg>
+            <lg n="25" ana="#p25a">
+                <l> Sur ces propos Achil' vint encore à parler: </l>
+                <l>Certes lasche et poltron on pourroit m'appeller </l>
+                <l>Si je t'allois ceder ainsi en toute chose:</l>
+                <l>Mais commande autre-part, pour moy je me propose</l>
+                <l>De ne t'obeyr plus. Voicy encore un cas,</l>
+                <l>Dont je veux t'advertir: Je ne combateray pas</l>
+                <l>Contre qui que ce soit, non pas contre toy-mesme</l>
+                <l>Pour Bryseis la belle, encore que je l'ayme,</l>
+                <l>Que l'on m'avoit donnee et que l'on veut m'oster,</l>
+                <l>Mais si tu entreprens malgré moy d'emporter</l>
+                <l>Autre chose du mien qui soit dedans ma tente,</l>
+                <l>Je te feray mourir, viens, et l'experimente,</l>
+                <l>Ceux-cy en soient tesmoins, ils verront que ton flanc</l>
+                <l>S'ouvrira par mon glaive empourpré de ton sang. </l>
+            </lg>
+            <lg n="26" ana="#p26a">
+                <l> Apres avoir crié, les Princes se leverent,</l>
+                <l>Rompirent l'assemblee, en leurs naus s'en allerent,</l>
+                <l>Achille avec Patrocle, et tous ses compagnons</l>
+                <l>Se retire à sa flotte et vers ses pavillons.</l>
+                <l>Agamemnon fait mettre en mer un bon navire </l>
+                <l>Et vingt rameurs dedans qu'il commenda d'élire, </l>
+                <l>Avec le Sacrifice à Phoebus préparé: </l>
+                <l>Faict venir Chryseis au cheveu blond doré,</l>
+                <l>Qu'il faict mettre dessus, Puis apres la consigne</l>
+                <l>Entre les mains d'Ulisse à la prudence insigne,</l>
+                <l>Afin de la mener: Ils montent aux vaisseaux,</l>
+                <l>Et s'en vont navigant par l'humide des eaux.</l>
+            </lg>
+            <lg n="27" ana="#p27a">
+                <l> Tandis Agamemnon fait repurger l'armee </l>
+                <l>Et jetter dans la mer, l'ordure envenimée: </l>
+                <l>Puis on faict à Phoebus sur la rive des eaux</l>
+                <l>Le sacrifice entier des boucs et des taureaux</l>
+                <l>Dont l'odeur monte au Ciel aux vœux de l'exercite.</l>
+            </lg>
+            <lg n="28" ana="#p28a">
+                <l>Mais cela n'appaisoit la menace depite</l>
+                <l>Que fit Agamemnon au fils de Peleus :</l>
+                <l>Eurribate il appelle avec Taltibius</l>
+                <l>Ses fideles herauts : Allez dedans la tente </l>
+                <l>D'Achilles, vous saisir de Briseys la gente, </l>
+                <l>Et l'amenez, dit-il: S'il ne la veut donner </l>
+                <l>Moy-mesme m'y feray tres-bien accompagner,</l>
+                <l>Ce qui luy sera plus encore insupportable.</l>
+                <l>Telle commission leur fut mal agreable,</l>
+                <l>Et fort à contre-cœur, ils marchent cependant.</l>
+                <l>Et prennent leur chemin le long du flot grondant,</l>
+                <l>En fin aux pavillons et naus ils arriverent</l>
+                <l>Des braves Myrmidons, où Achille trouverent</l>
+                <l>Dedans sa tente assis sur son navire à part,</l>
+                <l>Qui jetta dessus eux un fort triste regard. </l>
+                <l>Mais eux espouvantez d'une crainte fort grande</l>
+                <l>Resterent sans mot dire, et faire leur demande:</l>
+                <l>Ce qu'il recognut bien, puis leur dit en ces mots. </l>
+            </lg>
+            <lg n="29" ana="#p29a">
+                <l>Soyez les bien-venuz, ô fideles herauts, </l>
+                <l>Des hommes et des Dieux messagers honnorables,</l>
+                <l>Approchez-vous plus prez: Vous n'estes pas coulpables,</l>
+                <l>Cest Agamemnon seul de par qui vous venez</l>
+                <l>Pour m'oster Briseys, ne soyez estonnez,</l>
+                <l>Or sus vaillant Patrocle ameine-la, qu'ils prennent</l>
+                <l>La fillette à leur gré, qu'à leur aise ils l'emmenent.</l>
+                <l>Mais soyez-moy tesmoins, et devant les grands Dieux</l>
+                <l>Et devant les mortels, et ce Roy furieux,</l>
+                <l>S'il avenoit jamais qu'il eust de moy affaire</l>
+                <l>Pour repousser de nous la tempeste contraire,</l>
+                <l>Que sa folie en est la cause entierement</l>
+                <l>Et qu'il ne sçait prevoir en son entendement</l>
+                <l>Comme est-ce qu'il pourra cy-apres faire en sorte</l>
+                <l>Que le Grec pour combattre ayt l'espee assez forte.</l>
+            </lg>
+            <lg n="30" ana="#p30a">
+                <l> Patrocle, d'Achilles faict le commandement, </l>
+                <l>Entre dedans la chambre, ameine promptement </l>
+                <l>La belle Briséis, entre leur mains la livre,</l>
+                <l>La met en leur puissance et luy dit de les suivre,</l>
+                <l>Eux la prennent de luy, et le pas retournant</l>
+                <l>Vers les vaisseaux des Grecs ils la vont emmenant:</l>
+                <l>Elle contre son gré suivant les accompagne.</l>
+                <l> Mais Achilles à part tout de larmes se baigne</l>
+                <l>Sur le bord de la mer, et dedans regardant,</l>
+                <l>Sa mere il suplioit les deux mains luy tendant.</l>
+            </lg>
+            <lg n="31" ana="#p31a">
+                <l> Puis que pour vivre peu vous me mistes au monde, </l>
+                <l>Pour le moins le moteur de la machine ronde, </l>
+                <l>Ma mere, me devoit faire vivre en honneur.</l>
+                <l>Mais voicy qu'il m'enfondre en un grand deshonneur,</l>
+                <l>Car c'est Agamemnon superbement m'offence,</l>
+                <l>Et me ravit mon bien d'injuste violence.</l>
+            </lg>
+            <lg n="32" ana="#p32a">
+                <l> Cecy dit-il pleurant, et furent ses sanglots</l>
+                <l>De sa mere entendus seante sous les flots</l>
+                <l>De son pere chenu. Vers luy elle est venuë</l>
+                <l>Sortant de la mer creuse en forme d'une nue,</l>
+                <l>Se sied aupres de luy de tristesse transi,</l>
+                <l>Le flatte de la main, et puis luy dit ainsi.</l>
+                <l> Que pleures tu, mon fils? quelle douleur te fasche? </l>
+                <l>Dy, ne me cele rien, et fais que je le scache.</l>
+            </lg>
+            <lg n="33" ana="#p33a">
+                <l> Ma mere, dit Achil, souspirs du cœur jettant, </l>
+                <l>Vous ne l'ignorez pas, quel besoin est il tant </l>
+                <l>De vous le dire, à vous à qui rien ne se cele? </l>
+                <l>Nous fusmes donc à Thebe, en la cité tres-belle</l>
+                <l>Du Prince Eetion, nous la mismes à bas,</l>
+                <l>En emportasmes tout, et les Grecs nos soldats</l>
+                <l>Partirent le butin, donnerent à l'Atride</l>
+                <l>(Comme au chef general) la belle Chryseide.</l>
+                <l> Or son pere Chryses grand Prestre d'Appollon</l>
+                <l>Vint aux barques des Grecs devers ce Roy felon</l>
+                <l>Pour racheter sa fille, ayant et la couronne</l>
+                <l>Et le sceptre du Dieu qui loing de ses traits donne,</l>
+                <l>Et force beaux presens, desquels il essayoit</l>
+                <l>L'Atride contenter, les Grecs il suplioit,</l>
+                <l>Les Atrides sur tout conducteurs de la bande</l>
+                <l>Et chascun consentoit à sa juste demande,</l>
+                <l>Tout le monde disoit qu'il faloit delivrer</l>
+                <l>La fille, et le sainct prestre et ses dons reverer</l>
+                <l>Mais l'Atride trouva ceste parole dure,</l>
+                <l>Renvoya le vieillard, et luy dit force injure,</l>
+                <l>Dont le prestre indigné s'en retournant, haussa</l>
+                <l>Ses deux mains à Phoebus, et le Dieu l'exauça,</l>
+                <l>Pource qu'il aymoit fort. Si qu'en son ire il jette</l>
+                <l>Dessus le camp des Grecs sa mortelle sagette,</l>
+                <l>Qui perissoient à tas, au prix que ses durs traits</l>
+                <l>Frapoient mortellement l'exercite des Grecs.</l>
+                <l>Dont le prophete sainct enquis, nous fait entendre</l>
+                <l>La cause et le suject de ce funeste esclandre:</l>
+                <l>Dequoy moy tout émeu conseille sur le lieu </l>
+                <l>D'appaiser la vengeance et le courroux du Dieu,</l>
+                <l>Cela fascha l'Atride, et s'en mit en colere,</l>
+                <l>Me menacea de chose en fin qu'il a peu faire.</l>
+                <l>Car pour sa Chryseys que les Grecs l'ont contraint</l>
+                <l>De renvoyer par mer au Prestre sacrosaint,</l>
+                <l>Il m'a par ses herauts pris Bryseys par force,</l>
+                <l>Donnée à moy des Grecs pour loyer de ma force. </l>
+                <l>Venez en cet émoy vostre fils assister</l>
+                <l>Ma mere, et supliez sur le Ciel Jupiter</l>
+                <l>Si jamais diligente à son ayde vous fustes,</l>
+                <l>Et d'effect et d'avis onques le secourustes.</l>
+                <l> Car de cela j'ouy qu'un jour vous vous vantiez </l>
+                <l>Quand j'estois chez mon pere, et que vous racontiez </l>
+                <l>D'avoir assisté seule en sa deconvenue </l>
+                <l>L'ayné fils de Saturne amasseur de la nue,</l>
+                <l>Quant tous les autres Dieux, Neptun, Pallas, Junon</l>
+                <l>Le vouloient enferrer et le metre en prison:</l>
+                <l>Vous vintes la dessus, des ceps le delivrastes,</l>
+                <l>Et pour le secourir au ciel vous appellastes</l>
+                <l>Le geant aux cent mains Briare au cœur de lion,</l>
+                <l>Des Dieux ainsi nommé, des hommes Aegeon,</l>
+                <l>Plus puissant et plus fort au double que son pere</l>
+                <l>Ces Dieux eurent frayeur telle de sa colere</l>
+                <l>Qu'ils le laisserent là sans oser l'enferrer.</l>
+                <l>Allez le donc trouver pour luy rememorer</l>
+                <l>Ce secours oportun, et signalé service,</l>
+                <l>Embrassez les genous, et pour ce bon office</l>
+                <l>Faictes tant qu'il se mette au secours des Troyens,</l>
+                <l>Chasse jusqu'en leurs naus les fuitifs Achaiens</l>
+                <l>Mis en route et n'aurez, tant qu'ils se mécontantent</l>
+                <l>De leur bel Empereur, et cognoissent et sentent</l>
+                <l>Sur tous Agamemnon ce qu'il s'est procuré</l>
+                <l>D'avoir le plus vaillant des Grecs déshonoré.</l>
+            </lg>
+            <lg n="34" ana="#p34a">
+                <l> Helas, luy dit Thetis toute en larmes tournée, </l>
+                <l>Pourquoy sous si cruelle et dure destinée </l>
+                <l>T'ay-je nourry, mon fils! que deusses tu long-temps</l>
+                <l>Chez toy passer tes jours et joyeux et contans!</l>
+                <l>Mais cela ne se peult, car il fault que ta vie</l>
+                <l>Par le cruel destin te soit bien tost ravie,</l>
+                <l>Que tes jours briefs te soient tristes et langoureux,</l>
+                <l>C'est pourquoy tu es né sous un sort malheureux</l>
+                <l>Or pour te contanter il fauldra que je vole</l>
+                <l>Sur le Ciel nuageus porter ceste parole</l>
+                <l>Au puissant Jupiter. Je luy ramentevray,</l>
+                <l>Et s'il se peult, ton faict luy persuaderay</l>
+                <l>Demeure cependant icy sur ta galere</l>
+                <l>Gardant sans te bouger sur les Grecs ta colere,</l>
+                <l>Et sur tout garde toy de combatre et t'armer</l>
+                <l>Jupiter seulement se mit hyer en mer</l>
+                <l>Affin de se trouver au festin où le traittent</l>
+                <l>Les Aethiopiens, où tous les Dieux banquetent</l>
+                <l>Par dela l'Ocean il y fera sejour,</l>
+                <l>Et n'en retournera que le douziesme jour</l>
+                <l>A son retour de là je seray toute preste</l>
+                <l>D'aller baiser ses pieds et faire ta resqueste.</l>
+                <l> Ce disant, elle part, et laisse là son fils</l>
+                <l>Triste d'avoir perdu sa belle Briseys</l>
+                <l>Laquelle on luy avoit par violence prise,</l>
+            </lg>
+            <lg n="35" ana="#p35a">
+                <l>Mais Ulisses voguant parvint en fin en Chryse </l>
+                <l>Avec ce qu'il menoit au Prophete sacré: </l>
+                <l>Dedans le port profond si tost qu'il fut entré </l>
+                <l>Il fit plier le voile et serrer le cordage, </l>
+                <l>Mettre à point le grand Mast avec tout l'equipage,</l>
+                <l>Ficher l'anchre dans terre et la nef attacher,</l>
+                <l>Puis sortans du vaisseau se prirent à marcher</l>
+                <l>Devers le Saint Autel où mainte offrande tumbe</l>
+                <l>En touchant devant eux la sacrée Hecatumbe,</l>
+                <l>De Phoebus Apollon, si marchoit avec eux</l>
+                <l>La belle Chryseïs sortant du vaisseau creux,</l>
+                <l>Conduite prés l'autel par Ulysse le sage,</l>
+                <l>Qui la rend à son pere et luy tient ce langage.</l>
+            </lg>
+            <lg n="36" ana="#p36a">
+                <l> Venerable Chryses, Agamemnon le Roy </l>
+                <l>Prince de nostre camp m'envoye devers toy </l>
+                <l>Te remettre ta fille, et pour rendre propice</l>
+                <l>Phoebus aux Argiens par un sainct sacrifice,</l>
+                <l>Et destourner le mal que contre eux irrité</l>
+                <l>Il leur faict pour t'avoir par trop peu respecté. </l>
+                <l>Ce disant il luy livre et la fille et l'offrande,</l>
+                <l>Que prend le Prestre sainct en allegresse grande:</l>
+                <l>Et tout soudain eux tous aprestent dignement</l>
+                <l>L'offrande sur l'autel preparé sainctement,</l>
+                <l>Puis se lavent les mains, et l'aspersion preste</l>
+                <l>Chryses fit à Phoebus ceste ardente requeste.</l>
+            </lg>
+            <lg n="37" ana="#p37a">
+                <l>Dieu à l'arc argenté qui en Chryse te tiens </l>
+                <l>En Cille et Tenedos entend ces propos miens.</l>
+                <l>Tu m'as par cy-devant exaucé favorable </l>
+                <l>Et m'as faict un honneur du tout inenarrable </l>
+                <l>En ce qu'en ma faveur tu as frappé les Grecs </l>
+                <l>D'une playe bien grande, Or fay moy cy apres</l>
+                <l>Ceste grace, qu'aussi recevant ma priere</l>
+                <l>Tu vueilles chasser d'eux ceste peste en arriere.</l>
+            </lg>
+            <lg n="38" ana="#p38a">
+                <l> Apollon l'exauça, puis ayant achevé</l>
+                <l>Sa devote oraison et sur le chef levé</l>
+                <l>La saincte aspersion, l'holocauste ils rangerent,</l>
+                <l>Et tout premierement du couteau l'égorgerent,</l>
+                <l>L'écorchèrent apres, coupèrent les jambons</l>
+                <l>Qu'ils couvrirent de gresse, et dessus les charbons</l>
+                <l>Les mirent pour rostir, Chryses y vint respandre</l>
+                <l>L'effusion de vin, et les jeunes gens prendre</l>
+                <l>Les broches à cinq rancs: Quand ils furent bien cuits</l>
+                <l>Et en eurent gousté, ils trancherent depuis </l>
+                <l>Tout le reste en morceaux, en la broche le mirent</l>
+                <l>Et curieusement au feu cuire le firent:</l>
+                <l>Cela faict, et ayans preparé le banquet</l>
+                <l>Chacun à suffisance à repaistre se met.</l>
+                <l>Quand la faim et la soif eurent laissé les troupes,</l>
+                <l>Les garçons de bon vin couronnerent les coupes,</l>
+                <l>Puis vindrent les offrir à chacun à leur tour. </l>
+                <l>Apres, les fils des Grecs chanterent tout le jour</l>
+                <l>Paeanes et chansons en grande esjouyssance</l>
+                <l>A Phoebus qui ses traicts et ses raiz loin eslance,</l>
+                <l>Qui receut appaisé leurs vœux benignement,</l>
+                <l>Et de leurs hymnes prit un grand contentement.</l>
+                <l> Quand le soir fut venu les Grecs s'en retournerent</l>
+                <l>Coucher dans leur navire, au sommeil se donnerent</l>
+                <l>Jusques au poinct du jour, qu'ils reprirent la mer,</l>
+                <l>Pour retourner au camp à force de ramer:</l>
+                <l>Et Phoebus leur donna le vent fort favorable.</l>
+                <l>Ils leverent adonc le mast avec le cable</l>
+                <l>Et tendirent le voile, et le vent leur donnoit</l>
+                <l>Par le milieu du voile, et le flot resonnoit</l>
+                <l>Autour du vaisseau noir qui couroit dessus l'onde</l>
+                <l>Et coupoit les sillons de la vague profonde. </l>
+                <l> Quand ils furent venus à l'exercite fort</l>
+                <l>Ils tirerent soudain le vaisseau sur le bord</l>
+                <l>A grand'force de tours, puis chacun se retire</l>
+                <l>Comme il veut dans sa tente ou dedans son navire. </l>
+                <l> Mais le fils de Peleus Achille aux pieds disposts</l>
+                <l>Courroucé demeuroit en sa nef en repos,</l>
+                <l>Sans vouloir se trouver en conseil n'assemblee,</l>
+                <l>Ny en pas un exploit sa poitrine troublee</l>
+                <l>Dire se consumoit, desirant de courrous</l>
+                <l>Que tout fust desja plein et de guerre et de coups. </l>
+            </lg>
+            <lg n="39" ana="#p39a">
+                <l> Or comme on vit venir la douziesme journée</l>
+                <l>Que sur le ciel devoit s'en estre retournée</l>
+                <l>La troupe des haults Dieux, on vit aussi Thetis</l>
+                <l>Venir persuader Jupiter pour son fils</l>
+                <l>Elle delaissa donc la demeure salée</l>
+                <l>Montant de grand matin sur la voute estoillée,</l>
+                <l>Où elle rencontra sur le bout flamboyant</l>
+                <l>De l'Olympe monteux Jupiter loin-voyant:</l>
+                <l>Si s'assit devant luy, ayant de la senestre</l>
+                <l>Embrassé ses genous, sa barbe de la dextre</l>
+                <l>Au dessous du menton, puis vint à le flatter</l>
+                <l>En ces mots doucement. O pere Jupiter </l>
+                <l>Si onc de tous les Dieux, je t'ay fait assistance </l>
+                <l>Et de bouche et d'effect, ayez en souvenance,</l>
+                <l>Accomply ma priere, et honore mon fils </l>
+                <l>A qui vivre si peu du destin est prefix</l>
+                <l>Le Roy Agamemnon luy fait un grand outrage</l>
+                <l>Luy ravissant son bien, de sa vertu le gage: </l>
+                <l>Donne luy de r'avoir son bien ou son honneur,</l>
+                <l>Rend si grands aux Troyens et la force et le cœur</l>
+                <l>Que les Grecs soient contrains et de se recognoistre</l>
+                <l>Et les biens de mon fils et ses honneurs acroistre. </l>
+            </lg>
+            <lg n="40" ana="#p40a">
+                <l> A ces mots, Jupiter demeura longuement</l>
+                <l>Sans repondre, et pensif ne parloit nullement,</l>
+                <l>Mais Thetis ne cessoit toujours de le semondre,</l>
+                <l>Ne laissoit ses genoux, le pressoit de respondre:</l>
+                <l>Promets-moy, disoit-elle, ou refuse cecy,</l>
+                <l>(Car tu ne crains personne) et que je sçache icy,</l>
+                <l>Si je suis tout à fait mesprisée et chassée.</l>
+                <l> A qui le collecteur de la nuë entassée, </l>
+                <l>Respondit souspirant. Quelle estrange douleur! </l>
+                <l>Car tu me viens encore jetter par grand malheur</l>
+                <l>En noise avec Junon, qui tousjours me querelle,</l>
+                <l>Et conteste entre ceux de la troupe immortelle,</l>
+                <l>Criant que je soustiens le party d'Ilion:</l>
+                <l>Mais oste toy d'icy, et fay tant que Iunon:</l>
+                <l>Ne t'aperçoive point. J'auray en souvenance,</l>
+                <l>Ce dont tu m'as requis: et pour ton asseurance</l>
+                <l>J'enclineray ma teste en signe du serment</l>
+                <l>Qui m'est avec les Dieux commun pour jurement,</l>
+                <l>Ce signe rend mon dire à jamais immuable :</l>
+                <l>Tout ce que j'ay promis demeure irrevocable</l>
+                <l>Sans plus y retourner, Et reste permanent</l>
+                <l>Tout ce que j'ay juré mon sainct chef enclinant.</l>
+                <l>Ainsi dit Jupiter, puis il branla sa nuque,</l>
+                <l>Et fronçant les sourcils, fit branler la perruque</l>
+                <l>De son chef immortel, et de ce branle-là,</l>
+                <l>Il émeut tout le Ciel et l'Olympe en croula. </l>
+                <l> D'aupres de luy Thetis à ces mots se retire</l>
+                <l>Et devale du Ciel dans le profond empire;</l>
+                <l>Et Jupiter s'en va dans son Palais mouvant:</l>
+                <l>Tous les Dieux se levans luy viennent au devant</l>
+                <l>Comme à leur pere et Roy, pas un ne s'en exempte,</l>
+                <l>Et le voyant venir deant luy se presente: </l>
+                <l>Luy s'asseant se mit en son throsne doré,</l>
+                <l>Mais à Juno le faict ne peut estre ignoré,</l>
+                <l>Ayant bien veu Thetis sa requeste luy faire</l>
+                <l>Et brasser son dessein. Font palle e cholere</l>
+                <l>Elle le provoquoit de mots contentieux. </l>
+            </lg>
+            <lg n="41" ana="#p41a">
+                <l> Trompeur, dissimulé, avec lequel des Dieux </l>
+                <l>As-tu tenu conseil? Ce t'est chose plaisante</l>
+                <l>De resoudre en cachette, et quand je suis absente</l>
+                <l>Ce que tu veux parfaire, et si ne te vient point</l>
+                <l>A cœur d'en reveler à moy le moindre poinct.</l>
+            </lg>
+            <lg n="42" ana="#p42a">
+                <l> A qui respond des Dieux et des hommes le pere. </l>
+                <l>Juno, d'ainsi sçavoir tout mon secret n'espere</l>
+                <l>Bien que tu sois ma femme, et si tu y taschois</l>
+                <l>Tu n'en viendrois à bout. Tu sçauras toutesfois </l>
+                <l>Ce que tu dois sçavoir et qui est raisonnable,</l>
+                <l>Comme estant la premiere en la troupe honorable</l>
+                <l>Des Dieux tousjours vivans. Mais ce que j'ay pensé</l>
+                <l>De faire à part moy seul, ton cœur ne soit poussé</l>
+                <l>D'en vouloir rechercher la cause et l'origine.</l>
+            </lg>
+            <lg n="43" ana="#p43a">
+                <l> A qui replique encore la Deesse divine. </l>
+                <l>Le plus fascheux qui soit du vieil Saturne né </l>
+                <l>Et le plus rude encor, quand t'ay-je importuné</l>
+                <l>Pour vouloir tant sçavoir de ton secret affair ?</l>
+                <l>Tu fais tout à ton gré, et je te laisse faire:</l>
+                <l>Mais je suis en grand peine, et je tressauts de peur</l>
+                <l>Que Thetis te flattant ne t'ayt seduit le cœur:</l>
+                <l>Car je sçay qu'elle s'est à tes pieds prosternee</l>
+                <l>Et qu'elle t'a parlé toute la matinee</l>
+                <l>Tu luy auras, je croy, promis de revancher</l>
+                <l>Son Achille, et les Grecs ruiner et fascher. </l>
+            </lg>
+            <lg n="44" ana="#p44a">
+                <l> Fascheuse, luy respond le Dieu qui du ciel tonne, </l>
+                <l>C'est grand cas que ton cœur sans cesse me soupçonne,</l>
+                <l>Mais tu ne gaignes rien: Car plus tu en feras</l>
+                <l>Et plus rude et contraire à toy me trouveras.</l>
+                <l>Si j'ay rien accordé, ma volonté est telle.</l>
+                <l>Or tays toy, obey, et plus ne me querelle,</l>
+                <l>Que je ne te chastie, et que les Dieux en vain</l>
+                <l>N'essayent de t'oster de ma cholere main.</l>
+                <l> Il se teut, et Junon eut peur de sa menace</l>
+                <l>Si que sans dire mot elle reprit sa place,</l>
+                <l>Et les Dieux pour ces mots et dicts contentieux</l>
+                <l>Furent tous attristez sur le palais des Cieux.</l>
+            </lg>
+            <lg n="45" ana="#p45a">
+                <l>Ce que voyant Vulcan l'ouvrier incomparable</l>
+                <l>Se prit à dire ainsi à sa mere honorable.</l>
+                <l>Si ces noises icy durent plus longuement,</l>
+                <l>Entre vous puissans Dieux, et principalement </l>
+                <l>Pour des hommes mortels, je ne voy que ruine </l>
+                <l>Et dissipation sur la troupe divine,</l>
+                <l>Nos festins en seront et rompus et troublez,</l>
+                <l>Et plus ne pourrons estre en liesse assemblez.</l>
+                <l>Par ainsi j'admoneste et conseille ma mere</l>
+                <l>Toute sage qu'elle est, de ceder à mon pere,</l>
+                <l>Luy parler doucmeent, de peur de l'irriter</l>
+                <l>Et nos festins ainsi troubler et constrister,</l>
+                <l>Car si Jupiter veult, des traicts de son tonnerre</l>
+                <l>Il nous peut, tout-puissant, precipiter en terre.</l>
+                <l>Donc, ma mere, parlez à luy plus doucement</l>
+                <l>Si vous en desirez avoir bon traittement.</l>
+                <l> Il dit, et se levant il tendit à sa mere</l>
+                <l>Une coupe, et luy dit de joyeuse maniere:</l>
+                <l>Patientez, ma mere, en la necessité,</l>
+                <l>Durez, combien qu'ayez l'esprit fort contristé: </l>
+                <l>Il me feroit grand mal de vous voir outragée:</l>
+                <l>Par moy vous ne pourriez estre en rien revangée,</l>
+                <l>Jupiter est trop fort, on ne gaigneroit rien</l>
+                <l>De s'opposer à luy. Car il me souvient bien</l>
+                <l>Qu'autrefois vous voulant oster à sa colere</l>
+                <l>Il me poussa du pié, me fit choir en arriere, </l>
+                <l>Du hault du ciel en bas, faisant en l'air maint tour </l>
+                <l>Et tousjours tournoyant, tant que dura le jour </l>
+                <l>Jusqu'au soleil couché, que je cheu miserable</l>
+                <l>En l'Isle de Lemnos, où l'ayde secourable</l>
+                <l>Des humains Sintiens bien a propos me vint,</l>
+                <l>Et Junon se sourit aux propos que luy tint</l>
+                <l>Le Dieu boiteux son fils, prit de ses mains la coupe,</l>
+                <l>Puis commenceant à droite, à tous ceux de la troupe</l>
+                <l>Il vint la presenter pleine de nectar doux,</l>
+                <l>Un grand desir de rire à l'heure les prit tous,</l>
+                <l>Voyans ainsi Vulcan avec sa jambe torte</l>
+                <l>Verser le vin aux Dieux d'une si bonne sorte: </l>
+                <l>Le festin donc se fit au celeste sejour</l>
+                <l>Jusqu'au Soleil couchant tant que dura le jour,</l>
+                <l>Rien n'y fut espargné tant il fut magnifique, </l>
+                <l>Apollon sa guiterne, et ses sœurs la Musique</l>
+                <l>Y firent retentir d'un accord nonpareil. </l>
+                <l>Mais quant dessous les eaux on vit cheoir le Soleil,</l>
+                <l>Pour s'aller reposer, les Dieux font la retraicte</l>
+                <l>Et gaignent la maison qu'à chacun d'eux a faicte</l>
+                <l>Le pié-tortu Vulcan artiste ingenieux:</l>
+                <l>Et le grand foudroyeur se retire comme eux</l>
+                <l>En son lict où il dort quand le sommeil le gaigne,</l>
+                <l>Où tost il est suivy de Juno sa compagne. </l>
+            </lg>
+        </body>
+    </text>
+</TEI>

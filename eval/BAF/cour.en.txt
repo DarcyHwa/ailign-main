@@ -1,0 +1,1405 @@
+R. v. Burlingham, [1995] 2 S.C.R. 206
+Terrence Wayne Burlingham
+Appellant
+v.
+Her Majesty The Queen
+Respondent
+Indexed as: R. v. Burlingham
+File No.: 23966.
+1994: November 9; 1995: May 18.
+Present: La Forest, L'Heureux-Dube, Sopinka, Gonthier, Cory, Iacobucci and Major JJ.
+on appeal from the court of appeal for british columbia
+Constitutional law --
+Charter of Rights --
+Right to counsel --
+Plea bargaining --
+Interrogation continuing despite assertion of right to lawyer --
+Plea bargain made in absence of lawyer --
+Deal involving accused's telling police where murder occurred and where to find murder weapon --
+Deal significantly affecting rights and ultimately misunderstood by accused --
+Police leaving accused with understanding that he would be charged with second-degree murder with right to plead not guilty --
+Crown's offer requiring accused to plead guilty to second-degree murder --
+Accused telling third party of what he had told police --
+Murder weapon admitted as real evidence and third party testifying as to what accused told her --
+Whether breach of right to counsel --
+If so, whether gun, evidence of third party and other derivative evidence should be excluded --
+Canadian Charter of Rights and Freedoms, ss. 10(b), 24(2).
+Criminal law --
+Powers of court of appeal --
+Evidence obtained in breach of constitutional right admitted at trial --
+If wrongly admitted, whether curative provisions of Criminal Code applicable --
+Criminal Code, R.S.C., 1985, c. C-46, s. 686(1)(b)(iii).
+The appellant, who had been charged with one murder and was suspected in a second, was subjected to an intensive and often manipulative interrogation by the police.
+He was systematically questioned notwithstanding his stating repeatedly that he would not speak unless he could consult with his lawyer.
+The police interrogators also constantly denigrated the integrity of defence counsel.
+The police offered the appellant a "deal":
+he would be charged with second degree murder if he provided the police with the location of the gun and other ancillary information related to that murder.
+When the appellant refused to accept the "deal" without consulting his lawyer, the officers continued to badger him about the reliability of his lawyer and informed him this "one-time" chance would be kept open only for the weekend -- the period when appellant's counsel was unavailable.
+The appellant eventually agreed, despite his being advised by another lawyer not to talk to the police, and fulfilled his part of the deal by giving police a full confession, bringing them to the murder site, and telling them where the murder weapon had been thrown.
+The appellant recounted the events of the day and the information he had given to the police to his girlfriend.
+A misunderstanding arose as to the deal.
+The appellant understood that he would be allowed to plead not guilty to a charge of second degree murder whereas the Crown insisted that he would have to plead guilty to that charge.
+The trial judge found as a fact that the police officers had made an honest mistake.
+The appellant was charged with first degree murder.
+At trial, the Crown sought to introduce all of the evidence obtained while the appellant had been under the misunderstanding that he was participating in a valid agreement.
+The trial judge found that appellant's right to counsel (s. 10(b) of the Canadian Charter of Rights and Freedoms) had been breached and held that appellant's confession, his disclosure of the location of the weapon and his directions and gestures to the police were inadmissible.
+He admitted the fact of finding the gun, the actual gun, testimony of a witness, testimony identifying the gun and the testimony of his girlfriend regarding the statements appellant made to her.
+The appellant was convicted of the first degree murder and the Court of Appeal affirmed that decision.
+At issue here is whether or not appellant was denied his right to counsel guaranteed by s. 10(b) of the Charter, and if so, what was the just and appropriate remedy under s. 24(2) of the Charter.
+Held (L'Heureux-Dube J. dissenting in part):
+The appeal should be allowed.
+Per La Forest, Sopinka, Cory, Iacobucci and Major JJ.:
+The "deal" fundamentally changed the prosecution to involve a different offence and so brought the accused's right to counsel under s. 10(b) of the Charter into play.
+This right was denied in several ways.
+First, the police refused to hold off and continued to question him despite his repeated statements that he would say nothing without consulting his lawyer.
+Second, s. 10(b) specifically prohibits the police from belittling an accused's lawyer with the express goal or effect of undermining the accused's relationship with defence counsel.
+Third, the police acted improperly when they pressured the accused to accept the "deal" without first giving him the chance to consult his lawyer.
+Their duties were not discharged, given the seriousness of the offence and the context of general trickery, when they allowed the accused to consult a random lawyer.
+Section 10(b) mandates the Crown or police, whenever offering a plea bargain, to tender that offer either to the accused's counsel or to the accused while in the presence of his or her counsel, unless the accused has expressly waived the right to counsel.
+It is a constitutional infringement to place such an offer directly to an accused, especially when the police coercively leave it open only for the short period of time during which they know defence counsel to be unavailable.
+Mere expediency or efficiency or the facilitating of the investigatory process was not enough to create an urgency sufficient to permit a s. 10(b) breach.
+To the extent that the plea bargain is an integral element of the Canadian criminal process, the Crown and its officers engaged in the plea bargaining process must act honourably and forthrightly.
+These proceedings should not be stayed;
+stays should only be limited to the "clearest of cases".
+Evidence obtained in a manner that infringes an accused's Charter rights, should be excluded under s. 24(2) if, having regard to all of the circumstances, its admission would bring the administration of justice into disrepute.
+Under the test in R. v. Collins, three categories of factors are to be considered: (1) those affecting the fairness of the trial; (2) those relating to the seriousness of the violation; and, (3) those relating to the effect on the reputation of the administration of justice of excluding the evidence.
+The impact of the evidence on the fairness of the trial was determined to be the most important consideration in triggering the Charter's exclusionary effect.
+Self-incriminatory evidence obtained as a result of a Charter breach will generally go to the fairness of the trial and should generally be excluded.
+Trial unfairness strikes at the heart of the reputation of the administration of justice.
+That the evidence is classified as either real or conscriptive should not be of itself determinative.
+Consideration of what evidence should be excluded should begin with that evidence most proximate to the Charter breach and then work towards evidence arising more remotely from it.
+More remote evidence might not be admitted if its admission would have the same effect as admitting the proximate evidence.
+Here, the contested evidence most proximate to the breach was the finding of the gun because the gun would not have been found but for the unconstitutional behaviour of the police.
+Appellant's statement voluntarily made to his girlfriend about directing the police to the location of the gun too was derivative evidence flowing from his confused state of mind stemming from the s. 10(b) violations and the critical decisions made in the absence of counsel.
+It was not mere windfall evidence for the Crown.
+Nothing would have been said had appellant not been improperly conscripted by the police to provide evidence against himself.
+Evidence lying in close proximity with the Charter breach is excluded because it detracts from the integrity of the trial and thereby infringes both the principles of fairness and of reliability.
+Here, the Crown sought to introduce the statement at trial precisely because doing so allowed it to do indirectly what the trial judge had ruled it could not do directly: introduce evidence that the appellant knew where the gun was hidden.
+Excluding the gun while including the statements effectively eviscerates the Charter of most of its protective value to the accused in this case.
+Where the impugned evidence flows from a violation of the s. 10(b) right to counsel, the Crown must demonstrate on a balance of probabilities that, regarding the unfairness of the trial component of the test under s. 24(2), the accused would not have consulted counsel even if properly advised.
+The Crown did not meet this burden here.
+Given the serious nature of the Charter breach, the admission of the impugned evidence would bring the administration of justice into disrepute.
+The violation was wilful and flagrant and there was no element of urgency.
+The effect of excluding the evidence on the reputation of the administration of justice will be incidental and far outweighed by the negative consequences that would follow were this unconstitutional evidence to be included.
+The fact that the impugned evidence played only a minor role in the trial was irrelevant to a s. 24(2) analysis.
+The effect of evidence at the trial may be relevant in a consideration of the effects of excluding the evidence on the reputation of the administration of justice but no framework has been established to consider the effect of including the evidence.
+Such a framework should not be created here.
+Section 686(1)(b)(iii) of the Criminal Code (the curative provision) should not be applied here because the admission of unconstitutionally obtained evidence at trial amounted to a "substantial wrong".
+There was a reasonable possibility that the impugned evidence could have weighed significantly in the conviction.
+Per Sopinka, Cory, Iacobucci and Major JJ.:
+The reasons and conclusion of Iacobucci J. were agreed with.
+These reasons address L'Heureux-Dube J.'s point that this Court has departed from R. v. Collins in favour of a rule of automatic exclusion.
+Differing opinions exist among both commentators and the public as to the appropriate approach to the exclusion of evidence under s. 24(2) of the Charter.
+With respect to the suggestion that this Court is out of step with public opinion, individual rights are not to be submitted to an adjudication by the majority.
+Furthermore, there is no accurate assessment of public opinion.
+The test with respect to what could bring the administration of justice into disrepute is grounded in longer term community values rather than the public passion of the moment.
+These values are to be assessed in terms of the views of the hypothetical, reasonable, well-informed and dispassionate person in the community.
+This Court's s. 24(2) jurisprudence, subsequent to Collins, has generally evolved with due respect for stare decisis but also with due regard for the fact that as an early comprehensive statement of principles, it did not purport to be exhaustive or immutable.
+The key words in that judgment, "conscripted against himself through a confession or other evidence emanating from him", necessitated further definition in subsequent cases.
+Whether it was ever so intended, it soon became apparent that real evidence and evidence emanating from the accused were not mutually exclusive categories.
+It is unfair for the Crown to make out its case in whole or in part by the use of evidence that it obtained in breach of the rights of the accused and involving his or her participation.
+The participation of the accused in providing incriminating evidence involving a breach of Charter rights is the ingredient that tends to render the trial unfair as he or she is not under any obligation to assist the Crown to secure a conviction.
+Serious breaches of the Charter which do not involve the participation of the accused may result in the exclusion of the evidence under the second branch of the Collins test.
+The application of the Reliability and the Fairness Principles as suggested L'Heureux-Dube J. does not constitute a return to Collins.
+Nowhere in Collins is the fairness of the trial equated with the reliability of the evidence.
+The description used in Collins as to the kind of evidence that could render a trial unfair was "a confession or other evidence emanating from him".
+Even the admissibility of a "confession" is not determined solely on the basis of reliability.
+Prior to the Charter and at common law, reliability ceased to be the exclusive basis for excluding confessions.
+The fairness of the trial was also a factor in the exclusion of involuntary confessions.
+The reliability principle would, therefore, impose a more restrictive exclusionary rule than that which existed at common law.
+Its preoccupation with the probative value of the evidence would also appear to be a close relative of the rule in R. v. Wray.
+This case was widely criticized, has not been followed by this Court and was not the basis for the exclusionary power adopted by the Charter in s. 24(2).
+The first branch of the Collins test cannot be accurately characterized as an automatic rule of exclusion with respect to all self-incriminating evidence.
+While a finding that admission of illegally obtained evidence would render the trial unfair will result in exclusion, the court must first conclude that "in all the circumstances" the admission of the evidence would render the trial unfair.
+The discoverability or "but for" test can be traced to Collins.
+While the Court has not decided the extent to which discoverability is relevant in all aspects of the Collins test, it has been applied to admit as well as to exclude evidence.
+The distinction made in Collins between real evidence and evidence emanating from the accused was based, at least in part, on the rationale that real evidence (or things) can be discovered without the participation of the accused.
+They pre-existed the state action which is called into question, and were there to be discovered by investigative means not involving the accused.
+Where this distinction is blurred, discoverability has been used to place the evidence in one or other of these two categories.
+If the evidence was discoverable without the participation of the accused, then it has the attributes of real evidence.
+Conversely, evidence that clearly emanates from the accused such as statements has not been subjected to the discoverability analysis.
+The distinction between real and conscriptive evidence is thus not determinative and greater emphasis has been placed on the discoverability or "but for" test.
+The law relating to s. 24(2) should be developed on this basis rather than the new approach advocated by L'Heureux-Dube J.
+This approach to date is more consistent with Collins, and therefore with stare decisis.
+Per Gonthier J.:
+The reasons of L'Heureux-Dube J., read together with the comments of Sopinka J., contribute to a proper understanding of the principles governing the exclusion of evidence under s. 24(2) of the Charter.
+Evidence of the accused's statement to his girlfriend, evidence of the gun and of its location, all of which were made possible by this statement, were to be excluded for its admission would tend to bring the administration of justice into disrepute in the eyes of a reasonable person, dispassionate and fully apprised of the circumstances.
+The statement was intimately connected to that deal which was obtained through the highly egregious conduct of the police officers in pressing the accused to confess and in systematically undermining the role of defence counsel.
+This conduct was a Charter violation of the most serious kind, bringing into play both the Reliability and the Fairness Principles referred to by L'Heureux-Dube J., although other evidence served to allay concern as to reliability.
+The curative provisions of s. 686(1)(b)(iii) of the Criminal Code should not be applied.
+Per L'Heureux-Dube J. (dissenting in part):
+The police conduct constituted a serious violation of the s. 10(b) Charter right to counsel.
+The Crown or police, when offering a plea bargain, must tender the offer to either the accused's counsel or the accused while in the presence of his or her counsel, unless the accused has expressly waived the right to counsel.
+Certain of the evidence derived from the Charter breach need not be excluded under s. 24(2) of the Charter.
+Section 24(2) is not to be apprised according to the views of the reasonable lawyer, but simply according to the reasonable person, dispassionate and fully informed of the circumstances.
+Under s. 24(2), a court's duty to preserve the integrity and repute of the judicial system in the eyes of the Canadian community must prevail if in conflict with its more general duty under the Charter to vindicate the rights guaranteed therein.
+There is some evidence to suggest that a material gap has developed between the views of the community and those of the Court with respect to the exclusion of unconstitutionally obtained evidence.
+In particular, this is attributable to the broad interpretation that this Court has given to the term "trial fairness" in the first branch of the Collins test, and the virtually absolute exclusionary consequences that follow from a finding of "trial unfairness".
+This approach to "trial fairness" is inconsistent with the first principles laid down by this Court in Collins and with the courts' obligation under s. 24(2) to adjudicate upon the exclusion of the impugned evidence "having regard to all the circumstances".
+The nature of the evidence (real or self-incriminatory, or discoverable or undiscoverable) should not be determinative of "trial fairness", and therefore of almost automatic exclusion.
+"
+Trial fairness" should not be so broadly defined as to allow the "trial fairness" tail to wag the s. 24(2) dog.
+At the time that s. 24(2) was enacted, the common law in Canada was in the process of recognizing two different bases for the exclusion of evidence.
+The first was reliability.
+The second was the integrity of the justice system.
+This constituted the legal context in which s. 24(2) was enacted, and against which the approach to s. 24(2) in Collins was elaborated.
+Two fundamental principles are identified as flowing from the common law and the Charter, and as underlying the Court's approach to s. 24(2).
+The first, the Reliability Principle, is engaged whenever anything done by the authorities casts some doubt as to the accused's having been induced to make a possibly unreliable statement.
+In such circumstances, there may be a concern that the trier of fact could be misled, or an innocent person convicted, as a result of the authorities' activities.
+These circumstances potentially affect the fairness of the actual adjudicative process, and therefore relate to the first set of factors to be considered under Collins.
+The admission of evidence whose reliability may be suspect as a result of state activity would almost inevitably bring the administration of justice into disrepute.
+The second principle is the Fairness Principle.
+This principle is engaged whenever the state uses methods to advance its case against an accused in a manner that undermines values that are fundamental to a free and democratic society.
+Judicial condonation of acts that violate this principle undermine the integrity of the justice system, and could bring the administration of justice into disrepute.
+Thus, where the objection to the admission of unconstitutionally obtained evidence is not so much that it could mislead a trier of fact but pertains rather to the manner in which the evidence was obtained, this objection relates to the Fairness Principle.
+All considerations relating to the Fairness Principle are better considered within the rubric of the second branch of the Collins test: the impact of the seriousness of the rights violation on the reputation of the justice system.
+Analysis under this branch of Collins must be undertaken "having regard to all of the circumstances".
+Whether or not the evidence could have been discovered "but for" the rights violation is a serious, albeit not determinative, consideration within this set of factors.
+Finally, under the third branch of the Collins test, courts must ensure that there is a sense of proportionality between the competing interests and effects at issue in the s. 24(2) determination.
+In this case, the "proximate connection" between the s. 10(b) violation and the accused's voluntary statement to his girlfriend is sufficient to bring that statement within the purview of a s. 24(2) examination.
+The mere fact that the statement is proximately connected to the rights violation or may not have been made but for the violation does not, however, inevitably lead to the conclusion that it must be excluded since its admission would render the trial unfair.
+Although the accused was incarcerated at the time, the statement was freely and voluntarily made with no element of state compulsion to taint it with the possibility of unreliability, and therefore with the possibility of unfairness to the trial.
+Turning to the impact of the seriousness of the rights violation on the reputation of the justice system, it is noted that the direct and intended fruits of the officers' unconstitutional conduct were properly excluded by the trial judge.
+The voluntary statement to a third party was, however, an evidentiary windfall, and its admission is therefore less likely to bring the administration of justice into disrepute over the long term.
+Admittedly, if this statement would not otherwise have been made by the accused, then it could affect the integrity of the judicial system to admit such a statement at trial.
+This consideration is not, of itself, determinative of the question of exclusion.
+In this case, having regard to the seriousness of the offence and the fact that it was incidental to the officer's unconstitutional conduct, the exclusion of this reliable evidence would bring the administration of justice into greater disrepute than its inclusion.
+The impugned statement tends to connect the accused more closely with the crime, and could give rise to an inference of consciousness of guilt.
+That its admission may create a danger that the trier of fact will be misled does not relate to "trial fairness" in any way that is relevant to s. 24(2).
+Trial fairness will only be connected to the rights violation, and therefore subject to special scrutiny under the first branch of the Collins analysis, when there is some possibility that the evidence is unreliable or otherwise likely to lead to the conviction of an innocent person, and when this unreliability is somehow attributable to the state's unconstitutional conduct.
+Such was not the case here.
+Under the circumstances, there was no reasonable possibility of unreliability in the statement.
+If there is nonetheless a possibility that the statement is prejudicial in the evidentiary sense, in that it could mislead a trier of fact by causing it to follow an inappropriate chain of logic, then that problem must be addressed within the context of the traditional balancing test which inquires into whether the probative value of the evidence outweighs its prejudicial effect.
+Since the voluntary statement to the third party was admissible under s. 24(2) of the Charter, the admission of the gun and the fact of finding the gun would not bring the administration of justice into disrepute.
+Section 24(2) of the Charter and the curative provision of the Criminal Code, s. 686(1)(b)(iii), are not co-extensive.
+First, s. 686(1)(b)(iii) only requires that the appellate court consider the particular circumstances before it, whereas s. 24(2) involves long-term considerations in any determination made as to admissibility.
+Second, the French version of s. 24(2), on which the Collins framework is based, requires that evidence be excluded "if its admission could bring the administration of justice into disrepute".
+A conclusion that the administration of justice could be brought into disrepute by the admission of certain evidence does not necessarily mean that its admission led to a "substantial wrong" or "miscarriage of justice".
+Third, the two provisions further different objectives and so have different focuses.
+The primary purpose of s. 24(2), which focuses on whether the inclusion or exclusion of evidence obtained in violation of the Charter would bring the administration of justice into further disrepute, is protection of the integrity of the judicial system.
+By contrast, the primary purpose of s. 686(1)(b)(iii), which focuses on the outcome of the particular proceedings, is to enable appellate courts to feel unhindered in clarifying errors of law committed by the trial judge.
+It reflects a careful balancing of collective interests in the effective and efficient conclusion of litigation against the right of the individual accused to a full and fair trial.
+Given the strength of the Crown's case, the curative provisions of s. 686(1)(b)(iii) could be properly invoked notwithstanding a finding that evidence should have been excluded under s. 24(2).
+Moreover, the trial judge warned the jury as to the limited probative value of both the gun and the impugned statement.
+There is no reasonable possibility that the verdict would have been different had the impugned evidence been excluded under s. 24(2) of the Charter.
+A stay of proceedings was not appropriate because the conduct of the authorities, while contemptible, did not amount to one of the "clearest of cases" of abuse of process.
+The Crown, however, did act with male fides by charging the accused with first degree murder notwithstanding the fact that the Crown was aware that the police had misled the accused and that he had fulfilled his half of the bargain in full reliance of the deal offered by the police.
+This conduct violates basic principles of decency and fair play.
+The principle of fundamental fairness under s. 7 of the Charter was therefore breached.
+It would be appropriate and just under s. 24(1) of the Charter to require the Crown to uphold its half of the "deal";
+a conviction for the lesser included offence of second degree murder should be substituted for the present conviction of first degree murder.
+Cases Cited
+By Iacobucci J.
+Considered: R. v. Mellenthin, [1992] 3 S.C.R. 615; R. v. Strachan, [1988] 2 S.C.R. 980; distinguished: R. v. Black, [1989] 2 S.C.R. 138; R. v. Hodge (1993), 133 N.B.R. (2d) 240; referred to: R. v. Prosper, [1994] 3 S.C.R. 236; R. v. Matheson, [1994] 3 S.C.R. 328; R. v. Brydges, [1990] 1 S.C.R. 190; R. v. Evans, [1991] 1 S.C.R. 869; R. v. Power, [1994] 1 S.C.R. 601; R. v. L. (W.K.), [1989] B.C.J. No. 1700 (C.A.) (Q.L.), aff'd [1991] 1 S.C.R. 1091; R. v. Collins, [1987] 1 S.C.R. 265; R. v. Gladstone (1985), 22 C.C.C. (3d) 151; R. v. Jacoy, [1988] 2 S.C.R. 548; R. v. Wigman, [1987] 1 S.C.R. 246; R. v. Broyles, [1991] 3 S.C.R. 595; R. v. Hebert, [1990] 2 S.C.R. 151; R. v. Elshaw, [1991] 3 S.C.R. 24; R. v. Bevan, [1993] 2 S.C.R. 599; R. v. Ross, [1989] 1 S.C.R. 3; Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425; R. v. Colarusso, [1994] 1 S.C.R. 20; R. v. S. (R.J.), [1995] 1 S.C.R. 451; R. v. Bartle, [1994] 3 S.C.R. 173; R. v. Grant, [1993] 3 S.C.R. 223; R. v. Pozniak, [1994] 3 S.C.R. 310; R. v. Therens, [1985] 1 S.C.R. 613; John v. The Queen, [1985] 2 S.C.R. 476.
+By Sopinka J.
+Considered: R. v. Collins, [1987] 1 S.C.R. 265; R. v. Ross, [1989] 1 S.C.R. 3; Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425; referred to: R. v. Genest, [1989] 1 S.C.R. 59; Rothman v. The Queen, [1981] 1 S.C.R. 640; R. v. Hebert, [1990] 2 S.C.R. 151; R. v. Whittle, [1994] 2 S.C.R. 914; R. v. Sang, [1980] A.C. 402; R. v. S. (R.J.), [1995] 1 S.C.R. 451; R. v. Tremblay, [1987] 2 S.C.R. 435; R. v. Mohl, [1989] 1 S.C.R. 1389; R. v. Dersch, [1993] 3 S.C.R. 768; R. v. Black, [1989] 2 S.C.R. 138; R. v. Mellenthin, [1992] 3 S.C.R. 615; R. v. Strachan, [1988] 2 S.C.R. 980; R. v. Elshaw, [1991] 3 S.C.R. 24; R. v. Bartle, [1994] 3 S.C.R. 173; R. v. Meddoui (1990), 61 C.C.C. (3d) 345; disapproved: R. v. Wray, [1971] S.C.R. 272.
+By L'Heureux-Dube J. (dissenting in part)
+R. v. Collins, [1987] 1 S.C.R. 265, rev'g (1983), 5 C.C.C. (3d) 141; Rothman v. The Queen, [1981] 1 S.C.R. 640; R. v. Ross, [1989] 1 S.C.R. 3; Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research, Restictive Trade Practices Commission), [1990] 1 S.C.R. 425; R. v. Mellenthin, [1992] 3 S.C.R. 615; R. v. Prosper, [1994] 3 S.C.R 236; R. v. Stinchcombe, [1991] 3 S.C.R. 326; R. v. S. (R.J.), [1995] 1 S.C.R. 451; R. v. Meddoui (1990), 61 C.C.C. (3d) 345; R. v. Dersch, [1993] 3 S.C.R. 768; R. v. Duarte, [1990] 1 S.C.R. 30; R. v. Wiggins, [1990] 1 S.C.R. 62; R. v. Wray, [1971] S.C.R. 272; R. v. Strachan, [1988] 2 S.C.R. 980; R. v. Hebert, [1990] 2 S.C.R. 151; R. v. Broyles, [1991] 3 S.C.R. 595; R. v. Seaboyer, [1991] 2 S.C.R. 577; R. v. Bevan, [1993] 2 S.C.R. 599; R. v. Elshaw, [1991] 3 S.C.R. 24; R. v. Hodge (1993), 133 N.B.R. (2d) 240; John v. The Queen, [1985] 2 S.C.R. 476.
+Statutes and Regulations Cited
+Canadian Charter of Rights and Freedoms, ss. 7, 10(b), 24(1), (2).
+Constitution Act, 1982, s. 52(1).
+Criminal Code, R.S.C., 1985, c. C-46, ss. 686(1) [am.
+S.C. 1991, c. 43, s. 9 (Sch., item 8)] (a)(iii), (b)(iii), 691.
+Authors Cited
+Bryant, Alan W., Marc Gold, H. Michael Stevenson and David Northrup. "
+Public Attitudes Toward the Exclusion of Evidence: Section 24(2) of the Canadian Charter of Rights and Freedoms" (1990), 69 Can. Bar Rev. 1.
+Bryant, Alan W., Marc Gold, H. Michael Stevenson and David Northrup. "
+Public support for the Exclusion of Unconstitutionally Obtained Evidence" (1990), 1 S.C.L.R. (2d) 555.
+Deslisle, R. J. "Collins: An Unjustified Distinction" (1987), 56 C.R. (3d) 216.
+McLellan, A. Anne and Bruce P. Elman. "
+The Enforcement of the Canadian
+Charter of Rights and Freedoms: An Analysis of Section 24" (1983), 21 Alta. L. Rev. 205.
+Morissette, Yves-Marie. "
+The Exclusion of Evidence under the Canadian Charter of Rights and Freedoms: What to Do and What Not to Do" (1984), 29 McGill L.J. 521.
+Paciocco, David M. "The Judicial Repeal of s. 24(2) and the Development of the Canadian Exclusionary Rule" (1990), 32 Crim. L.Q. 326.
+Penney, Steven M. "Unreal Distinctions: The Exclusion of Unfairly Obtained
+Evidence Under s. 24(2) of the Charter" (1994), 32 Alta. L. Rev. 782
+Quigley, Tim and Eric Colvin, "Developments in Criminal Law and Procedure:
+The 1988-89 Term" (1990), 1 S.C.L.R. (2d) 187.
+Sopinka, John, Sidney N. Lederman and Alan W. Bryant.
+The Law of Evidence in Canada.
+Toronto: Butterworths, 1992.
+Tanovich, David M. "Can the Improper Admission of Evidence Under the
+Charter Ever be Cured?"
+(1994), 32 C.R. (4th) 82.
+APPEAL from a judgment of the British Columbia Court of Appeal (1993), 35 B.C.A.C. 81, 57 W.A.C. 81, 85 C.C.C. (3d) 343, dismissing an appeal from conviction by Toy J. sitting with jury.
+Appeal allowed, L'Heureux-Dube J. dissenting in part.
+Sheldon Goldberg, for the appellant.
+Colin M. Sweeney, for the respondent.
+//Iacobucci J.//
+The judgment of La Forest, Sopinka, Cory, Iacobucci and Major JJ. was delivered by
+1
+IACOBUCCI J. --
+This appeal, which comes to the Court as of right under s. 691 of the Criminal Code, R.S.C., 1985, c. C-46, raises two sets of issues: (1) the content of an accused's right to counsel during the plea bargaining process; and (2) the appropriate remedy for an infringement of s. 10(b) of the Canadian Charter of Rights and Freedoms, and more specifically, the reach of s. 24(2) to exclude from the trial process evidence obtained in a manner violative of the right to counsel.
+A.
+Background
+2
+Terrence Burlingham, the appellant, is accused of the murder of Denean Worms, which was committed in October 1984 in Cranbrook, British Columbia.
+He has also been convicted of the murder of Brenda Hughes, which was committed in December 1984 also in Cranbrook.
+It was because of the very similar manner in which the two women were murdered and sexually assaulted that the police charged appellant with the Worms murder at the point when it was decided to charge him with the Hughes murder.
+Both Worms and Hughes were found naked, with semen in their vaginas, and each was shot twice in the head at close range with a .
+410 shotgun, though with different types of pellets.
+Appellant's appeal to the British Columbia Court of Appeal on the conviction for the Hughes murder was dismissed.
+This appeal relates only to the appellant's conviction for the murder of Worms.
+3
+From January 1, to January 4, 1985, the police subjected appellant to an intensive and often manipulative interrogation.
+They systematically questioned him in spite of the fact that he repeatedly stated that he would not speak unless he could consult with his lawyer.
+The police urged the accused to tell them what he knew about the crime, suggesting that any delay would hurt his parents since, just as they would be getting over the shock of the Hughes murder, they would be doubly hurt by a second murder charge.
+One of the officers commented (quoted from the judgment of the British Columbia Court of Appeal (1993), 85 C.C.C. (3d) 343, at pp. 356 and 359):
+...
+I don't think that you're being very fair to them [appellant's parents], um they, y'know they love you very much and, and from what I, I see, you're a, a loving caring sort of person and, and uh, y'know you have to weigh the, the advice that you're getting, but I can see that, that by delaying you're just hurting them....
+But basically what you're saying is you're going to put your parents through this, for a long, uh, a lot longer.
+From what I've seen I thought you had a lot more love for them than that, Terry.
+To which the appellant replied (at p. 359):
+"From what I just seen, you're just trying to use my parents against me."
+4
+The police also constantly denigrated the integrity of defence counsel;
+the interrogation record attests to repeated disparaging comments made about defence counsel's loyalty, commitment, availability, as well as the amount of his legal fees.
+The interrogation officers suggested they were more trustworthy than the appellant's lawyer.
+The following excerpts from the interrogation record, cited at pp. 351-53, are illustrative:
+[Appellant]:
+Well, that's what I told you and I told him I pretty well got to talk to somebody about it, he [his counsel] said to talk to me about it.
+[Officer #1]:
+Talk to him?
+This is your friend who wants $15,000 out of you, and you're going to talk to him?
+[Appellant]:
+- talk to him -.
+[Officer #1]:
+Well, it's, it's, it's obviously your choice, but I'll, I tell you it, it kind of hurts if uh...
+[Appellant]:
+No, I, I'm not gonna, okay.
+[Officer #1]:
+It hurts if, if, that's what you think of us.
+That's all you think of us, after all.
+[Appellant]:
+That's not what I thought.
+-- uh, I don't know whether I should follow his advice or maybe I shouldn't, like I mean I don't know.
+. . .
+[Officer #1]:
+You gotta realize, just the fact of what you've --, you're coming a long ways.
+. . .
+[Officer #1]:
+Cause you're, you're admitting it basically.
+[Appellant]:
+Well...
+[Officer #1]:
+You're telling us that, that, that you, you were there, and just the fact that you're doing that, that makes me feel a lot better about what you're.
+. . .
+[Appellant]:
+I'm trying to word this as good as I can, um, like I say, and I'm not saying that I ain't, uh I won't talk to you guys.
+. . .
+[Appellant]:
+...
+I'd like to consult with him [counsel] first.
+[Officer #1]:
+Okay, that, that's -- uh --.
+He, he didn't even, -- didn't tell you if he's going to even represent you?
+[Appellant]:
+No.
+[Officer #1]:
+Hah!
+How much money does he want?
+. . .
+[Appellant]:
+Well when I talk to my lawyer, um, I'm gonna pretty well lay it on the line with him, and find out what or -- need to answer it, uh, -- answer -- won't bother -- to say anything at that time, but uh --
+. . .
+[Officer #1]:
+Why, why do we, why do you want to wait, I don't understand that and I, just for my own feelings, I'd like to know.
+. . .
+[Officer #1]:
+Why you can trust him [counsel] more than you can trust us?
+[Appellant]:
+All I'm saying is that, I won't say nothing at this time until I talk to him.
+. . .
+[Officer #1]:
+Think about it -- cause like I say, I, I tell you, I'm a pessimist, cause I've seen lawyers before --.
+5
+And the comments continued as follows (at p. 354):
+[Officer #1]:
+Well has he talked anything other than money with you?
+[Appellant]:
+No.
+[Officer #1]:
+Just money?
+[Appellant]:
+Uhh, what do you mean, anything...
+[Officer #1]:
+Like hasn't he talked about any, getting any sort of help or anything?
+[Appellant]:
+No.
+[Officer #1]:
+Hmh!
+All he's really been worried about is money, money, money, eh?
+6
+On January 4, 1985 the police offered the appellant a "deal".
+They claimed they had instructions from their "boss" and Crown counsel to make such a deal.
+The appellant was told by the police that he would only be charged with the second degree murder of Worms in exchange for his providing to the police the location of the gun and other ancillary information related to the murder.
+When the appellant refused to accept the "deal" without consulting his lawyer, the officers continued to express doubts regarding the helpfulness of the appellant's counsel, emphasizing that he was taking the weekend off.
+They then kept the deal open only for the weekend, the period of time during which the appellant's counsel was unavailable, underscoring all the while that the deal was but a "one-time chance".
+The trial record, as cited by the Court of Appeal at pp. 358-59, reveals the following exchanges between the appellant and the law enforcement agents once the "deal" was proposed:
+[Appellant]:
+Why don't you tell my lawyer that [about the deal]?
+[Officer #1]:
+What?
+That, that we would do this [deal]?
+[Appellant]:
+Yeah.
+[Officer #1]:
+He only talked to us for two minutes and left, he wanted to have the weekend off, he's not even prepared to talk to us till Monday.
+[Officer #2]:
+We're talking to you, Terry, because I think you're the one that should be --.
+[Officer #1]:
+You're the one that's sitting here, and your parents are sitting at home!
+. . .
+[Officer #1]:
+The difference is that your family are, are sitting there for another week or two weeks, while your lawyer is going back and forth, having his weekends off and, and uh, whatever, and they're, they're just waiting for the knock on the door.
+That's the difference.
+I agree with you, as far as the sentence is concerned, there's no difference.
+None whatsoever, because you'll do the time on the most serious, which we've already got. . . .
+[Appellant]:
+How do you know it's more serious?
+[Officer #1]:
+Well, because it's a First Degree [murder] charge.
+We're offering you the Second Degree one.
+That's, that's like uh...
+I, I can't believe you're hedging on it.
+Jees, cause that's, that would be. . . .
+7
+On the night of January 4, 1985, the appellant eventually acquiesced to the deal despite having telephoned another lawyer who had advised him not to talk to the police.
+The appellant fulfilled his half of the bargain:
+by midnight the police had a full confession, had been brought to the murder site, and had the possibility of locating the murder weapon.
+On the morning of January 5, 1985, appellant told his girlfriend Judy Hall that he had brought the police to the location where the gun had been left months earlier under what had since become the frozen Kootenay River.
+He also told her he knew (at p. 365) "...
+something about the death of Ms. Worms".
+8
+Later that day, however, the appellant was told the deal never existed in the manner in which he understood it.
+Apparently Crown counsel had only authorized the officers to say that a plea of guilty to second degree murder would be accepted, not that the appellant would be charged with second degree murder, the difference being the accused would have the option to plead not guilty to second degree murder.
+The trial judge, Toy J. (as he then was), found as a fact that the police officers had made an honest mistake.
+When informed about the aborted deal, the appellant's reaction was as follows:
+[Officer #1]:
+Maybe I should bring you up first uh...
+just up on what's transpired today with Crown counsel and everything.
+. . .
+[Officer #1]:
+I don't know if you're going to be very happy with the Crown, but what they've been saying is that uh...
+they said that Glenn had no right to make any deals with you and their [sic] taking the you know it's probably no surprise to you but their [sic] taking the...
+the uh...
+line that we decide on what charges are laid.
+[Appellant]:
+Ya, that's not very fair to me, though is it?
+. . .
+[Appellant]:
+I mean uh...
+promises were made to me and there [sic] not being kept.
+. . .
+[Appellant]:
+So what you're telling is that it's another murder one charge?
+[Officer #1]:
+I'm telling ya is that what I'm telling you is that the Crown will not let us make deals and their [sic] ...
+their [sic] the ones that uh...
+will decide on those sort of things so that the problem is ...
+that their [sic] not bound to go by and uh..
+. . .
+[Officer #1]:
+...
+Like I say it's a piss off for everybody concerned....
+9
+The appellant was charged on January 8, 1985, with the first degree murder of Worms, and the Crown subsequently sought to introduce all of the evidence obtained while the appellant was under the misunderstanding that he was participating in a valid agreement.
+Of particular significance is the fact that the police never consulted with the appellant's counsel regarding the "deal" nor did they give the appellant the opportunity to speak to his counsel.
+10
+At trial, a breach of s. 10(b) of the Charter was found.
+The trial judge held that, as a result of this violation, the appellant's confession, his disclosure of the location of the weapon, as well as his directions and gestures to the police were inadmissible.
+However, Toy J. admitted the fact of finding the gun, the actual gun, as well as Hall's testimony regarding the statements made to her by the appellant.
+The appellant was convicted of the first degree murder of Denean Worms.
+He appealed.
+The Court of Appeal affirmed the decision of the trial judge, but there was a strong dissent by McEachern C.J, who found that admitting any or all of the derivative evidence would bring the administration of justice into disrepute.
+B.
+Analysis
+11
+Although the appellant has advanced some seven grounds for appeal, it is only proper for this Court to consider those which gave rise to the dissenting opinion among the members of the British Columbia Court of Appeal since the appellant never submitted an application for leave with respect to the other issues.
+The issues giving rise to dissent in the court below all relate to the admissibility of the derivative evidence, more specifically: (1) the testimony from Hall that the appellant told her he showed the police where the gun could be found; (2) evidence that police divers had found the gun in the river; (3) testimony from Everett Biddlecome (a witness) and the lawful owner of the gun (James Lewis) identifying the murder weapon at trial; and (4) the gun itself.
+The admissibility of these pieces of evidence is contingent upon the resolution of the legal questions at issue in this appeal:
+namely (1) was the accused denied his right to counsel under s. 10(b) of the Charter;
+and (2) if so, what consequences flow from that violation?
+(i)
+Was there a denial of the accused's right to counsel?
+12
+Section 10(b) of the Charter guarantees an accused the right, upon arrest and detention, to retain and instruct counsel without delay and to be informed of that right.
+This Court has consistently given a broad interpretation to s. 10(b).
+In the case at bar, there were several ways in which the appellant's right to counsel was denied.
+13
+First, the police continually questioned him despite his repeated statements that he would say nothing absent consultation with his lawyer.
+Section 10(b) requires, barring urgent circumstances, that the police refrain from attempting to elicit incriminatory evidence once a detainee has asserted his or her right to counsel:
+R. v. Prosper, [1994] 3 S.C.R. 236; R. v. Matheson, [1994] 3 S.C.R. 328; R. v. Brydges, [1990] 1 S.C.R. 190.
+14
+Second, s. 10(b) specifically prohibits the police, as they did in this case, from belittling an accused's lawyer with the express goal or effect of undermining the accused's confidence in and relationship with defence counsel.
+It makes no sense for s. 10(b) of the Charter to provide for the right to retain and instruct counsel if law enforcement authorities are able to undermine either an accused's confidence in his or her lawyer or the solicitor-client relationship.
+15
+Third, the improper conduct by the police regarding the plea bargain also amounted to an infringement of s. 10(b).
+On this issue, I would affirm the conclusion of Toy J. at trial and McEachern C.J. on appeal that s. 10(b) was violated when the officers pressured the appellant into accepting the "deal" without first having the opportunity to consult with his lawyer.
+16
+An argument could be made that, at the moment the plea bargain was offered, no s. 10(b) violation arose since the accused had an opportunity to call a lawyer, albeit not his particular lawyer, whom the police knew to be unavailable for the one night the offer was left open.
+However, I am not persuaded by such an argument.
+Allowing the appellant to call a random lawyer is, given the seriousness of the situation he faced and the circumstances of this case, insufficient for the officers to discharge their responsibilities under s. 10(b).
+This is especially so when the call to this unknown lawyer is placed within the context of the general trickery and subterfuge used by the police in arranging matters so that the appellant himself had to decide on the plea in the absence of his own counsel.
+Although it is clear that s. 10(b) does not guarantee an accused the right to the counsel of his or her choice at all times, in a situation such as the appellant's I believe that either the offer should have been made at a point in time when the accused's lawyer (who was entirely familiar with the facts of his case) was available or the police should have kept it open to a point in time when the accused's counsel would reasonably be considered to be available.
+17
+In this conclusion I agree with the following passage from McEachern C.J.'s dissent in the court below at pp. 367-68:
+The s. 10 Charter rights of detained persons who have elected to exercise their constitutional rights to retain and instruct counsel would be seriously compromised if police officers having complete control over such persons, should seek...
+directly or indirectly, to disregard or act contrary to the advice they have received.
+. . .
+Even more serious, in my view, was the police insistence that the accused make a decision that very evening when the police knew the lawyer for the accused was not available.
+This is worse than the "unfair trick" described in R. v. Hebert . . .
+, [1990] 2 S.C.R. 151, [at p. 158]....
+There was no urgency, and the police could well have waited over the weekend when the matter could have been discussed with counsel for the accused.
+Their failure to do so constituted a clear denial of the accused's s. 10(b) Charter right to retain and instruct counsel.
+18
+When, at first, the appellant refused to accept the deal without consulting with a lawyer, the officers resumed their attempts to discourage the appellant from meeting with his lawyer by observing that the appellant's lawyer was taking the weekend off, by stressing that any delays in accepting the deal would prove painful for the appellant's family, and by underscoring that the deal was being offered for that night only.
+The end result of this badgering was that the accused did not understand the full content of his right to counsel.
+When it is evident that there is such a misunderstanding, the police cannot rely on a mechanical recitation of the right to counsel in order to discharge their responsibilities under s. 10(b):
+R. v. Evans, [1991] 1 S.C.R. 869, at p. 891.
+They must take positive steps to facilitate that understanding.
+In the case at bar, not only did the police fail to take affirmative steps to clear up the appellant's confusion, but they also in fact created this confusion in the first place.
+19
+The following excerpt from the decision of Toy J. indicates the extent to which the appellant did not understand the meaning of the right to counsel:
+In his testimony the accused was asked why, in light of the two lawyers' advice not to speak to the police, he had done so and he replied, "I was under the impression that if I cooperated with the police I'd face a lesser charge and I DIDN'T NEED A LAWYER."
+In my judgment this impression is totally justifiable when one reads the transcript of the denigrating way the police officers referred to the accused's then lawyer.
+[Emphasis in original.]
+It is thus apparent from the transcripts that the accused would not have made the deal with police if it were not for the concerted effort by the police to convince the accused not to consult with his counsel.
+20
+I underscore that, in Evans, supra, at pp. 886-87 and 893, McLachlin J. held that the police have the duty to advise a suspect of the right to counsel where there is a fundamental and discrete change in the purpose of an investigation which involves a different and unrelated offence or a significantly more serious offence than that contemplated at the time of the original instruction of the right to counsel.
+Such a situation arose in the case at bar.
+The deal offered by the police involved a different offence and was of such material importance to the appellant that it constituted a fundamental change in the course of his prosecution.
+For the reasons discussed earlier, a genuine effort should have been made to contact the accused's own lawyer.
+21
+Furthermore, I conclude that s. 10(b) mandates the Crown or police, whenever offering a plea bargain, to tender that offer either to accused's counsel or to the accused while in the presence of his or her counsel, unless the accused has expressly waived the right to counsel.
+It is consequently a constitutional infringement to place such an offer directly to an accused, especially (as in the present appeal) when the police coercively leave it open only for the short period of time during which they know defence counsel to be unavailable.
+In the case at bar, the police should have negotiated the "deal" with the appellant's counsel or, at a minimum, with the appellant while accompanied by his lawyer.
+22
+I emphasize that, in the case at bar, there was no urgency to the matter.
+Mere expediency or efficiency is not sufficient to create enough "urgency" to permit a s. 10(b) breach:
+Prosper, supra.
+Neither the precipitous issuing of the plea bargain by the police nor their conscious undermining of the accused's relationship with his counsel can be justified on the basis that such conduct allegedly facilitated the investigatory process.
+23
+In closing, given the appellant's success on the other questions he raises, I need not deal with his submission that the breach by the Crown of the plea bargain deal also triggered constitutional violations.
+However, I should mention that, to the extent that the plea bargain is an integral element of the Canadian criminal process, the Crown and its officers engaged in the plea bargaining process must act honourably and forthrightly.
+(ii)
+What is the just and appropriate remedy?
+24
+Having found a serious Charter violation, I now turn to the question of the appropriate remedy.
+I see no reason to interfere with the lower courts' conclusion that it is inappropriate to stay these proceedings.
+Stays should only be limited to the "clearest of cases" and, despite the exhortations of appellant's counsel to the contrary, this is not such a case:
+R. v. Power, [1994] 1 S.C.R. 601.
+After all, a judicial stay is "the most drastic of remedies":
+R. v. L. (W.K.), [1989] B.C.J. No. 1700 (C.A.) (QL), aff'd [1991] 1 S.C.R. 1091.
+Therefore, given the inappropriateness of staying these proceedings on account of the s. 10(b) violation, the fundamental question that must be addressed is whether s. 24(2) of the Charter can operate to exclude any or all of the derivative evidence that had been admitted at trial.
+25
+Section 24(2) provides that when evidence is obtained in a manner that infringes an accused's Charter rights, this evidence shall be excluded from the trial process if it is established that, having regard to all of the circumstances, the admission of such evidence would bring the administration of justice into disrepute.
+The approach to be employed in interpreting the content of "bringing the administration of justice into disrepute" was outlined by the Court in R. v. Collins, [1987] 1 S.C.R. 265.
+It is commonly recognized that the Collins decision established a test to gauge whether the impugned evidence ought to be admitted or excluded.
+The purpose of this test is to oblige law enforcement authorities to respect the exigencies of the Charter and to preclude improperly obtained evidence from being admitted to the trial process when it impinges upon the fairness of the trial.
+26
+I note that, at the time of trial, the Collins decision had not yet been rendered.
+The trial judge had consequently governed himself by the determinative authority in British Columbia at the time, R. v. Gladstone (1985), 22 C.C.C. (3d) 151 (B.C.C.A.), which adopted a narrower interpretation of s. 24(2) than that currently applicable.
+As early as R. v. Jacoy, [1988] 2 S.C.R. 548, at p. 558, this Court decided that Gladstone had been overtaken by more recent Supreme Court jurisprudence, most notably Collins.
+Owing to the application of the "in the system rule" (R. v. Wigman, [1987] 1 S.C.R. 246) the appellant is entitled to the benefit of the Collins test in terms of the disposition of his appeal.
+27
+When the Collins test is applied to the facts at bar, I find, as did McEachern C.J. in dissent below, that all of the derivative evidence ought to be excluded.
+28
+In Collins, supra, at pp. 283-85, Lamer J. (as he then was) set forth a number of criteria to be examined in determining whether the admission of evidence obtained in violation of a Charter right would tend to bring the administration of justice into disrepute.
+In a subsequent decision, Jacoy, supra, Lamer J. then explicitly grouped these factors into three categories: (1) those affecting the fairness of the trial; (2) those relating to the seriousness of the violation; and (3) those relating to the effect on the reputation of the administration of justice of excluding the evidence.
+It appears that, when the s. 24(2) analysis was first developed by this Court in Collins, the impact of the evidence on the fairness of the trial was determined to be the most important consideration under s. 24(2) in terms of triggering the exclusionary effect of the Charter remedy.
+In Collins, supra, at p. 284, Lamer J. held:
+If the admission of the evidence in some way affects the fairness of the trial, then the admission of the evidence would tend to bring the administration of justice into disrepute and, subject to a consideration of the other factors, the evidence generally should be excluded.
+[Emphasis in original.]
+29
+In Collins, supra, at pp. 284-85, Lamer J. also noted that self-incriminatory evidence obtained as a result of a Charter breach (i.e., evidence where the accused is conscripted against him- or herself through a confession or other evidence emanating from him or her) will generally go to the fairness of the trial and should generally be excluded.
+It was expressly held that such evidence will generally arise in the context of an infringement of the right to counsel.
+For more recent cases on this point, see R. v. Broyles, [1991] 3 S.C.R. 595; R. v. Hebert, [1990] 2 S.C.R. 151; R. v. Elshaw, [1991] 3 S.C.R. 24.
+Trial unfairness strikes at the heart of the reputation of the administration of justice:
+Hebert, supra, at pp. 207-8;
+see also J. Sopinka, S. N. Lederman and A. W. Bryant, The Law of Evidence in Canada (1992), at p. 407, "[o]nce impugned evidence has been found to come within the trial fairness rationale, exclusion is virtually certain to follow".
+30
+On the other hand, Lamer J. noted that the admission of real evidence obtained in a manner that violates the Charter will rarely operate unfairly for that reason alone.
+This conclusion militates against the exclusion of the gun in the case at bar.
+However, I find that, in jurisprudence subsequent to Collins, this Court has consistently shied away from the differential treatment of real evidence.
+For example, in R. v. Ross, [1989] 1 S.C.R. 3, at p. 16, Lamer J. emphasized that the admissibility of evidence under s. 24(2) depended ultimately not on its nature as real or testimonial, but on whether or not it would only have been found with the compelled assistance of the accused:
+...
+the use of any evidence that could not have been obtained but for the participation of the accused in the construction of the evidence for the purposes of the trial would tend to render the trial process unfair.
+[Emphasis added.]
+These comments are apposite to the case at bar.
+Further, I draw attention to the conclusions of La Forest J. in R. v. Colarusso, [1994] 1 S.C.R. 20, at p. 74, where it was noted that the mere fact that impugned evidence is classified as either real or conscriptive should not in and of itself be determinative.
+31
+The exclusion of real evidence was specifically dealt with in the decision of this Court in R. v. Mellenthin, [1992] 3 S.C.R. 615.
+The Mellenthin case involved the exclusion of drugs found in a car at a random roadside breathalyser checkstop.
+Cory J. reiterated the distinction between "independently existing evidence that could have been found without compelled testimony" and "independently existing evidence that would have been found without compelled testimony" (emphasis in original) established by La Forest J. in Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425, at p. 555.
+The admission of evidence that simply "could have otherwise been found" will have a higher chance of affecting the fairness of the trial.
+In Mellenthin, the admission into evidence of the drugs -- despite their status as real evidence -- would have certainly affected the trial's fairness because they would not have been found without the improper conduct.
+The drugs were consequently deemed inadmissible.
+32
+I conclude my review of the pertinent jurisprudence with the recent decision of R. v. S. (R.J.), [1995] 1 S.C.R. 451.
+In that case it was recognized that, despite the fact that theoretically the onus rests on the accused to show that the impugned evidence would not have been found but for the unconstitutional conduct, in practice the burden will often fall on the Crown as it possesses superior knowledge.
+It was held at p. 553 that the "but-for" test will be met by the Crown when it satisfies the court on a balance of probabilities that the law enforcement authorities would have discovered the impugned derivative evidence regardless of the information arising from the unconstitutional conduct.
+33
+I now turn to the application of this jurisprudence to the case at bar.
+At the outset, I note that my colleague, Justice L'Heureux-Dube, concludes that it is the Hall testimony that constitutes the crux of this appeal.
+My colleague first decides to determine the admissibility of Hall's testimony and, deeming it to be in fact admissible, then goes on to hold that the admission of the gun and the fact of finding the gun would not bring the administration of justice into disrepute.
+With respect, I find this approach to be inverted.
+It is the gun and the fact of finding it that stand at the heart of this appeal.
+This is the key derivative evidence.
+To this end, the application of s. 24(2) should first concern itself with the gun and its finding, then Biddlecome's and Lewis' identification of it at trial, and thereafter the Hall testimony.
+34
+I suggest that it is appropriate to commence the consideration of what evidence should or should not be excluded from the trial process with the evidence obtained most proximate to the Charter breach and then work towards evidence arising more remotely therefrom.
+Since the trial judge deemed appellant's confession to be inadmissible, the contested evidence most proximate to the breach is the finding of the gun.
+As shall become evident, this gun would never have been found were it not for the unconstitutional conduct by the police officers.
+In any event, in terms of formulating this analysis, it must be kept in mind that there may be times (as in this case) where more remote evidence might not be admitted if its admission would have the same effect as admitting the most proximate evidence.
+35
+As mentioned earlier, I find that the derivative real evidence, the gun, would not have been found but for the information improperly obtained through the s. 10(b) breach.
+The question is not even whether such evidence would, on a balance of probabilities, have otherwise been located.
+The gun was at the bottom of the frozen Kootenay River and the only person who knew of its location was the appellant.
+In this regard, this case can be sharply distinguished from R. v. Black, [1989] 2 S.C.R. 138.
+In Black, after the occurrence of a s. 10(b) violation, an accused helped the police identify a particular knife as the murder weapon.
+Wilson J. admitted this piece of real evidence, noting at p. 164 that she had "little doubt that the police would have conducted a search of the appellant's apartment with or without her assistance and that such a search would have uncovered the knife".
+Consequently, the position that the trial judge's discretion should, in the preponderance of cases, be exercised in favour of exclusion with respect to derivative evidence which would not have been obtained but for a witness's testimony is, in fact, consonant with Black.
+36
+On a policy level, if the appellant's gestures and directions arising from the s. 10(b) violation are inadmissible yet real evidence obtained pursuant to these directions is admissible, this Court might create an incentive for law enforcement agents to disregard accused's Charter rights since, even in the case of an infringement of Charter rights, the end result might be the admission of evidence that, ordinarily, the state would not be able to locate.
+37
+I also share McEachern C.J.'s view that the appellant's statement to Hall that he had directed the police to the location of the gun can be classified as derivative evidence.
+It is true, as Cumming J.A. points out in his concurring majority opinion below, that the appellant made this statement voluntarily and that Hall was not a person in authority.
+However, even though the statement may not have been "caused" directly by the breach, it was certainly made as a result of that breach.
+The statements to Hall flowed from the appellant's understandably confused state of mind stemming from the s. 10(b) violations and the critical decisions he had made in the absence of counsel.
+The appellant was still under the erroneous impression that the "deal" was on.
+The statement was made the morning after the appellant had been unconstitutionally conscripted to provide evidence against himself.
+He had never been properly informed of his right to counsel and it cannot be said with any degree of conviction that he would have made the same statement to Hall had he been duly advised of his constitutional rights.
+In fact, he would have had nothing to say to Hall had he not been improperly conscripted to provide evidence against himself by the police in the first place.
+For this reason, the rights violation had much more than, as characterized by L'Heureux-Dube J., simply an incidental effect on the making of the impugned statement.
+38
+I note that my colleague describes these statements as a "windfall" to the Crown.
+Such a description, in my view, overlooks the fact that the content of the appellant's conversation with Hall is inextricably connected to the conduct of the police, found to violate s. 10(b).
+These self-incriminatory statements amount to evidence that could not have been obtained but for the unconstitutional manner in which the accused was tricked into participating in the construction of the evidence for the purposes of his trial.
+Given that no satisfactory indication has been given that, on a balance of probabilities, this evidence would have been found regardless of the unconstitutionally obtained information, it is to be excluded under s. 24(2):
+R. v. Ross, supra; R. v. S. (R.J.), supra.
+39
+The rationale behind the exclusion of evidence lying in close proximity with the Charter breach stems from the fact that, in the case at bar, such evidence, if tendered at trial, detracts from the integrity of the trial and thereby infringes both the fairness principle and reliability principle evoked by L'Heureux-Dube J. in her reasons in the instant appeal.
+There is an overlap between these two principles in so far as unconstitutionally obtained information may well constitute unreliable evidence, especially when the particular constitutional right that has been breached is the right to counsel.
+In any event, even if the improperly obtained evidence were reliable, considerations of reliability are no longer determinative given that the Charter has made the rights of the individual and the fairness and integrity of the judicial system paramount:
+Hebert, supra, at p. 178.
+40
+It is now necessary to focus more directly on the issues of proximity and remoteness.
+In this regard, the decision of this Court in R. v. Strachan, [1988] 2 S.C.R. 980, at pp. 1005- 6, is helpful to this analysis.
+41
+Strachan concerned the admissibility of evidence (marijuana) obtained as a result of a valid search during which the accused's right to counsel was violated.
+Dickson C.J. made it clear that a strict causal analysis is not necessary in a s. 24(2) analysis and that the presence of a temporal connection is not determinative.
+He stated at pp. 1005- 6:
+In my view, all of the pitfalls of causation may be avoided by adopting an approach that focuses on the entire chain of events during which the Charter violation occurred and the evidence was obtained....
+A temporal link between the infringement of the Charter and the discovery of the evidence figures prominently in this assessment, particularly where the Charter violation and the discovery of the evidence occur in the course of a single transaction....
+[However] [t]here can be no hard and fast rule for determining when evidence obtained following the infringement of a Charter right becomes too remote.
+42
+Seen in light of Dickson C.J.'s comments in Strachan, it appears that the problem with Cumming J.A.'s reasoning with respect to the statement to Hall is that he fails to recognize the important connection between the content of the statement and the s. 10(b) violation.
+The fact is that the Crown sought to introduce the statement at trial precisely because it allowed it to do indirectly what the trial judge had ruled the Crown could not do directly: introduce evidence that the appellant knew where the gun was hidden.
+In this regard, the inclusion of the statement to Hall would directly affect the fairness of the trial, which is a key consideration in affecting the repute of the justice system, despite the fact that the statement was but remotely connected to the unconstitutional conduct.
+In effect, excluding the gun while including the statements effectively eviscerates the Charter of most of its protective value to the accused in this case;
+including both would totally eliminate any such value.
+At this point, it is important to recall the observation by Lamer C.J. in R. v. Bartle, [1994] 3 S.C.R. 173, in which the opinion was expressed at pp. 208-9 that:
+Generally speaking, so long as it is not too remotely connected with the violation, all the evidence obtained as part of the "chain of events" involving the Charter breach will fall within the scope of s. 24(2). . . .
+See also R. v. Grant, [1993] 3 S.C.R. 223, per Sopinka J.
+43
+Returning to the question of the self-incriminatory nature of the evidence and its effect on the fairness of the trial, I agree entirely with McEachern C.J.'s reasons when he states at p. 377:
+In my view, however, this was highly damaging evidence because even if the circumstances of finding the gun, and the gun itself were admissible, the statement to Ms. Hall was the only evidence that fixed the accused with knowledge that the gun was in the river.
+This fact tended to connect the accused more closely with the crime and could give rise to an inference of consciousness of guilt on the part of the accused.
+If, as I believe, the finding of the gun and the gun itself was inadmissible, this statement was the only evidence that proved the gun was even in a river, and that would make an inference of consciousness of guilt even stronger....
+In this connection, it is significant that the accused did not know that his s. 10(b) Charter rights had been violated at the time he made the first statement to Ms. Hall, or that the Crown would be reneging on its agreement with him.
+More important is the fact that the statement was so closely related both in time and content to the breach.
+44
+Furthermore, I note that in two recent decisions this Court has concluded that, in cases of including evidence flowing from a s. 10(b) violation, the onus lies upon the Crown to demonstrate on a balance of probabilities that, regarding the unfairness of the trial component of the test under s. 24(2), the accused would not have consulted counsel even if properly advised:
+Bartle, supra; R. v. Pozniak, [1994] 3 S.C.R. 310.
+The Crown has clearly not met this burden, or even the less onerous requirements stipulated in earlier jurisprudence.
+45
+Moreover, the serious nature of the Charter breach in this case also supports the conclusion that the administration of justice would be brought into disrepute by the admission of the evidence.
+In Collins, supra, at p. 285, Lamer J. quoted from Le Dain J. in R. v. Therens, [1985] 1 S.C.R. 613, at p. 652:
+The relative seriousness of the constitutional violation has been assessed in the light of whether it was committed in good faith, or was inadvertent or of a merely technical nature, or whether it was deliberate, wilful or flagrant.
+46
+In this case, it is clear that the violation was wilful and flagrant.
+It is also clear, as discussed earlier, that there was no element of urgency.
+Indeed, as McEachern C.J. notes, the police actually created an artificial situation of urgency in order to trick the accused into accepting the deal without first consulting a lawyer.
+47
+As to the third branch of the Collins test, I am satisfied that the effect of excluding the evidence on the reputation of the administration of justice will be incidental and far outweighed by the negative consequences that would follow were this unconstitutional evidence to be included.
+I realize that the appellant stands accused of a serious offence.
+However, as shall become evident in my disposition of this matter, the end result of allowing this appeal is not the issuance of a stay, but the ordering of a new trial in which the accused will have to meet the lawful evidence adduced against him.
+All that is required is the holding of the constitutionally mandated fair trial that should have occurred in the first place, and would have occurred were it not for the misconduct of the law enforcement agents.
+48
+I also find the submission that the impugned evidence ought to be included since there is likely sufficient properly admissible evidence to convict the appellant to be unpersuasive.
+While it is undeniable that the Crown had a very strong case even without the impugned evidence, this Court has made it clear that the admission of self-incriminatory derivative evidence will generally affect the fairness of the trial and thereby bring the administration of justice into disrepute.
+In any event, I find the respondent's argument that the admission of the gun or the other derivative evidence did not play a central role in the trial to be irrelevant to s. 24(2).
+Although the effect of evidence at the trial may be relevant in a consideration of the third set of factors under Collins -- namely the effects of excluding the evidence on the reputation of the administration of justice, no framework has been established by the jurisprudence to consider the effect of including the evidence.
+Nor should such a framework be presently created.
+49
+In the case at bar, the nature of the Crown's argument in this regard is that, since the impugned evidence is not extremely probative or decisive given the plethora of other clearly admissible evidence inculpating the appellant, this somehow diminishes the fact that it was obtained pursuant to an egregious constitutional violation.
+Taken one step further, this argument leads to the anomalous result that the Crown, while arguing strenuously that the impugned evidence should not be excluded, supports this claim by contending that the evidence was, after all, not really that important in the context of the appellant's trial.
+50
+In response, I underscore that we should never lose sight of the fact that even a person accused of the most heinous crimes, and no matter the likelihood that he or she actually committed those crimes, is entitled to the full protection of the Charter.
+Short-cutting or short-circuiting those rights affects not only the accused, but also the entire reputation of the criminal justice system.
+It must be emphasized that the goals of preserving the integrity of the criminal justice system as well as promoting the decency of investigatory techniques are of fundamental importance in applying s. 24(2).
+51
+These goals operate independently of the type of crime for which the individual stands accused.
+I note that my colleague, L'Heureux-Dube J., suggests that the fact that the crime for which appellant is charged (first degree murder) is the most serious in Canada militates in favour of including the unconstitutionally obtained evidence.
+This contradicts the pronouncement of this Court in Collins in which Lamer J. held at p. 286:
+I hasten to add, however, that if the admission of the evidence would result in an unfair trial, the seriousness of the offence could not render that evidence admissible.
+52
+Given the seriousness of the Charter violations, I agree with McEachern C.J. that this is not a case where the curative effect of s. 686(1)(b)(iii) of the Criminal Code is appropriate since the admission of the unconstitutionally obtained evidence at trial amounted, in my mind, to a "substantial wrong" toward both the accused as well as the administration of justice:
+Elshaw, supra.
+After all, the improperly obtained evidence formed a critical component of the Crown's case and it cannot be said that there is no reasonable possibility that the verdict would have been different were this evidence to have been properly excluded at trial:
+R. v. Bevan, [1993] 2 S.C.R. 599.
+This is not a case that fits into the small exception mentioned in Elshaw, supra, at p. 46, where the curative provision could apply notwithstanding that evidence should have been excluded under s. 24(2).
+Unlike in R. v. Hodge (1993), 133 N.B.R. (2d) 240, where the curative provision was applied because the evidence excluded under s. 24(2) could not have factored very significantly in the conviction of the accused, I find that there was a reasonable possibility that the impugned evidence in this case (a murder weapon and evidence that the accused took the police to find that weapon) could have weighed significantly in his conviction.
+The trial judge's instruction to the jury reproduced by L'Heureux-Dube J. does not alter my view in this regard.
+53
+On a broader note, I am reluctant to open the door to the possibility that it shall become commonplace for an accused to prove a Charter breach sufficient to impugn the repute of the administration of justice and then have s. 686(1)(b)(iii) deny that person the opportunity to have a fair trial in which he or she shall face evidence obtained in a constitutional manner.
+Consideration should be given to limiting the Elshaw exception only to cases in which it can be shown beyond a reasonable doubt that the impugned evidence excluded under s. 24(2) in light of a Charter violation did not contribute at all to the original verdict.
+Focus is thus made on whether the unconstitutionally conscripted evidence in any way influenced the verdict.
+See David M. Tanovich, "Can the Improper Admission of Evidence Under the Charter Ever be Cured?"
+(1994), 32 C.R. (4th) 82.
+54
+I also note, in closing, that in John v. The Queen, [1985] 2 S.C.R. 476, this Court held that appellate courts should not retry cases to assess the worth of residual evidence after improperly adduced evidence has been extracted, given that appeal courts do not have the advantage of seeing the witnesses and were never intended to replace the triers of fact.
+It was noted in John that in cases were such situations arise, s. 686(1)(b)(iii) should not be invoked, but rather a new trial ought to be ordered.
+I find that, although the facts of John are different from those in the case at bar, the conclusions of law proposed by Estey and Lamer JJ. in that case are apposite to the present analysis.
+55
+Consequently, a new trial should be ordered in which the impugned evidence will not be admitted, namely: (1) the Hall testimony regarding the appellant's recounting of the events of the night of January 4, 1985; (2) evidence that police divers had found the gun in the river; (3) the Biddlecome and Lewis testimony identifying the murder weapon at trial; and (4) the gun itself.
+I add that, as was found at trial, the appellant's confession as well as his gestures and directions to the police with regard to the location of the gun are equally inadmissible.
+The Crown, if it chooses, can properly introduce the rest of the evidence it has adduced against the accused, including, as noted by McEachern C.J., the evidence of Biddlecome and Lewis that the accused had possession of a sawed off .
+410 shotgun shortly before the disappearance of Ms. Worms as well as Hall's testimony that the accused had told her he was actually present when Biddlecome had beaten and killed Ms. Worms.
+56
+Since preparing the above, I have had the benefit of reading the reasons of Sopinka J. regarding the manner in which the Court has been applying s. 24(2) of the Charter since the Collins decision.
+I concur with his reasons.
+C.
+Conclusion
+57
+I would allow the appeal, set aside the judgment of the British Columbia Court of Appeal, and, in lieu thereof, would order a new trial to be held consistent with these reasons.
+//L'Heureux-Dube J.//
+The following are the reasons delivered by
+58
+L'HEUREUX-DUBE J. (dissenting in part) -- I have read the reasons of my colleague Justice Iacobucci and I agree with him that the accused's rights under s. 10(b) of the Canadian Charter of Rights and Freedoms were clearly violated in the case at bar.
+I must respectfully disagree, however, with his proposed remedy under s. 24(2) of the Charter.
+In particular, I do not believe that the administration of justice would be brought into disrepute by the admission of the voluntary statements by the accused to his girlfriend or, under these unusual circumstances, by the admission of the murder weapon.
+At the outset, it is necessary to elaborate somewhat on the circumstances under which these two impugned pieces of evidence became available to the police, as well as the circumstances under which they were admitted at trial.
+I.
+Facts and Judgments
+59
+In October 16, 1984, 20-year-old Denean Worms was found dead in a gravel pit in Cranbrook, B.C.
+She was naked, and had been shot twice in the head at contact range by a .
+410 shotgun.
+Semen was found in her vagina.
+On December 30, 1984, also in Cranbrook, 16-year-old Brenda Hughes was found dead in her family house, murdered in a virtually identical manner.
+Terrence Burlingham was arrested on January 1, 1985 in connection with the murder of Brenda Hughes.
+He confessed that same day to the killing of Hughes and took the police to his parents' home where a sawed-off shotgun and some pellet shells were found.
+On the basis of the factual similarities between the murders of Worms and Hughes, the officers were convinced that the appellant was also responsible for the earlier death of Worms.
+Accordingly, they continued their interrogation of the appellant.
+60
+Following a lengthy and manipulative interrogation of the accused, during which the he repeatedly denied any involvement in the Worms murder, the police consulted on Friday, January 4 with Crown counsel, who authorized them to offer a "deal" to the accused.
+The Crown authorized the officers to say that the Crown would accept a guilty plea to a second degree murder charge in relation to the Worms murder if the appellant cooperated by providing them with information about the Worms murder, including the location of the weapon used.
+The officers, however, misled the appellant by indicating to him that if he cooperated, he would be charged with second degree murder.
+The accused continued to resist and to insist that he wished to speak to his lawyer.
+The officers repeatedly denigrated his lawyer and persevered in trying to convince him to accept the "deal", emphasizing that the deal was only open for the weekend.
+Finally, the accused called another lawyer, and asked that lawyer if he would act for him at trial.
+The lawyer assented and advised him not to say anything to the police.
+Immediately thereafter, however, the appellant took the two investigating officers to a bridge on the Kootenay River and pointed out where he had thrown the .
+410 shotgun that had been used to kill Worms.
+Later, he made several inculpatory statements and then drove with them to the gravel pit and pointed out the spot where he had shot his victim, as well as the location where he had hidden her body.
+61
+A day later, a .
+410 sawed-off shotgun was recovered from the river at the place which the appellant had indicated to police.
+That same day, the appellant volunteered to his girlfriend, Judy Hall, that he had shown police the location of the gun.
+In addition, in a visit approximately two months later, in the early spring of 1985, he told Hall that he had been present during the killing, but that it was his friend, Biddlecome, who had beaten and killed Worms.
+This story, however, was at least partly false because there was no physical evidence that Worms had been beaten.
+62
+At trial for the murder of Worms, notwithstanding that the appellant had delivered on his side of the "deal", the Crown nonetheless proceeded with a first degree murder charge.
+Although the trial judge did not find the authorities' failure to keep their side of the "deal" to amount to an abuse of process, he concluded that the police conduct constituted a serious violation of s. 10(b) of the Charter.
+I agree with my colleague's affirmation of this finding, as well as with his conclusion that s. 10(b) mandates that the Crown or police, when offering a plea bargain, must tender that offer either to the accused's counsel or to the accused while in the presence of his or her counsel, unless the accused has expressly waived the right to counsel.
+63
+As a result of finding the s. 10(b) violation, the trial judge excluded all of the accused's inculpatory statements to police, as well as the evidence that the accused had pointed the police to the murder weapon and to the site of the murder.
+Had this been the end of the story, then it follows that the Crown would not have been able to introduce into evidence the actual gun, or the evidence of Lewis' and Biddlecome's identifying that gun, unless the Crown were able to point to a sufficient nexus between the accused and the gun that would have made the gun relevant to the trial.
+Without such a nexus, the gun would just be a gun found in a river, and would not be probative of any material issue at trial.
+Unfortunately for the appellant, however, the story does not end here.
+Instead, the day after cooperating with the police, he volunteered to his girlfriend, Judy Hall, that he had indicated the location of the gun to the police.
+In a voir dire, the trial judge found this statement to be admissible at trial, and consequently found the fact of the finding of the gun, as well as the gun itself, to be admissible into evidence on the basis of that statement.
+64
+The appellant appealed to the British Columbia Court of Appeal on numerous grounds, including the correctness of the trial judge's ruling as to abuse of process, the admission into evidence of the accused's voluntary statement on January 5 to Hall, as well as the admission into evidence of the finding of the gun and the gun itself.
+Southin and Cumming JJ.A. dismissed the appellant's appeal.
+McEachern C.J., in dissent, would have excluded all of the derivative evidence flowing from the s. 10(b) violation on the basis that its admission would bring the administration of justice into disrepute.
+II.
+Analysis
+65
+My colleague would favour excluding this evidence under s. 24(2) on the basis that "but for" the s. 10(b) violation, the police clearly would not have found the murder weapon.
+He further concludes that the statement to Hall, though voluntary and not to a person in authority, and though not necessarily "caused" directly by the Charter breach, must nonetheless also be excluded under s. 24(2) because it was proximately connected to the Charter breach.
+With respect, I disagree.
+In order to explain the basis for my disagreement, however, it is necessary to re-examine the language, spirit and purpose of s. 24(2) of the Charter, as well as the approach to that section as originally set out in R. v. Collins, [1987] 1 S.C.R. 265, and elaborated upon in subsequent jurisprudence.
+1.
+Section 24(2) of the Charter
+66
+Section 24 of the Charter reads:
+24.
+(1)
+Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+(2)
+Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+Many, if not most, judicial guidelines to the purpose and interpretation of s. 24(2) of the Charter, and in particular the meaning of the phrase "bring the administration of justice into disrepute", originate in this Court's decision in Collins.
+It is to that decision that I therefore turn in order to revisit the first principles that underlie this section of our Charter, and to question whether the course that this Court has since steered in subsequent jurisprudence remains true to the language, spirit and purpose of s. 24(2).
+(i)
+The First Principles of Section 24(2) Set Down in R. v. Collins
+67
+In Collins, a police officer approached a suspect in a pub and seized her in a "throat hold" used to prevent individuals from swallowing drugs.
+At the same time, he directed her to let go of an object in her hand which turned out to be a balloon carrying heroin.
+Although the trial judge found that the officer did not have the requisite reasonable and probable grounds for the search, the evidence was nonetheless admitted under s. 24(2) and the accused was convicted.
+This Court found the trial judge's determination on the reasonableness of the search to be defective because the evidential basis for the officer's suspicion was not admitted as a result of a spurious objection by defence counsel.
+Lamer J. (as he then was), for the majority, then went on to examine whether the evidence should have been excluded under s. 24(2).
+68
+Lamer J. began his analysis of s. 24(2) by expressing general agreement, at p. 275, with the following principles governing the interpretation of s. 24(2), as summarized by Seaton J.A. in the British Columbia Court of Appeal:
+- It is not open to the courts in Canada to exclude evidence to discipline the police, but only to avoid having the administration of justice brought into disrepute.
+- It is the admission, not the obtaining, that is the focus of the attention under our s. 24(2), though the manner of obtaining the evidence is obviously one of the circumstances.
+- Evidence improperly obtained is prima facie admissible.
+The onus is on the person who wishes the evidence excluded to establish the further ingredient: that the admission of the evidence would bring the administration of justice into disrepute.
+- Section 24(2) does not confer a discretion on the judge but a duty to admit or exclude as a result of his finding.
+In what most would agree is the quintessential pronouncement on s. 24(2), Lamer J. then gave form and substance to several of these principles, at pp. 280-81:
+Misconduct by the police in the investigatory process often has some effect on the repute of the administration of justice, but s. 24(2) is not a remedy for police misconduct, requiring the exclusion of the evidence if, because of this misconduct, the administration of justice was brought into disrepute.
+Section 24(2) could well have been drafted in that way, but it was not.
+Rather, the drafters of the Charter decided to focus on the admission of the evidence in the proceedings, and the purpose of s. 24(2) is to prevent having the administration of justice brought into further disrepute [emphasis in original] by the admission of the evidence in the proceedings.
+This further disrepute will result from the admission of evidence that would deprive the accused of a fair hearing, or from judicial condonation of unacceptable conduct by the investigatory and prosecutorial agencies.
+It will also be necessary to consider any disrepute that may result from the exclusion of the evidence.
+It would be inconsistent with the purpose of s. 24(2) to exclude evidence if its exclusion would bring the administration of justice into greater disrepute than would its admission.
+Finally, it must be emphasized that even though the inquiry under s. 24(2) will necessarily focus on the specific prosecution, it is the long-term consequences of regular admission or exclusion of this type of evidence on the repute of the administration of justice which must be considered. . . .
+[Emphasis added.]
+This passage expanded upon what was meant by the phrase "bring the administration of justice into disrepute".
+More importantly, these remarks laid the rationale upon which Lamer J. discussed the three categories of factors that are relevant to determinations under s. 24(2) of the Charter.
+His concerns over the use of evidence that would deprive the accused of a fair hearing manifested themselves in the first category: "factors touching upon the fairness of the trial".
+His concerns over the judicial condonation of unacceptable conduct found expression through the second category: "factors touching upon the seriousness of the violation".
+Finally, his concerns over remaining true to the underlying purpose of s. 24(2) of the Charter found form in the third category: "factors governing the effect of excluding the evidence".
+69
+Lamer J. then noted that the fairness of trials is both a constitutionally protected right and a major source of repute of the judicial system.
+He therefore concluded that where the admission of the evidence would result in an unfair trial, then the admission of the evidence would tend to bring the administration of justice into disrepute.
+In my view, this conclusion, as well as the three categories of factors outlined in Collins, is completely consistent with s. 24(2)'s purpose of maintaining the integrity of the judicial system.
+70
+Another significant aspect of the approach set out in Collins, was the fact that the threshold for exclusion under s. 24(2) was intentionally set lower than the pre- Charter "community shock test" set out in Rothman v. The Queen, [1981] 1 S.C.R. 640.
+Although Lamer J. justified this lower threshold in part on the fact that violations of the Constitution should be subject to greater scrutiny than "dirty tricks" under the common law, he expounded in some detail upon a second rationale which bears recalling.
+Namely, he observed that while both the English text of s. 24(2) and the language used by this Court in Rothman use the words "would bring the administration of justice into disrepute", the French version of s. 24(2) provides that evidence shall be excluded that "could bring the administration of justice into disrepute".
+He then chose the French text as the version that was more suited to protecting the right of the accused to a fair trial.
+Consequently, the origins of the Collins test, as well as the availability of a remedy in s. 24(2), is actually tied to the French text rather than to the English text.
+Evidence shall be excluded under s. 24(2) whenever its admission could bring the administration of justice into disrepute.
+I will return to this matter later, for it is significant when considering the interaction between s. 24(2) of the Charter and the curative proviso in s. 686(1)(b)(iii) of the Criminal Code, R.S.C., 1985, c. C-46.
+71
+Most significant of all, however, Lamer J. drew upon (at p. 282) Professor Yves- Marie Morissette's influential article "The Exclusion of Evidence under the Canadian Charter of Rights and Freedoms: What to Do and What Not to Do" (1984), 29 McGill L.J. 521, to characterize the determination that lies at the heart of s. 24(2):
+"Would the admission of the evidence bring the administration of justice into disrepute in the eyes of the reasonable man, dispassionate and fully apprised of the circumstances of the case?"
+The reasonable person is usually the average person in the community, but only when that community's current mood is reasonable.
+It is manifestly clear that s. 24(2) was not to be apprised according to the views of the reasonable lawyer, but simply according to the reasonable person, so long as he was "dispassionate and fully informed of the circumstances".
+This standard sets the ideal towards which all applications of s. 24(2) must strive.
+72
+The remedial role of s. 24(2) is very different from the rights and freedoms set down elsewhere in the Charter.
+The Charter imposes upon Canadian courts the duty to preserve and protect the rights of the individual as guaranteed in the Charter.
+These rights find their most unequivocal vindication through s. 24(1) of the Charter and s. 52(1) of the Constitution Act, 1982.
+Notably, however, our Constitution addresses the exclusion of evidence with particularity, and entrenches in s. 24(2) a quintessentially Canadian compromise.
+Section 24(2) confers directly upon courts the responsibility to preserve and protect the integrity and repute of the judicial system.
+The vindication of rights, though important, is ultimately only one factor to be considered in a more complex constitutional equation.
+Though there will be many occasions when the courts' duties under s. 24(2) complement the courts' responsibility to give the fullest possible effect to the individual rights and freedoms guaranteed under the Charter, there may be other occasions when these two duties conflict.
+On those occasions, s. 24(2) makes it clear that the courts' primary concern must lie in maintaining the integrity and legitimacy of the judicial system in the eyes of the Canadian community, assuming that community to be reasonable, dispassionate, and fully apprised of the circumstances.
+Section 24(2) serves to ensure that, in the application and enforcement of our laws, our constitutional values neither run too far ahead nor lag too far behind our basic values as a society.
+One of its purposes is therefore to ensure that the institution charged with upholding those fundamental values does not lose legitimacy in the eyes of those whose values it is entrusted to protect.
+73
+Given the role of s. 24(2) of the Charter, it is just as important that we remain faithful to the spirit and purpose of this remedial provision as it is to remain consistent with the purpose of the individual rights and freedoms guaranteed within the Charter.
+Although the balance can sometimes be a difficult one, it is not one which the court can avoid.
+Academic commentary such as that of Professor David M. Paciocco, in "The Judicial Repeal of s. 24(2) and the Development of the Canadian Exclusionary Rule" (1990), 32 Crim. L.Q. 326, at pp. 341-43, suggests that this Court's evolving jurisprudence on s. 24(2) has failed to effect this balance, and has therefore been unfaithful to its constitutional mandate under that section:
+As a matter of construction, s. 24(2) decidedly focuses on the ...
+imperative of judicial integrity, the maintenance of popular trust in the judicial branch of government.
+The phrase states that the concern is with whether the admission of the evidence would bring the administration of justice into disrepute.
+Disrepute has to do with reputation and reputation has to do with what others think of you, not with what standards you would like to emulate.
+If one was to boil all of this down into simple terms and to appreciate it in its historical context, one would be driven to conclude that the framers of the Charter were attempting to fashion a cautious exclusionary rule where evidence would be refused only in relatively extreme cases;
+after all, there were no signs at the time that s. 24(2) was drafted that the administration of justice was suffering disrepute as a result of a long-standing position that the method of obtainment was irrelevant to the admissibility of probative evidence.
+Despite this, the Supreme Court of Canada has fashioned what has proved, in at least a wide spectrum of cases, to be an extremely aggressive exclusionary remedy.
+It set the stage for doing so by leaving the partially implicit but unmistakable message that s. 24(2) should be understood as though it was intended to preserve judicial integrity, regardless of the impact of exclusion on the reputation of the judicial branch.
+...
+In essence, all of this means that judges in applying s. 24(2) of the Charter have a luxury that is not available elsewhere;
+they themselves get to define what conduct of theirs will bring them into disrepute.
+In so holding the court has done more than a little violence to the concept of disrepute.
+[Emphasis by underlining added.]
+74
+I note, as well, the findings of carefully conducted surveys which suggest that, although the Canadian public shares this Court's views as to what factors are important in the exclusion of evidence under s. 24(2), there is a material gap between public opinion and this Court regarding how those factors would be applied:
+see A. W. Bryant, M. Gold, H. M. Stevenson and D. Northrup, "Public Attitudes Toward the Exclusion of Evidence: Section 24(2) of the Canadian Charter of Rights and Freedoms" (1990), 69 Can. Bar Rev. 1, and "Public Support for the Exclusion of Unconstitutionally Obtained Evidence" (1990), 1 S.C.L.R. (2d) 555.
+On one hand, I am in basic agreement with the concern expressed in Collins, at p. 282, that "[t]he Charter is designed to protect the accused from the majority, so the enforcement of the Charter must not be left to that majority".
+I am also sensitive to the fact that public opinion surveys, no matter how carefully culled, are rarely without their weaknesses.
+On the other hand, however, given that the express purpose of s. 24(2) is to maintain the repute of the justice system, I believe that we also cannot dismiss them completely out of hand.
+A periodic "reality check" is both healthy and necessary in order to ensure that the discretion to exclude evidence under s. 24(2) is exercised in conformity with long-term community values.
+75
+Let me start by first acknowledging that the road upon which this Court originally embarked was the right one.
+In particular, returning to the first principles outlined in Collins, I believe that the "reasonable person, dispassionate and fully apprised of the circumstances" would most generally agree that the administration of justice tends to be brought into disrepute when the fairness of the hearing may be undermined by the admission of unconstitutionally obtained evidence.
+This hypothetical person would also agree that, in certain cases, the conduct of the police or of the Crown may be so unacceptable that admission of evidence obtained in such a manner would tend to bring the administration of justice into disrepute.
+Finally, this person would agree that, notwithstanding these two considerations, there may still be exceptional situations in which the exclusion of the impugned evidence would bring the administration of justice into greater disrepute than its inclusion.
+As such, I believe that the "reasonable person" would approve of the three criteria set out by this Court in Collins.
+In my respectful opinion, however, the hypothetical "reasonable person" would then point to the fork in the road which has ultimately led this Court to misapply s. 24(2) -- our approach to "factors governing the fairness of the trial".
+(ii)
+The Fairness of the "Trial"
+76
+It is interesting to note, at the outset, that when Lamer J. originally set out in Collins, at p. 281, the considerations that should animate the interpretation of s. 24(2) of the Charter, he spoke of the fairness of the hearing.
+At page 284, however, he directed his remarks not to the fairness of the hearing, but to the fairness of the trial:
+The trial is a key part of the administration of justice, and the fairness of Canadian trials is a major source of the repute of the system and is now a right guaranteed by s. 11(d) of the Charter.
+If the admission of the evidence in some way affects the fairness of the trial, then the admission of the evidence would tend to bring the administration of justice into disrepute and, subject to consideration of the other factors, the evidence generally should be excluded.
+[Emphasis in original.]
+He then went on to distinguish between the admission of evidence that was real and that which was self-incriminatory.
+In his opinion, where an accused is conscripted against him- or herself to provide a confession or other evidence emanating from the accused, then such evidence would by definition generally affect "the very fairness of the trial", since it did not exist prior to the violation and since it strikes at one of the fundamental tenets of a fair trial, the right against self-incrimination.
+At that time, Le Dain J. wrote concurring reasons in Collins, sounding a cautionary note regarding the role of "trial fairness" in the s. 24(2) analysis.
+In my respectful view, the passage of time has borne out his concerns.
+The grouping of too many factors under the rubric of "trial fairness", the encroachment of which we are told must almost inevitably lead to exclusion of the evidence, has led this Court to depart from the first principles and underlying purposes animating s. 24(2) of the Charter.
+77
+This deviation has become more evident over time.
+We now know that any evidence that could not have been obtained "but for" the participation of the accused is classified as self-incriminatory in nature, and is therefore decreed to affect the fairness of the trial, and thereby most likely to require exclusion due to an application of the first branch of the Collins test:
+R. v. Ross, [1989] 1 S.C.R. 3, at p. 16.
+This has come to be known in many circles as the discoverability doctrine.
+Thus, in a very significant number of cases, the multi-facetted Collins framework has been subsumed within its first branch.
+78
+I believe this subtle yet significant expansion of the first branch of the Collins test to have come about as a result of an equally subtle shift in terminology.
+This Court went from speaking of the repute of the justice system being affected in terms of possible unfairness of the hearing (Collins, at p. 281), to being affected in terms of unfairness of the trial (Collins, at p. 284), to being affected in terms of unfairness of the trial process.
+See, e.g., R. v. Ross; Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425, per La Forest J.; R. v. Mellenthin, [1992] 3 S.C.R. 615; R. v. Prosper, [1994] 3 S.C.R 236, per Lamer C.J.
+I believe Iacobucci J.'s approach in the present case to take the definition of "trial unfairness" even one step further than ever before, moreover, by concluding as a matter of law that the "fairness of the trial" is adversely affected as a result of a "proximate connection" between the impugned evidence (i.e., the accused's voluntary statements to his girlfriend) and the s. 10(b) Charter violation.
+Each time the terminology has changed, it has expanded the scope of the first branch of the Collins analysis, and thereby increased the likelihood that virtually absolute exclusionary consequences will follow from a s. 24(2) analysis.
+79
+The paradigmatic shift that has resulted in the adoption of the "but for" approach to s. 24(2) has most dramatic implications.
+Its magnitude is perhaps most fully appreciated by returning once again to the proverbial grandfather of s. 24(2) jurisprudence.
+In Collins, the majority of the Court elaborated its three-part framework in the context of an unconstitutional search of a bar patron, which resulted in the finding of a balloon of heroin clenched in her hand.
+In determining whether the heroin obtained in the illegal search should be excluded under s. 24(2), its application of the first set of factors, concerning the fairness of the trial, is most informative (at p. 288):
+The evidence obtained as a result of the search was real evidence and, while prejudicial to the accused as evidence tendered by the Crown usually is, there is nothing to suggest that its use at the trial would render the trial unfair.
+[Emphasis added.]
+The heroin was excluded on the basis of the second branch of the Collins test, since the violation was both flagrant and serious, and since it was unacceptable conduct for police to take flying tackles at people, seizing them by the throat, if they did not have reasonable and probable grounds to believe that these people were dangerous or handlers of drugs.
+For the Court to signal its condonation of the officer's acts by nonetheless admitting the evidence could bring the administration of justice into greater disrepute than if the evidence were to be excluded and the accused were subsequently acquitted.
+Given that the officer had not had the opportunity to explain the basis for his search, however, a new trial was ordered, at which time the reasonable and probable grounds for the search could be properly ascertained.
+80
+By contrast, only five years later, in Mellenthin, this Court excluded under s. 24(2) drugs found by an officer pursuant to a search of a car at a random roadside sobriety check.
+Cory J. found the drugs to have been discovered as a result of an unconstitutional search and concluded that "but for" this Charter violation, the drugs would never have been found.
+In other words, although the drugs were real, they were self-incriminatory in the sense that they would not have been discovered but for the rights violation.
+He therefore excluded the evidence as a result of his analysis under the first branch of Collins.
+His analysis under the first branch of the Collins test mentioned the following factors (at p. 629) as relating to the fairness of the trial:
+The unreasonable search carried out in this case is the very kind which the Court wished to make clear is unacceptable.
+A check stop does not and cannot constitute a general search warrant for searching every vehicle, driver and passenger that is pulled over.
+Unless there are reasonable and probable grounds for conducting the search, or drugs, alcohol or weapons are in plain view in the interior of the vehicle, the evidence flowing from such a search should not be admitted.
+It would surely affect the fairness of the trial should check stops be accepted as a basis for warrantless searches and the evidence derived from them was to be automatically admitted.
+To admit evidence obtained in an unreasonable and unjustified search carried out while a motorist was detained in a check stop would adversely and unfairly affect the trial process and most surely bring the administration of justice into disrepute.
+[Emphasis added.]
+In view of the foregoing conclusion, Cory J. thought it unnecessary to consider the other branches of the Collins test, but nonetheless went on to conclude that the evidence should also be excluded on the basis of the second branch of the Collins test because the violation was a serious one involving unacceptable conduct which should not be condoned by the justice system.
+He did not give any consideration to the third branch of the Collins test.
+81
+It becomes evident how far this Court has deviated from its original approach to s. 24(2) when we transplant the "but for" standard employed in Mellenthin back to Collins.
+If, in Collins, Lamer J. had approached the problem in the manner suggested by Cory J. in Mellenthin, he should have concluded that "but for" the Charter violation, the officer would not have seized the heroin balloon from the suspect in the bar.
+There was no evidence to suggest that the officer could have seized the drugs in any other way.
+Yet how is it that Lamer J. concluded for the majority in Collins that this evidence, though prejudicial in the ordinary sense, did not render the trial unfair, and therefore did not tend to the almost automatic exclusion of the evidence?
+Why have our notions of what constitutes a "fair trial", and thereby inevitably leads to exclusion, changed so profoundly in the space of the five years between Collins and Mellenthin?
+82
+With great respect, I suggest that we have lost sight of the original concerns that motivated the Court to remark that the admission of evidence affecting the fairness of the hearing would generally tend to bring the administration of justice into disrepute.
+83
+In my view, the essence of those original concerns is reflected in the concurring reasons of Lamer J. in Rothman in which he provided an important jurisprudential stepping stone between the traditional common law "voluntariness" rule and s. 24(2) of the Charter.
+In the context of his discussion of the confessions rule and the power of courts to exclude certain types of evidence, he recognized that reliability was an important consideration as to whether or not evidence should be excluded, but then went on to say that the discretion of a trial judge to exclude evidence must extend beyond that criteria.
+He therefore favoured a two-step analysis.
+The first stage was reliability.
+Where anything done by the authorities casts some doubt as to the accused's having been induced to make a possible unreliable statement, then that statement would be excluded.
+The second component was a general discretion on the part of the judge to exclude reliable and probative evidence where it was obtained in circumstances that threatened the integrity of the judicial system.
+84
+Section 24(2) of the Charter was not enacted in a vacuum.
+As numerous commentators have noted, it reflected a compromise between a Canadian common law rule which focused almost exclusively on reliability and an American exclusionary rule which focused largely on police misconduct.
+It was intended as a cautious expansion of the Canadian common law.
+Many of its values are reflected in Lamer J.'s reasoning in Rothman v. The Queen.
+I will outline below why I believe that the two-part framework outlined in Rothman v. The Queen forms the underpinnings of the approach to s. 24(2) taken by this Court in R. v. Collins.
+In my view, at the heart of R. v. Collins, building as it did on Rothman v. The Queen, is the recognition of two fundamental concerns, the encroachment of either of which could bring the administration of justice into disrepute within the meaning of s. 24(2).
+85
+The first basic concern groups together all of the common law and Charter protections of the accused that ultimately relate to liberty and truth-seeking.
+For the sake of simplicity, I shall call it the "Reliability Principle".
+In essence, this principle dictates that our justice system must be constantly and intensely vigilant to ensure that innocent persons not be convicted.
+Where the individual's liberty is at stake, then these protections take on added significance and additional dimensions.
+In accordance with this principle, the trial must not amount to an attempt by the Crown to "win" its case against the accused:
+see, e.g., R. v. Stinchcombe, [1991] 3 S.C.R. 326.
+Rather, the trial is undertaken as a truth-seeking activity, and its conduct is animated by the overarching need for the accurate determination of innocence or guilt.
+As such, the trial itself must be conducted so as to maximize the accuracy of the outcome and minimize the possibility of wrongful conviction.
+Evidence that may be unreliable or that has the potential to mislead a trier of fact is at the heart of this concern, and will generally be excluded.
+Accordingly, under the Reliability Principle, the use at trial of evidence, obtained in a manner that violated the Charter, that may mislead the trier of fact could render that trial unfair, and could bring the administration of justice into disrepute in the eyes of the reasonable person, dispassionate and fully apprised of the circumstances.
+In other words, where the unfairness flowing from the Charter violation may touch in any way upon the actual adjudicative process, then this kind of evidence must almost inevitably be excluded.
+86
+The second basic concern relates to life, security of the person and, within that same rubric, fundamental human dignity.
+For the sake of convenience, I shall refer to this principle as the "Fairness Principle".
+This principle groups together all of the common law and Charter protections that breathe life into the notion that the individual should be free from unwarranted interference with the state.
+In essence, it recognizes the vital importance in ensuring that the state treat each individual in accordance with basic principles of decency and fair play.
+Failure to treat the individual in such a manner is offensive both to our common law and to our Charter.
+Unlike the first concern, however, this concern does not relate to notions of reliability and potential for prejudice, or to the possible conviction of innocent persons.
+Rather, it acknowledges that the use of certain methods to build a case against an individual denigrates the values and mores which we consider fundamental to a free and democratic Canadian society.
+It recognizes that these methods undermine our social fabric.
+It recognizes that these costs are endured over the long-term, that they are ultimately borne by all within society, and that they considerably outweigh any benefit to society gained by conviction of an individual accused.
+For this reason, judicial condonation of acts that violate this principle will also tend to bring the administration of justice into disrepute in the eyes of a reasonable person, dispassionate and fully apprised of the circumstances.
+87
+These two fundamental concerns reflect, in my view, the "principles underlying the principles".
+They have found expression in such varied forms as the presumption of innocence, the right to silence, the principle against self-incrimination, the doctrine of abuse of process, and a whole host of other protections under the common law and Charter.
+(See R. v. S. (R.J.), [1995] 1 S.C.R. 451, per L'Heureux-Dube J.)
+Those protections, and many others, have developed over the ages within our common law and most recently within our Charter as methods of giving substance and meaning to these two most fundamental of principles.
+In my view, it is most consistent with the goals of s. 24(2), as well as with the courts' duty to guard jealously the reputation of our system of justice, to build an analytical framework that encourages consideration of those two most fundamental of principles.
+88
+In my opinion, evidence is capable of affecting "trial fairness", as that term is employed in the first branch of R. v. Collins, where its admission could give rise to concerns analogous to, or falling within, the rubric of the Reliability Principle, outlined above.
+Where, by contrast, the complaint about the impugned evidence is, for instance, that it would not have been obtained "but for" the rights violation, then this complaint relates more fundamentally to the Fairness Principle.
+The objection to the admission of the evidence is not that it has the potential to mislead a trier of fact or convict an innocent person, but rather that the manner in which the authorities obtained the evidence was fundamentally unfair, and erodes values that are fundamental to our society.
+I therefore believe that the fact that the evidence could not have been obtained "but for" the rights violation is more accurately viewed as a relevant consideration to the second branch of the Collins framework: the impact of the seriousness of the rights violation on the reputation of the justice system.
+I shall return to this matter shortly.
+89
+To summarize, given that this Court uses "trial fairness" within s. 24(2) as a proxy for circumstances in which the administration of justice is almost inevitably brought into disrepute, and where any other mitigating considerations or circumstances are virtually irrelevant, I believe that it is most consistent with the purpose and spirit of s. 24(2) to define that category of factors narrowly.
+In my respectful view, it runs counter to the inherently discretionary nature of a s. 24(2) determination, which is to be made "having regard to all of the circumstances", to formulate rigid rules or presumptions for the exclusion or admission of different kinds of evidence.
+Thus, to the extent that this Court decides to set down such a rule in regard to "trial fairness", I believe that it should take care not to define that concept so broadly as to allow the "trial fairness" tail to wag the s. 24(2) dog.
+90
+Classifying evidence as "self-incriminatory" or "real", or "discoverable" or "not discoverable" is not, nor should it be, an end in itself.
+For this reason, I have considerable sympathy for the following observations of Professor David M. Paciocco in "The Judicial Repeal of s. 24(2) and the Development of the Canadian Exclusionary Rule", supra, at pp. 353-54:
+The whole historical development of s. 24(2) drives home the point that it was intended to be a compromise between what is typically but inaccurately characterized as the automatic exclusionary rule in the United States, and the traditional common law Canadian position whereby evidence is admissible if relevant and material, regardless of how it was obtained.
+Out of distaste and distrust for the American regime the first public draft of the Charter had provided expressly that no exclusionary remedy could be developed to enforce the Charter.
+Strong submissions against this position were made by various public-interest groups who favoured an exclusionary rule.
+Ultimately, s. 24(2) was adopted as a compromise position.
+It promised to be a provision which answered the most common objection to having an exclusionary enforcement mechanism, that requiring the exclusion of unconstitutionally obtained evidence may provide disproportionate relief to accused persons;
+serious offenders may be acquitted because of constitutional violations which are not nearly as shocking or outrageous as the crime shown by the evidence to have been committed.
+The rejection of the polar extremes has been drafted into the provision.
+The section requires courts to determine whether admission of the evidence in question could cause the relevant kind of disrepute, "having regard to all of the circumstances".
+The spirit of the provision, if not that very language, calls into question the legitimacy of developing even quasi-automatic principles for exclusion.
+Despite this, the court has produced just such a principle, and its implications are enormous.
+[Emphasis added.]
+91
+Kerans J.A. in his thoughtful discussion of s. 24(2) in R. v. Meddoui (1990), 61 C.C.C. (3d) 345 (Alta. C.A.), at p. 367, raised comparable concerns:
+Perhaps mistakenly, I have dealt with the issue of discoverability as one that arises under the "fairness" rule in Collins, supra.
+If one labels the trial as unfair, one leaves little scope for review of factors that might argue against exclusion, like a minimal breach, urgency, and the like.
+One might be forced to say something silly like this:
+the trial was unfair, but the administration of justice was not placed in disrepute.
+I do not object to a categorization of the advantage, in an abstract sense, as "unfair" so long as one keeps in mind that s. 24 refuses to accept that it is always unfair.
+The reference to the reputation of the administration of justice in s. 24, as all agree, can have no sense other than that, in the concrete, any unfairness to the accused might in some cases be overborn by other factors.
+A balancing must occur.
+[Emphasis added.]
+I reached a similar conclusion in R. v. Dersch, [1993] 3 S.C.R. 768, at p. 784.
+Unfairness in the manner certain evidence was obtained, or in the fact that certain evidence was obtained, does not necessarily render the trial unfair.
+We must therefore be circumspect in defining what type of evidence, or what circumstances, will inevitably lead to exclusion under s. 24(2) of the Charter.
+92
+There is an important lesson to be learned from the difficulties encountered south of our border.
+I cannot help but reflect upon the irony of the fact that in Collins, at p. 275, the majority of this Court "unconditionally endorsed" Seaton J.A.'s review in Collins (1983), 5 C.C.C. (3d) 141 (B.C.C.A.), at pp. 151-54, of the unfortunate U.S. experience with a rigid exclusionary rule.
+In that review, Seaton J.A. noted that American courts, in order to lessen the impact of their exclusionary rule, have found more and more searches to be lawful, and more and more evidence-giving situations to be outside the scope of the rule.
+Professor Paciocco, in "The Judicial Repeal of s. 24(2) and the Development of the Canadian Exclusionary Rule", supra, at pp. 360-61, has noted what is perhaps the beginning of a similar trend in Canada, in cases such as R. v. Duarte, [1990] 1 S.C.R. 30, and R. v. Wiggins, [1990] 1 S.C.R. 62.
+(iii)
+Returning to the Collins Framework and to First Principles
+93
+As I have said earlier, I am convinced that the reasonable person, dispassionate and fully apprised of the circumstances, would approve of the basic framework set out in Collins.
+Rather than set out any rigid legal "test", however, I prefer to revitalize the approach taken in Collins, and to provide a non-exhaustive list of factors which should be considered in the course of a s. 24(2) determination, as well as a basic analytical framework according to which those considerations may be structured.
+I start, as well, with the basic premise, approved in Collins, at p. 275, that evidence obtained in an unconstitutional manner is prima facie admissible until the accused demonstrates that its admission could bring the administration of justice into disrepute.
+94
+As I have already mentioned, the first set of factors relates to the exclusion of evidence which may offend the Reliability Principle.
+Where anything done by the authorities casts some doubt as to the accused's having been induced to make a possibly unreliable statement, then the evidence obtained under such circumstances touches upon the Reliability Principle.
+This set of factors relates to any circumstances under which a person may be convicted of an offence of which he or she is innocent.
+As such, they relate to the fairness of the trial and its corollary, the right to make full answer and defence.
+The admission of unconstitutionally obtained evidence which may render the trial unfair in this manner could bring the administration of justice into disrepute in the eyes of a reasonable person, dispassionate and fully apprised of the circumstances.
+95
+Such evidence should almost inevitably be excluded, although consideration should still be had of the other two branches of the Collins test.
+Where a risk of unfairness in the actual trial is identified, considerations relating to the second branch of the Collins framework, the seriousness of the violation, will generally only aggravate, rather than palliate, the potential for disrepute to the justice system flowing from the admission of the impugned evidence.
+Moreover, where the admission of the evidence could give rise to concerns relating to the fairness of the trial, then I would agree in principle with the observation in Collins, at p. 286, that the disrepute arising from the admission of the impugned evidence will be greater if the offence is more serious.
+96
+The second category of factors in our s. 24(2) framework relates to the impact of the seriousness of the rights violation on the reputation of the justice system.
+The concerns grouped within this general rubric include all those potentially infringing the Fairness Principle.
+97
+Within this rubric, considerable regard should be had to the potential long-term effect on the reputation of the justice system of judicial condonation of the kind of behaviour engaged in by the authorities.
+In Collins, for instance, it was noted at p. 288 that
+we cannot accept that police officers take flying tackles at people and seize them by the throat when they do not have reasonable and probable grounds to believe that those people are either dangerous or handlers of drugs.
+Similarly, in Mellenthin, albeit as part of his discussion of "trial fairness" under the first branch of the Collins test, Cory J. took great exception to the possibility that police could, without reasonable and probable grounds to believe that they would find anything, simply search a vehicle which they had stopped for the altogether different purpose of a routine sobriety check.
+If both Collins and Mellenthin recognize that over the long-term this kind of activity by state actors affects the rights of all Canadians, then it constitutes a fundamental and important infringement of the right of ordinary citizens to be free from unwarranted interference by the state.
+For the justice system to condone such intrusive activity by nonetheless admitting the fruits of such searches into evidence could therefore, absent other circumstances, bring the administration of justice into disrepute in the eyes of the reasonable person, dispassionate and fully apprised.
+98
+Other factors that have been identified as relevant to the question of the seriousness of the violation relate more closely to the particular circumstances surrounding the impugned violation.
+Did the violation occur in circumstances of urgency or necessity?
+Was the conduct that led to the violation of the Charter wilful or flagrant, or was the violation inadvertent or committed in good faith?
+In this respect, since the accused is not generally in a position to demonstrate the officer's mala fides, it is reasonable that an accused need only point to conduct which plausibly indicates bad faith before the onus shifts as a practical matter to the Crown to demonstrate the good faith of the officers involved.
+99
+Another important consideration, as I have already noted, is whether the impugned evidence would likely have been obtained in any event, or whether the evidence could not have been obtained but for the violation.
+Where the impugned evidence could not have been obtained "but for" the rights violation, then this undoubtedly visits an unfairness upon the accused.
+With great respect, however, I would not go so far as my colleagues as to say that such evidence must therefore almost inevitably be excluded.
+In my view, discoverability is an important, albeit not determinative, factor in considering how the seriousness of the rights violation will affect the reputation of the justice system, as measured by the long-term values of the community.
+We must always bear in mind that the language of s. 24(2) clearly requires that the court's inquiry be conducted "having regard to all the circumstances".
+100
+The third branch of the Collins test need only be broached if the judge has concluded that evidence should tend to be excluded on the basis of analysis conducted within the framework of one or both of the first two branches.
+This branch, we must recall, is a safeguard which verifies that s. 24(2) is not being applied in such a way as to frustrate its own underlying purposes.
+One factor that may be relevant to an analysis conducted under this branch may be the extent to which the evidence is essential to substantiate the charge.
+As noted in Collins, at p. 288, the exclusion of otherwise reliable evidence necessary to support a conviction for a serious crime may, itself, tend to bring the administration of justice into disrepute.
+101
+It should be noted that rigid tests of inclusion should be opposed just as vigorously as rigid tests of exclusion.
+What must ultimately be sought within a s. 24(2) analysis is a sense of proportionality between competing interests and effects.
+In Collins, at p. 286, for instance, such proportionality found form through the following observation:
+In my view, the administration of justice would be brought into disrepute by the exclusion of evidence essential to substantiate the charge, and thus the acquittal of the accused, because of a trivial breach of the Charter.
+Implicit in the third branch of the Collins test, in my view, is an inquiry into whether the value to society of admitting the evidence outweighs the prejudice to societal and individual interests that could follow from the admission of the evidence.
+102
+Assessing proportionality may have opposite effects depending upon whether the admission of the evidence touches upon the Reliability Principle or the "Fairness Principle".
+If the evidence relates to the Fairness Principle, then the higher the value to society in obtaining the conviction, the more serious must be the rights violation before the admission of the evidence could be said to bring the administration of justice into disrepute.
+On the other hand, if the evidence relates to the Reliability Principle, then the relationship may be quite the opposite.
+The more serious the offence, then the greater the need for the courts to be vigilant in ensuring that the innocent are not convicted.
+As such, the more serious the offence, the higher the likelihood that the inclusion of the evidence impugning trial fairness could bring the administration of justice into disrepute.
+103
+Finally, although I do not wish to resurrect the pre-Charter "community shock test" elaborated in Rothman, I think that it may offer a helpful standard in an opposite sense.
+Namely, having regard to all of the circumstances, would the long-term values of the community, assuming it to be reasonable, dispassionate and fully informed, be shocked by the exclusion of this evidence?
+This factor is essentially a reality check.
+It is one last safeguard to ensure that courts do not lose sight of the forest for the trees, or abstract the law from reality.
+Courts must not frustrate the very purposes of s. 24(2) that they are duty-bound under the Constitution to uphold.
+104
+We must always bear in mind, as Collins has clearly enunciated, that the purpose of s. 24(2) is not to discipline the authorities.
+Nor, for that matter, is the primary purpose of s. 24(2) even to seek to discourage certain types of behaviour by state actors, although this will certainly be one of its effects.
+Simply put, the purpose of s. 24(2) is to prevent the administration of justice from being brought into further disrepute by the admission of evidence obtained in a manner that violates the Charter.
+Although I decline to comment further on this matter, I would simply note that there may be other means, either statutory or common law, by which to further more directly the purpose of discouraging or sanctioning unconstitutional conduct by state actors.
+(See, e.g., 1983 of the United States Code, which recognizes a tort for breach of an individual's civil rights.)
+105
+I have set out above what I believe to be the first principles and purposes underlying s. 24(2) of the Charter, which I believe found much of their genesis in The Queen, and which were given form by this Court in Collins.
+I believe that this Court's jurisprudence regarding s. 24(2) has perhaps inadvertently departed from the purpose of s. 24(2) of the Charter, and from the foundations laid down in those cases.
+By including too many factors within the rubric of "trial fairness", we have transformed s. 24(2) from a supple analytical framework within which could be balanced a multiplicity of factors into a fairly rigid test of exclusion that, with each passing day, bears increasing resemblance to the American model that the framers of our Charter so consciously eschewed.
+Summary
+106
+To summarize briefly, giving effect to s. 24(2) requires courts to adopt a somewhat different focus than what is necessary to give effect to the substantive rights and freedoms guaranteed within the Charter.
+Whereas recognition of these substantive rights and freedoms must be done with primary regard to ensuring that every individual obtains the fullest protection possible under these rights, s. 24(2) mandates that courts adjudicate upon the admissibility of evidence with primary regard to preventing the administration of justice from being brought into disrepute.
+Whereas rights and freedoms must therefore be given expression through the eyes of one trained in the law, s. 24(2), which deals with the reputation of the justice system, must be approached from the point of view of the reasonable person, dispassionate and fully apprised of the circumstances.
+With great respect, I believe that this Court's recent jurisprudence governing s. 24(2) does not take this differing focus sufficiently into account.
+107
+Since writing these reasons, I have had the advantage of reading the reasons of Justice Sopinka.
+I take great exception to his implication that I am in any way advocating an approach to exclusion of evidence that is reminiscent of this Court's judgment in R. v. Wray, [1971] S.C.R. 272.
+In fact, the approach I suggest, which looks both to reliability and to the integrity of the judicial system, finds its genesis in Lamer J.'s influential remarks in Rothman, its inspiration in the wording and historical context of s. 24(2) of the Charter, and its application in this Court's approach in Collins.
+Although it bespeaks the obvious, I must emphasize that a court's inquiry into exclusion does not end when it finds that unconstitutionally obtained evidence is inherently reliable (and therefore not subject to virtually automatic exclusion).
+Analysis then passes on to a consideration of the damage to the integrity of the system that could be occasioned by the admission of the impugned evidence.
+This must be approached from the point of the long-term effects on the community of the admission of evidence obtained under similar circumstances.
+The likelihood of exclusion under this framework therefore goes far beyond anything that ever existed at common law, particularly since evidence will be excluded whenever its admission could bring the administration of justice into disrepute.
+108
+The thrust of my criticism of this Court's recent jurisprudence on s. 24(2) is that we may be digging ourselves into a hole.
+If we are to create a test of absolute exclusion to further the purposes of s. 24(2), then I believe that we must not define that test so broadly as to risk frustrating the text of s. 24(2), which calls upon courts to evaluate "all of the circumstances" in preserving the reputation of the justice system.
+I therefore prefer to formulate any absolute exclusionary rules more narrowly than most of my colleagues.
+109
+In my view, it is most consistent both with our common law approach to exclusion and with the purposes of s. 24(2) of the Charter to confine an absolute exclusionary rule to circumstances in which the unconstitutional conduct of state authorities is responsible for evidence which may possibly be unreliable.
+I do not feel that the nature of the evidence (real vs. self-incriminatory, or discoverable vs. undiscoverable) should be determinative of absolute exclusion.
+For my part, I believe that a viable distinction can and must be drawn between evidence whose admission potentially touches upon the adjudicative fairness of the hearing and evidence which is obtained in a manner which does violence to the integrity of the judicial system.
+Whereas the former must almost inevitably be excluded, the latter must be evaluated "having regard to all of the circumstances".
+110
+My colleague Sopinka J. notes that Lamer J. did not specifically mention reliability in his discussion of trial fairness.
+I agree.
+For this, one must go back to Rothman, the grandfather of Collins.
+I do not believe that our concept of what constitutes a minimal standard of "trial fairness" has changed so dramatically since the Charter.
+The justice system was not suffering from widespread disrepute as a result of "unfair trials" when s. 24(2) came onto the scene.
+111
+Finally, Sopinka J. concludes by opining that the majority's approach to s. 24(2) is more consistent with Collins than the framework I propose.
+In answer, I repeat the following rhetorical question that I have already asked about Collins:
+given that the heroin balloon could not have been recovered "but for" the unreasonable search by the officer, why did this Court nonetheless conclude that, although the admission of the evidence would operate unfortunately for the accused, the "fairness of the trial" was in no way implicated?
+I find further support, moreover, in my rejection of using discoverability as a proxy for trial fairness in the following excerpt from J. Sopinka, S. N. Lederman and A. W. Bryant, The Law of Evidence in Canada (1992), at p. 407:
+[The] disposition [in R. v. Black, [1992] 2 S.C.R. 138] leaves open the question whether real evidence obtained as a consequence of a s. 10(b) violation, but which would not have been discovered but for the violation, can be characterized as falling within the trial fairness rationale for exclusion....
+In light of the strong indications in Collins and Ross, it is difficult to see how real evidence, no matter how obtained, could be said to affect the fairness of the trial.
+The better view seems to be that the admission of real evidence (i.e., tangible evidence not created by the accused as a consequence of a Charter violation) must stand or fall on the basis of the seriousness of the Charter violation by which it was obtained.
+[Emphasis added.]
+I rest my case.
+(iv)
+Application of Section 24(2) to the Impugned Evidence
+112
+At the outset, it is important to recall that no appeal is taken by the Crown from the trial judge's decision to exclude, on the basis of a serious s. 10(b) violation, the compelled confessions as well as the fact that the appellant led police to the location of the murder weapon and to the site of the murder.
+I will not comment further on the exclusion of those two pieces of evidence under s. 24(2) except to say that I agree that, under the circumstances, their admission could bring the administration of justice into greater disrepute than their exclusion.
+As I have already noted, had this been the only evidence indicating a nexus between the accused and the gun found in the river, then the exclusion of this evidence would in all likelihood have also precluded the Crown from pointing to any basis for admitting into evidence the gun itself, or the fact of its finding.
+Simply put, the Crown would not have been able to show that the gun found in the river was at all relevant to the proceedings.
+The effect of excluding the other evidence would therefore be to exclude the gun itself, as well as the fact of its finding.
+113
+I turn to the accused's statement to Hall.
+My colleague Iacobucci J. would focus his s. 24(2) analysis primarily on the gun and the fact of its finding.
+I respectfully disagree.
+The gun and the fact of its finding are meaningless and, in fact, inadmissible without evidence that connects them somehow to the accused.
+The accused's voluntary statement to Hall is the only basis for their admission.
+By contrast, even if the gun had not been found or introduced at trial, the statement was, by itself, extremely incriminating, since it constituted a voluntary admission to a third party which indicated involvement in the crime.
+Thus, I have no doubt that the proper focus of our analysis must be on the statement made to Hall.
+114
+My colleague would exclude this statement on the basis that it is proximately connected to the s. 10(b) violation and that its admission would therefore tend to render the trial unfair.
+He relies for this proposition on this Court's judgment in R. v. Strachan, [1988] 2 S.C.R. 980.
+With respect, I do not believe that Strachan supports such an approach.
+115
+Strachan stands for the proposition that the accused need not show a strict causal link between the s. 10(b) violation and the statement to Hall.
+The accused can bring the statement to Hall within the ambit of a s. 24(2) examination so long as he can demonstrate that the statement was not too remote from the rights violation.
+(By way of aside, I note that there was never any challenge raised as to the admissibility of a statement made by the accused to Hall some two months later, alleging that he had been present at the killing but that it had been committed by Biddlecome.)
+I must respectfully disagree, however, with my colleague's conclusion that principles of remoteness should also predispose this Court's determination on whether the fairness of the trial is adversely affected.
+Whereas I take Strachan to govern the applicability of s. 24(2), my colleague takes Strachan one step further, and extends its logic of "proximate connection" to the application of the first branch of the s. 24(2) Collins test.
+With respect, given the almost automatic exclusionary consequences of a finding of "trial process unfairness", I fear that this approach will dig this Court even more deeply into the legal hole that I believe it has already dug itself.
+116
+In my opinion, the "proximate connection" between the s. 10(b) violation and the accused's voluntary statement to Hall is sufficient to bring that statement within the purview of a s. 24(2) examination:
+R. v. Strachan.
+I note, however, that although the accused was incarcerated at the time, the statement to Hall was freely and voluntarily made.
+No element of state compulsion could have operated upon his mind at that time so as to taint that statement with the possibility of unreliability, and therefore with the possibility of unfairness to the trial.
+Thus, although the evidence is highly incriminating to the accused, and therefore prejudicial in the sense that it increases materially the likelihood of his conviction, I do not see how it touches in any way upon the Reliability Principle, and therefore upon trial fairness.
+117
+I next turn to the second branch of the Collins framework, to ascertain whether the method by which this statement was obtained raises sufficient concerns under the Fairness Principle that its admission into evidence could bring the administration of justice into disrepute.
+118
+In my view, accepting this statement into evidence would not send a signal to the community condoning this kind of conduct by state actors.
+We must recall that both the confession and the totality of the self-incriminating evidence emanating from the accused while acting under state compulsion were excluded by the trial judge.
+In this case, however, the state obtained an unanticipated windfall as a result of the accused's voluntary remarks to his girlfriend.
+This windfall cannot realistically be said to have been part of the officers' scheme at the time the "deal" was hatched.
+In this sense, the present case is different in important respects from instances in which the state actively seeks to elicit incriminatory statements from the accused through the use of undercover agents (R. v. Hebert, [1990] 2 S.C.R. 151) or through individuals effectively acting as agents of the state (R. v. Broyles, [1991] 3 S.C.R. 595).
+In both of those types of situations, the court is faced with evidence arising as a direct result of an unconstitutional scheme on the part of the authorities, and obtained in the manner reasonably anticipated by the police.
+The judicial sanction of such unconstitutional activity by admitting evidence thus obtained can have significant repercussions in the long-term on citizens' dignity and right generally to be free from unwarranted interference from the state.
+Admission of evidence under such circumstances could bring the administration of justice into disrepute in the eyes of the reasonable person, dispassionate and fully apprised of the circumstances.
+119
+By contrast, in the present case, the direct and intended fruits of the state's unconstitutional conduct were properly excluded by the trial judge.
+All that remained was a voluntary statement-- an evidentiary windfall.
+It would be largely speculative to guess at whether the accused would not have made such a statement, or any other incriminating statement, to Hall if the circumstances had been different.
+I note, for instance, that he made another highly incriminating statement to Hall some two months later.
+I am willing to accept, however, that this statement may not have been available had the rights violation not occurred.
+In fact, I agree with my colleague Iacobucci J.'s observation at para. 42 of his reasons that
+[t]he fact is that the Crown sought to introduce the statement at trial precisely because it allowed it to do indirectly what the trial judge had ruled the Crown could not do directly: introduce evidence that the appellant knew where the gun was hidden.
+In my view, however, the long-term interests in the administration of justice and in the integrity of the Fairness Principle would not be disserved by admitting this evidence, notwithstanding the insalubrious police conduct that may have, as its incidental effect, prompted the statement to Hall.
+120
+I am, as I have said, mindful of the unfairness that flows from admitting a statement that may not have been made were it not for the Charter violation.
+Indeed, it is true that the accused made the statement to his girlfriend while he was still under the impression that the "deal" was on.
+As I have said, however, it is important not to consider this factor in isolation, but to examine it "having regard to all the circumstances".
+The mere presence of some unfairness in the manner in which the evidence was obtained, and the fact that the admission of the statement operates unfortunately for the accused, do not compel irrevocably the conclusion that evidence obtained in such a manner be automatically excluded.
+In the present case, even assuming that this factor militated sufficiently toward finding that the administration of justice could be brought into disrepute by the admission of the voluntary statement, I would nonetheless conclude that the exclusion of this reliable evidence would bring the administration of justice into greater disrepute, given the seriousness of the offence as well as the fact that the making of the statement was essentially incidental to the police officers' unconstitutional conduct.
+121
+Lastly, I wish to note that I am also mindful of the concern raised by McEachern C.J. that this statement tends to connect the accused more closely with the crime, and could give rise to an inference of consciousness of guilt.
+It is important to realize, however, that trial fairness will only be connected to the rights violation, and therefore subject to special scrutiny under the first branch of the Collins analysis, when there is some possibility that the evidence is unreliable or otherwise likely to lead to the conviction of an innocent person, and when this unreliability is somehow attributable to the state's unconstitutional conduct.
+Such was not the case here.
+Under the circumstances, there was no reasonable possibility of unreliability in the statement.
+I note, as well, that if a statement or other communicative behaviour is prejudicial in the evidentiary sense, in that it could mislead a trier of fact by causing it to follow an inappropriate chain of logic, then that problem must be addressed within the context of the traditional balancing test outlined by this Court in R. v. Seaboyer, [1991] 2 S.C.R. 577, by inquiring into whether the probative value of the evidence outweighs its prejudicial effect.
+122
+To recapitulate, although the admission of the evidence most definitely operates unfortunately for the appellant, a reasonable person, dispassionate and fully apprised of all of the circumstances in this case would conclude that the exclusion of this evidence would bring the administration of justice into greater disrepute than its inclusion.
+The most important consideration leading me to this conclusion is that admission of this statement would not imply any condonation of the police officers' actions, even though those actions were, themselves, clearly contrary to the long-term interests of the integrity of the justice system.
+Any other damage to the integrity of the judicial system, such as the unfairness flowing from the fact that the windfall statement might not otherwise have been made, is outweighed by the impact upon the administration of justice of excluding such evidence, given that it is incidental to the opprobrious police conduct, inherently reliable, and significantly probative of the most serious crime in Canada.
+123
+Because of my conclusion that the statement to Hall is admissible under s. 24(2) of the Charter, I am also satisfied that the admission of the gun and the fact of finding the gun would not bring the administration of justice into disrepute.
+2.
+The Interaction of Section 24(2) of the Charter and Section 686(1)(b)(iii) of the Code
+124
+Given my conclusion that the evidence which is the subject of this appeal was properly admitted at trial, it is not strictly necessary for me to address the interaction between s. 24(2) of the Charter and s. 686(1)(b)(iii) of the Criminal Code.
+Nonetheless, assuming that my colleague is correct in concluding that the impugned evidence should be excluded, I shall address this issue as well.
+(i)
+Principles Governing the Interaction of Section 24(2) and Section 686(1)(b)(iii)
+125
+Section 686(1)(b)(iii) of the Criminal Code reads as follows:
+686.
+(1)
+On the hearing of an appeal against a conviction or against a verdict that the appellant is unfit to stand trial or not criminally responsible on account of mental disorder, the court of appeal
+...
+(b)
+may dismiss the appeal where
+...
+(iii)
+notwithstanding that the court is of the opinion that on any ground mentioned in subparagraph (a)(ii) the appeal might be decided in favour of the appellant, it is of the opinion that no substantial wrong or miscarriage of justice has occurred. . . .
+The most recent elucidation of the proper approach to s. 686(1)(b)(iii) is outlined by Major J., speaking for the Court on this issue, in R. v. Bevan, [1993] 2 S.C.R. 599.
+After outlining various approaches to s. 686(1)(b)(iii) that had been utilized by this Court in the past, he consolidated those approaches within the following test, at p. 617:
+...
+the task of an appellate court is to determine whether there is any reasonable possibility that the verdict would have been different had the error at issue not been made.
+[Emphasis added.]
+The most recent statement by this Court on the interaction between s. 24(2) of the Charter and s. 686(1)(b)(iii) of the Code, however, predates Major J.'s articulation of the proper approach to be taken to s. 686(1)(b)(iii).
+126
+In R. v. Elshaw, [1991] 3 S.C.R. 24, the accused was observed with young boys under suspicious circumstances, and attempted to flee when police accosted him.
+He was locked in the police van for a short period of time after which he made several inculpatory statements to the police.
+Iacobucci J. found that the accused had been denied his rights under s. 10(b), that the statements should be excluded under s. 24(2) and that the curative provisions in s. 686(1)(b)(iii) could not prevent the ordering of a re-trial.
+He made the following observation on the interplay between s. 24(2) of the Charter and s. 686(1)(b)(iii) of the Code (at p. 46):
+If the evidence in question should have been excluded under s. 24(2) of the Charter because its admission would put the administration of justice into disrepute, then generally its admission was such as to amount to a substantial wrong or miscarriage of justice, thereby putting matters beyond the reach of s. 686(1)(b)(iii), which is available to cure errors of law where no substantial wrong or miscarriage of justice results.
+Consequently, s. 686(1)(b)(iii) is not available in this case.
+This is not to say that there may not be other circumstances where the curative provision could apply notwithstanding that evidence should have been excluded under s. 24(2) of the Charter.
+[Emphasis added.]
+We must recall that the inculpatory statements given to the police by the accused in Elshaw were quite central to the Crown's case, and no doubt played an important role in his conviction.
+In essence, therefore, given the majority's finding of a s. 10(b) violation and given the majority's conclusion that the impugned inculpatory statements should be excluded under s. 24(2), there was, indeed, a "reasonable possibility that the verdict would have been different" had this important evidence not been available to the Crown.
+127
+I note, however, that in Elshaw, Iacobucci J. did not have the benefit of Major J.'s approach to s. 686(1)(b)(iii) for the Court in Bevan.
+As such, I believe that it is now clear that the "other circumstances" to which Iacobucci J. alluded in Elshaw include situations where, even if the appellate court concludes that certain evidence should have been excluded under s. 24(2) of the Charter, the court is satisfied that no reasonable possibility existed that the verdict would have been different.
+128
+I would like to preface my remarks on the application of s. 686(1)(b)(iii) to the instant case with three additional observations about the interplay between s. 24(2) of the Charter and s. 686(1)(b)(iii) of the Code.
+First, it is now established that although an examination under s. 24(2) must look to the particular context of the rights violation, the determination as to whether or not evidence should be excluded necessarily also involves long-term considerations, such as the impact on the reputation of the justice system of the regular inclusion or exclusion of this type of evidence:
+Collins, at p. 281.
+Section 686(1)(b)(iii), by contrast, only requires consideration by the appellate court of the particular circumstances before it.
+The differing breadth of the examination under s. 24(2) and under s. 686(1)(b)(iii) is therefore one indication that the two sections are clearly not coextensive.
+129
+Second, as I observed at the outset of my reasons, it is important to recall that the French version of s. 24(2), which is the text upon which the Collins framework is based, requires that evidence be excluded "if its admission could bring the administration of justice into disrepute".
+A conclusion that the administration of justice could be brought into disrepute by the admission of certain evidence does not necessarily mean that its admission has, by definition, led to a "substantial wrong" or "miscarriage of justice" in the particular case under review.
+130
+Third, s. 24(2) of the Charter and s. 686(1)(b)(iii) of the Code clearly focus on different things, in furtherance of different objectives.
+Section 24(2) focuses on whether the inclusion or exclusion of evidence obtained in violation of the Charter would bring the administration of justice into further disrepute.
+Its primary purpose, therefore, is protection of the integrity of the judicial system.
+By contrast, as is clear from Major J.'s test in R. v. Bevan, s. 686(1)(b)(iii) focuses on the outcome of the particular proceedings.
+Its primary purpose is to enable appellate courts to feel unhindered to clarify errors of law committed by the trial judge.
+If a new trial were required every time an appellate court identified an error of law in the proceedings below, even if that error were immaterial to the outcome of the proceedings, then appellate courts might be reluctant to identify such errors of law in the first place.
+Instead, s. 686(1)(b)(iii) reflects a careful balancing of collective interests in the effective and efficient conclusion of litigation against the right of the individual accused to a full and fair trial.
+Whenever these two interests collide, s. 686(1)(b)(iii) resolves the conflict in favour of the accused.
+Where there is no conflict, however, then s. 686(1)(b)(iii) provides a means by which to advance collective interests while not at the expense of the accused.
+(ii)
+Application of Section 686(1)(b)(iii) to the Facts
+131
+In R. v. Hodge (1993), 133 N.B.R. (2d) 240, the New Brunswick Court of Appeal found that evidence should have been excluded under s. 24(2), yet declined to order a retrial on the basis that no substantial wrong or miscarriage of justice had occurred.
+The impugned evidence was a hair sample which had been seized from the accused while he was detained, and which was matched with hair found on the motorcycle with which he was alleged to have made his getaway from the scene of a robbery.
+The court found a clear s. 8 violation and ruled that the seized hair should have been excluded under s. 24(2), but declined to order a new trial on the basis that the hair sample had limited probative value since the hair on the motorcycle could have been deposited at any time prior to the incident, and could not have factored very significantly in the conviction of the accused.
+132
+My colleague declines to apply s. 686(1)(b)(iii) in the present case on the basis that the admission of the evidence amounted to a "substantial wrong".
+Moreover, he relies upon John v. The Queen, [1985] 2 S.C.R. 476, for the proposition that appellate courts should not retry cases to assess the worth of residual evidence after improperly adduced evidence has been extracted.
+In John, this Court found that the prosecution improperly split its case so as to sandwich the defence, forcing the accused to testify a second time and face a second round of cross-examination on issues that related directly to credibility.
+The Court stated at p. 480 that, "[i]t is of course impossible to reconstruct this trial by jury so as to determine what the verdict would have been had this evidence not been presented".
+That case is very clearly distinguishable from the case at bar.
+133
+In the present case, although the murder weapon and the statement to Hall were significant pieces of evidence, the remainder of the case was so overwhelming as to make this an appropriate case in which to invoke the curative provisions of s. 686(1)(b)(iii) notwithstanding a finding that evidence should have been excluded under s. 24(2).
+Even without the impugned statement from Hall and the evidence of the actual gun, the Crown's case against the accused was unimpeachable.
+Evidence properly admitted at trial included the following: testimony from the appellant's father that he had found a pair of jeans and a vest with a floral pattern (the same clothing that other witnesses testified Worms had been wearing the night of her murder) in the back of the family pick-up truck the morning after the killing; testimony from the appellant's girlfriend, Hall, that she had found a vest of that description in his pick-up the next day, and that he had snatched it away from her; testimony that the accused was at the same nightclub as Worms on the night of the murder; testimony by a friend of the appellant (Biddlecome) that the appellant stole a .
+410 shotgun a few weeks before the murder of Worms; testimony from Biddlecome that the appellant had showed him the same shotgun with the barrel sawed off days before the killing; three .
+410 shotgun shells found in the appellant's vehicle; and testimony from Hall that the appellant had voluntarily told her, during the spring of 1985, that he had been present at the killing but that he had stood by while Biddlecome beat the victim and killed her.
+This statement definitively placed the appellant at the scene of the crime, and therefore left it to the jury to decide whether the murderer was the appellant or Biddlecome.
+In this respect, the accused did not testify, Biddlecome denied any involvement on the stand, and there was no evidence of beating found on the body.
+Finally, striking similar fact evidence was admitted into evidence concerning the almost identical killing of Hughes (to which the appellant confessed and had already been convicted) three months after the killing of Worms.
+134
+Moreover, I note the trial judge's warning to the jury as to the limited probative value of both the gun and the appellant's statement to Hall that he had directed police to its location:
+Now, I'm invading your function, but I do so deliberately, to caution you that that statement, if you accept it as truthful and accurate, that he took the police to where the gun was in the river, is not evidence that he, Burlingham, threw the gun in the river necessarily.
+It only goes so far as to show that he knows that somebody, and possibly including himself, but somebody put the gun in the river at that location.
+Given the appellant's assertions to Hall that he had seen Biddlecome kill the victim, it was open for the jury to conclude that the appellant had simply seen Biddlecome dispose of the weapon.
+In my view, the judge's sharp cautionary remarks to the jury on the use of the evidence is surely a factor in deciding whether "there [was] a reasonable possibility that the verdict would have been different", since this warning could have mitigated at least some of the prejudice that might flow to the accused as a result of an impermissible inference of consciousness of guilt.
+The gun, moreover, proved absolutely nothing about whether it was the appellant who committed the murder, since it could equally well have been Biddlecome, according to the appellant's tale to Hall.
+Although the appellant did not testify, defence counsel impressed upon the jury members in his closing address that they had heard the appellant's story through the mouth of Hall.
+135
+Having regard to all the circumstances, including the sharp warning issued by the trial judge, the reliance by defence counsel on the story of the murder told through the mouth of Hall, and the overwhelming case against the accused presented by the Crown at trial, I am satisfied that the absence or presence of either or both items of the impugned evidence would not have factored materially in the ultimate outcome.
+I am satisfied that there is no reasonable possibility that the verdict would have been different had the impugned evidence been excluded under s. 24(2) of the Charter.
+3.
+The Unfair Crown Conduct
+136
+In closing, I would like to turn very briefly to the Crown's conduct in repudiating the "deal" reached between the police officers and the appellant.
+I agree with my colleague's conclusion that the conduct of the authorities, though certainly contemptible, did not amount to one of the "clearest of cases" of abuse of process, requiring a stay of proceedings.
+I am also mindful of the fact that the trial judge found the police to have made an honest mistake and not to have acted with mala fides in breaking their bargain.
+Their misunderstanding of the Crown's offer may very well have been genuine.
+However, I firmly believe that the Crown acted in bad faith by charging the accused with first degree murder notwithstanding the fact that the Crown was aware that the police had misled the appellant who, in full reliance on the "deal" proffered by the police, had fulfilled his half of the bargain.
+Under the circumstances, and given that the Crown did not object to the police officers' presenting the "deal" on the Crown's behalf, it seems highly unfair and unjust to allow the Crown to act in total disregard for its agents undertakings, and to impose the consequences for such disregard upon the appellant.
+For this reason, I would find a violation of the principle of fundamental fairness under s. 7 of the Charter, as discussed in my reasons in R. v. S.(R.J.).
+Under the circumstances, while I do not believe that this case is one of the "clearest of cases" calling for a stay of proceedings, I am of the opinion that it would be appropriate and just under s. 24(1) of the Charter to require the Crown to uphold its half of the "deal", and for this Court to substitute a conviction for the lesser included offence of second degree murder for the present conviction of first degree murder.
+III.
+Disposition
+137
+I would dismiss the appeal but would substitute a conviction of second degree murder for the conviction of first degree murder imposed at trial, and return the case to the trial judge for proper sentencing in this respect.
+//Sopinka J.//
+The reasons of Sopinka, Cory Iacobucci and Major JJ. were delivered by
+SOPINKA J. --
+I agree with the reasons and conclusion of Justice Iacobucci but wish to address the point made by my colleague, Justice L'Heureux-Dube, that the Court has departed from the approach adopted in R. v. Collins, [1987] 1 S.C.R. 265, in favour of a rule of automatic exclusion.
+138
+The criticism made by my colleague closely parallels the opinion of Professor Paciocco who advocates a more literal and restrictive interpretation of s. 24(2) of the Canadian Charter of Rights and Freedoms.
+See David M. Paciocco, "The Judicial Repeal of s. 24(2) and the Development of the Canadian Exclusionary Rule" (1990), 32 Crim. L.Q. 326.
+Not surprisingly, commentators no less than the public differ as to the appropriate approach to the exclusion of evidence associated with a violation of a Charter right.
+See, for example, Yves-Marie Morissette, "The Exclusion of Evidence under the Canadian Charter of Rights and Freedoms: What to Do and What Not to Do" (1984), 29 McGill L.J. 521; R. J. Deslisle, "Collins: An Unjustified Distinction" (1987), 56 C.R. (3d) 216; Tim Quigley and Eric Colvin, "Developments in Criminal Law and Procedure: The 1988-89 Term" (1990), 1 S.C.L.R. (2d) 187; Steven M. Penney, "Unreal Distinctions: The Exclusion of Unfairly Obtained Evidence Under s. 24(2) of the Charter" (1994), 32 Alta. L. Rev. 782, at p. 800.
+While Professor Paciocco favours an approach that would be less exclusionary and, in his opinion, more in tune with the views of the average Canadian, Steven Penney, in his comprehensive article at p. 810, argues that by focusing on trial fairness, as opposed to the criminal justice system as a whole, we "render individual Canadians more susceptible to invasions of their constitutional rights".
+139
+Both Professor Paciocco and my colleague are of the view that the approach we have taken is out of step with the public mood.
+Quite apart from the admonitions of Lamer J. (as he then was) in Collins, at pp. 281-82, that individual rights are not to be submitted to an adjudication by the majority, there is no accurate assessment of public opinion.
+Adjusting the approach to Charter rights based on public opinion surveys is fraught with difficulties.
+This can be illustrated by reference to the empirical study to which my colleague refers by A. W. Bryant, M. Gold, H. M. Stevenson and D. Northrup, "Public Attitudes Toward the Exclusion of Evidence: Section 24(2) of the Canadian Charter of Rights and Freedoms" (1990), 69 Can. Bar Rev. 1.
+It purported to show "a significant gap between public and judicial opinion" (p. 45) regarding the application of the Collins factors.
+After publication of that study, a further study by the same authors, "Public Support for the Exclusion of Unconstitutionally Obtained Evidence" (1990), 1 S.C.L.R. (2d) 555, concluded at p. 557 that "taking into account some of the ambiguity in the case law, the gap between public and judicial opinion may not be that substantial over a broad range of cases".
+140
+The study concluded with the following warning, at p. 587:
+Whatever one's views on the merits or rationale of the exclusionary rule, our study illustrates the multi-faceted and complex nature of the public's judgments about admissibility.
+Levels of support for the exclusion of evidence varied considerably depending upon a number of factors, some of which were case-specific while others were attitudinal and demographic.
+In this respect, any argument for or against how judges apply section 24(2) that relies upon a supposedly monolithic "public opinion" clearly must be rejected.
+[Emphasis added.]
+141
+Had the Court reacted to the first study and altered its approach, the validity of cases decided under the altered approach would have been called into question by the subsequent study.
+It is for this reason that the test with respect to what could bring the administration of justice into disrepute was stated in Collins to be grounded in longer term community values rather than the public passion of the moment.
+These long-term community values are to be assessed in terms of the views of the hypothetical, reasonable, well-informed and dispassionate person in the community.
+R. v. Collins
+142
+The jurisprudence of this Court with respect to s. 24(2), subsequent to Collins, has generally evolved with due respect for stare decisis but also with due regard for the fact that as an early comprehensive statement of principles, it did not purport to be exhaustive or immutable.
+The key statement of principles in Collins is contained in the following passage at pp. 284-85:
+Real evidence that was obtained in a manner that violated the Charter will rarely operate unfairly for that reason alone.
+The real evidence existed irrespective of the violation of the Charter and its use does not render the trial unfair.
+However, the situation is very different with respect to cases where, after a violation of the Charter, the accused is conscripted against himself through a confession or other evidence emanating from him.
+The use of such evidence would render the trial unfair, for it did not exist prior to the violation and it strikes at one of the fundamental tenets of a fair trial, the right against self-incrimination.
+Such evidence will generally arise in the context of an infringement of the right to counsel.
+Our decisions in Therens [[1985] 1 S.C.R. 613] and Clarkson v. The Queen, [1986] 1 S.C.R. 383, are illustrative of this.
+The use of self-incriminating evidence obtained following a denial of the right to counsel will generally go to the very fairness of the trial and should generally be excluded.
+It is apparent that the words "conscripted against himself through a confession or other evidence emanating from him" necessitated further definition in subsequent cases.
+143
+Whether it was ever so intended, it soon became apparent that real evidence and evidence emanating from the accused were not mutually exclusive categories of evidence, and in R. v. Ross, [1989] 1 S.C.R. 3, Lamer J. explained at p. 16 that:
+...
+the use of any evidence that could not have been obtained but for the participation of the accused in the construction of the evidence for the purposes of the trial would tend to render the trial process unfair.
+The rationale for this view is that it is unfair for the Crown to make out its case in whole or in part by the use of evidence that it obtained in breach of the rights of the accused and involving his or her participation.
+La Forest J. addressed this point in Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425, stating at p. 553:
+A breach of the Charter that forces the eventual accused to create evidence necessarily has the effect of providing the Crown with evidence it would not otherwise have had.
+It follows that the strength of its case against the accused is necessarily enhanced as a result of the breach....
+In contrast, where the effect of a breach of the Charter is merely to locate or identify already existing evidence, the case of the ultimate strength of the Crown's case is not necessarily strengthened in this way.
+The fact that the evidence already existed means that it could have been discovered anyway.
+Where this is the case, the accused is not forced to confront any evidence at trial that he would not have been forced to confront if his Charter rights had been respected.
+[Emphasis added.]
+144
+The participation of the accused in providing incriminating evidence involving a breach of Charter rights is the ingredient that tends to render the trial unfair as he or she is not under any obligation to assist the Crown to secure a conviction.
+See R. v. Genest, [1989] 1 S.C.R. 59, at p. 83.
+Serious breaches of the Charter which do not involve the participation of the accused may result in the exclusion of the evidence under the second branch of the Collins test.
+145
+My colleague accepts the Collins test and that its application would satisfy the hypothetical reasonable person.
+Specifically, she does not criticize the principle that the admission of evidence that would render the trial unfair would bring the administration of justice into disrepute.
+A fair trial is the sine qua non of our justice system and it is hard to conceive of a situation in which it could be said that an unfair trial resulting in a conviction did not depreciate the repute of our system of justice.
+My colleague's criticism is with respect to the kind of evidence that can result in an unfair trial.
+In her view, only the admission of evidence that is not reliable by reason of some connection with state action amounting to a Charter breach can render the trial unfair (the "reliability principle").
+Other state conduct which runs afoul of common law and Charter protections is grouped under the "fairness principle".
+The fairness principle "recognizes the vital importance in ensuring that the state treat each individual in accordance with basic principles of decency and fair play" but violation of the fairness principle cannot render the trial unfair.
+A violation of the fairness principle may in certain circumstances result in the exclusion of evidence provided that the breach of the Charter protection is so serious that its admission would bring the administration of justice into disrepute.
+146
+I have great difficulty in appreciating how the application of these two principles as suggested by my colleague constitutes a return to Collins.
+Nowhere in Collins is the fairness of the trial equated with the reliability of the evidence.
+The description used in Collins as to the kind of evidence that could render a trial unfair was "a confession or other evidence emanating from him" (p. 284).
+Leaving aside the words "or other evidence emanating from him", even the admissibility of a "confession" is not determined solely on the basis of reliability.
+Prior to the Charter and at common law, reliability ceased to be the exclusive basis for excluding confessions.
+See Rothman v. The Queen, [1981] 1 S.C.R. 640, R. v. Hebert, [1990] 2 S.C.R. 151, especially at p. 207, R. v. Whittle, [1994] 2 S.C.R. 914, at p. 932, and R. v. Sang, [1980] A.C. 402.
+It could hardly be suggested that exclusion of involuntary confessions did not relate to the fairness of the trial.
+The reliability principle would, therefore, impose a more restrictive exclusionary rule than that which existed at common law.
+Its preoccupation with the probative value of the evidence would also appear to be a close relative of the rule in R. v. Wray, [1971] S.C.R. 272.
+At page 293, Martland J. stated:
+...
+the exercise of a discretion by the trial judge arises only if the admission of the evidence would operate unfairly.
+The allowance of admissible evidence relevant to the issue before the court and of substantial probative value may operate unfortunately for the accused, but not unfairly.
+It is only the allowance of evidence gravely prejudicial to the accused, the admissibility of which is tenuous, and whose probative force in relation to the main issue before the court is trifling, which can be said to operate unfairly.
+Wray was widely criticized, has not been followed by this Court and was not the basis for the exclusionary power adopted by the Charter in s. 24(2).
+See Anne McLellan and Bruce Elman, "The Enforcement of the Canadian Charter of Rights and Freedoms: An Analysis of Section 24" (1983), 21 Alta. L. Rev. 205, at p. 230; Penney, supra, at p. 794; R. v. S. (R.J.), [1995] 1 S.C.R. 451, per L'Heureux-Dube J., at pp. 583-84.
+147
+It is not accurate to characterize the first branch of the Collins test as an automatic rule of exclusion with respect to all self-incriminating evidence.
+While a finding that admission of illegally obtained evidence would render the trial unfair will result in exclusion, the Court must first conclude that "in all the circumstances" the admission of the evidence would render the trial unfair.
+148
+R. v. Tremblay, [1987] 2 S.C.R. 435, and R. v. Mohl, [1989] 1 S.C.R. 1389, illustrate the kinds of circumstances that can be taken into account to secure admission of the evidence even in the case of a breach of the right to counsel under s. 10(b) of the Charter.
+Discoverability
+149
+The discoverability or "but for" test which my colleague criticizes can also be traced to Collins.
+At page 285, Lamer J. stated that, in relation to the factors relating to the fairness of the trial, "[i]t may also be relevant, in certain circumstances, that the evidence would have been obtained in any event without the violation of the Charter".
+In R. v. Ross, supra, in relation to evidence that could be classed as real evidence, he observed that the fairness of the trial would be affected by "the use of any evidence that could not have been obtained but for the participation of the accused" [emphasis added].
+In R. v. Dersch, [1993] 3 S.C.R. 768, at p. 781, my colleague L'Heureux- Dube J. states:
+Pursuant to Collins, supra, the admission of evidence that would have been unlikely to have been discovered, had the Charter violation not occurred, severely affects the fairness of the trial.
+On the other hand, if the evidence had been discoverable regardless of the Charter violation, the fairness of the trial will not be influenced.
+150
+While the Court has not decided the extent to which discoverability is relevant in all aspects of the Collins test, it has been applied to admit evidence (R. v. Black, [1989] 2 S.C.R. 138) as well as to exclude evidence (R. v. Mellenthin, [1992] 3 S.C.R. 615).
+151
+The distinction that was made in Collins between real evidence and evidence emanating from the accused was based, at least in part, on the rationale that real evidence (or things) can be discovered without the participation of the accused.
+They pre-existed the state action which is called into question, and were there to be discovered by investigative means not involving the accused.
+In a situation such as R. v. Ross in which this distinction is blurred, discoverability has been used to place the evidence in one or other of these two categories.
+If the evidence was discoverable without the participation of the accused, then it has the attributes of real evidence.
+Conversely, evidence that clearly emanates from the accused such as statements has not been subjected to the discoverability analysis.
+While it can be argued that when an accused has been denied the right to counsel under s. 10(b), an inquiry could be made as to whether the accused would have acted differently had his Charter rights been observed, the Court has generally refused to enter into such an inquiry.
+See R. v. Strachan, [1988] 2 S.C.R. 980, at p. 1002; R. v. Elshaw, [1991] 3 S.C.R. 24, at pp. 43-44; R. v. Bartle, [1994] 3 S.C.R. 173, at pp. 217-18.
+Unless the right to counsel is waived by the accused, such a breach generally results in the exclusion of the evidence.
+152
+Various proposals have been made as to the future direction that this Court should take with respect to s. 24(2).
+Some would favour an approach that is less exclusionary and others more exclusionary.
+It has been suggested that the distinction between real and other evidence be eliminated as well as any distinction between the nature of the Charter right that has been infringed.
+See Deslisle, supra.
+It has been proposed that the distinction based on participation of the accused be eliminated, and that discoverability be the main touchstone of admissibility (R. v. Meddoui (1990), 61 C.C.C. (3d) 345, at p. 364).
+See Quigley and Colvin, supra.
+153
+While we have not rushed in to adopt every current theory on the application of s. 24(2), these are serious proposals that have been and should be taken into account in the incremental evolution of the jurisprudence in this area.
+Accordingly, as my colleague Iacobucci J. points out, the distinction between real and conscriptive evidence is not treated as determinative and greater emphasis has been placed on the discoverability or "but for" test.
+See Mellenthin, supra.
+In my opinion, we should proceed to develop the law relating to s. 24(2) on this basis rather than adopt the new approach advocated by my colleague L'Heureux-Dube J.
+In my view, our approach to date is more consistent with Collins and therefore with stare decisis.
+Moreover, I believe it strikes the appropriate balance between a restrictive versus a liberal exclusionary rule, and therefore is more faithful to the values that the Charter protects.
+154
+//Gonthier J.//
+The following are the reasons delivered by
+154
+GONTHIER J. --
+I have had the benefit of the reasons of Justices L'Heureux-Dube, Sopinka and Iacobucci.
+I consider that those of L'Heureux-Dube J., read together with the comments of Sopinka J., contribute to a proper understanding of the principles governing the exclusion of evidence under s. 24(2) of the Canadian Charter of Rights and Freedoms.
+I am in agreement with Iacobucci J. that the accused's statement to Ms. Hall is to be excluded as well as the gun and its location, the discovery of which could be made possible by this statement.
+The making of this statement which recounted the carrying out by the accused of his part of the deal made with the police officers was intimately connected to that deal which was obtained through the highly egregious conduct of the police officers in pressing the accused to confess and systematically undermining the role of defence counsel.
+This conduct was a Charter violation of the most serious kind, bringing into play both the Reliability and the Fairness Principles referred to by L'Heureux-Dube J. though other evidence served to allay concern as to reliability.
+The charge of first degree murder is, it is true, one of the most serious known to the criminal law.
+In the circumstances, however, it is my view that the admission of this evidence would tend to bring the administration of justice into disrepute in the eyes of a reasonable person, dispassionate and fully apprised of the circumstances.
+The evidence should therefore be excluded.
+The accused must be tried for his crime but without having to face evidence which is the product of egregious police misconduct.
+155
+At the same time, in agreement with the reasons of Iacobucci J., I am not prepared to apply the curative provision of s. 686(1)(b)(iii) of the Criminal Code, R.S.C., 1985, c. C-46.
+The extreme egregious conduct of the police in this case casts a pall on the perception of fairness of the whole trial process and constituted a substantial wrong for which the proper remedy is a new trial.
+While miscarriage of justice in s. 686(1)(b)(iii) may focus on avoiding conviction of the innocent, substantial wrong (which, I note, does not appear in s. 686(1)(a)(iii)) may be more encompassing.
+156
+I therefore concur in the disposition of this appeal by Iacobucci J.
+Appeal allowed, L'HEUREUX-DUBE J. dissenting in part.
+Solicitor for the appellant: Sheldon Goldberg, Vancouver.
+Solicitor for the respondent: The Ministry of the Attorney General, Vancouver.
+- 1 -
+.

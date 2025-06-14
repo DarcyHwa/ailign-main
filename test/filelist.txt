@@ -1,0 +1,4 @@
+# ici Certon joue le rôle de pivot. Les correspondances seront enregistrées seulement dans les fichiers 2, pointant vers le fichier 1 (Certon)
+./test/ILIADE(1)_1615_Certon_fr.xml	./test/ILIADE(1)_1537_Divus_la.xml
+./test/ILIADE(1)_1615_Certon_fr.xml ./test/ILIADE(1)_1544_Gussano_it.xml
+./test/ILIADE(1)_1615_Certon_fr.xml	./test/ILIADE(1)_1564_LaBadessa_it.xml

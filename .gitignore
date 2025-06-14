@@ -1,0 +1,6 @@
+embeds
+__pycache__
+old
+*.zip
+*.log
+*.sh

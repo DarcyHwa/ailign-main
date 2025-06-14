@@ -1,0 +1,7563 @@
+
+    <?xml version="1.0" encoding="utf-8" ?>
+    <!DOCTYPE tmx SYSTEM "tmx14.dtd">
+    <tmx version="1.4">
+      <header
+        creationtool="AIlign"
+        creationtoolversion="1.0"
+        datatype="unknown"
+        segtype="sentence"
+        mean_score="706.8524"
+      >
+      </header>
+      <body>
+    <tu>
+	<tuv xml:lang="l1">
+		<seg>Deesse je te prie apren moy et me chante</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du Pelide Achilles la colere sanglante</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>DEL magnanimo Achille il fiero sdegno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui nuisit tant aux Grecs, leur porta tant de maux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Canta celeste Dea, l’ira, e’l furore;</seg>
+		<seg>Ch’a’ Greci fù cagion di tanti affanni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'elle força descendre aux regnes Infernaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et mandò ad habitar nel basso Inferno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les plus braves Espricts de leurs bons Capitaines</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di molti Heroi l’altere alme, et superbe;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De leurs chefs genereux, exposant par les plaines</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rimanendo per preda in ogni parte</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Leurs corps auparavant tant forts tant estimez,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Aux oiseaux devorants et aux chiens affamez.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I cadaveri lor d’augelli, et cani.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Du puissant Iupiter l'ordonnance fut telle; </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fù ben ciò per voler del sommo Giove:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des le premier instant qu'entrirent en querelle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Però che già dinanzi a tanta strage</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et furent divisez Achille au divin nom;</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>S’eran trà lor posti in discordia, et gara</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et des hommes le Roy l'Atride Agamemnon.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il Rè de’ Greci Agamennone altero</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Quel des Dieux leur causa contention si grande?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Co’l divo Achille. Qual de gl’alti Dei</seg>
+		<seg>Lor permise à pugnare, à far contesa?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce fut le Fils du Dieu qui sur le Ciel commande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di Latona, et di Giove il figlio, irato</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que Latone enfanta. Car il se courrouça</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Co’l Rè, che per punir suo fiero orgoglio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au Roy Agamemnon, et la Peste poussa</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venir fè nel suo essercito la peste,</seg>
+		<seg>E’l morbo così pessimo, et crudele,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dans le camp, dont avint un horrible ravage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che ne morian miseramente ogn’hora</seg>
+		<seg>I popoli, che seco eran nel campo:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pource qu'il avoit dict vilenie et outrage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per l’ingiuria, ch’ei fatto, e’l grave oltraggi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A Crise havea, che del Dio Apolline era</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A son Prestre Chrises s'en venant aux vaisseaux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ministro, et venerando Sacerdote.</seg>
+		<seg>Era costui di Crisa Isola, et padre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour rachetter sa fille, avec presens fort beaux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’unica figlia al mondo accorta, et bella,</seg>
+		<seg>Di verde etade; à cui, di sè prendendo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et de la patria il nome, il nome impose</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Criseida. Hor costei, mentre che Thebe</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Espugnavano i Greci, e quei confini</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Metteano à sacco, presero, e cattiva</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La presentaro al lor Rè Agamennone,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Come cosa di lui ben degna, in dono;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O’n parte pur de la già fatta preda,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che per dritto, et ragion se gli devea.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mà come fer poi subito ritorno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et en grand quantité: Dans ses mains la Couronne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Già tutti à Troia, Ecco il suo padre Crise,</seg>
+		<seg>Ch’ivi ne vien, con infiniti doni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le beau sceptre d'or, du clair fils de Latone</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per ricomprar dal Rè l’amata figlia;</seg>
+		<seg>In man portando le corone sacre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apollon loin-tirant. Il prioit ardamment</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del saettante Apolline, e’l diadema</seg>
+		<seg>Sacro, del Dio, co’l ricco scettro d’oro:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tous les Grecs pour sa fille, et principalement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et da’ Principi entrando, et da gli Heroi</seg>
+		<seg>De’ Greci, e’nnanzi à tutti Agamennone,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et Menelao guardando, riverente</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Atrides Germains deux des chefs de la flotte.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Prese loro à parlar con tai parole.</seg>
+		<seg>Potentissimi Rè d’Atreo figliuoli,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Atrides, et vous tous Grecs a la belle-botte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et voi altri signor del Greco stuolo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Dieux dessus les lieux celestes habitans</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cui gl’eterni Dei la gran Cittade</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vous facent prendre Troye, et retourner contans</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di Troia, ove già tutti intenti sete,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Heureusement chez vous, Je vous pry' de me rendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Donin, che sia per le man vostre presa:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ma fille bien-aymee, et ces beaux presens prendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rendete à me l’unica mia figliuola,</seg>
+		<seg>Sol del misero padre unica speme;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De moy, pour sa rançon, Respectez, reverez</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Prendendo pur da mè per ricompensa</seg>
+		<seg>Questi ch’io porto preciosi doni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apollon de si loing jettant ses traicts dorez.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’oltre ch’à me fia caro, al sacro Apollo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di cui son’io ministro, et Sacerdote,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et di cui son questi ornamenti tutti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’io porto, renderete immenso honore.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cotal prieghi tutti gl’altri Heroi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si commossero, et Principi, assentendo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Grecs trouverent bon qu'on portast reverence </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’al padre sia renduta la donzella;</seg>
+		<seg>Come far si devea, ch’era ben giusto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au prestre, et qu'on receust pour ceste delivrance </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di compiacerlo; sì per gl’ampi doni,</seg>
+		<seg>Che per riscatto suo pronto arrecava,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Come perche d’Apolline ministro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les dons qu'il presentoit, Mais le faict irrita</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Era, et sì venerando Sacerdote:</seg>
+		<seg>Che mandarnelo senza era mal’atto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'Atride Agamemnon, qui fort le rebuta</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sol l’altero, et superbo Agamennone</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et luy tint des propos d'ire et de mal-encontre. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fù di voler contrario, et no’l consente;</seg>
+		<seg>Mà dal noioso dir turbato forte</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vieillart, garde toy bien que je ne te rencontre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del vecchio sì, com’ancho per havervi</seg>
+		<seg>Contra ogni suo sperar gl’altri assentito,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Altero in tal parlar la lingua sciolse.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vecchion ti dico, et chiar ti fo, e palese,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Autour de ses vaisseaux pour y faire sejour,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che per questa cagion, c’hor ne venisti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et non plus pour y faire apres aucun retour:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non osi più di rinovar parola;</seg>
+		<seg>Ne d’hoggi in là fa più ch’io ti rivegga</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je ne respecterois ny Sceptre, ny Couronne.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Altra volta vicino à queste navi;</seg>
+		<seg>Ch’altrimenti io ti giuro, e ti prometto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour celle que tu dis, tant qu'elle soit grisonne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che quel tuo scettro, et coteste Corone</seg>
+		<seg>D’allor, del Dio, poco ti gioveranno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je ne la lascheray, mais elle s'en viendra</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Costei (per farten chiaro) io mai partire</seg>
+		<seg>Non lascierò dal lato mio, che prima</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En Argos ma maison, part de mon lict prendra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quinci lontan ne la mia patria in Argo</seg>
+		<seg>Non ne la meni, ove nel mio palagio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Coudra, travaillera, bien loing de sa patrie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vecchia divenga, opra à la tela dando,</seg>
+		<seg>Et giacendosi meco al proprio letto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais desloge d'icy, n'irrite ma furie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vattene dunque quinci quanto prima</seg>
+		<seg>Puoi, dal cospetto mio, ne ad infestarmi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'il ne t'en prenne mal. Il dit, et le vieillart</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Seguir vogli più già, s’ir ne voi salvo.</seg>
+		<seg>Ciò ‘l vecchio udendo, e’l suon de le parole,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Craignant lui obeit, et cheminant à part .</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rimase molto attonito, et confuso;</seg>
+		<seg>Onde ben tosto le navi lasciando,</seg>
+		<seg>Tacito, e mesto in dietro fè ritorno;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pres du bord de la mer, il faisoit sa priere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ver la riva del mar drizzando il passo.</seg>
+		<seg>Et poi che da le tende allontanato</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si fù gran pezza, con dirotto pianto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Ardante affection au Dieu donne lumiere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gl’occhi alzando sù al Cielo humidi, e gravi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'avoit jadis Latone aux beaux poils enfanté. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Apolline pregò con queste voci.</seg>
+		<seg>Sacro Apollo di Giove, et di Latona</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Escoute moy, dit-il, Dieu à l'arc argenté,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Chiara, illustre progenie, alta, et famosa,</seg>
+		<seg>Potente Apollo, cui co’l lucente arco,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sminthien, qui te tiens dans Cille la divine,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che d’argento in man porti, in honor’hanno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont la force dans Chryse, et Tenedos domine,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Color, c’habitan Cilla, e Crisa, et quelli,</seg>
+		<seg>Che dimorano in Tenedo, et à Sminta:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si jamais à ton gré, j'ay ton Temple honoré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se mai grati ti fur gl’uffici miei,</seg>
+		<seg>L’ornar de’Tempi, et l’honorate feste,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Le solennità fatte, e i sacrifici</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di Capre opimi, et d’imolati Tori;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si j'ay bruslé jamais, pour ton nom reveré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Odi, et intendi hor’il tuo Sacerdote,</seg>
+		<seg>Che si afflitto t’invoca; et essaudisci</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des chèvres, des taureaux les cuisses les plus grasses. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del miser padre i tanto giusti prieghi.</seg>
+		<seg>Manda gran Dio co’l tuo possente braccio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je te pry' qu'en cecy mes desirs tu parfaces:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I pungenti tuoi strale, et le saette</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que les Grecs par tes traicts ayent le chastiment</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mortifere, nel campo al Greco stuolo:</seg>
+		<seg>Che dia la pena del tanto dolore,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour mes pleurs mesprisez. Il prioit humblement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E de le tante lagrime, c’hò sparso</seg>
+		<seg>Per lor cagion, del ricevuto oltraggio.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Phoebus exauça son ardante priere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I cui prieghi essaudendo allhora Apollo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si descendit soudain le cœur en grand colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du sommet de l'Olympe, ayant l'arc sur son dos</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Scese à un tratto dal Ciel, di sdegno pieno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et la trousse couverte ou main trait estoit clos:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E d’ira acceso, nubiloso, e cinto</seg>
+		<seg>D’horror’intorno, à la notte simile.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au pris que s'esbranloit le Dieu tout flambant d'ire, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E nel discender, per la furia molta,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>On oyoit la dedans les traicts, sonner et bruire, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si scuotean le saette, e s’udia il suono</seg>
+		<seg>Ne la ricca faretra, in sù sbalzando,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il vint comme une nuict, se voulut retirer </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con l’arco anchor, che pendea dal tergo:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A l'écart des vaisseaux, puis se prit à tirer, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E ver le navi, e i Greci padiglioni,</seg>
+		<seg>Con empito n’andò ratto, e veloce;</seg>
+		<seg>E fermandosi à lor poco lontano</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et l'arc d'argent rendoit un son espouventable.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per nove giorni, et altrettante notti</seg>
+		<seg>Con suono horrendo, saettando strali,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En premier il frappa d'une playe incurable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Le bestie prima, e gl’animai percosse,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les mulets et les chiens, et puis tirant aux Grecs</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dessus eux il lascha ses pestiferez traicts:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E poi gl’huomini appresso, in tal maniera,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>On voyoit les corps morts sur les buchers étendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’ogni giorno di morti horribil monte</seg>
+		<seg>Abbruciar si vedea nel mesto campo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sans relasche aucun estre reduits en cendre.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Durant neuf jours entiers le mortifere étour</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mà venendo il di decimo, e si horrenda</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Courut par tout le camp. Mais au dixiesme jour, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Strage vedendo Pallade, à pietade</seg>
+		<seg>Commossa assai di lor miseria tanta,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achilles convoqua le peuple à l'assemblee, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che si in particolar tutti affligea:</seg>
+		<seg>Del magnanimo Achille apri la mente,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Incité par Iuno, de qui l'ame troublee,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che sopra ciò al Senato ragionasse,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Prenoit pitié de voir les Grecs ainsi mourir,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E de’ Greci al concilio, ò dar riparo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et desirant leur bien les vouloit secourir. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al cui richiamo dunque uniti insieme</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand ils furent venus, de voix et haulte et forte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sendo i popoli, i Principi, e gl’Heroi,</seg>
+		<seg>E’n un luogo ridotti ivi sedendo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achilles se levant parla de ceste sorte.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ciascuno; Achille in piè ritto levosse</seg>
+		<seg>E lor prese à parlar, cosi dicendo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Fils d'Atreus, je voy qu'il faudra que cet ost </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Eccelso Agamennon, vana la speme</seg>
+		<seg>Nostra, per quanto i veggio, fia; che senza</seg>
+		<seg>Vittoria haver de la Troiana impresa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Errant encore un coup s'en retourne bien tost, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Saremo astretti in dietro à far ritorno,</seg>
+		<seg>Se pur ritorno far ci fia concesso,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au moins si nous pouvons fuyr la mort funeste,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E la morte schivar, c’hor ci stà sopra;</seg>
+		<seg>Per ciò che già quasi i Soldati tutti</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car les Grecs sont batus et de guerre et de peste</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tolti ci son, da l’aspra guerra parte,</seg>
+		<seg>E parte da la peste, c’hor c’è intorno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Prests d'estre consumez. Mais s'il te semble bon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde la via miglior parmi, che saggio</seg>
+		<seg>Sia consiglio pigliarne, e alcun parere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sçachons de quelque Prestre ou devin de renom,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da qualche saggio Aruspice, ò Indovino,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>ou de quel'un qui sçache interpreter les songes, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O’nterpetre di sogni; che di Giove</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Car les songes toujours ne tournent en mensonges</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sono i sogni, et chiarir Giove sovente</seg>
+		<seg>I dubbi suoi; ch’à noi poi riferire</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ains sont, de Jupiter) pourquoy ce grand courroux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La cagion debba, ch’à tant’ira hà mosso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De Phoebus Apollon est si fort dessus nous:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Febo contra di noi, quant’hor si mostra:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si c'est que n'ayons pas deuement offert l'offrande,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se’l suo sdegno fors’è per non gli havere</seg>
+		<seg>Noi sodisfatto alcun debito voto,</seg>
+		<seg>O sacrifici pur non fatto, come</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et l'hecatumbe deue à sa Deité grande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La santa, e giusta legge richiedea;</seg>
+		<seg>O s’altra egli hà cagion di giusto sdegno:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ou si par les brebis que nous luy offririons,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Appresso poi, con purgamento quale,</seg>
+		<seg>Forse sacrificando agnelli, ò capre,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et par les boucs entiers que nous luy brulerions,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mitigarlo possiam, che da noi questa</seg>
+		<seg>Peste, che ci mandò fiera, via tolga.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il nous voudroit oster ceste peste meurtriere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Calcante figlio di Testore allhora,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille aux pieds legers dit en ceste maniere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tacendo Achille, in piè dritto levosse:</seg>
+		<seg>Huom frà tutto l’essercito migliore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’ogn’altro era costui, molto eccellente</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’indovinar ne la scientia sperto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis Calchas se leva le divin predisant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’ei da l’stesso Apolline havea appreso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui sçavoit le passé, le futur, le present, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>L’arte, et fattone lunga isperienza;</seg>
+		<seg>E sapea del passato, e del presente,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qui pour son sçavoir et pour la prophetie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E del futuro dar chiara certezza;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que Phoebus Apollon luy avoit départie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cui, venendo di Troia à l’alta impresa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'en vint avec les Grecs, guide des grands vaisseaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I Greci, menar seco, argomentando</seg>
+		<seg>Deversene servir per guida, mentre,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui venoient contre Troye à la faveur des eaux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>(Come già fer) del mar solcavan l’onde.</seg>
+		<seg>Dunque costui, come che savio molto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si parla sagement à toute l'assistance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fosse, e prudente, lor mirando intorno</seg>
+		<seg>In tai parole allhor la lingua sciolse.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Achilles aymé de Dieu, veux tu que je m'avance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O magnanimo Achille, amico à Giove,</seg>
+		<seg>Commandi, e vuoi ch’io qui in publico spanda,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin de declarer d'où peut venir au vray</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E manifesti la cagion secreta,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le courroux d'Apollon? Doncques je le diray, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’ad Apolline il cor si d’ira accese:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais tout premierement promes moy et me jure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per ubbidirti io’l farò già, ma prima</seg>
+		<seg>Io vò che tu à l’incontro mi prometta</seg>
+		<seg>Con ben sacro, e solenne giuramento,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che se per tal cagion periglio mai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu me deffendras et d'outrage, et d'injure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per venir me ne fia di morte, ò danno,</seg>
+		<seg>Che non m’habbi à lasciar senza diffesa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se mestier fusse oprar la lingua, ò l’arme.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De parole et de mains. Car je prevoy qu'un grand</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ciò so ben’io, che contro di me fiera</seg>
+		<seg>Mente, s’hà di sdegnar colui, cui sono</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui dessus tous les Grecs Empire et regne prend,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I Greci tutti pronti ad ubbidire</seg>
+		<seg>Né commandi, et à far sue voglie ogn’hora.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» S'en courroucera fort. Un Roy a grand puissance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne fia molto à me già s’hoggi sol scampo</seg>
+		<seg>Mi dai da tal periglio, ò magno Achille,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se non disponi à farlo ogn’hora, et sempre.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Sur un moindre que luy quand il croit qu'il offence.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perciò ch’un Rè, un Signor meco, il qual sono</seg>
+		<seg>Di lui minor, sdegnato, et da me offeso;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et bien qu'il ayt ce jour son courroux digeré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Benche alquanto dissimuli lo sdegno,</seg>
+		<seg>E di far la vendetta si ritenga,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il garde toutesfois son estomac iré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non si scorda però l’offesa mai;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tant qu'il s'en soit vangé. Donne moy donc parole</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma ricerca d’ogn’hor pronta cagione</seg>
+		<seg>Di poter sodisfar l’animo altero:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu me deffendras. Achille au pied qui vole,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde se vuoi, se mi commandi, ò Achille,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy respondit ainsi, Parle, dy hardiment </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’io facci hor chiar l’alto divin secreto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que te dit le cœur: Car je te fay serment, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’ndovinando la cagion m’esprima;</seg>
+		<seg>Rispondi hor già, se tu Calcante vuoi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et te jure Apollon dont tu tiens ta science,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et puoi salvo campar d’ogni periglio,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qui t'en fait donner aux Grecs l'inteligence,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E nel tempo à venir d’ogn’altra offesa.</seg>
+		<seg>A cui cosi rispose, e disse Achille.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que nul, tant que le cœur là dedans me batra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non temer, mio Calcante, ma sicuro</seg>
+		<seg>Dichiara homai quanto nel petto interno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hai del divin presagio innanzi à ogn’uno;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’io per Febo ti giuro, di cui dire</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>T’apparecchi l’oracolo, che mentre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que mes yeux verront, dessus toy ne mettra</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I vivo sia, mentre che sù la terra</seg>
+		<seg>Ir veduto sarò, per tal cagione</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les mains pour t'outrager, De tous ceux qui sur l'onde</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verun non mai l’ingiuriose mani</seg>
+		<seg>Contro te stenderà, dico veruno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ont amené les Grecs à la perruque blonde:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di quanti Greci à queste navi intorno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mesme quant ce seroit le Roy Agamemnon, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hoggi vi son, ne Agamennone istesso,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont si grand est la force, et si grand le renom,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’è il maggior d’ogni Principe, e signore;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont l'authorité grande et la force estimee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour le jourd'huy commande à toute ceste armee.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quando pur contro lui fosse il presagio.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots s'asseura le bon devin Calchas. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Allhora il saggio aruspice Calcante,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour les vœuz, ce dit il, qu'on ne luy paye pas, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Già deposto il timor, non per alcuna,</seg>
+		<seg>Disse, Apollo cagion, che sia già detta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et moins pour les cent bœufs, le Dieu ne nous accuse, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contra voi s’è così commosso à sdegno;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais pource que sa fille à son Prestre on refuse,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mà sol perche il suo Sacerdote Crise</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'on n'accepte ses dons, pource qu'Agamemnon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’Agamennon l’ingiuria hà ricevuto,</seg>
+		<seg>E spregiato da lui, non gli rendendo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La figliuola, poi che di suo riscatto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'a par trop outragé, l'Archer Phoebé Apollon, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Offeria il prezzo, e tanti ricchi doni.</seg>
+		<seg>Onde per ciò questa ruina fiera</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nous a fait tous ces maux, prest à les faire encore</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hà mandato, e maggior per mandar fia.</seg>
+		<seg>Ne prima darà fine à tanto danno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans retenir ses mains du mal qui nous devore</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’al padre sia renduta la sua figlia,</seg>
+		<seg>Senza che prezzo alcun se ne riceva:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'à son pere chery ne soit premierement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poi che allhora ch’à darnelo già venne</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La Pucelle aux yeux noirs remise franchement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per lei, da noi ricever non si volle.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je dy sans que rançon pour la rendre soit prise,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E carca à lui si mandi ella di doni,</seg>
+		<seg>Ond’egli possa sacrificio farne;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qu'on n'envoye apres une hecatumbe en Chryse:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Però che allhor, quand’ei da noi qui venne</seg>
+		<seg>Recando i doni, hebbe da noi dispregio.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout cela fait, peut-estre on le rapaisera,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Allhor; tanto per che, cosi facendo,</seg>
+		<seg>Sodisfarem da noi; quanto pe’ prieghi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Persuadé possible, il se retirera. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di Crise, amico Febo ci faremo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ayant dit, il s'assit. Alors le fils d'Atree</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ricevendo da lui l’amata pace.</seg>
+		<seg>Detto cosi, si ritornò a sedere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Agamemnon, ayant l'ame de dueil outree,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Calcante; Agamennon sorgendo allhora,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plein d'extreme depit, le cœur noir au dedans</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dimostrando nel volto, e per la faccia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De coleres humeurs, et les deux yeux ardans,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’ira un’incendio, e gl’occhi torti intorno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme un éclair de feu, plus rouge que la braize,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Girando, che parean di foco accesi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy dit, le regardant d'une œillade mauvaise. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Affissando Calcante; O indovin, disse,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Malencontreux Devin, qui jamais ne me dis </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Augoroso à me sempre; e non mai bene,</seg>
+		<seg>Allegrezze non mai, non mai gioconde</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chose qui me sceut plaire, Et qui quand tu predis</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cose, indovinerai ad Agamennone?</seg>
+		<seg>Quasi ch’egli t’aggradi, e sia diletto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du mal'heur, ce plaisir grandement te console,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’annontiarmi nuove avverse, e fiere;</seg>
+		<seg>Perche paia tu stesso al tuo pensiero</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui jamais ne peus dire une bonne parole,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Conforme, osi di dir cotal ruina</seg>
+		<seg>Haver per mia cagion nel Greco stuolo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Moins faire un bon effect, Tu presche maintenant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Febo eccitato; perch’io non fossersi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu vas encor' asteure aux Gregeois devinant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Render la figlia al padre, et ricusai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que la cause des maux dont Phœbus nous bourrelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I suoi doni accettar, per suo riscatto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Est que je ne veux pas delivrer la pucelle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne in secreto, ò’n disparte m’ammonisci,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La belle Chryseis, et que du beau present</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma’n publico, e nel mezo del concilio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'on faict pour la r'avoir je me rends refusant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Scuopri quel c’hai nel cor, senza rispetto,</seg>
+		<seg>Senza punto mirar, s’egli m’offenda.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car de l'avoir chez moy, j'avois desir extrême</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Egl’è ben ver, à ciò che ritorno i facci</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et de la preferer à Clytemnestra mesme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A voi, de’ Greci Principi, et Heroi,</seg>
+		<seg>E già’l confesso, che preso d’Amore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que fille j'espousay. Pour ce qu'en aucun point</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Son de la donna; e la mia vita insieme</seg>
+		<seg>In Argo con lei far disposto havea</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ceste-cy n'est rien moindre, et ne luy cede point,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Come colei, che più degna che meco</seg>
+		<seg>Si giaccia, sia, che Clitennestra istessa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De beauté, d'art, d'esprit, ny de menagerie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che mia moglie è; perche di faccia, e membre,</seg>
+		<seg>Di costumi, d’ingegno, e finalmente</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di quanto s’appartien di donne à l’opre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Toutesfois pour cela je ne veux pas qu'on crie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non essa pur, ma ogn’altra donna avanza.</seg>
+		<seg>Mà s’egli pur cosi convien, ch’al padre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je la rends volontiers, s'il est meilleur aussi,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La donzella sia resa, hor hor si renda.</seg>
+		<seg>Per cio ch’io tal non son, che più mi piaccia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je ne veux que pour moy le peuple meure ainsi,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lasciar perire il popol tutto, ov’io</seg>
+		<seg>Cercassi compiacer l’animo, e’l senso;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che far che fosse immaculato, e salvo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plustost je veux sauver, mais j'entends que l'on pense</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>M’à voi conviene, anzi à vicenda accade</seg>
+		<seg>In modo proveder, che questo danno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A me faire un present, et qu'on me recompense. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Questa perdita mia renduta altronde</seg>
+		<seg>Mi sia, e ristorata in qualche modo;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A ciò che non io sol fra tutti (indegno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'estant pas la raison, puis qu'on m'oste mon bien,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il che sarebbe, e’ngiusto; e lascio quanto</seg>
+		<seg>Di pregio i sia) sia nel mio honore offeso;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que je sois seul des Grecs à qui ne reste rien.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La donzella levatami, che (come</seg>
+		<seg>Sapete) à me de la già fatta preda,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Auquel respond Achille en force de piez rare,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fatte le parti, allhor toccò per sorte.</seg>
+		<seg>Al che Achille opponendosi rispose. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Atride ambitieux, de tous le plus avare, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’n qual maniera, ò magno Agamennone,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme est-ce que les Grecs te recompenseront? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ciò far si può. che i Proceri, e gl’Heroi</seg>
+		<seg>De l’essercito Greco, ricompensa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Où est-ce que pour toy des presens ils prendront? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Faccino à l’honor tuo scemo, e ristoro?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rien ne reste entre nous à remetre au partage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poi che cosa non v’è commun, che sia</seg>
+		<seg>Di tutti insieme, onde noi ti possiamo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dono già far, ne compensar l’honore.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tout ce qu'on a pris de butin, de pillage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E quelle, che da le già fatte prede</seg>
+		<seg>De le prese Città partite sono</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au lot on l'a jetté, Qui voudroit contester</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Frà i Soldati, e frà gli altri Capitani;</seg>
+		<seg>Par già disconvenevol ritrattarsi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour faire encor le tout au peuple rapporter?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E da ciascun qui in publico recate</seg>
+		<seg>Frà lor di novo poi distribuire.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais les Grecs, si jamais Dieu leur fait prendre Troye,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma ritorna, ò gran Rè tu la donzella,</seg>
+		<seg>Che commanda colui che si ritorni;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Te donneront trois parts voire quatre en la proye.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che noi altri dapoi tre volte il doppio,</seg>
+		<seg>E quattro pur ti promettiam, se Giove</seg>
+		<seg>Ci concederà mai da le man nostre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Agamemnon alors. Non, ne te trompe point </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Troia esser presa, di renderti allhora.</seg>
+		<seg>Cui rispondendo Agamennon superbo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achilles, quoy qu'aux Dieux tu sembles de tout point, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non voler, disse, ò valoroso Achille.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que tu sois tres-fort: Tu n'auras l'avantage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Benche tu sia cosi prestante, e degno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De tant m'en faire accroire à tout ton beau langage.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Persuadermi in ciò, con tue parole.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu voudrois volontiers qu'on te recompensast</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Commandi cosi tu, ch’io costei renda</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sans avoir esgard à moy, qu'on me laissast</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al padre, perche del tuo honor ti goda,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Après m'avoir contrainct de rendre la pucelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et io del mio resti deluso, e scemo?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont je suis bien contant, moyennant que pour elle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In ogni modo à l’honor mio ristoro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Grecs facent estat de mettre en ma maison</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Faranno i Greci, tosto, ritrovando</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Un present qui la vaille: Et c'est bien la raison</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rimedio già che’l danno mio s’emende.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ils s'accommodent tous pour un si bon affaire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di che se lor si graveranno, ò forse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Selon ma volonté. S'ils ne le veulent faire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Voler contrario havranno, io stesso allhora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je le feray moy-mesme, iray prendre le bien</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da me stesso il farò; che n’andrò ratto</seg>
+		<seg>Da ciascun che parrammi, da cui tolga</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Ajax ou d'Ulysses, voire mesme le tien.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quello che più mi piaccia, e mi sia à grado;</seg>
+		<seg>O sia pur’egli Ulisse, ò pur Aiace,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et s'en fasche quiconque à qui je l'iray prendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Over tu stesso, ò chiunque altro sia.</seg>
+		<seg>Questo i so ben certissimo, che grave</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais ce sera mieux faict en autre temps d'attendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A colui fia, cui poi tocchi la sorte;</seg>
+		<seg>E se grave gli fia, poscia’l vedremo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A parler de cecy. Pensons presentement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma mettasi hor, senza indugiarmi punto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De jetter un vaisseau sur la mer vitement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Una nave nel mare, ove si ponga</seg>
+		<seg>Tutto’l bisogno d’huomini, e di remi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avec de bons rameurs, Puis y mettons l'offrande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E d’hostie anchor, per sacrifici farne;</seg>
+		<seg>E Criseida al padre hor si rimandi.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avecques Chryseis que l'on veut que je rende,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E de’ primati anchor’ alcun s’elegga,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'un Prince conduira, soit Idomeneus,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cui si degno ufficio si commetta;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit Ajax, soit Ulysse, ou toy fils de Peleus</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ad Aiace, ad Ulisse, ò à Idomeneo,</seg>
+		<seg>O à te, d’ogn’altro più crudele, Achille;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le terrible de tous, Pour faire sacrifice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’Apolline, che contra il Greco stuolo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au loin dardant Phœbus, et le rendre propice,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Co’l rio morbo si sfoga, supplicare</seg>
+		<seg>Vogli, offrendo sacrifici, e prieghi.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots respondit de travers regardant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cui con volto assai turbato, e fiero</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille aux pieds legers. O causeur impudent, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Guardando Achille; O pien d’inganno, e froda,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>O renard deceveur, comme se peut-il faire </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E d’imprudenza generato, e fatto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'on vueille aller pour toy en quelque bon affaire?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que pas un des Grecs te puisse estimer tant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tutto, gli disse; e chi del Greco campo,</seg>
+		<seg>Fia mai, che d’hoggi in là più t’ubbidisca,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que d'aller aux dangers sous ton nom combatant?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et vada allegro à le future imprese,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour moy, que m'importoit de venir à la guerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et volontier per te la guerra prenda?</seg>
+		<seg>Non io per privato odio, (come sai)</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Contre les forts Troyens si distans de ma terre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’i havessi già contra i Troiani, venni</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Veu que je ne sçaurois en rien me plaindre d'eux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui, con lor guerreggiando à vendicarmi</seg>
+		<seg>D’ingiuria, che da lor fatta mi fosse:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui ne ravirent onc mes chevaux ne mes bœufs,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che i campi guasto havessero, ò gl’armenti</seg>
+		<seg>Di cavallo, e di buoi dentro il mio regno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qui de leur pays onc ne firent sortie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quà trasportato mai; sendo interposto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour venir ravager la populeuse Phthie?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Frà Troia, e Phtia di mar si lungo spatio,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pource qu'entr'eux et moy, il y a trop de mers</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E di terra ancho. Sol per tua cagione</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il y a trop de monts de grands ombres couverts.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Svergognato insolente, in questo loco</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cependant, impudent nous voicy à ta suite,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venuti siam, quanti che siam, che teco</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin que tout icy t'accroisse et te profite:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sol navigato habbiam per compiacerti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nous conservons icy, ô visage de chien,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E vendicar l’ingiurioso oltraggio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De ton frere et de toy et l'honneur et le bien,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di Menelao, come di te egualmente.</seg>
+		<seg>A costor dunque tu perfido, e’ngrato,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Faisans teste aux Troyens, Sans graces nous en rendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plustost me menaçant tu oses entreprendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che se’, à costor non havrai già rispetto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De me ravir mon bien, Où j'ay pour le gaigner</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E lor di poco, ò nulla istimerai?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Couru risque et hazard, Que m'ont voulu donner</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E quel, che già per si fieri perigli</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Grecs pour ma vertu. Eus-je oncques recompense</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>DI guerra, meritar queste mie mani,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui la tienne égalast, alors que la puissance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>(Per che ne le ruine, e ne gli assalti</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des Grecs bouleversoit tant de riches Citez?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De’ villaggi, e de gl’oppidi Troiani,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Bien que j'aye le plus de leurs travaux portez</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Io più ch’ogn’altro di presidio, e d’opra,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que la plus grand part des beaux exploicts de guerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E di valor vi puosi, e porsi:) e quello,</seg>
+		<seg>Che co’l voler di tutti mi fù dato,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit faicte par mes mains? Tu prens alors, tu serre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che me’l torrai, che per te’l vuoi minacci,</seg>
+		<seg>Sendo, che sempre nel partir, che farsi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le meilleur du butin, J'en ay la moindre part,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Suol de le prede, tu la miglior parte,</seg>
+		<seg>E maggior, che non io sempre haver soglia?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que j'emporte pourtant dans mes vaisseaux à part,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E quest’è ver, che d’ogni partigione</seg>
+		<seg>Di preda, che s’è fatta, la maggiore,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et contant et sans bruit, Bien que j'aye le pire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E la parte miglior à te si cede;</seg>
+		<seg>E la mia è molto piccola, e minore;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per che nulla giamai da verun toglio,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nulla del mio sudor sottraggo, e scuoto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma sol quel poco, che da gl’altri offerto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que j'aye tout fait. Mais bien, je me retire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>M’è di lor voglia libera, quel poco</seg>
+		<seg>Mi toglio, e di quel sol resto contento.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En Phthie mon pays, je mets dessus les eaux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde, poscia ch’à far cosi disponi,</seg>
+		<seg>Sappi ch’à casa, e’n Phtia farò ritorno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour gaigner ma maison, mes gens et mes vaisseaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che più facil mi fia, che qui fermarmi,</seg>
+		<seg>E quasi che hor hor prendo il viaggio.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car c'est bien le meilleur. Toy si tu veux demeure</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nè pens’io già, che per lo tolto honore,</seg>
+		<seg>E per la poca riverenza, io debba</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans honneur consumant tes biens à la mal'heure.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perduto haver da te ricchezze immense;</seg>
+		<seg>Che no’l facendo, guadagnato havrei.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Auquel Agamemnon des combatans le Roy.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Agamennone allhor; Vattene hor’hora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Va, si le cœur t'en dit, fuy t'en viste, Pour moy </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quinci, disse, e ben pur tosto, e veloce</seg>
+		<seg>S’egli ti piace, ò se pur voglia n’hai;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je ne te priray pas d'arrester d'avantage. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Però ch’io già che tu con noi rimanga</seg>
+		<seg>Per mia cagion, mai non ti priego punto;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'autres demeureront qui auront le courage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non creder ciò: che tu non rimanendo</seg>
+		<seg>Meco, molti, e molt’altri, che qui sono,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De ne m'abandonner, Jupiter mesmement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vi rimarranno: et non si poco honore,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Me donnera tousjours prudence et jugement:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E si poco rispetto, e riverenza,</seg>
+		<seg>Essi mi porteran, com’hai tu fatto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E vi farà, che piu d’ogn’altro stimo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Meco l’aiuto del gran padre Giove.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Aussi bien ne sers-tu qu'à faire des querelles</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma tu perche’l sappi, fra gli altri tutti</seg>
+		<seg>Rè, che qui son, mi sei molesto, e grave:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et des contentions par tes façons rebelles.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E sospetto in estremo, che veruna</seg>
+		<seg>Cosa vie piu le gare, e le contese,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’l fa liti, e’l pugna ti giova, e piace:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si tu as de la force, elle te vient de Dieu.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che tu sia più d’ogni altro di valore,</seg>
+		<seg>E fortezza dotato, e singolare;</seg>
+		<seg>Da gli Dei, non da tè questo procede.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu dis que tu t'en vas en ta maison: A dieu,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vattene dunque nel tuo Regno insieme</seg>
+		<seg>Con le tue genti, e là, s’egli ti piace,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Va t'en, deloge, et toy, et ta flotte noircie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Frà i Mirmidoni tuoi commanda, e impera.</seg>
+		<seg>Però ch’à te fra gli altri, e’n questo loco,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non è lecito far, ne s’appartiene;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De tous tes Myrmidons, Car je ne me soucie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ove son io, dov’io tengo l’impero,</seg>
+		<seg>Che tè per nulla stimo, anzi ti spregio.</seg>
+		<seg>Per ciò non ti preg’io, ben che tu sia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De toy, de ton depit, ny de ton cœur felon.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Irato si, cosi commosso à sdegno,</seg>
+		<seg>Che rimanghi, ne già che ti diparta.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais je te dis aussi, Puis qu'il fault qu'Appollon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Questo ben ti vò dir, questo t’aviso;</seg>
+		<seg>Che si come colei mi toglie Apollo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che mi toccò per sorte; io cosi anchora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>M'oste ma Chryseis, Je n'y veux contredire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A te colei torrò, ch’à tè fu data.</seg>
+		<seg>E si com’hor Criseida, che fuora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je la vay renvoyer contant dans mon navire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De la mia tenda uscita già, rimando</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais quant et quant moy-mesme en tes tentes iray,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al padre; cosi anchor de le tue tende</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Prendray ta Bryseis, et me l'appropriray</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Briseida farò che se ne parta:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Bien qu'elle t'apartienne, afin que tu apprenne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E torrollati, anchor che ti dispiaccia,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que ma force est beaucoup plus grande que la tienne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et al mio padiglion farò menarla</seg>
+		<seg>Per che tu sappia, quanto io di tè sia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que tout autre apres, qui que ce soit, ayt peur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Superiore, e gli altri di quà innante</seg>
+		<seg>Non osin parlar meco ad egual fronte;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De s'esgaler à moy, abraver ma grandeur.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne ad opporsi altrimenti à quel, ch’io dico.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots un dépit saisit l'ame d'Achille, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Havendo Agamennon cotai parole</seg>
+		<seg>Detto, e dal forte Achille udite, acceso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Son cœur dans sa poictrine et balance, et vacille </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>L’alma già di furore, il petto, e’l core,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'il doit tirer l'espee, et d'un vangeur effort </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Subito entrò in pensier, s’egli dovea</seg>
+		<seg>Porre à la spada man, ch’al alto cinta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jetter Agamemnon par terre roide mort,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tenea, e correndo sopra Agamennone</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En rompant l'assemblee: ou s'il doit au contraire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ucciderlo, e turbar l’ordine tutto</seg>
+		<seg>De gli assettati; ò pur l’ira frenando,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Retenir son courroux et forcer sa colere.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vincer il duol, che l’alma gli affligeva.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ainsi comme il flotoit d'un douteux pensement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E mentre frà se stesso pur discorre,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'espee horrible il tire: Et voici promptement </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Trà fuor la spada: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pallas venir du Ciel, par Junon incitee </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>ma allhor giù dal Cielo</seg>
+		<seg>Pallade immantinente ivi discesa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vi fu presente, e à dar riparo venne;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Però che su nel Ciel la Dea Giunone</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui les aymoit tous deux, Elle s'est arrestee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Er’à lei entrata per pregarla allhora,</seg>
+		<seg>Che sopra ciò’l suo aiuto à darvi fosse:</seg>
+		<seg>Amando ella ambi due d’egual amore,</seg>
+		<seg>E d’ambi due sollecita egualmente.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par derriere le tire et luy prend les cheveux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hor dunque poi che Pallade dal tergo</seg>
+		<seg>D’Achille si fermò invisibilmente,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De luy seul apperceuë et de nul autre d'eux:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Veduta, che da lui, d’altri non sendo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gli prese allhor con man le chiome bionde.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille s'estonna, puis se tournant arriere </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Alqual toccar’, e al cui cospetto Achille</seg>
+		<seg>Sbigottito guardando, e gli occhi fieri</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cognut incontinent la Deesse guerriere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’ardor d’ira cospersi, rivolgendo</seg>
+		<seg>Ver la Dea, à un tratto esser la Dea conobbe</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ses yeux étinceloient luisans terriblement:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde à parlarle, e cosi à dir le prese.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Fille de Jupiter, pourquoy si vistement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per qual cagione, ò del gran Giove figlia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Viens-tu icy? dit-il. Est-ce pour l'insolence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vien tu qui hor? Fors’à mirar l’oltraggio,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Agamemnon l'Atride, et pour son arrogance?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’l vitupero del Rè Agamennone:</seg>
+		<seg>Ch’è per ricever hor da questa spada,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais laisse faire à moy, les doigts il s'en mordra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di quella in scambio, e’n ricompensa, ch’io</seg>
+		<seg>Qui in palese da lui già ricevei?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et pour son grand orgueil la vie il en perdra.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La mirabil superbia, e l’insolenza</seg>
+		<seg>Di costui, fa, c’hor hor gli dia la morte:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che non potrà per conto alcun schivarla:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui de Jupiter Pallas la fille chere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tal’è ver lui mio cor di sdegno acceso.</seg>
+		<seg>A cui Pallade allhor cosi rispose.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je viens expressement retenir ta colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Già non scesi io dal Ciel, non venni, ò Achille,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si tu me crois, au moins. Juno qui de tous deux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per vederti sfogar l’acceso core</seg>
+		<seg>De l’ira, c’hai, co’l farne hora vendetta;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma per quella frenar, farla deporre.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A soing extre[me]ment, m'envoye icy des Cieux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne sol da me ciò à far, ma sospint’ancho</seg>
+		<seg>Da’ prieghi di Giunon, che mi suase,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Modere donc ton ire, et remets ton espee,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che venir vi dovessi. Et certo ch’ella</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que ta main dans le sang, ne soit icy trempee:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>L’uno, e l’altro di voi di pari effetto</seg>
+		<seg>Ama, et vi porta caritade immensa.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et comba de propos tant que ton cœur voudra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde poi meglio il mio consiglio prendi;</seg>
+		<seg>Raffrena l’ira, e l’empito, e ritrova</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nel suo loco la spada, e con parole</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car je te dy un faict qui sans doubte aviendra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La tua causa diffendi, e non co’l ferro.</seg>
+		<seg>Sia’l corruccio di biasmi, e di villane</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Un jour pour reparer ce tort et cete offence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Parole sodisfatto; e sia bastante</seg>
+		<seg>Tal vendetta à pagar tutta l’offesa:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au triple on t'envoira dons beaux par excellence,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E perche sii più pronto ad ubbidirmi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin de t'appaiser. Ainsi reprime toy,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’l furore à depor, porgi l’orecchie</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Obey pour ce coup à ma voix et me croy,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al mio parlar’, à quanto hor’io t’espongo.</seg>
+		<seg>Tempo verrà, (et à Pallade dà fede)</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Deesse, la raison veut que je t'obtempere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’Agamennon, per ammendar l’offesa,</seg>
+		<seg>Ch’egli ti fè, da se del doppio, et ancho</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di maggior quantità ti faccia offerta,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy respond Achilles, combien que ma colere </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E doni assai maggior darti poi voglia.</seg>
+		<seg>Al cui parlar non si volendo Achille</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Ait un juste dépit. Mais tousjours il vaut mieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Oppor, ne contrastar, cosi rispose.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» En leur obeyssant porter respect aux Dieux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Benche, Dea sacra, i nel pensier già havessi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Et ne resister point à ce qu'ils nous commandent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Proposto di costui prender vendetta,</seg>
+		<seg>E del fallo pagar fargli la pena:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Afin qu'en nostre endroit propices ils se rendent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pur non sol convenevol’è ubbidire</seg>
+		<seg>Al voler di voi Dei, ch’à nostri affetti:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et soyons ouys d'eux. Il tenoit, ce disant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>M’ancho esser suol giovevole sovente:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La main sur le pommeau d'argent fin et luysant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perche chiunque i Dei pronto ubbidisce</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis dedans le fourreau remit l'espee horrible,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da lor poscia egli è gratamente udito.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rendant obeyssance à Pallas la terrible:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui reprend sa volee au clair plancher des Cieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cosi dicendo al suo luogo ripose</seg>
+		<seg>La spada, che d’argento l’elsa havea;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vers Jupiter l'Aegide et vers les autres Dieux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Allhor a Giove nel celeste regno</seg>
+		<seg>Pallade fece, e à gli altri Dei ritorno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais Achilles tousjours continuant sa rage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma nondimeno Achille al Rè de’ Greci,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A l'Atride disoit et convice et outrage.</seg>
+		<seg> Yvrongne aux yeux de chien, et du cœur ressemblant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non del tutto il fervor scemo, e deposto</seg>
+		<seg>De la rabbia, e de l’ira, un’altra volta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contal aspro parlar si fece innante.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le plus timide cerf, aux coups tousjours tremblant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ebbro, carco di vin, viso canino,</seg>
+		<seg>Timido, cor di cervo; à cui non mai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui n'osas onc t'armer, soit pour la guerre ouverte,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fù tanto di valor, ch’armato osassi</seg>
+		<seg>Con l’essercito insieme entrar in guerra,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit pour aller dresser une embuche couverte,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O in mezo a’ più gagliardi assedio porre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne’ luoghi atti à l’insidie, et à gli agguati.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tant tu crains de mourir. Que s'est bien mieux ton cas</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E certo che l’intendi, giudicando</seg>
+		<seg>Esser molto miglior starti sicuro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De piller un chacun, que d'aller aux combas,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne’ padiglioni; e poi à compagni torre</seg>
+		<seg>Le lor parti per forza, se tal’hora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu te plais bien mieux à ravir, à detruire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Osin dir punto incontro’l tuo parere,</seg>
+		<seg>Devorator del popol, Rè crudele.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sur tous celuy-là qui t'ose contre-dire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che s’in color, sopra à cui regni, fosse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Roy mangeur de sujects, peu s'en faut et me crois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Segno alcun di virtù Greca, e virile</seg>
+		<seg>Per Dio, c’hoggi porresti al tutto fine</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu n'aye outragé pour la derniere fois.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al ritrovar di farci ogn’hora oltraggi.</seg>
+		<seg>Io d’hor mi ti protesto; e perche mai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais escoute à ce coup, par ce sceptre je jure</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non ne resti dubbioso, v’interpongo</seg>
+		<seg>(Che non è poco già) tal giuramento.</seg>
+		<seg>Per questo scettro, sotto’l cui governo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui n'aura jamais plus ne feuilles ne verdure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Stà de’ Prencipi Greci, e’l cui vigore</seg>
+		<seg>Fà a’ popoli ragion, le leggi intatte</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Pour ce qu'il fut coupé quand le cousteau tranchant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Serba, et è per serbar del sommo Giove:</seg>
+		<seg>Che si come, poi che questo reciso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Fut son écorce vive à sa fueille arrachant)</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fù da l’albero suo, e in lavor posto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ores les fils des Grecs exerceans la justice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da l’artefice, e fatto in cotal forma,</seg>
+		<seg>Non mai più rami è per produr, ne frondi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Portent dedans leurs mains, justice protectrice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne men ancho più mai tornerà verde;</seg>
+		<seg>Cosi cura non mai, d’hoggi in la fia,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des loix de Jupiter: Le jour viendra</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che de’ Greci, ò pensier prenda già Achille:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que le camp des Gregeois de moy se souviendra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne’l muova mai di lor bisogno estremo,</seg>
+		<seg>O miseria, che lor unqua avvenisse:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et me voudra r'avoir, quant les mains homicides</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fin tanto, che da l’homicide mani</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Hector renverseront les soldats des Atrides,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del fiero Hettor, non siano oppressi in guisa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais tu ne les pourras au besoin secourir;</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che’l mio aiuto men giovi al loro scampo.</seg>
+		<seg>Aciò che allhora teco tu stesso ingrato,</seg>
+		<seg>Ti tormenti, e t’affligga, non potendo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu creveras de dueil de les voir tous mourir.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Far loro allhor da te riparo, ò schermo;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Lors en vain tu rompras ton ame de detresse</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E per tanto dolor del tuo pentire,</seg>
+		<seg>Che nulla gioverà, à scoppiar ne venga;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'avoir deshonnoré le plus fort de la Grece.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tu che di tutta Grecia il piu prestante,</seg>
+		<seg>E’l miglior Cavalier dispregiat’hai.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ce disant, contre terre il jetta de depit,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Detto cosi gittò lo scettro in terra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Son sceptre aux beaux cloux d'or, puis derechef s'assit.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di punte d’or fregiato, et à sedere</seg>
+		<seg>Fè al suo seggio ritorno immantinente.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'Atride d'autre part sa colere remasche,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mentre che Agamennon di sdegno, e d’ira</seg>
+		<seg>Ripien, si stava tacito, e’n se stesso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne se peut adoucir et grandement se fache.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si rodea, di furor nel core acceso,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Surquoy vint se lever Nestor le doux parleur,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Presso à mostrarne fuor quasi l’effetto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nestor des Pyliens le disert harangueur, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nestor risorse, Rè de’ Pili, molto</seg>
+		<seg>In ogn’opra eccellente, e’n dir facondo:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De la bouche duquel paroles et langages</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da la cui bocca, più del mel soave,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plus doux que miel couloient. Il avoit veu deux aâge</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E più dolce uscia fuor l’alto sermone:</seg>
+		<seg>Huom di saper si come d’anni grave,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Defaillir devant luy d'hommes auparavant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si come quel ch’era à la terza etade</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et levez et nourris quant et quant luy vivant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Già de la vita giunto, e pur vivea;</seg>
+		<seg>E fiorito havea già con molti insieme,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et si regnoit encor' entre ceux du troisiesme.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>C’haveva allhor la ingorda morte estinti.</seg>
+		<seg>Costui dunque ver lor, come che fosse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Lors il vint à parler d'une prudence extreme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Maturo, e savio; altier guardando, disse.</seg>
+		<seg>O gran vergogna, ò indegno fatto in vero,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> O Dieux, quel grand malheur tombe dessus les Grecs! </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O di quanto dolor, di quanti affanni,</seg>
+		<seg>E di quanta tristezza fia cagione</seg>
+		<seg>A tutta Grecia, tal contesa vostra;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Combien Priam, ses fils, et les Troyens apres, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E d’allegrezza à Priamo, et à suoi</seg>
+		<seg>Figli, et in somma à tutti altri Troiani:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Auront d'ayse en leur cœur, s'ils sçavent la nouvelle </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quando porta lor fia colta novella,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que les meilleurs des Grecz sont entrez en querelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che fra voi, che ciascun di valor d’arme</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je dy vous les premiers de nostre nation</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E di senno, e consiglio superate</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En combat, en conseil, en resolution.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nata sia lite, e far trà voi contesa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais venez croyez-moy. Car j'ay cet avantage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E d’odio haver macchiato, e sdegno il core?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur vous, qu'aupres de moy vous estes moindres d'aage:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Priego, che v’accostiate al mio consiglio;</seg>
+		<seg>Poi che d’ambi due voi d’eta maggiore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>J'ay veu, j'ay frequenté des hommes autresfois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sono, e’l consiglio mio mai spregiat’ancho</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Beaucoup meilleurs que vous, qui jamais toutesfois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non fu da’ più eccellenti, e da coloro,</seg>
+		<seg>Che gran Prencipi fur, come voi siete.</seg>
+		<seg>Ne tali huomini già ch’io dico forse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne m'ont desestimé, tels qu'estoit Polypheme</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Veder m’avvenne à caso, ò udir per fama,</seg>
+		<seg>Quai fosser; ma fui lor amico, et vissi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Semblable aux immortels, Cené de force extreme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con lor gran tempo in amicitia molta.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pirithous, Dryant, Exadie et Thesé,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Come già fur Pirithoo, Drionte,</seg>
+		<seg>Theseo, Ceneo, Essadio, e Polifemo;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand il vivoit au monde autant qu'un Dieu prisé.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Degni ben d’agguagliarsi a’ Dei immortali,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ils estoient des plus forts qui fussent en la terre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non che sol de’ mortai fosser piu forti:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et contre des plus forts firent mortelle guerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poi che attaccar l’horrenda pugna, e fiera</seg>
+		<seg>Co’ Centauri fortissimi, e feroci</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Monstre'-hommes montaignards qu'ils mirent tous à mort</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Habitator de monti, e’l valor loro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je venois avec eux, je les frequentois fort,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lor facendo conoscer nel conflitto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Parce qu'ils m'envoyoient querir jusques à Pyle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Io, ch’era indi lontan, chiamato allhora</seg>
+		<seg>Fin da Pilo, à dar loro aiuto corsi;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Assez loin de leur terre Apia la fertile:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E con lor seco insieme in quella guerra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je me trouvois souvent à la guerre avec eux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mi provai si contro i feroci mostri,</seg>
+		<seg>E del corpo, e del cor le forze usando,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’opre allhor feci gloriose, e degne;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nul de ceux d'aujourd'huy tant soient-ils belliqueux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che verun già di questi, c’hor qui sono,</seg>
+		<seg>E vivono hoggi di, saria di tanto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'oseroit s'esgaler à leur force et puissance:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’osar con loro hor d’essere à le mani.</seg>
+		<seg>Se di voi dunque i più forti sovente</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cependant ils m'oyoient en faits de consequence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Meco si consigliavano, et haveano</seg>
+		<seg>A caro d’ubbidirmi, ogn’hor prendendo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et ne mesprisoient pas mes conseils et advis.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per lo miglior il mio consiglio, e’l mio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Croyez-moy donc aussi, il vaut mieux mes amis,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Parer, voi devete ancho (ad ambi doi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vivre entre vous en paix. Toy, bien que ta puissance </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fia non poco giovevole) acquetarvi</seg>
+		<seg>A’ miei ricordi, a’ miei sani consigli.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit grande entre les Grecs, ne pren pas la licence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dunque ne tu di tua potentia troppo,</seg>
+		<seg>O Agamennon, fidandoti, à costui</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De luy ravir la fille, ainsi laisse luy le prix</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tor l’amata sua donna, ch’in honore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'il a de tous les Grecs pour son merite pris.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gli diero i Greci, e de la preda in parte;</seg>
+		<seg>Mà lasciagli goder quel, ch’è suo in pace.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et toy fils de Peleus, ne vueille pas contendre </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne men tu Achille à par contender vogli</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Contre nostre Empereur ny sur luy entreprendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Co’l Rè cui del gran Giove istesso questa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car jamais Roy aucun qui Sceptre sceust porter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'a receu tel honneur qu'il a de Iupiter.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Degnità, et non altrui mai, fù concessa.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si tu as plus de force, une Deesse grande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E se tù di valor del corpo sei,</seg>
+		<seg>E fortezza di lui maggiore, et nato</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Aussi t'a engendré: Mais cetuy-cy commande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di madre Dea; questi è pur piu possente</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A plus de gens que toy, a plus d'authorité.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di tè già, perche in più l’Imperio tiene.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Toy, Atride, retien ton courroux depité,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde tù Agamennon lo sdegno homai</seg>
+		<seg>Lascia, c’hai contro lui, ch’io lui co’prieghi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>J'en supply' tout de mesme Achil', qui de la Grece</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mi sforzerò riconcigliare intanto,</seg>
+		<seg>Com’è mestier, send’egli il più prestante,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Est le fort boulevard, l'appuy, la forteresse.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E ne le guerre il più d’ogn’altro ardito.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Tout ce que tu as dit, respond Agamemnon </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cui cosi rispose Agamennone.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mon pere, sans nul doute, est equitable et bon: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ben’ hai detto, buon vecchio, e tutte vere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais aussi cestuy-cy en fait trop, il veut estre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Le cose son, le quai poc’anzi hai detto;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par sur tous dessus tous le Seigneur et le maistre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mà costui sopr’à tutti, oltre il dovere,</seg>
+		<seg>Superior si stima, e’l piu eccellente;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il veut tenir chascun sous son commandement:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vincere à ciascun vuol, vuole à ciascuno</seg>
+		<seg>Signoreggiar, vuol sopra ogn’un l’Impero.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais il n'en viendra pas à bout trop aysement.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De la qual speme fia (come già credo)</seg>
+		<seg>Non guari altier, che fia di lei ingannato.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si les Dieux l'ont pourveu d'un grand et fort courage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per che s’à lui gli Dei concesser, ch’egli</seg>
+		<seg>Fosse nel guerreggiar forte, e prestante;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Est il dit qu'il s'en serve à faire à tous outrage?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Veggiam s’ancho gli dier, ch’egli potesse</seg>
+		<seg>Svillaneggiar, far’à ciascuno oltraggio?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Sur ces propos Achil' vint encore à parler: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al che Achille interrotte le parole</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Certes lasche et poltron on pourroit m'appeller </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del Rè, disse, veggiam, s’io errassi forse,</seg>
+		<seg>Et vil potessi, e timido esser detto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si je t'allois ceder ainsi en toute chose:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Co’l cederti, et ubbidirti à ogni comando,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais commande autre-part, pour moy je me propose</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che mi facessi? à gl’altri à gl’altri, dico,</seg>
+		<seg>Non à me commandar, che questa spene</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De ne t'obeyr plus. Voicy encore un cas,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fia, come io credo assai, fallace et vana;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont je veux t'advertir: Je ne combateray pas</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se pensi sopr’à me l’Imperio havere.</seg>
+		<seg>Ma’ntendi questo ben, c’hor dico, e tienlo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Contre qui que ce soit, non pas contre toy-mesme</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Scritto nel cor, ne la memoria saldo;</seg>
+		<seg>Io non teco già mai, ne con altrui,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour Bryseis la belle, encore que je l'ayme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perche rimanghi à me la mia donzella</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que l'on m'avoit donnee et que l'on veut m'oster,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verrò à le mani, ò moverò mai l’arme:</seg>
+		<seg>Perciò che quel voi mi togliete, quello,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais si tu entreprens malgré moy d'emporter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che da voi stessi dato mi fu in dono.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Autre chose du mien qui soit dedans ma tente,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De l’altre cose già, di che signore</seg>
+		<seg>Io sono, e’n mio poter si stanno, alcuno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je te feray mourir, viens, et l'experimente,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che le tolga non fia, s’io no’l consento.</seg>
+		<seg>Onde se non dai fede à mie parole,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ceux-cy en soient tesmoins, ils verront que ton flanc</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E cio non credi; à ciò ch’ancho costoro</seg>
+		<seg>Ne sien capaci, hor hor fanne la prova;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'ouvrira par mon glaive empourpré de ton sang. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che si vedrà’l tuo sangue immantinente</seg>
+		<seg>Correr giù per la lancia in lunga riga,</seg>
+		<seg>Con laqual ti trapassi il petto, e’l core.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Stando dunque tra loro in simil gare,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Apres avoir crié, les Princes se leverent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’n si fiere contese, fu disciolto</seg>
+		<seg>Il Concilio, e fin posto al parlamento.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde col suo Patroclo Achille insieme,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rompirent l'assemblee, en leurs naus s'en allerent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E gl’altri suoi, verso le navi andando,</seg>
+		<seg>Fer nel suo padiglion tosto ritorno.</seg>
+		<seg>Ma Agamennon, posto già in tanto il legno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille avec Patrocle, et tous ses compagnons</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Se retire à sa flotte et vers ses pavillons.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Agamemnon fait mettre en mer un bon navire </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et vingt rameurs dedans qu'il commenda d'élire, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nel mare, e venti à trarre i remi eletti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avec le Sacrifice à Phoebus préparé: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Postevi sopra vittime: et venire</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Faict venir Chryseis au cheveu blond doré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fatt’ivi la sua cara donna, e bella,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'il faict mettre dessus, Puis apres la consigne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Entre les mains d'Ulisse à la prudence insigne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Criseida, su quel la fè ancho porre,</seg>
+		<seg>Ulisse pria per Capitano eletto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin de la mener: Ils montent aux vaisseaux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>ll qual poi che lontan dal lito vede,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et s'en vont navigant par l'humide des eaux.</seg>
+		<seg> Tandis Agamemnon fait repurger l'armee </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E che già in alto mar sciogliea le vele,</seg>
+		<seg>Al popol comandò, che si purgasse.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et jetter dans la mer, l'ordure envenimée: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde per ciò purgandosi, nel mare</seg>
+		<seg>Ciascun da se gettava i purgamenti</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis on faict à Phoebus sur la rive des eaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Presso al lido, ad Apolline facendo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le sacrifice entier des boucs et des taureaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sacrifici, imolando altri allhor Tori,</seg>
+		<seg>Altri Montoni, et altri birsute Capri:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde i lidi vedeansi in ogni parte</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont l'odeur monte au Ciel aux vœux de l'exercite.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tralucer tutti, e’n ogni parte al cielo</seg>
+		<seg>Ascendere salendo il fumo, ilquale</seg>
+		<seg>Mandato venia fuor da l’hostie accese.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais cela n'appaisoit la menace depite</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne laqual opra, e ne’ quai studi essendo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que fit Agamemnon au fils de Peleus :</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tutti i Greci occupati; Agamennone,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’ancho impiagato havea l’animo, e’l core</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per quel che dianzi minacciato havea</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Eurribate il appelle avec Taltibius</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ad Achille in parlar, porre ad effetto;</seg>
+		<seg>Chiamar si fè Taltibio, et Euribate,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ses fideles herauts : Allez dedans la tente </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Suoi ministri fedeli, ambi suoi messi,</seg>
+		<seg>Ambi da lui ne l’opre lor provati;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cui parlando, disse in tal maniera.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Achilles, vous saisir de Briseys la gente, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Itene hor hor d’Achille à padiglioni,</seg>
+		<seg>E la bella Briseida prendendo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et l'amenez, dit-il: S'il ne la veut donner </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Menatela hor quà ne la mia tenda:</seg>
+		<seg>E s’ei pur di voi darla ricusasse,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Moy-mesme m'y feray tres-bien accompagner,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ditegli da mia parte, ch’io in persona</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce qui luy sera plus encore insupportable.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Là ne verrò con maggior sforzo, e quella</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Telle commission leur fut mal agreable,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per forza gli torrò, senza rispetto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et fort à contre-cœur, ils marchent cependant.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E non senza di lui tema, e spavento.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et prennent leur chemin le long du flot grondant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da’ messi allhor cotai parole udite,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En fin aux pavillons et naus ils arriverent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E commandi si fieri, et insolenti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des braves Myrmidons, où Achille trouverent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Benche mal volontier, partirsi tosto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dedans sa tente assis sur son navire à part,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui jetta dessus eux un fort triste regard. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dal Rè, per far quant’ei lor detto havea.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais eux espouvantez d'une crainte fort grande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde la via del mar prendendo al lido,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Resterent sans mot dire, et faire leur demande:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A le navi arrivaro, et à le tende</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce qu'il recognut bien, puis leur dit en ces mots. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De’ Mirmidoni, e à loro alloggiamenti:</seg>
+		<seg>Ove Achille trovar, che fuor sedea</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soyez les bien-venuz, ô fideles herauts, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del padiglione, e avanti à la sua nave.</seg>
+		<seg>Costor, vedendo Achille, il venir loro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non hebbe molto à ca; n’ancho più appresso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hebber essi di farsi ardire, à sporli</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>L’ambasciata del Rè, ne bocca aprire.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma sospesi restar, si per temere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del Rè il turbato, e spaventevol viso;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Come per parer lor vergogna, e scorno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di lui cotal lor ambasciata esporre.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma allhora il temer lor compreso Achille,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che gl’havea del parlar la via precisa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E la cagion perch’ivi eran venuti;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des hommes et des Dieux messagers honnorables,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dio vi salvi, à lor disse, del gran Giove</seg>
+		<seg>Nuntii e de gl’huomini ancho esperti messi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Approchez-vous plus prez: Vous n'estes pas coulpables,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fatevi in quà piu appresso: I’ non da voi</seg>
+		<seg>Ricevo gia l’ingiuria, e ques’oltraggio,</seg>
+		<seg>Essendo voi tenuti ad ubbidire</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il Signor vostro, et ir dove à lui piacce:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cest Agamemnon seul de par qui vous venez</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma dal fiero, e superbo Agamennone</seg>
+		<seg>Che vi mandò, da lui che ve n’ha imposto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour m'oster Briseys, ne soyez estonnez,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Necessità di farlo, sol per tormi</seg>
+		<seg>Malgrado mio, la mia cara donzella</seg>
+		<seg>Briseida: Egli m’ha, non voi già offeso.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Or sus vaillant Patrocle ameine-la, qu'ils prennent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma hor su, Patroclo mio, fa uscir quà fuora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La fillette à leur gré, qu'à leur aise ils l'emmenent.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Briseida à costoro, et lor la donna,</seg>
+		<seg>Che dal Rè Agamennon la menin tosto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais soyez-moy tesmoins, et devant les grands Dieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma vò pur già, che testimonii appresso</seg>
+		<seg>A gl immortali Dei mi sian costoro,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et devant les mortels, et ce Roy furieux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et appo i mortal’huomini in eterno;</seg>
+		<seg>Et ancho appresso à l’empio Rè, e crudele,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'il avenoit jamais qu'il eust de moy affaire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che lor quivi mandò: se pur mai alcuna</seg>
+		<seg>Necessità, se mai bisogno opprima</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I Greci tanto, che di me mestiero</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lor fia, e d’aiuto: ond’io riparo possa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour repousser de nous la tempeste contraire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dar lor, sian già giunti à l’estremo,</seg>
+		<seg>Et arrivati à l’ultima ruina;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que sa folie en est la cause entierement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Però ch’è si disaveduto, e tanto,</seg>
+		<seg>Ch’essendo del passato, e del futuro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qu'il ne sçait prevoir en son entendement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dimenticato à fatto, non riguardi,</seg>
+		<seg>E non s’avvegga pur con qual ragione</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme est-ce qu'il pourra cy-apres faire en sorte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Possa quivi’l suo essercito pugnare</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que le Grec pour combattre ayt l'espee assez forte.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Presso à le navi, senza offesa, e danno</seg>
+		<seg>Dal nemico patir, senza periglio.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Patrocle, d'Achilles faict le commandement, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Questo allhor disse Achille: E’n tanto uscire</seg>
+		<seg>Fè Patroclo, à l’amico ubbidiente,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Entre dedans la chambre, ameine promptement </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La belle Briséis, entre leur mains la livre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fuor del suo padiglion la donna bella,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La met en leur puissance et luy dit de les suivre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et a’messi la diede allhora, allhora.</seg>
+		<seg>La preser’essi, et ver le navi, mesta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Eux la prennent de luy, et le pas retournant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Benche foss’ella, trista, e lagrimosa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vers les vaisseaux des Grecs ils la vont emmenant:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E l’andar ricusasse, la menaro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Elle contre son gré suivant les accompagne.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Seco pur dal Rè loro Agamennone.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Mais Achilles à part tout de larmes se baigne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma Achille già per gl’occhi, e per lo viso</seg>
+		<seg>Fuor spargendo le lagrime, si tolse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur le bord de la mer, et dedans regardant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dal cospetto de’ suoi, soletto, e al lido</seg>
+		<seg>Sen gi del mar vicino, ove à sedere</seg>
+		<seg>Tutto mesto si puose; e’n quel mirando</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fisso, e quanto lontan potea la vista,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sa mere il suplioit les deux mains luy tendant.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Levando in alto l’una, e l’altra palma</seg>
+		<seg>Chiamava la sua madre indi sovente.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Puis que pour vivre peu vous me mistes au monde, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Madre, dicea, che 'n cosi fier destino</seg>
+		<seg>Mi generasti, ohime, che giovanetto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour le moins le moteur de la machine ronde, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’n sul fiorir de la mia verde etade</seg>
+		<seg>Morir dovessi; e pur frà cosi brieve</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ma mere, me devoit faire vivre en honneur.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Spatio, ch’à la mia vita era concesso,</seg>
+		<seg>Mi promettesti, che dal sommo Giove</seg>
+		<seg>Ricever dovev’io già immensi honori:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais voicy qu'il m'enfondre en un grand deshonneur,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Riguarda hor come egli non pur gia molto,</seg>
+		<seg>Ma ne men dar me n’hà voluto alquanto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car c'est Agamemnon superbement m'offence,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poscia che permess’hà, ch’Agamennone</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et me ravit mon bien d'injuste violence.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’Atreo figliuolo iniquamente oltraggio</seg>
+		<seg>Mi fesse, e tanto vituperio, e scorno;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che quel, che di commun consenso i Greci</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dato m’havean, per farmi honore, e’n pregio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Cecy dit-il pleurant, et furent ses sanglots</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De l’alte imprese; à forza hor ei mi toglia?</seg>
+		<seg>Mentre cosi dicea piangendo, allhora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De sa mere entendus seante sous les flots</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dal profondo del mar, ove si stava</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De son pere chenu. Vers luy elle est venuë</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Co’l vecchio Peleo, la sua madre udendo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sortant de la mer creuse en forme d'une nue,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Subito apparve fuor de l’acqua, in guisa</seg>
+		<seg>Di nebbia uscendo, e s’accostò al figliuolo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Se sied aupres de luy de tristesse transi,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E seco insieme ivi à seder si pose;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le flatte de la main, et puis luy dit ainsi.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E con piacevol’atti, e di dolcezza</seg>
+		<seg>Pieni, la man porgendogli, gli disse.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Que pleures tu, mon fils? quelle douleur te fasche? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Deh perche piangi figliuol mio? che tanto</seg>
+		<seg>Dolor, tanta tristezza, e tanto affanno</seg>
+		<seg>T’ingombra il petto? a me tua madre hor spiana</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dy, ne me cele rien, et fais que je le scache.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ogni cosa, e celar nulla mi vogli:</seg>
+		<seg>A cio ch’io sappia questa fiera piaga,</seg>
+		<seg>Qual sia, che si t’afflige, e teco io senta.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ma mere, dit Achil, souspirs du cœur jettant, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Achille à lei, dal cor profondo allhora</seg>
+		<seg>Altamente trahendo un gran sospiro,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vous ne l'ignorez pas, quel besoin est il tant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tu per te stessa, disse, ogni successo,</seg>
+		<seg>Senza ch’io’l dica, ò cara madre, sai:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De vous le dire, à vous à qui rien ne se cele? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che bisogno dunque è, ch’io te l’esponga?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nous fusmes donc à Thebe, en la cité tres-belle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Essendo noi con tutto l’hoste insieme</seg>
+		<seg>Iti per espugnar Thebe, ch’al fine</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du Prince Eetion, nous la mismes à bas,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da noi spugnata fu, disfatta, e presa:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En emportasmes tout, et les Grecs nos soldats</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quivi condotta fu tutta la preda.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Partirent le butin, donnerent à l'Atride</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Laquale con buon ordine, e secondo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Comme au chef general) la belle Chryseide.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il solito costume, i vincitori</seg>
+		<seg>Hebber fra lor (com’è il dover) diviso.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Or son pere Chryses grand Prestre d'Appollon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Diero ad Agamennon la donna bella</seg>
+		<seg>Criseida, di lui come che degno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vint aux barques des Grecs devers ce Roy felon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fosse un si nobil dono. Indi non molto</seg>
+		<seg>Dopo, venne il suo vecchio padre Crise</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour racheter sa fille, ayant et la couronne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con doni assai per ricomprar la figlia;</seg>
+		<seg>In man tenendo un ricco Scettro d’oro,</seg>
+		<seg>E’l capo ornato, e circondato intorno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le sceptre du Dieu qui loing de ses traits donne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di monili di Febo, e di corone.</seg>
+		<seg>E da’ Principi Greci entrando, e verso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et force beaux presens, desquels il essayoit</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Agamennon rivolto, riverente</seg>
+		<seg>E Menelao, lor molti prieghi porse,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'Atride contenter, les Grecs il suplioit,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che gli desser pel prezzo la figliuola,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Atrides sur tout conducteurs de la bande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da gli cui prieghi, tutti gl’altri Heroi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et chascun consentoit à sa juste demande,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fur mossi, e comandor d’ugual consenso,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout le monde disoit qu'il faloit delivrer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che si rendesse al padre la sua figlia:</seg>
+		<seg>E ch’era ben ragion farlo, e dovere:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La fille, et le sainct prestre et ses dons reverer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E giusto compiacernelo, recando</seg>
+		<seg>Per riscatto di lei si larghi doni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais l'Atride trouva ceste parole dure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ch’essendo d’Apolline ministro,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Renvoya le vieillard, et luy dit force injure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rimandarnelo senza, e poco farne</seg>
+		<seg>Stima, era sconvenevole, e mal’atto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont le prestre indigné s'en retournant, haussa</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Solo il superbo Agamennon diverso</seg>
+		<seg>Fu di volere, à cui dispiacea molto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ses deux mains à Phoebus, et le Dieu l'exauça,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La cosa, e’l ritornar la figlia à Crise.</seg>
+		<seg>Onde ripreso il vecchio, et atterrato,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pource qu'il aymoit fort. Si qu'en son ire il jette</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di minaccie, e di gridi; indi partire</seg>
+		<seg>Lo fè, quasi piangendo, immantinente.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dessus le camp des Grecs sa mortelle sagette,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di cui, poi che cosi dolente, e mesto</seg>
+		<seg>Si diparti, mosso à pietade Apollo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui perissoient à tas, au prix que ses durs traits</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et essaudendo le sue giuste preci,</seg>
+		<seg>Per essergli devoto, e Sacerdote;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Frapoient mortellement l'exercite des Grecs.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mandò nel Greco essercito la peste</seg>
+		<seg>Tanto crudel, che spesso à torma, à torma</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cadean le genti morte in ogni parte,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont le prophete sainct enquis, nous fait entendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tocche, et ferite da divini strali.</seg>
+		<seg>Onde un saggio, e perito Augure in tanto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La cause et le suject de ce funeste esclandre:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Questo disse avvenir per l’ira fiera</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dequoy moy tout émeu conseille sur le lieu </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’Apolline. Allhor’io d’ogni altro primo</seg>
+		<seg>Persuasi ad ogn’un nel concistoro,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'appaiser la vengeance et le courroux du Dieu,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che si devea placar del Dio lo sdegno,</seg>
+		<seg>E richieder da lui l’amata pace.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cela fascha l'Atride, et s'en mit en colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde per ciò ver me sdegnato forte,</seg>
+		<seg>Et adirato l’empio Agamennone,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Me menacea de chose en fin qu'il a peu faire.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si levò in piè à parlar, me minacciando:</seg>
+		<seg>E le parole, e’l minacciar ben pose</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car pour sa Chryseys que les Grecs l'ont contraint</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ad effetto di poi, che rimandata</seg>
+		<seg>Criseida dal padre, e à la sua terra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De renvoyer par mer au Prestre sacrosaint,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con ampi doni; à me i suoi messi in fretta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il m'a par ses herauts pris Bryseys par force,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mandò, che togliesser la mia bella</seg>
+		<seg>Briseida, che data mi fu in dono</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Donnée à moy des Grecs pour loyer de ma force. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da gl’altri Greci, e’n parte de la preda,</seg>
+		<seg>Che giustamente dar mi si dovea:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La qual tolt’hanno, et via da lui menata.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde ò madre; se puoi, come ben credo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Venez en cet émoy vostre fils assister</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che possa, porgi aiuto al tuo figliuolo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ma mere, et supliez sur le Ciel Jupiter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il che farai, s’in Ciel salendo, questa</seg>
+		<seg>Mia causa trattarai co’l sommo Giove:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si jamais diligente à son ayde vous fustes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del cui voler già tu il dominio tieni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et d'effect et d'avis onques le secourustes.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E stretto il cor d’indissolubil nodo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Car de cela j'ouy qu'un jour vous vous vantiez </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che quanto da lui vuoi, per merto impetri</seg>
+		<seg>De l’opre si, come di tue parole.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand j'estois chez mon pere, et que vous racontiez </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E mi rament’io ben, che di mio padre</seg>
+		<seg>Ne la casa, sovente, e’n mia presenza</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'avoir assisté seule en sa deconvenue </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gloriata ti sei, dicendo, sola</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'ayné fils de Saturne amasseur de la nue,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tu Giove haver da un fier periglio, e grave,</seg>
+		<seg>D’indegna morte liberato, e assolto;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quant tous les autres Dieux, Neptun, Pallas, Junon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quando Nettuno, Pallade, e Giunone</seg>
+		<seg>E gli altri Dei fur congiurati insieme</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contro lui, e con si fier empito mossi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le vouloient enferrer et le metre en prison:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che prender il voleano, e’n duri lacci</seg>
+		<seg>Stretto legarlo, e poi ucciderlo al fine.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vous vintes la dessus, des ceps le delivrastes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde tu allhor sopr’arrivata, e’n tempo,</seg>
+		<seg>Mossa à pietà del fier caso di Giove,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et pour le secourir au ciel vous appellastes</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E del grave periglio, in ch’era posto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le geant aux cent mains Briare au cœur de lion,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>N’andasti à un punto dal fier mostro horrendo</seg>
+		<seg>Di Centoman, nomato Briareo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des Dieux ainsi nommé, des hommes Aegeon,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da gli Dei, da’ mortai detto Egeone:</seg>
+		<seg>E lui pregato’l conducesti in Cielo;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plus puissant et plus fort au double que son pere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il qual: poi che ne la virtu paterna</seg>
+		<seg>Confidarsi, et anchor perche di tanto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ces Dieux eurent frayeur telle de sa colere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Horror tolto il presidio, havea, gli Dei</seg>
+		<seg>Videro; da timor percossi, à un tratto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ils le laisserent là sans oser l'enferrer.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>S’arrestar da la fiera audace impresa.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Allez le donc trouver pour luy rememorer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vanne hor dunque, mia madre, à Giove innanzi</seg>
+		<seg>E gettata a’ suoi piedi hor gli rammenta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce secours oportun, et signalé service,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tutti quei grati benefici, e degni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Embrassez les genous, et pour ce bon office</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che gl’hai tu, madre, fatto, e priega lui,</seg>
+		<seg>Se far si può, ch’in questo ti compiaccia,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Faictes tant qu'il se mette au secours des Troyens,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che de’ tuoi tanti degni merti in vece,</seg>
+		<seg>Favoreggi i Troiani, e lor si tolga</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chasse jusqu'en leurs naus les fuitifs Achaiens</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In suo presidio, e lor propitio sia,</seg>
+		<seg>Et à Greci contrario; e’n fuga, e’n rotta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ponga, e’n ruina, e’n fin dentro à le navi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mis en route et n'aurez, tant qu'ils se mécontantent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ancho fin’al mar, pien di spavento,</seg>
+		<seg>Di paura, e d’horror, gli risospinga,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De leur bel Empereur, et cognoissent et sentent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perche gli altri pe’ merti del Rè loro</seg>
+		<seg>Portin la pena, e siano afflitti, e oppressi;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur tous Agamemnon ce qu'il s'est procuré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E conosca egli haver ben la cagione</seg>
+		<seg>Dato à tanta ruina, e à tanti danni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'avoir le plus vaillant des Grecs déshonoré.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ilqual de tutti i Greci il più prestante</seg>
+		<seg>Spregiò, e’l miglior guerrier, che si vest’armi.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Helas, luy dit Thetis toute en larmes tournée, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Thetide poi, che udito hebbe il sermone</seg>
+		<seg>Del figlio, tutta à lagrime commossa,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pourquoy sous si cruelle et dure destinée </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A che misera me, disse, figliuolo</seg>
+		<seg>Ti generai si miser? che gli Dei</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>T'ay-je nourry, mon fils! que deusses tu long-temps</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Me’l concedesser pur, che questo poco</seg>
+		<seg>DI tempo, che di vita ti rimane,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chez toy passer tes jours et joyeux et contans!</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>(Che ben poc’è, ne di lontan già molto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais cela ne se peult, car il fault que ta vie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La morte t’è, ma prossima, e vicina)</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par le cruel destin te soit bien tost ravie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lecito almen ti fusse in pace, e senza</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tes jours briefs te soient tristes et langoureux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lagrime, e senza affanni à trapassarlo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>C'est pourquoy tu es né sous un sort malheureux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma se tu hor frà tutti gli altri Heroi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Or pour te contanter il fauldra que je vole</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per menar la tu avita, ch’è si brieve,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur le Ciel nuageus porter ceste parole</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In cosi duri, e’n si penosi affanni?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au puissant Jupiter. Je luy ramentevray,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per ciò, figliuolo, io tua misera madre</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et s'il se peult, ton faict luy persuaderay</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>T’ingenerai, e nodrii, per soffrir questo?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Demeure cependant icy sur ta galere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I vedrò bene di compiacerti à pieno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Gardant sans te bouger sur les Grecs ta colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E da Giove n’andrò à pregarlo s’egli</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sur tout garde toy de combatre et t'armer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mai quel che brami conceder mi voglia,</seg>
+		<seg>Ma bisogna, bisogna undici giorni,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jupiter seulement se mit hyer en mer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fin ch’ei da l’Ocean nel Ciel ritorni</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Affin de se trouver au festin où le traittent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dal convito che lui fer gl’Ethiopi;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Aethiopiens, où tous les Dieux banquetent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ove l’altr’hier n’andò con gli altri Dei.</seg>
+		<seg>Allhor io là salendo, immantinente</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par dela l'Ocean il y fera sejour,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da lui n’andrò, com’ei ne venga, e tanto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Supplice il pregherò, ch’io mi confido</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et n'en retournera que le douziesme jour</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da lui impetrar quant’io dimandi, e chieggia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A son retour de là je seray toute preste</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma tu in tanto, figliuolo, uscir non vogli</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne la guerra à pugnar, n’ancho al concilio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'aller baiser ses pieds et faire ta resqueste.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Intervenir più già: mostrando contro</seg>
+		<seg>Tutti i Greci corruccio acerbo, e fiero.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ce disant, elle part, et laisse là son fils</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poi che disse cosi, dal mesto figlio</seg>
+		<seg>Parti la Dea; cui fuor di modo afflitto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Triste d'avoir perdu sa belle Briseys</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lasciò, pien di dolor, molesto, e grave;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Laquelle on luy avoit par violence prise,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si per l’ira, c’havea contro’l superbo</seg>
+		<seg>Rè Agamennon, com’ancho pe’l desire</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cocente, e fier, de’ suoi intercetti amori.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais Ulisses voguant parvint en fin en Chryse </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mentre à le navi, et à gl’alloggiamenti</seg>
+		<seg>De’ Greci si facean tai cose, Ulisse,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avec ce qu'il menoit au Prophete sacré: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’era partito già con gl’altri insieme,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dedans le port profond si tost qu'il fut entré </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Arrivò in Crisa, ove poi che nel porto</seg>
+		<seg>Entrati furon, ecco abbassar le vele</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il fit plier le voile et serrer le cordage, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Prima, e raccorle à un tratto, e poi riporle,</seg>
+		<seg>E l’alber poscia da le funi sciolto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mettre à point le grand Mast avec tout l'equipage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da le quali era sostenuto, al basso</seg>
+		<seg>Dentro à la nave al suo loco deporre.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E presi i remi, e dati à l’acque, il legno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ficher l'anchre dans terre et la nef attacher,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Drizzato al lido, e fur vicini à terra;</seg>
+		<seg>E gittate al fin l’anchore, et legata</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis sortans du vaisseau se prirent à marcher</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In riva al mar la navicella, in terra</seg>
+		<seg>Scesero, e fer le vittime uscir fuora,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Devers le Saint Autel où mainte offrande tumbe</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E la bella Criseida fuor ancho</seg>
+		<seg>N’escie, cui per man prende Ulisse, e seco</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En touchant devant eux la sacrée Hecatumbe,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La conduce nel Tempio, e al sacro altare</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De Phoebus Apollon, si marchoit avec eux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’Apolline, e l’assegna al padre in mano</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La belle Chryseïs sortant du vaisseau creux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con grato viso, à lui cosi dicendo.</seg>
+		<seg>Crise; ch’io qui da te venir dovessi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Conduite prés l'autel par Ulysse le sage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui la rend à son pere et luy tient ce langage.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Venerable Chryses, Agamemnon le Roy </seg>
+		<seg>Prince de nostre camp m'envoye devers toy </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>M’impose il Rè possente Agamennone,</seg>
+		<seg>Capo, e signor di tutto il Greco stuolo;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Te remettre ta fille, et pour rendre propice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A ciò ch’à te ne menassi la tua figlia,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Phoebus aux Argiens par un sainct sacrifice,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con le vittime insieme, co’l cui sangue</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et destourner le mal que contre eux irrité</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Immolandole qui, con noi placare</seg>
+		<seg>Febo possiam, ch’è contro noi si irato,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il leur faict pour t'avoir par trop peu respecté. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E per sdegno, e furor incrudelito.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce disant il luy livre et la fille et l'offrande,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Bramoso Crise allhor la figlia accoglie,</seg>
+		<seg>Et à gl’altri commanda allhora allhora,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que prend le Prestre sainct en allegresse grande:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’al sacro altar, ch’ornar già fatto havea</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tout soudain eux tous aprestent dignement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nobilmente, le vittime condotte</seg>
+		<seg>Siano, e per farne i sacrifici acconcie:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'offrande sur l'autel preparé sainctement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il che fatto, e le man levate, e porte</seg>
+		<seg>Le stiacciate di farro al mestier pronte:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis se lavent les mains, et l'aspersion preste</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Egli levando el Ciel le mani, e’l viso,</seg>
+		<seg>Et alzando la voce si, ch’ognuno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chryses fit à Phoebus ceste ardente requeste.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il potea udir, Apolline in tal guisa</seg>
+		<seg>Supplicando priegò con tai parole.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dieu à l'arc argenté qui en Chryse te tiens </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Potente Apolo, che con l’arco altero,</seg>
+		<seg>Che d’argento hai, sei ben grande, e potente;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En Cille et Tenedos entend ces propos miens.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che reggi, e’n tuo presidio hai Crisa, e Cilla,</seg>
+		<seg>Tenedo, e Sminta; se le mie preghiere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu m'as par cy-devant exaucé favorable </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Udisti mai, priego hor, che l’oda, e’ntenda:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et m'as faict un honneur du tout inenarrable </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E d’honor dego hor fa’l tuoi Sacerdote.</seg>
+		<seg>E se mai me, che ti pregai, essaudisti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En ce qu'en ma faveur tu as frappé les Grecs </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E per mio honor punit’hai i Greci, loro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'une playe bien grande, Or fay moy cy apres</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Affliggendo co’l morbo aspro, e mortale:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ceste grace, qu'aussi recevant ma priere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Essaudiscimi anch’hor, e a’ prieghi miei</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu vueilles chasser d'eux ceste peste en arriere.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Scaccia hoggimai da lor la peste horrenda,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’è già pur troppo incrudelita, e fiera.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Apollon l'exauça, puis ayant achevé</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lui che cosi pregava Apollo allhora</seg>
+		<seg>Essaudi immantinente: Egli poi c’hebbe</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sa devote oraison et sur le chef levé</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cosi pregato, e posto sopra’l foco</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La saincte aspersion, l'holocauste ils rangerent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Le stiacciate di farro, e al sacro altare</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tout premierement du couteau l'égorgerent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fatto ridur le vittime, in un tratto</seg>
+		<seg>L’uccidono, e tran lor le pelli, e poscia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'écorchèrent apres, coupèrent les jambons</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Via le taglian per mezo ambedue l’anche,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ils couvrirent de gresse, et dessus les charbons</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E le cuopron d’opima, e grassa rete</seg>
+		<seg>Per tutto; ne le quai poscia di sotto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les mirent pour rostir, Chryses y vint respandre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Postovi il vecchio il foco, e sparso sopra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'effusion de vin, et les jeunes gens prendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per libamento il vin nero, raccende</seg>
+		<seg>Et arde il sacrificio, stando appresso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les broches à cinq rancs: Quand ils furent bien cuits</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ivi à l’altare i giovani ministri</seg>
+		<seg>Con cinque spiedi in man pieni di carne.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et en eurent gousté, ils trancherent depuis </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma dopo che fur già de l’hostie l’anche</seg>
+		<seg>Arse dal foco; gl’intestini prima</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout le reste en morceaux, en la broche le mirent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che’n su le bragie ivi arrostito haveano,</seg>
+		<seg>Cominciaro à mangiar tutti frà loro.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et curieusement au feu cuire le firent:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E poi de l’hostie l’altre membra in pezzi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cela faict, et ayans preparé le banquet</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>C’havean troncato, ne gli spiedi acconcie</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chacun à suffisance à repaistre se met.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poser con diligenza al foco intorno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lequai, poi che à bastanza furon cotte,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand la faim et la soif eurent laissé les troupes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Su la mensa fur poste, et assetato</seg>
+		<seg>Per ordine ciascun, mangiaro insieme.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les garçons de bon vin couronnerent les coupes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al fin satolli; ecco i coppier, che piene</seg>
+		<seg>Han le tazze di vino, e da ber danno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis vindrent les offrir à chacun à leur tour. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per ordine ad ogn’un, di grado, in grado.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apres, les fils des Grecs chanterent tout le jour</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma Ulisse allhor co’ suoi compagni, vago</seg>
+		<seg>Tutto quel di spese in diporto, e’n canto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Paeanes et chansons en grande esjouyssance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con hinni hor Febo, hor con canzoni, hor lodi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A Phoebus qui ses traicts et ses raiz loin eslance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Celebrando, per quanto il di sofferse.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui receut appaisé leurs vœux benignement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I quali udendo Febo, e contemplando,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et de leurs hymnes prit un grand contentement.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Somma allegrezza, e gioia allhor n’havea.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Quand le soir fut venu les Grecs s'en retournerent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et venute le tenebre, et la notte</seg>
+		<seg>Ciascun quivi à giacer si pose sopra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Coucher dans leur navire, au sommeil se donnerent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il legnetto, frà canapi, e rudenti,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jusques au poinct du jour, qu'ils reprirent la mer,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fin che n’usci fuor con l’Aurora il giorno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour retourner au camp à force de ramer:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ilqual venendo, e ogn’un lasciando il sonno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Phoebus leur donna le vent fort favorable.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si diviser fra lor per ogni scanno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ils leverent adonc le mast avec le cable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pigliando i remi in man, drizzando il legno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tendirent le voile, et le vent leur donnoit</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ver le tende, per far ritorno indietro.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par le milieu du voile, et le flot resonnoit</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E da la poppa allhor spirando il vento,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Autour du vaisseau noir qui couroit dessus l'onde</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lor mandato d’Apolline, le vele,</seg>
+		<seg>L’alber rizzato, dispiegaro à un tratto:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et coupoit les sillons de la vague profonde. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde facean più ratto il camin loro.</seg>
+		<seg>E risonando il mar tranquillo forte,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fender vedeasi à la ritorta proda;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Quand ils furent venus à l'exercite fort</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si che in brieve arrivar nel Greco campo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ils tirerent soudain le vaisseau sur le bord</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ove scesi, dal mar la nave tranno</seg>
+		<seg>In terra à un tratto, e là dove prim’era</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A grand'force de tours, puis chacun se retire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>La riducono allhora; e ben fermata</seg>
+		<seg>La lascian qui, et essi à le lor tende</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme il veut dans sa tente ou dedans son navire. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si raccolgono, e à loro alloggiamenti.</seg>
+		<seg>Achille in tanto, e per quei giorni, mai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non usci fuor à combattere, ne à vedere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Mais le fils de Peleus Achille aux pieds disposts</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fu alcun de i Greci Prencipi, et Heroi,</seg>
+		<seg>Ma ritirato ne’ suoi padiglioni</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Courroucé demeuroit en sa nef en repos,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si stava, assai maninconoso, e mesto:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans vouloir se trouver en conseil n'assemblee,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sol bramoso d’udir presso à le navi</seg>
+		<seg>De’ nemici tumulto, e suon di guerra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ny en pas un exploit sa poitrine troublee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pien di strida, e furor: vedere intorno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dire se consumoit, desirant de courrous</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Correre i Greci, e rivoltarsi in fuga,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tout fust desja plein et de guerre et de coups. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rotti, e posti in periglio aspero, e crudo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Or comme on vit venir la douziesme journée</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma’l duodecimo di venendo, Giove</seg>
+		<seg>Con gl’altri Dei, che lui seguiano in frotta,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que sur le ciel devoit s'en estre retournée</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da l’Oceano, e dal convito altero,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La troupe des haults Dieux, on vit aussi Thetis</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’apprestato gli havean già gl’Ethiopi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Venir persuader Jupiter pour son fils</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Partendo, su nel Ciel fece ritorno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Elle delaissa donc la demeure salée</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Theti che non havea posto in oblio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Montant de grand matin sur la voute estoillée,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I prieghi del suo figlio, usci dal mare</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Où elle rencontra sur le bout flamboyant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E da Giove n’andò innanzi l’Aurora.</seg>
+		<seg>Cui ritrovò seder su l’alto scanno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De l'Olympe monteux Jupiter loin-voyant:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nel Cielo, in parte, e sol, senza haver seco</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si s'assit devant luy, ayant de la senestre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Veruno in compagnia de gl’altri Dei.</seg>
+		<seg>Ond’à seder vicina à lui si pose</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Embrassé ses genous, sa barbe de la dextre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A faccia, à faccia, e la sinistra in tanto</seg>
+		<seg>Man gli distese à le ginocchia intorno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au dessous du menton, puis vint à le flatter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E la destra sul collo, e sotto’l mento;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En ces mots doucement. O pere Jupiter </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E lui prese à pregar con tai parole.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si onc de tous les Dieux, je t'ay fait assistance </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gran padre Giove; s’io frà gli altri Dei</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et de bouche et d'effect, ayez en souvenance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per detti, ò fatti d’alcun merto sono</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Accomply ma priere, et honore mon fils </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Appo te, fammi hor gratia, hor mi concedi</seg>
+		<seg>Quel ch’io madre per figlio, et io infelice</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per chi più d’altro hogg’è infelice, chieggio</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Però ch’egli fra tutti i Greci Heroi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A qui vivre si peu du destin est prefix</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hebbe in sorte brievissima la vita</seg>
+		<seg>Tanto, quanto acerbissima, e penosa.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le Roy Agamemnon luy fait un grand outrage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Costui’l Rè Agamennon de la sua donna,</seg>
+		<seg>Che gl’altri Greci al mio figliuol in dono</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy ravissant son bien, de sa vertu le gage: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Havean dato per merto, e per honore;</seg>
+		<seg>Per notabile ingiuria ei fargli, e scorno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Donne luy de r'avoir son bien ou son honneur,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fè privo, e con disnor gliel’ha già tolta.</seg>
+		<seg>Sommo padre, di cio fa tu vendetta,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rend si grands aux Troyens et la force et le cœur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E del suo honor, dando à Troiani aiuto,</seg>
+		<seg>Forza, e valor, per rimaner di sopra,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que les Grecs soient contrains et de se recognoistre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fin che i Greci l’ingiuria conoscendo,</seg>
+		<seg>C’hà ricevuto; à lui rendan l’honore,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che gli han si scemo, con doppio guadagno:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atto à ben ristorar si strana offesa.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Detto havendo cosi Thetide, e Giove</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lei non facendo altra risposta, e stando</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Buona pezza in silentio, ella di nuovo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Più che prima l’abbraccia, e un’altra volta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lo ritorna à pregar, cosi dicendo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In ogni modo, Giove, ò assentirai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Promettendo di far quant’io ti chieggio,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O me’l pur negherai liberamente:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’altrimenti giamai quinci partire</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non mi vedrai, ne men lasciarti mai.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per ciò che cosa i non veggio alcuna,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che ti tolga il poter libera farmi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Risposta, e sodisfar mia afflitta mente.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Io pur bramo saper, chiarirmi à fatto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et les biens de mon fils et ses honneurs acroistre. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di quanto i sia appo te da te tenuta</seg>
+		<seg>Fra gl’altri Dei anchor, honore, e pregio.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots, Jupiter demeura longuement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A costei Giove; d’un fier peso, e grieve</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans repondre, et pensif ne parloit nullement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di pensier sovragiunto, e un gran fervore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais Thetis ne cessoit toujours de le semondre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fuor del viso mostrando: Ah quanto, disse,</seg>
+		<seg>Dura condition Thetide, e forte,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne laissoit ses genoux, le pressoit de respondre:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A la vita m’imponi, e à l’esser mio;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Promets-moy, disoit-elle, ou refuse cecy,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che mi comandi, et vuoi ch’in odio incorra</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Car tu ne crains personne) et que je sçache icy,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E’n sdegno fier con l’alma mia Giunone?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si je suis tout à fait mesprisée et chassée.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perche, s’ella m’accusa, e mi riprende</seg>
+		<seg>Ogni giorno, e sovente mi molesta</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui le collecteur de la nuë entassée, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Respondit souspirant. Quelle estrange douleur! </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con lamenti spessissimi, e querele,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car tu me viens encore jetter par grand malheur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dicendo, ch’io verso i Troiani sono</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En noise avec Junon, qui tousjours me querelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Favorevole piu, che verso i Greci:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et conteste entre ceux de la troupe immortelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che fia dunque per dir, per far’allhora,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Criant que je soustiens le party d'Ilion:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quando ella mi vedrà con veri effetti</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais oste toy d'icy, et fay tant que Iunon:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A’ Troiani propitio, a’ Greci avverso?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne t'aperçoive point. J'auray en souvenance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma partiti hor di qui, ch’ella non sappia,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce dont tu m'as requis: et pour ton asseurance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per sorte che tu sii da me venuta:</seg>
+		<seg>Che di quel che tu chiedi io n’havrò cura,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>J'enclineray ma teste en signe du serment</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E vedrò ben di sodisfar tue voglie:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui m'est avec les Dieux commun pour jurement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E per dartene speme, anzi certezza,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce signe rend mon dire à jamais immuable :</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ch’io frà gli Dei particolar mio segno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout ce que j'ay promis demeure irrevocable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che rivocar non si può mai, ne meno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans plus y retourner, Et reste permanent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Uscir vano, ò scemarsi, ò preterire.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout ce que j'ay juré mon sainct chef enclinant.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ainsi dit Jupiter, puis il branla sa nuque,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E cosi detto il figlio di Saturno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et fronçant les sourcils, fit branler la perruque</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Con le ciglia fe’l cenno; alqual si mosse,</seg>
+		<seg>E tremò tutto’l Ciel, spiraro odore,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De son chef immortel, et de ce branle-là,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Le chiome del divin capo, soave:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il émeut tout le Ciel et l'Olympe en croula. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>D’odorifera ambrosia d’ogn’intorno.</seg>
+		<seg>Poi che ciò fu trattato, e detto in Cielo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> D'aupres de luy Thetis à ces mots se retire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tra’l padre Giove, e Thetide; partissi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et devale du Ciel dans le profond empire;</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ella da lui, e nel mar indi discesa,</seg>
+		<seg>Se n’entrò in mezo al pelago profondo:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Jupiter s'en va dans son Palais mouvant:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ei se’n gio nel suo palagio altero.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tous les Dieux se levans luy viennent au devant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al cui arrivar nessuno Iddio sostenne</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme à leur pere et Roy, pas un ne s'en exempte,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Seder, ne rimaner nel proprio loco;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le voyant venir deant luy se presente: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy s'asseant se mit en son throsne doré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma dal suo seggio ogn’un sorgendo allhora,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais à Juno le faict ne peut estre ignoré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si fe’ncontro al gran Giove al suo venire.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ayant bien veu Thetis sa requeste luy faire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il qual poi che posò su’l suo bel soglio,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et brasser son dessein. Font palle e cholere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Elle le provoquoit de mots contentieux. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Trompeur, dissimulé, avec lequel des Dieux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se gl’appressa Giunone immantinente,</seg>
+		<seg>(Pero c’havea già Thetide compreso</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>As-tu tenu conseil? Ce t'est chose plaisante</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Seco parlar, seco trattar secreto.)</seg>
+		<seg>E con parlar superbo in tal maniera</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gli prende à dir: E che secreti furo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E che sermoni quei, che s’in disparte</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Trattò teco colei d’ogn’altra Dea</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De resoudre en cachette, et quand je suis absente</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E più maligna, e più di frodi piena?</seg>
+		<seg>T’ingegni pur d’ogn’hor da me nascosto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que tu veux parfaire, et si ne te vient point</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Trattar consigli, e cose occulte, senza</seg>
+		<seg>Che meco le communichi, e ch’io sappia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A cœur d'en reveler à moy le moindre poinct.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nulla, di quanto far proponi, e’ntendi?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui respond des Dieux et des hommes le pere. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A cui il gran Giove padre de gli Dei,</seg>
+		<seg>E de gl’huomini, allhor cosi rispose.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Juno, d'ainsi sçavoir tout mon secret n'espere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non ti pensar, non ti creder Giunone,</seg>
+		<seg>Di saper già tutti i secreti miei,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Bien que tu sois ma femme, et si tu y taschois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E quel ch’io dica, ò tratti, ò parli, ò pensi:</seg>
+		<seg>Però che ciò non ti convien, ne lice:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu n'en viendrois à bout. Tu sçauras toutesfois </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E ti sarà difficil d’ogni verso,</seg>
+		<seg>Ben che mia moglie sia, saperne mai.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que tu dois sçavoir et qui est raisonnable,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma le cose, ch’udir dal tuo marito</seg>
+		<seg>Sarà giusto, e dover: quelle veruno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>De gli Dei, ne de gli huomini mai fia,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che pria che tu da me le sappia, e’ntenda.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme estant la premiere en la troupe honorable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde s’io nel pensier, nel petto interno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des Dieux tousjours vivans. Mais ce que j'ay pensé</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cosa nodrisco, et vo’, ch’al tutto sia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De faire à part moy seul, ton cœur ne soit poussé</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nascosta à gl’altri Dei, non per ciò devi</seg>
+		<seg>Dimandarmene tu, ne curiosa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'en vouloir rechercher la cause et l'origine.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Di saperla mostrartene, e si ingorda.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui replique encore la Deesse divine. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ah Giove empio, e crudel; Giunone allhora</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le plus fascheux qui soit du vieil Saturne né </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gli disse: e quai da te parole io sento?</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le plus rude encor, quand t'ay-je importuné</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sai ben, ch’io mai non soglio dimandarti</seg>
+		<seg>Ne curiosa investigar veruna</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour vouloir tant sçavoir de ton secret affair ?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cosa, ò cercar saper, che tu altrui dica.</seg>
+		<seg>Ma tu tacito sempre, mai di quanto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu fais tout à ton gré, et je te laisse faire:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sei già per far, non me ne fai parola,</seg>
+		<seg>Ne meco men te ne consigli mai.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais je suis en grand peine, et je tressauts de peur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Là onde i’ hor sollecita oltre modo</seg>
+		<seg>Sono, e tutta in pensier posta, che temo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que Thetis te flattant ne t'ayt seduit le cœur:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Theti che innanzi il matutino albore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car je sçay qu'elle s'est à tes pieds prosternee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da te n’entrò abbracciandoti, per quanto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qu'elle t'a parlé toute la matinee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>I posso sospettar, te non havere</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu luy auras, je croy, promis de revancher</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Stretto co’ prieghi, à vendicar l’offesa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Son Achille, et les Grecs ruiner et fascher. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fatta ad Achille, ad onta, danno, e scorno</seg>
+		<seg>De’ Greci, e co’l far lor voltar le spalle</seg>
+		<seg>A’ Troiani, e fuggir sconfitti, e oppressi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da fiera strage, infin dentro à le navi.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Fascheuse, luy respond le Dieu qui du ciel tonne, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Giove a’ suoi detti allhor cosi rispose.</seg>
+		<seg>O astutissima in ver, sempre in giudicii rei,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Io non so già via ritrovar, che vaglia</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nascondermi da te, ne celar mai:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>C'est grand cas que ton cœur sans cesse me soupçonne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma t’affatichi in vano, e ti so dire,</seg>
+		<seg>Che queste tue malitie, me non solo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non muteran dal mio consiglio intento;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais tu ne gaignes rien: Car plus tu en feras</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma piu mi v’indurran, perche maggiore</seg>
+		<seg>Dolor ne senta tu, dispetto, et onta.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che se ben passa il fatto, et è secondo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et plus rude et contraire à toy me trouveras.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tu sospetti, e dett’hai; che mi fia questo?</seg>
+		<seg>Onde gonfia à tuo modo, e fa ritorno</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si j'ay rien accordé, ma volonté est telle.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al tuo seggio à seder, se vuoi; ne vogli</seg>
+		<seg>Disubbidir superba al mio volere,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne rubella esser già contro’l mio impero.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Or tays toy, obey, et plus ne me querelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Perche quinci movendomi, l’irate</seg>
+		<seg>Mani sopra di te non ponga, in tanto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que je ne te chastie, et que les Dieux en vain</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che non possan gli Dei tutti insieme ancho</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'essayent de t'oster de ma cholere main.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Trarmiti, e darti à la lor voglia aiuto.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Il se teut, et Junon eut peur de sa menace</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Da parole si fiere, e si orgogliose</seg>
+		<seg>Sbigottita Giunon, l’audaci voglie</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si que sans dire mot elle reprit sa place,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Deposte, ritornò tacita, e senza</seg>
+		<seg>Replicar verbo al loco suo à sedere.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et les Dieux pour ces mots et dicts contentieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Furent tous attristez sur le palais des Cieux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que voyant Vulcan l'ouvrier incomparable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vulcano allhor di tenerezza mosso</seg>
+		<seg>Ver la madre, con dir dolce, e giocondo,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Se prit à dire ainsi à sa mere honorable.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A lei prese à parlare in tal maniera.</seg>
+		<seg>Madre mia cara, in ver debito molto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si ces noises icy durent plus longuement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che questa cosa oltre non vada, e tanto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che d’alcuna ria strage arrivi al segno;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Entre vous puissans Dieux, et principalement </seg>
+		<seg>Pour des hommes mortels, je ne voy que ruine </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Se voi divi del Ciel per gli huomini sete</seg>
+		<seg>L’un con l’altro frà voi posti in litigi;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et dissipation sur la troupe divine,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E gl’altri Dei à tumulto provocando,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nos festins en seront et rompus et troublez,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Turbiate à noi il piacer dolce, e soave.</seg>
+		<seg>Di cosi degno, et horrevol convito:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et plus ne pourrons estre en liesse assemblez.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per ciò che ne le gare, e rie contese</seg>
+		<seg>Vincer soglian sovente le peggiori.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par ainsi j'admoneste et conseille ma mere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Onde per quant’io posso, e so, te’n priego,</seg>
+		<seg>Madre, e t’essorto, ben che per te stessa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Toute sage qu'elle est, de ceder à mon pere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Habbi ben senno, ch’al gran padre vogli</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy parler doucmeent, de peur de l'irriter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Renderti per colpevole, e non seco</seg>
+		<seg>Contumace contendere, e superba;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A ciò ch’egli per tal cagion sdegnato</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et nos festins ainsi troubler et constrister,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rimproverando il tuo disubbidire,</seg>
+		<seg>E turbando la cena, ogn’altro astringa</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car si Jupiter veult, des traicts de son tonnerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Il suo seggio à lasciar, quinci à partire.</seg>
+		<seg>Ma con parlar piacevole, et humano</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il nous peut, tout-puissant, precipiter en terre.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Favella à lui; per che cosi facendo</seg>
+		<seg>A noi ritornerà grato, e benigno.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Donc, ma mere, parlez à luy plus doucement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Detto cosi, un bel trappo allhor porse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si vous en desirez avoir bon traittement.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nobilmente scolpito in ogni lato</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Il dit, et se levant il tendit à sa mere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A la sua madre, à lei cosi dicendo.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Une coupe, et luy dit de joyeuse maniere:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sopporta ò madre in pace, e benche n’habbi</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Patientez, ma mere, en la necessité,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cagion di lamentarti, in pace homai</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Durez, combien qu'ayez l'esprit fort contristé: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vogli patir del gran Giove l’impero:</seg>
+		<seg>A ciò stretto i non sia con mio dolore</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il me feroit grand mal de vous voir outragée:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Forse esser testimon de’danni tuoi,</seg>
+		<seg>Come io sarò, s’addosso ei ti s’avventa:</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par moy vous ne pourriez estre en rien revangée,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne darti aiuto allhor men possa, in contro</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jupiter est trop fort, on ne gaigneroit rien</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Opponendomi à lui, ch’è il più feroce,</seg>
+		<seg>E il più possente di noi altri Dei;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De s'opposer à luy. Car il me souvient bien</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Com’io so, che n’ho fatto esperienza,</seg>
+		<seg>E ben con mio gran danno, e per te hor temo</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'autrefois vous voulant oster à sa colere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per che ben mi sovien quando una volta</seg>
+		<seg>Mentre ch’io te da le sue man distorre,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il me poussa du pié, me fit choir en arriere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Che ti battea, sforzo facea, lasciando</seg>
+		<seg>Egli allhor te, ver me si volse, e prese</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du hault du ciel en bas, faisant en l'air maint tour </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per un de’ piedi me, e ruotando forte</seg>
+		<seg>Dal Ciel mandommi in precipitio in terra.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tousjours tournoyant, tant que dura le jour </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Usciva allhor fuor d’Oriente il Sole,</seg>
+		<seg>Et io d’allhor per tutto quel di intiero</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jusqu'au soleil couché, que je cheu miserable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per l’aere lieve discorrendo al basso,</seg>
+		<seg>Non mi ritenni infin nel centro oscuro;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En l'Isle de Lemnos, où l'ayde secourable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E di Lenno ne l’Isola percossi.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des humains Sintiens bien a propos me vint,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ivi me allhor quasi senz’alma, essangue</seg>
+		<seg>Gl’habitator venendo, indi levarmi,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Junon se sourit aux propos que luy tint</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et à ricrear presero, e à far vezzi.</seg>
+		<seg>Udendo ciò Giunon, lasciò lo sdegno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le Dieu boiteux son fils, prit de ses mains la coupe,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E da le man del figlio, sorridendo,</seg>
+		<seg>Il nappo prese, il qual poi c’hebbe voto</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis commenceant à droite, à tous ceux de la troupe</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Del nettare dolcissimo, e soave,</seg>
+		<seg>Ond’era pien: Vulcano à gl’altri Dei</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il vint la presenter pleine de nectar doux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Servendo di coppier, si trasse avanti.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Un grand desir de rire à l'heure les prit tous,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E quinci hor mentre, e quindi hor iva intorno</seg>
+		<seg>Da ber dando sovente à gl’assettati,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Voyans ainsi Vulcan avec sa jambe torte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Al zoppicar di lui brutto, e difforme</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Verser le vin aux Dieux d'une si bonne sorte: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Strane risa facean tutti gli Dei,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le festin donc se fit au celeste sejour</seg>
+		<seg>Jusqu'au Soleil couchant tant que dura le jour,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per tutto’l tempo, che’l convito tenne.</seg>
+		<seg>Al qual dier fin sendo à l’Occaso il Sole;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rien n'y fut espargné tant il fut magnifique, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apollon sa guiterne, et ses sœurs la Musique</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sonando Apollo la sua cetra in tanto</seg>
+		<seg>D’oro ornata, e di gemme; e con soave</seg>
+		<seg>Canto, et voci dolcissime le Muse</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Y firent retentir d'un accord nonpareil. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ancho cantando allhor, tutte à vicenda.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais quant dessous les eaux on vit cheoir le Soleil,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ma poi ch’ogn’un di delicati cibi,</seg>
+		<seg>E di vini dolcissimi, e di canto</seg>
+		<seg>Satio ben fu; lasciando il Sole il giorno,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour s'aller reposer, les Dieux font la retraicte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si ridusse ciascun ne la sua stanza,</seg>
+		<seg>Per luogo dare à la Quiete, e al Sonno;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et gaignent la maison qu'à chacun d'eux a faicte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Per cio ch’hanno gli Dei per se ciascuno</seg>
+		<seg>La sua stanza divisa, che Vulcano</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le pié-tortu Vulcan artiste ingenieux:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ottimo, e nobilissimo architetto,</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le grand foudroyeur se retire comme eux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Lor fè di sua man propria, e con mol’arte.</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En son lict où il dort quand le sommeil le gaigne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E Giove ne la sua camera entrato</seg>
+		<seg>Ove solea dormir, giosene al letto;</seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Où tost il est suivy de Juno sa compagne. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>E Giunon seco, allato à lui à giacere.</seg>
+	</tuv>
+</tu>
+
+      </body>
+    </tmx>  
+                

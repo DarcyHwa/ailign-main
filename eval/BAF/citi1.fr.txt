@@ -1,0 +1,645 @@
+Industrie Canada Centre d'innovation en technologies de l'information Travail et technologie
+Changement technologique et organisation du travail
+François Lapointe
+Laval 6 octobre 1995
+Ce document fait état de travaux de recherche réalisés dans le cadre des activités du Centre d'innovation en technologies de l'information (CITI).
+Les opinions exprimées dans ce document n'engagent que l'auteur.
+This report is also available in English.
+© Copyright Industrie Canada 1996
+No catalogue Co28-1/127-1996F
+No ISBN 0-662-80983-1
+Table des matières
+1.
+Introduction : positionnement et enjeux
+. .
+1
+2.
+Le changement technologique comme processus global : un exemple
+. . . . . . . . . . . . . . . . .
+5
+2.1.
+Le contexte de l'organisation
+.
+6
+2.2.
+L'amorce du changement
+. . . . .
+8
+2.3.
+Le design du changement
+. . . .
+11
+2.4.
+L'implantation des solutions développées
+.
+14
+2.5.
+Le suivi d'utilisation
+. . . . .
+16
+3.
+La problématique du changement technologique dans les organisations : quelques repères théoriques
+. . . . . . . . . . . . . .
+19
+4.
+Une approche d'évaluation contextualiste
+. . . . . . . .
+23
+4.1.
+Description générale
+.
+23
+4.2.
+Stratégie d'application de l'approche
+. .
+27
+4.3.
+Méthodes d'évaluation
+. . . . . . . . . .
+30
+5.
+Niveaux d'intervention
+. . . . . . . . . . . . . . . . .
+34
+5.1.
+Le design contextualiste
+.
+36
+5.2.
+L'évaluation d'implantation
+. .
+41
+5.3.
+Le suivi (ou évaluation d'utilisation)
+.
+46
+6.
+Conclusion
+. . . . . . . . . . . . . . . . . . . . . . .
+50
+Bibliographie
+. . . . . . . . . . . . . . . . . . . . . . .
+52
+Remerciements
+L'auteur tient à remercier ses collègues du programme Travail et technologies, David Tippin, Richard Lavoie, Duncan Sanderson, Anne-Marie-Tessier et, plus particulièrement Mme Judith Légaré, pour leur contribution au présent document.
+Leurs commentaires, conseils et suggestions ont été d'un apport très important et apprécié.
+1.
+Introduction : Positionnement et enjeux
+La question du changement technologique dans le travail n'est pas nouvelle.
+Depuis les débuts de l'ère industrielle, le développement de dispositifs techniques (mécanisation, automation) a servi de levier à l'émergence de différentes formes de travail.
+En effet, on retient de l'histoire de l'industrialisation que l'implantation d'innovations technologiques s'accompagne ou est suivie de nouvelles façons d'organiser et de gérer le travail qui s'y rattache.
+Ainsi, la mécanisation et l'automatisation des procédés de travail dans l'industrie manufacturière ont été prises en charge par la production à la chaîne, le taylorisme et le fordisme.
+Dans les sociétés industrielles, ces nouveaux modes d'organisation ont eu des répercussions énormes sur les organisations, mais aussi sur la vie au travail et sur le visage de la société en général.
+Ils ont permis, par exemple, d'augmenter substantiellement la capacité de produire et de consommer des sociétés industrielles, de même qu'ils ont été la source de profondes tensions sociales reliées, notamment, à la déqualification des travailleurs, à une répartition inégale de la richesse et à un fonctionnement fortement hiérarchisé du monde du travail.
+Même si nous n'avons pas encore beaucoup de recul pour en observer la portée réelle, de nombreux observateurs (notamment, Bergquist, 1993; Minc, 1993) croient que nous sommes entrain de traverser une autre période de transformations profondes découlant en grande partie de l'évolution des technologies et des façons d'organiser le travail.
+On remarque plusieurs tendances à la «décentralisation» des structures organisationnelles et de l'organisation du travail.
+Ces tendances apparaissent, notamment, comme un accroissement de l'autonomie d'une partie de plus en plus importante des travailleurs (par exemple, par la tendance au remplacement des emplois salariés par le travail autonome, par l'«amaigrissement» des grandes organisations au profit de la sous-traitance, etc.).
+Parallèlement à cet «éclatement» des organisations, on assiste à ce qui apparaît comme une certaine dissolution des structures de ces dernières, qui cèdent la place aux processus (dynamiques) comme mécanismes organisationnels de cohésion.
+Les technologies de l'information et de la communication jouent un rôle important dans ces transformations de l'organisation.
+Une question centrale demeure sous-jacente à cette problématique du changement technologique : celle de l'intégration du changement dans les organisations, donc dans le contenu et la façon d'organiser le travail mais aussi, et surtout, dans les pratiques des personnes qui doivent accomplir ce travail.
+On parle souvent de la «résistance au changement» de la part de larges segments de la société, dont les travailleurs, comme de prises de positions rétrogrades ou injustifiées.
+En fait, ne s'agirait-il pas plutôt de résistances à une absence de maîtrise du changement, souvent présenté comme une fatalité sur laquelle il est tout à fait impossible d'agir?
+S'il est vrai que notre système social et économique impose certaines tendances et exige des organisations qu'elles soutiennent un certain rythme de croisière en matière de développement, il n'est pas dit que nous ne pouvons agir sur la façon de concevoir ces changements.
+Il y a moyen, croyons-nous, de faciliter le changement et d'améliorer non seulement l'efficacité de l'utilisation des technologies, mais aussi celle des processus de travail et la qualité de vie qui l'entoure.
+Le changement technologique est un processus global, en ce sens qu'il touche une diversité d'aspects du travail, de l'organisation et de la vie entourant le travail.
+Par conséquent, on augmente considérablement les chances de tirer profit d'un tel changement si on l'ajuste avec l'ensemble de ces éléments avec lesquels il interagit.
+Pour ce faire, nous suggérons la mise en place de mécanismes de suivi destinés à ouvrir et à maintenir des canaux d'information entre la gestion et les opérations, suggérant ainsi une stratégie de gestion globale et à long terme du changement technologique.
+Nous proposons donc une approche d'évaluation et d'intervention fondée sur la collaboration entre les différents intervenants participant au processus de changement, à commencer par les utilisateurs de la technologie concernée.
+Cette approche vise une compréhension d'ensemble de la problématique du changement technologique appliqué au travail.
+L'approche et les méthodes présentées ici ont été élaborées à partir de plusieurs projets de recherche appliquée, menés au cours des cinq dernières années par le Centre d'innovation en technologies de l'information (CITI) et le programme Travail et technologies.
+L'objectif visé est de comprendre, d'évaluer le changement technologique et d'identifier des moyens d'intervention pour en rendre la réalisation plus efficace, moins coûteuse et mieux adaptée aux besoins locaux des organisations.
+C'est dans cet esprit que nous tentons maintenant d'adapter ces outils de recherche à une perspective de gestion et d'intervention dans le cadre de changements technologiques.
+Le présent document ne se veut pas un instrument pour initiés ou un manuel de gestion.
+Il vise tous les publics intéressés par la question du changement technologique en milieu de travail, qu'ils soient gestionnaires, consultants, représentants syndicaux, utilisateurs, etc.
+Nous voulons ainsi tenter de fournir un certain éclairage sur le changement technologique en milieu de travail et sur les enjeux qui s'y rattachent.
+Plus particulièrement, nous verrons comment aborder un tel changement en tenant compte d'une dimension très souvent négligée, mais pourtant déterminante, soit l'ajustement entre la technologie et l'organisation, de même que l'ensemble des personnes qui y travaillent.
+À l'aide d'un exemple fictif basé sur plusieurs études de cas, nous commencerons par illustrer comment peut s'appliquer l'approche d'intervention que nous proposons.
+Cet exemple nous amènera à déterminer quelques éléments permettant de cerner la façon dont nous voyons la problématique du changement technologique dans les organisations.
+Nous allons ensuite faire état des méthodes servant à appliquer une approche de gestion globale du changement technologique.
+Finalement, on verra pourquoi et comment nous préconisons une démarche de design, d'implantation et de gestion du changement fondée sur l'implication de l'ensemble des acteurs concernés, en commençant par les utilisateurs de «première ligne».
+2.
+Le changement technologique comme processus global : un exemple
+Il a déjà été démontré que ce n'est pas uniquement la technologie en elle-même qui permet à une organisation d'accroître son efficacité et son rendement.
+C'est plutôt la capacité de cette organisation à intégrer la technologie à son contexte propre, selon ses modes de fonctionnement, les savoirs et les cultures occupationnelles de ses membres (Orlikowski, 1992; Davies et Mitchell, 1994).
+S'intéresser aux implications du changement technologique en milieu de travail, c'est en bonne partie jeter un regard sur l'interaction entre la technologie comme outil de travail et l'organisation comme milieu social.
+Ce que nous voulons faire ressortir ici, c'est qu'une même technologie peut avoir des retombées et des implications différentes, qu'elle peut parfois favoriser, parfois empêcher des transformations organisationnelles, selon la façon dont elle est implantée, c'est-à-dire selon la philosophie de gestion qui entoure le changement.
+Afin de situer plus clairement notre propos, commençons par décrire à quoi pourrait ressembler la mise en oeuvre d'un changement technologique en faisant appel à une organisation fictive.
+Bien sûr, cette mise en situation pourra parfois apparaître comme idéalisée et simplifiée à outrance.
+C'est que notre but n'est pas tellement de reproduire exactement une réalité qui n'est, de toute façon, pas la même pour toutes les organisations, mais plutôt de tracer une esquisse destinée à mettre en évidence certaines caractéristiques de la façon de gérer le changement qui est proposée ici.
+Rappelons que, bien qu'inspiré de résultats de recherches appliquées, cet exemple est essentiellement fictif.
+Toute ressemblance avec une entreprise existante serait purement fortuite.
+2.1.
+Le contexte de l'organisation
+INC Inc. est une entreprise comptant d'un peu moins de cinquante employés, en affaire depuis une vingtaine d'années et oeuvrant dans le domaine des communications.
+Une part importante de ses activités consiste à concevoir et à mettre en forme des documents d'information corporative, comme du matériel publicitaire, des dépliants, des rapports d'activités, des documents de relations publiques, pour le compte de toutes sortes d'entreprises.
+Ce genre de produit fait appel à des compétences variées.
+En plus du personnel de bureau et administratif, INC embauche des graphistes, des spécialistes en infographie et en marketing, des rédacteurs et des traducteurs.
+Environ les trois quarts des activités d'INC sont effectuées par son personnel régulier, le reste par des pigistes qui travaillent à leur propre compte et principalement à domicile.
+Les technologies jouent un rôle important chez INC, dans la mesure où l'ensemble de ses produits sont réalisés à l'aide d'outils informatiques.
+Par contre, la performance de l'entreprise et la qualité de ses réalisations reposent d'abord sur les compétences, l'expertise et la motivation de ses membres.
+D'ailleurs, quiconque a discuté un peu avec les employés directement impliqués dans le processus de production sait bien que ces derniers tirent une grande fierté d'un travail de qualité.
+Il est clair que ce qui motive des employés comme les rédacteurs et les traducteurs à investir temps et énergie dans leur travail relève en bonne partie de la possibilité de contribuer à des produits «haut de gamme», qui se distinguent en faisant appel à la créativité et à un certain investissement personnel de la part de ceux qui y travaillent.
+Consciente de ce fait, la direction a progressivement développé un mode de gestion fondé sur l'implication de l'ensemble du personnel.
+En effet, il y a quelques années, on constatait un fort roulement du personnel et la performance de l'organisation laissait à désirer.
+Après s'être penchés sur la question, les responsables de la gestion ont relevé différents problèmes.
+Chaque groupe professionnel n'étant mis en contact qu'avec la portion du travail qui concerne ses compétences principales, personne n'avait d'idée exacte de l'ensemble des projets sur lesquels ils travaillaient.
+Il en résultait une mauvaise communication entre les différentes personnes impliquées dans les projets, ce qui engendrait souvent des délais attribuables à une mauvaise compréhension des besoins des clients de la part des concepteurs et rédacteurs du matériel commandé.
+De plus, on se rendait compte que plusieurs employés avaient une mauvaise connaissance des technologies mises à leur disposition.
+Ces dernières étaient largement sous-utilisées ou mal utilisées, ce qui avait pour résultat d'affecter la qualité des produits et la capacité à produire rapidement.
+Devant ces constats, la direction a réagi en réorganisant le travail autour d'équipes multidisciplinaires, où tous les membres sont mis au fait du travail effectué par les autres, y compris en matière de relations avec la clientèle.
+Les pigistes travaillant à domicile sont également inclus, à distance, dans ce qui devient ainsi un processus de communication et de collaboration entre plusieurs sites.
+Tous les employés impliqués dans un projet étant consultés pour l'élaboration des devis et des propositions aux clients, les compétences de tous sont mises à contribution tout au long du processus de production et les produits sont désormais mieux adaptés aux besoins des clients.
+Chacun est maintenant perçu comme responsable du résultat de l'ensemble du processus de travail.
+On favorise largement le contrôle de la qualité plutôt que la surveillance et l'encadrement comme mode de supervision.
+Les décisions importantes, les grandes orientations et les modalités d'organisation du travail font désormais l'objet de consultations auprès des personnes concernées.
+Cette «philosophie» d'organisation s'applique également aux choix et à la gestion des technologies, incluant la formation et la mise à jour des connaissances techniques des employés.
+2.2.
+L'amorce du changement
+Identification de problèmes et de pistes de solution
+Comme beaucoup d'entreprises, INC est confrontée à une forte concurrence qui l'oblige à tout le moins à maintenir le volume et la qualité de sa production tout en trouvant des moyens de comprimer ses coûts d'exploitation.
+Afin d'identifier diverses possiblités de solutions à ce dilemme, la direction a commencé par une révison des processus de travail, fondée sur une consultation des employés.
+C'est le responsable des ressources humaines qui conduisait cette consultation.
+Il a rencontré des groupes de chaque catégorie d'employés, leur demandant de décrire en détail les différentes tâches et opérations reliées à leur travail, d'en identifier les aspects les plus importants, ceux qui sont considérés comme les plus intéressants, les plus astreignants, ceux qui exigent le plus de temps, etc.
+On a profité de l'occasion pour demander aux employés de souligner les choses entourant leur travail qu'ils aimeraient voir changer ou améliorer, de même que celles, qu'au contraire, ils ne voudraient pas voir changer.
+Les pigistes faisant le plus régulièrement affaires avec INC ont également été consultés, soit par le biais de discussions avec le responsable des ressources humaines, soit par le biais de courts questionnaires qui leur ont été envoyés par la poste.
+Ces consultations ont permis de cerner un certain nombre de problèmes dont la résolution pourrait permettre de réaliser des économies d'échelle, d'améliorer la performance et la qualité du travail.
+Deux types d'intervention sont ressorties comme possiblement prometteurs et réalisables :
+1)
+Beaucoup de temps est consacré à la recherche terminologique, qui constitue une étape importante du travail des rédacteurs et des traducteurs au service d'INC.
+En effet, contrairement à leurs collègues travaillant à la pige, qui rédigent et traduisent dans des domaines hautement spécialisés (des documents appliqués au secteur de l'aéronautique, par exemple), les rédacteurs et traducteurs d'INC oeuvrent surtout comme généralistes.
+Ils doivent donc constamment se familiariser avec de nouvelles terminologies spécialisées, ce qui leur demande de consacrer une part non négligeable de leur temps à se déplacer au centre de documentation pour consulter des bases de données terminologiques, des dictionnaires et lexiques spécialisés.
+Les employés concernés ont suggéré d'explorer la possibilité de développer des outils informatisés leur permettant de procéder plus facilement et plus rapidement aux mêmes recherches.
+2)
+Les employés ont souvent à collaborer avec des pigistes pour réaliser certains projets.
+Cette collaboration consiste à fournir aux pigistes l'information et les directives reliées aux commandes qui leur sont confiées, à leur offrir un soutien dans l'exécution de leur travail, par exemple, en leur donnant des avis et des suggestions sur des versions préliminaires de leurs produits.
+À travers ces collaborations, beaucoup de temps est consacré de part et d'autre à attendre des éléments d'information et on a souvent à reprendre des portions de travail à cause d'une information incomplète ou d'un mauvaise interprétation des informations reçues.
+De plus, pour bien faire leur travail, les pigistes ont besoin d'avoir rapidement accès à une information très diversifiée et ce, pour deux raisons principales.
+D'une part, ils doivent produire très rapidement, ce qui ne leur laisse que peu de marge de manoeuvre pour préparer leur travail.
+D'autre part, n'étant pas continuellement présents dans l'organisation, les pigistes n'ont pas accès à une foule d'informations qui y circule de façon plus ou moins informelle.
+On ressent donc le besoin d'améliorer les liens de communication entre les pigistes travaillant à domicile et les employés d'INC en développant les possibilités d'échanger de l'information plus facilement et de façon continue.
+On se prépare à agir
+Afin d'explorer la faisabilité et la rentabilité de ces suggestions, la direction a formé un groupe de travail constitué du responsable des ressources humaines (qui s'occupe aussi de la formation et du perfectionnement), du responsable de l'informatique (soutien technique, choix et installation des équipements), ainsi que de deux représentants (volontaires) des employés.
+Dans le cas de changements de plus grande envergure ou devant être réalisés très rapidement, on aurait demandé l'aide de consultants spécialisés, mais dans ce cas-ci, les compétences disponibles à l'interne suffisaient pour un premier débroussaillage.
+Lors d'une première rencontre, les membres de ce groupe de travail se sont mis d'accord pour consacrer quelques heures par semaine (de deux à cinq heures, selon les responsabilités de chacun) à la mise au point des solutions concrètes aux problèmes identifiés.
+On fait un inventaire des technologies d'aide à la rédaction et à la traduction disponibles sur le marché, on explore différentes possibilités (technologies et modes d'organisation) de développer la communication entre les pigistes et le bureau, on se renseigne sur les façons de fonctionner dans d'autres milieux où on a à effectuer le même type de travail.
+Il a aussi été convenu que le groupe se réunirait une heure par semaine pour faire le point sur les travaux de chacun.
+Ces réunions donnent lieu à la rédaction de brefs communiqués de quelques lignes destinés à informer la direction et tous les membres de l'organisation de l'état des travaux.
+De plus, une boîte à suggestions a été installée afin de permettre à tous les employés de faire part de leurs idées ou de poser des questions sur les travaux du groupe.
+Les pigistes ont également été invités à participer, soit par courrier électronique, soit par le biais de la boite à suggestions lorsqu'ils sont de passage dans les locaux d'INC.
+Après quelques semaines de recherches et de consultations, le groupe de travail a identifié des ébauches de solution pour chacun des deux niveaux d'intervention.
+Dans les deux cas, les solutions apparaissaient relever autant de changements technologiques qu'organisationnels.
+Au chapitre de l'aide au travail de rédaction et de traduction, on a identifié la possibilité d'intégrer à même le poste de travail des rédacteurs et traducteurs des outils informatisés leur permettant de procéder plus facilement et plus rapidement aux recherches terminologiques.
+Pour ce qui est des communications avec les pigistes, les consultations menées auprès de ces derniers et des employés qui ont à collaborer avec eux ont conduit à l'exploration de différents scénarios, à partir desquels on a pu suggérer l'établissement de liens de réseau et de différentes procédures de communication entre INC et ses pigistes.
+Maintenant qu'on a établi des pistes de solution et des bases de développement, il reste à concrétiser ces changements, à les implanter et à les valider.
+2.3.
+Le design du changement
+Maintenant qu'on a circonscrit les besoins à satisfaire, il reste à déterminer les moyens les plus appropriés pour y répondre, qu'il s'agisse de technologies ou de nouvelles façons d'organiser le travail, selon le contexte particulier d'INC.
+Le but est non seulement de mettre au point des solutions adaptées aux besoins spécifiques de l'organisation, mais aussi de réduire le temps nécessaire pour obtenir une utilisation optimale des technologies et des formes d'organisation implantées.
+Une première ébauche de spécifications pour le choix et l'adaptation de technologies, de même que la définition des stratégies d'organisation ont été élaborées par le groupe de travail, à partir des informations qu'il possède déjà concernant :
+· le profil des personnes visées par les changements (leurs connaissances techniques, leur culture occupationnelle, comme la question de la qualité pour les rédacteurs et traducteurs);
+· le travail à effectuer (travail en équipes multidisciplinaires exigeant une grande créativité et une bonne connaissance des besoins des clients, le besoin d'avoir accès rapidement à une information diversifiée pour les pigistes);
+· les besoins propres à l'organisation (une gestion fondée sur la collaboration et l'implication de tous, le besoin d'une grande circulation d'informations à l'interne et avec ses collaborateurs).
+Pour les rédacteurs et traducteurs, on a choisi d'intégrer à même leur poste de travail des outils d'aide à la rédaction, comme un vérificateur d'ortographe «intelligent», un logiciel de conjugaison, une base de donnée sur CD-ROM.
+De plus, on a développé un logiciel-maison permettant de rédiger rapidement des fiches terminologiques adaptées aux besoins d'INC.
+Ce fichier terminologique serait alimenté par les employés, en cours de travail.
+L'ensemble de ces outils sont mis en réseau, les rendant ainsi disponibles à tous, y compris aux pigistes.
+Afin d'améliorer les communications avec les pigistes, INC a décidé de prêter des modems à chacun de ses pigistes pour la durée de son contrat.
+Ce dernier servirait de cadre où seraient précisées des modalités et des procédures d'échange d'informations destinées à accompagner cette mise en réseau.
+Mis ensemble, la mise en réseau et ces mesures de collaboration devraient, croit-on, permettre l'émergence d'un processus de travail plus itératif.
+Avec ces spécifications, on avait les informations de base pour amorcer le travail de développement comme tel.
+Pour appuyer ce dernier, on a embauché une firme spécialisée en développement de système pour choisir et pour intégrer les technologies les mieux adaptées aux spécifications ainsi définies selon les besoins identifiés à l'interne.
+Cette firme est également chargée d'effectuer le travail de développement et d'adaptation requis, de même que de mettre au point la formation technique nécessaire auprès des utilisateurs.
+Il a été entendu que ces consultants externes travailleraient en collaboration avec le groupe de travail formé à l'interne.
+Pour ce faire, on procède à un développement par prototypage des technologies et des modes d'organisation.
+De cette façon, on fait l'essai en contexte réel d'outils technologiques et de modes d'organisation, qu'on change ou améliore si nécessaire à partir des consultations et des informations recueillies auprès des utilisateurs impliqués, des gestionnaires et autres employés qui ont à travailler avec eux.
+Ces retours d'information se font au moyen d'entrevues dirigées menées par des membres du groupe de travail auprès des personnes concernées.
+En bout de ligne, les solutions implantées sont fondées sur l'élaboration de compromis entre les différents points de vue exprimés au cours de cet essai.
+Après avoir discuté avec les consultants externes et sur la base de leur connaissance préalable des changements à réaliser, le groupe de travail et la direction se sont mis d'accord pour que cette phase de prototypage s'étende sur une période de trois mois qui pourra être légèrement prolongée ou écourtée, selon l'avancement des travaux.
+On a procédé à l'essai des changements à petite échelle, auprès de deux rédacteurs et de deux pigistes, à qui on a demandé de consacrer 20% de leur temps de travail à l'expérimentation des outils et des méthodes de travail, de même qu'aux retours d'information auprès des membres du groupe de travail et des consultants.
+Les informations ainsi recueillies ont permis de raffiner les solutions développées avant de les implanter auprès de l'ensemble des personnes visées.
+2.4.
+L'implantation des solutions développées
+Maintenant que les technologies et les façons de faire développées semblent au point, qu'elles fonctionnent bien auprès de petits groupes, on se prépare à les implanter auprès de l'ensemble des pigistes et des employés visés.
+Les essais réalisés au moment de l'étape de design ont permis d'élaborer une approche de formation adaptée aux besoins des personnes visées et de dégager des façons de faire pour intégrer ces changements aux processus de travail existants.
+Mais on est conscient qu'appliqués à l'échelle de l'organisation, ces changements peuvent produire des effets différents que lorsque testés auprès de quelques personnes.
+De plus, les expériences passées ont démontré que l'apprentissage et les adaptations qu'implique un changement improvisé peuvent se traduire par des baisses de productivité, généralement temporaires, mais tout de même coûteuses.
+Afin de réduire au minimum cet effort d'ajustement, la direction a demandé au groupe de travail de poursuivre sa tâche de suivi afin d'évaluer le déroulement de l'implantation et de proposer des correctifs en cours de route si nécessaire.
+Il a été convenu que les membres du groupe de travail consacrent environ une demi-journée par semaine à cette évaluation d'implantation.
+L'essai à petite échelle réalisé lors de la phase de design permet d'envisager que l'implantation de ces changements va nécessiter une période d'apprentissage et d'adaptation d'environ une dizaine de semaines.
+Bien sûr, il a été prévu que si des problèmes graves surviennent en cours de route, l'implantation sera reportée le temps de les résoudre.
+À ce stade-ci, l'évaluation consiste à rencontrer l'ensemble des employés et pigistes visés à deux reprises, au début et à la fin de cette période.
+Ces rencontres se feront soit individuellment, soit par groupes de cinq personnes, selon les disponibilités de chacun et donneront lieu à des entrevues semi-dirigées d'environ une heure sur le déroulement du changement, de l'adaptation et de l'apprentissage.
+Un court questionnaire sera distribué à toutes les personnes impliquées vers le milieu de la période d'implantation, afin d'identifier tout problème qui pourrait survenir en cours de route.
+De plus, tous les employés sont encouragés à faire part en tout temps aux membres du groupe de travail de leurs commentaires et suggestions pour améliorer les technologies et processus implantés.
+L'analyse des résultats de ces différentes consultations permettront d'identifier des adaptations nécessaires aux technologies, formes d'organisation ou au déroulement de l'implantation comme telle (formation et soutien aux utilisateurs).
+Par exemple, l'évaluation a permis de se rendre compte que l'implantation du fichier terminologique et de la base de donnée sur CD-ROM produisait des résultats beaucoup plus significatifs chez les rédacteurs et traducteurs employés d'INC qu'auprès des pigistes faisant le même travail.
+Ces différences se font sentir tant au niveau de l'apprentissage, qu'à ceux de la satisfaction et de la performance.
+Les collectes d'information menées par le groupe de travail démontrent que ces écarts dans l'utilisation de technologies découlent largement d'éléments de contexte, à savoir des différences dans les conditions de travail et de production.
+Comme on l'a vu plus haut, les pigistes sont des spécialistes de la rédaction ou de la traduction dans un domaine particulier, alors que les employés oeuvrent davantage comme généralistes.
+Les besoins de recherche terminologique sont plus grands pour ces derniers qui sont moins familiers avec un vocabulaire spécialisé.
+De ce fait, les employés se sont montrés très motivés à fournir temps et efforts pour apprendre à utiliser les outils leur permettant de leur faciliter ce travail et d'améliorer la qualité de leurs produits.
+Les pigistes, quand à eux, trouvaient ces applications moins utiles.
+De plus, leur statut d'embauche plus précaire fait en sorte qu'ils sont soumis à une forte pression pour produire des résultats à très court terme, donc qu'ils sont moins enclins à investir du temps dans un apprentissage qui n'aura de retombées qu'à moyen ou à long terme.
+Par contre, le matériel et la logistique destinés à faciliter la communication entre les différents intervenants d'INC et les pigistes a été très bien accueilli par ces derniers, qui se voient ainsi mieux appuyés dans leur travail, ce qui leur évite de longues heures passées à chercher des compléments d'informations ou à valider les choix d'orientation de leurs produits.
+Ici, l'évaluation a permis non seulement de régler des problèmes de mise au point de système, de contenu de formation et de répartition des tâches de gestion de réseau, mais aussi d'identifier les limites et les possibilités des solutions technologiques et organisationnelles envisagées.
+Les différences qui sont ressorties entre les employés et les pigistes nous démontrent le lien étroit entre le contexte d'un changement, les conditions d'utilisation d'une technologie et ce que ce changement (incluant la technologie) permet d'accomplir.
+2.5.
+Le suivi d'utilisation
+Une fois le changement implanté, les problèmes identifiés résolus et les principales adaptations requises mises en oeuvre, le groupe de travail met fin au travail d'évaluation comme tel.
+Toutefois, la direction d'INC est d'accord avec les membres du groupe pour que ce dernier ne soit pas dissous.
+On croit en effet que, sans en avoir besoin de façon aussi intensive qu'au moment du design et de l'implantation du changement, le comité a encore un rôle important à jouer au niveau de la communication interne et de la prévention de problèmes.
+On s'est aperçu à travers les différentes phases d'évaluation que de nouvelles stratégies de collaboration, de nouvelles façons de travailler semblaient se développer avec la plus grande communication avec les pigistes.
+De plus, les rédacteurs et traducteurs à l'emploi d'INC développent de nouvelles stratégies d'utilisation de leurs outils de travail au fur et à mesure qu'ils apprennent à en maîtriser les différentes possibilités.
+Le changement implanté n'est donc pas statique.
+Il évolue continuellement avec son environnement, les connaissances des gens qui l'appliquent, l'utilisation des technologies, le contenu du travail et les façons de composer avec les formes organisationnelles qui l'entourent.
+Ce constat amène INC à penser qu'il est opportun, de temps à autre, de prendre le pouls de l'organisation par rapport aux questions d'utilisation des technologies et des façons de travailler.
+On croit qu'on arrivera ainsi à réduire au minimum le temps et les ressources que requièrent l'identification de problèmes et la préparation du changement.
+Pour ce faire, il a été convenu que les membres du groupe de travail consacreront chacun l'équivalent de deux jours par trimestre à effectuer un suivi sur l'utilisation des technologies implantées et sur le déroulement du processus de travail.
+Pour faire ce suivi, on demandera aux employés et aux pigistes de noter à l'intérieur d'une sorte de «carnets de route» les problèmes d'utilisation rencontrés et leurs suggestions pour améliorer les technologies et l'organisation du travail.
+Le groupe de travail s'occupera d'analyser le contenu de ces carnets de route et de colliger les informations et suggestions recueillies afin de les intégrer à de futurs améliorations ou changements des systèmes en place.
+Ce suivi s'effectuera également à partir de consultations informelles menées par les membres du groupe de travail auprès des employés et des pigistes.
+On évite ainsi que des problèmes surviennent grâce à une information continue sur le déroulement des activités et sur les besoins d'ajustement découlant de l'évolution du contexte et des modes d'utilisation.
+Parlant d'évolution, ce suivi a permis à INC de constater rapidement des retombées des changements implantés.
+Les degrés forts différents d'appropriation des logiciels d'aide à la recherche terminologique entre les rédacteurs et traducteurs employés d'INC et leurs collègues pigistes amènent à constater que ce n'est pas seulement ces outils en eux-mêmes qui ont permis d'améliorer la performance et la satisfaction au travail des employés.
+C'est aussi, et peut-être surtout, la correspondance entre ce que ces outils permettent de faire, les particularités d'un travail de généralistes (à la différence des pigistes plus spécialisés) et la culture professionnelle de ces employés, pour qui, on s'en souvient, la qualité des produits constitue un enjeu professionnel majeur.
+On a aussi constaté que l'implantation du système et de nouveaux modes de communication ont eu des effets notables sur ses relations avec ses pigistes.
+Comme les pigistes ont accès à une information plus riche et qu'ils peuvent réagir plus facilement à cette information, ils se sentent davantage impliqués dans les processus décisionnels entourant la conception des produits.
+On a donc rapidement constaté que l'implantation d'outils de communication a eu des retombées qui dépassaient l'amélioration de la coordination qu'on en attendait au départ.
+D'un changement technique et logistique, on récolte un changement social de l'organisation qui permet aux pigistes de passer d'une fonction de fournisseurs à un rôle de collaborateurs, venant ainsi enrichir le potentiel de créativité d'INC.
+Il en découle une meilleure intégration des pigistes dans la vie organisationnelle en général et dans la logique de gestion participative d'INC.
+3.
+La problématique du changement technologique dans les organisations : quelques repères théoriques
+Une organisation est à la fois constituée et constituante d'actions qui prennent forme et se manifestent selon leur contexte local spécifique (Suchman, 1987).
+À travers l'exemple d'INC Inc., on a pu constater que ce contexte particulier est lui-même un milieu social, résultat d'un cheminement historique, des cultures occupationnelles des acteurs qui y participent, ainsi que d'un environnement social et économique.
+C'est en partie par rapport à un tel contexte que s'élaborent des attentes, des stratégies (explicites ou non) et des prises de position par rapport à des phénomènes comme le changement technologique.
+La mise en oeuvre de changements sera souvent guidée par la volonté soit d'assurer la pérennité de ce contexte en l'adaptant à un environnement en mouvement, soit de rompre avec lui pour assurer le renouvellement de l'organisation (Bergquist, 1993).
+Si les organisations sont soumises aux contraintes du poids de leur histoire, de leur environnement social, économique et culturel, il en va de même pour les technologies.
+Il faut réaliser que ces dernières sont conçues et appliquées en faisant référence à des cultures occupationnelles et sociales, donc selon les exigences de secteurs d'activité particuliers.
+Voyons cela d'un peu plus près.
+D'abord, le design d'une technologie est souvent orienté par une vision particulière du travail qu'elle doit permettre d'accomplir.
+Ceci fait en sorte que cette dernière est porteuse de contraintes et d'opportunités qui délimitent ce qu'elle permet d'accomplir.
+Ensuite, la manière d'appliquer la technologie dans un contexte de travail particulier vient, à son tour, façonner les caractéristiques de ce qu'on pourrait appeler la «logique» qu'elle contient (Alsène, 1990).
+Prenons l'exemple d'un système de gestion d'information qui présente une structure de commandes très rigide, faisant en sorte que son utilisateur ne peut faire son travail autrement qu'en suivant les étapes et procédures prévues au moment de sa conception.
+De facto, un tel système limite la possibilité de l'utilisateur d'archiver ses données autrement ou de développer des usages du système autres que ceux prévus au départ.
+De la même façon, le type de contrôle et de supervision qui prévalent dans une organisation peut restreindre certains usages d'une technologie qui exigent une large circulation d'informations.
+Aussi, la technologie n'est pas neutre.
+Plusieurs auteurs, (dont notamment, Alsène, 1990; Orlikowski, 1992; Davies et Mitchell, 1994), démontrent que cette dernière ne consiste pas nécessairement en la solution la plus «rationnelle» à un problème donné.
+Aucune technologie n'étant conçue en vase clos, il ne s'agit pas seulement du résultat de connaissances techniques, mais aussi de références (conscientes ou non) à un contexte, à des façons de voir les activités qu'elle doit permettre de réaliser, bref à une foule de considérations qui sont autres que techniques.
+Ainsi, la philosophie sociale inscrite dans le design et la mise en application d'une technologie peut constituer un enjeu central dans la définition du rôle et des effets de cette technologie dans le travail et pour les travailleurs.
+Mais il importe de souligner que les caractéristiques inscrites dans le design d'une technologie n'en font pas, à priori, quelque chose de figé.
+Une fois mise en application dans un environnement et dans des conditions donnés, une technologie peut continuer d'évoluer à travers son utilisation.
+Ainsi, la technologie est à la fois : 1) physiquement et socialement construite dans un contexte social et professionnel particulier; 2) socialement construite par les acteurs qui l'utilisent pour remplir des fonctions données, dans un contexte organisationnel donné (Orlikowski, 1992).
+Un changement technologique en milieu de travail n'est donc pas uniquement «technologique».
+Il se rattache aux dynamiques organisationnelles et soulève des enjeux humains et sociaux.
+Par exemple, la génération de technologies de l'information et de la communication qui émerge actuellement favorise une décentralisation des opérations des entreprises, qui peuvent être exécutées à partir d'échanges entre des intervenants répartis dans l'espace.
+Plus rapides que le courrier et affranchies des impératifs de simultanéité de la téléphonie, ces nouvelles technologies agissent également sur le facteur temps à travers les activités d'échange et de collaboration.
+Les potentialités offertes par les technologies dépendent largement d'un contexte d'application.
+Les changements dans les structures et les processus organisationnels interviennent dans la façon dont les acteurs composent avec les technologies.
+Mais en même temps, par les possibilités qu'elle offre et, par le fait même, qu'elle incite à mettre en oeuvre, la technologie est un levier essentiel pour l'émergence de nouvelles formes de travail et d'organisation.
+C'est à travers le design que se définissent, à priori, les contraintes et opportunités de la technologie, ce qu'on peut appeler les «options» qu'elle offre aux organisations (Bjørn-Andersen et Turner, 1994).
+Les technologies de l'information et de la communication ouvrent donc de nouvelles possibilités, en même temps qu'elles sont en partie un résultat de cette même évolution qui lui fournit de nouveaux besoins auxquels répondre et qui génère de nouvelles nécessités.
+Dans l'exemple d'INC, on a vu à cet égard que l'implantation de technologies de communication et des modes d'organisation qui les accompagnent ont été l'occasion d'une évolution des relations de l'entreprise avec ses pigistes, qui sont passés d'un rôle de fournisseurs à une fonction de collaborateurs.
+On comprend que cette évolution, d'abord fondée sur les possibilités offertes par des moyens de communication, a donc des incidences importantes sur les processus organisationnels d'INC, sur sa façon de fonctionner et sur les éléments (les intervenants, les activités, ) qui façonnent son évolution.
+Dans une très large mesure, l'efficacité (ou l'utilité) d'un changement technologique va dépendre de la prédisposition de l'organisation à identifier et à réaliser, aux moments opportuns, les adaptations requises pour une intégration optimale des technologies et du processus de travail (Tyre et Orlikowski, 1993).
+Dans ce contexte, un changement technologique en milieu de travail doit être compris comme un processus global, qui peut à la fois être affecté et avoir des effets sur la sphère du travail et de l'organisation (figure 1).
+Il est constitué :
+· de tensions et de correspondances entre la logique de la technologie et les caractéristiques de l'organisation;
+· de négociations et de compromis vis-à-vis de ce qui est souhaitable ou non en matière de retombées du changement;
+· de zones d'appropriation et de résistance vis-à-vis du changement.
+4.
+Une approche d'évaluation contextualiste
+4.1.
+Description générale
+On retient jusqu'à maintenant que le changement technologique est un processus global qui a des implications potentielles sur l'ensemble des aspects de l'organisation et de la vie entourant le travail.
+Pour avoir un certain contrôle sur ces implications et optimiser les résultats attendus du changement, il faut d'abord en dégager un portrait d'ensemble, pour ensuite être en mesure de désigner des moyens d'intervention appropriés.
+Cela doit se faire en tenant compte du fait que l'utilisation des technologies se rattache à un contexte et qu'il s'agit d'un processus qui évolue dans le temps.
+Dans l'exemple d'INC Inc., ce travail correspond aux consultations et analyses effectuées dans la période d'amorce du changement.
+S'inscrivant dans cette logique, la méthodologie que nous proposons ici peut être décrite comme une approche globale.
+Cette approche globale vise à permettre de conduire une évaluation contextualiste, continue et modulée du changement.
+Nous proposons une évaluation contextualiste, parce que l'interaction technologie- organisation se définit localement.
+Dans cette perspective, il ne s'agit pas de dégager UNE méthodologie idéale d'analyse «clé en main» applicable telle quelle et inchangée à toutes les phases du changement.
+Il faut, au contraire, compter sur une approche qui puisse être adaptée à la variété des contextes organisationnels.
+Cette approche «adaptable» fait appel à une gamme variée d'outils méthodologiques pouvant être interchangés selon le contexte de l'organisation, le profil des utilisateurs, le type de technologie, aussi bien que le domaine d'application en cause.
+Afin d'assurer sa cohérence, ce concept de «boîte à outils méthodologique» doit être ancré aux pratiques réelles des utilisateurs de la technologie et à un contexte organisationnel spécifique.
+Cela fait en sorte que la planification du changement ne peut que difficilement être réalisée uniquement par le haut de la hiérarchie, sans une immersion dans les pratiques réelles (y compris les pratiques informelles) et les rapports sociaux entourant le processus de travail.
+Nous proposons donc une gestion du changement technologique qui favorise la consultation et l'implication de l'ensemble des acteurs concernés.
+Nous soutenons aussi que l'évaluation doit être continue, parce que l'interaction technologie- organisation évolue de façon constante.
+Les effets et la façon de percevoir une technologie évoluent en même temps que ses utilisateurs (que leurs compétences, leurs savoirs et leurs pratiques), que les processus de travail et le contexte dans lequel ils s'imbriquent (Suchman, 1987).
+Cette évolution peut être facilitée ou limitée par les prédispositions des utilisateurs et de l'organisation, selon, par exemple, la motivation des acteurs, leurs connaissances techniques et professionnelles, leur perception des enjeux reliés au changement, les pressions exercées par l'environnement économique, etc.
+C'est pourquoi il est important de procéder à un suivi continu de l'évolution du changement et des incidences de cette évolution sur le travail et l'organisation.
+Ce suivi vise à permettre d'apporter des ajustements et des améliorations qui répondent aux besoins à mesure qu'ils évoluent, à prévenir les problèmes, tant organisationnels que techniques, plutôt que d'avoir à les résoudre après coup.
+Il faut toutefois éviter que l'évaluation ne devienne une entrave au déroulement des opérations ou un irritant pour les personnes consultées dans le cadre de ce processus.
+De plus, les adaptations mutuelles des technologies et du processus de travail doivent reposer sur une maîtrise minimale du changement technologique par les utilisateurs.
+C'est pourquoi, s'il est nécessaire de procéder à un suivi constant de l'évolution du changement, il est préférable d'y intervenir de façon discontinue, après s'être assuré qu'on a atteint une certaine stabilisation des façons d'utiliser la technologie (Tyre et Orlikowski, 1993).
+Nous suggérons
+donc d'appliquer ce que nous appellerions une évaluation modulée.
+Cette approche modulée consiste en un suivi continu du changement (qui corresponde au suivi d'utilisation dans l'exemple d'INC), mais donnant lieu à des interventions sporadiques (adaptations, modifications par étape), lorsque les besoins se manifestent.
+Le suivi continu repose sur des collectes d'informations exigeant peu de temps de la part des personnes consultées.
+On entrecoupe ce suivi de phases brèves de consultation plus intensives lorsque surviennent des problèmes précis ou lorsqu'on constate le besoin de procéder à des adaptations formelles de la technologie ou de l'organisation du travail (figure 2).
+Les principaux avantages d'avoir recours à une approche contextualiste sont :
+· sa flexibilité et son adaptabilité à différents contextes;
+· le détail et l'étendue des informations qu'elle permet d'obtenir;
+· les économies d'échelle que ces informations peuvent permettre de réaliser en aidant l'organisation à demeurer à la fine pointe du dévelopement technologique et en réduisant au minimum les pertes de productivité souvent reliées à l'implantation de changements ponctuels importants dans les moyens de production.
+Ses principales limites ou désavantages sont :
+· son aspect «artisanal», dans la mesure où on doit élaborer l'évaluation à partir d'un contexte particulier, avec la participation des acteurs, ce qui fait qu'elle présente des exigences élevées en matière de savoir-faire de la part de l'analyste;
+· même si l'on procède par évaluation modulée, la conduite d'une approche continue implique un travail minimal constant de la part de toutes les personnes impliquées et les retombées n'apparaissent souvent qu'à moyen ou à long terme;
+· le caractère participatif de l'approche exige des conditions organisationnelles qui doivent permettre à l'ensemble des membres de l'organisation d'exprimer ouvertement leurs opinions;
+la gestion doit aussi savoir démontrer qu'elle est prête à tenir compte des opinions des employés consultés.
+4.2.
+Stratégie d'application de l'approche
+L'ampleur du travail de collecte et d'analyse d'informations qu'implique une telle approche peut varier d'une situation à l'autre.
+En effet, qu'on soit dans une phase d'évaluation ou de suivi, les exigence dépendent beaucoup :
+· de la nature et de l'envergure du changement;
+· du contexte et du «climat» organisationnel dans lequel il se déroule;
+· du niveau de préparation de l'organisation et de ses membres.
+Les personnes qui conduisent l'évaluation ont elles-mêmes un rôle actif à jouer dans l'orientation de l'enquête et dans la formulation de ses résultats.
+En effet, comme quiconque, l'évaluateur a ses propres points de vue concernant son rôle, l'organisation, le travail et le changement technologique en général (Lincoln et Guba, 1985).
+Par sa façon de formuler les questions d'évaluation et d'interpréter les informations qui en ressortent, il est appelé, volontairement ou non, à agir sur le processus.
+Il doit être conscient de sa propre subjectivité, d'une part, pour donner à son analyse une envergure qui dépasse ses partis pris et, d'autre part, afin d'être en mesure d'établir clairement la position à partir de laquelle, si nécessaire, il va «arbitrer» les points de vue potentiellement conflictuels des différents groupes d'acteurs qu'il consulte.
+On constate donc qu'une telle approche, et c'est là sa principale limite, doit idéalement reposer sur des chargés d'évaluation «généralistes».
+Par sa portée globale, l'évaluation du changement technologique peut avoir des implications sur l'ensemble des composantes de l'organisation.
+Plusieurs dimensions doivent être prises en considération dans les décisions entourant la gestion du changement technologique.
+Ces décisions peuvent aussi bien avoir trait :
+· à l'organisation du travail;
+· au développement du contenu du travail (nature et composition des tâches);
+· aux relations de travail;
+· au développement des ressources (formation, etc.);
+· et, bien sûr, au développement technique comme tel (instruments de travail, équipement).
+Le responsable de l'évaluation ou du suivi du changement, doit, en effet, maîtriser non seulement diverses méthodes d'évaluation, mais également être capable d'analyser et de proposer des façons d'intervenir à travers un éventail de problématiques techniques, organisationnelles, humaines, administratives, etc.
+Une façon de surmonter ce problème est de procéder un peu comme dans l'exemple d'INC, en répartissant le travail de suivi et d'évaluation entre différents spécialistes ou services de l'organisation (services de soutien techniques, de ressources humaines, de production, de gestion, représentants syndicaux, etc.).
+On regroupe donc les représentants de ces diverses instances au sein d'un groupe ad hoc, responsable de faire un suivi sur le changement et les processus de travail qui l'entourent.
+Ce groupe peut prendre la forme d'un comité d'amélioration continu ou un groupe de travail affecté à la conduite de l'évaluation et à l'analyse des résultats qui en ressortent.
+Il doit idéalement pouvoir compter sur un appui formel de la direction afin d'asseoir sa crédibilité dans l'organisation.
+Cette façon de faire permet une approche multidisciplinaire et une vision d'ensemble du changement, une diversité de points de vue et d'intérêts étant ainsi représentés au sein d'une même instance.
+Une telle vision d'ensemble devrait permettre la mise en oeuvre d'une stratégie globale de gestion du changement technologique (figure 3).
+Bien sûr, une évaluation continue et modulée du changement nécessite un certain investissement en temps et en personnel qualifié.
+Par contre, elle peut permettre de réaliser des économies d'échelle non négligeables.
+En effet, une telle démarche génère des informations aidant l'organisation à demeurer à la fine pointe des développements technologiques, tout en réduisant au minimum les pertes de productivité souvent reliées à l'implantation de changements ponctuels importants dans les moyens de production.
+Voyons maintenant les méthodes à notre disposition pour appliquer une telle approche d'évaluation.
+4.3.
+Méthodes d'évaluation
+Comme le changement technologique comporte de multiples facettes, dont les incidences peuvent varier, être perçues et exprimées de diverses façons par différents acteurs, il est important d'avoir recours à des méthodes qui permettent de recueillir un large éventail d'informations et de points de vue.
+De plus, comme dans tout travail de collecte d'informations, on doit s'assurer de la validité des données utilisées.
+Une façon de répondre à ces deux objectifs est de procéder par la triangulation de différentes méthodes.
+Cela signifie qu'on aborde une même question sous l'angle de plusieurs méthodes (par exemple, on demande aux intervenants de remplir un questionnaire, pour ensuite revenir sur certaines questions et les approfondir au moyen d'entrevues individuelles et on confronte les résultats aux données d'observation systématiques sur le terrain).
+De façon générale, la triangulation peut être effectuée à deux niveaux :
+1) au niveau de la collecte de données, on saisit les résultats à partir de différentes méthodes de collecte de données, offrant divers découpages de la réalité observée;
+2) au niveau de la validation, on confronte les résultats provenant de sources diverses, afin de pouvoir tenir compte de différents points de vue, d'opinions et d'intérêts exprimés par différents acteurs.
+Afin de vérifier si les résultats de l'évaluation et l'interprétation qu'on leur donne correspondent bien aux points de vue des acteurs concernés, on procède à des contrôles d'informations auprès des acteurs consultés.
+On présente donc aux personnes consultées un sommaire des constatations et des recommandations formulées par les évaluateurs en leur demandant d'y réagir.
+Cette démarche doit être appliquée périodiquement en cours d'évaluation, en fait, dès qu'un ensemble cohérent de résultats commence à émerger.
+De cette façon, on s'assure de la pertinence des résultats et des orientations de l'évaluation et on est en mesure de corriger le tir si nécessaire.
+Au moment de remettre un rapport, les commentaires, suggestions, objections sont intégrés dans les conclusions et recommandations.
+L'approche que nous proposons repose donc sur le couplage de diverses méthodes de collecte de données.
+Certaines, privilégiées au niveau du design contextualiste et lors des périodes d'évaluation intensive, permettent de recueillir un large éventail d'informations.
+Il s'agit :
+· des entrevues semi-dirigées (individuelles et de groupe);
+· des questionnaires;
+· de diverses techniques d'observation.
+Pour les périodes de suivi du changement, on peut procéder par un mode de consultation quasi informelle, ou encore en tenant un registre au jour le jour des problèmes rencontrés, qu'il s'agisse de problèmes techniques, de formation, de relations de travail reliées aux opérations, etc.
+Pour ce faire, on suggère de procéder au moyen de :
+· carnets de route;
+· consultations informelles;
+· courts questionnaires.
+Voici une description de chacune de ces méthodes :
+Entrevues
+Les entrevues semi-dirigées ont pour but une exploration en profondeur des positions des acteurs par rapport au changement.
+Leur principal atout est d'accorder une grande marge de manoeuvre aux répondants, facilitant l'émergence de leurs points de vue et la formulation de nouvelles idées.
+Il s'agit d'un moyen privilégié pour cerner le «pourquoi» des situations observées.
+Cette méthode présente toutefois l'inconvénient d'exiger un travail relativement lourd d'analyse des informations recueillies.
+Questionnaires
+Les questionnaires permettent une collecte d'informations «ciblées» sur des questions spécifiques, afin, par exemple, d'identifier des pistes d'investigation à approfondir, de cerner certains problèmes et de valider certains résultats d'analyse.
+Plus rapide à traiter que les entrevues ou les données d'observation, leur principale limite réside dans la difficulté d'en tirer une information très nuancée, permettant de faire ressortir le «pourquoi» des choses.
+Observation
+Les techniques d'observation visent principalement à analyser les interactions personne- machine et les façons de travailler.
+Il peut s'agir d'observation directe (ou filmée) des pratiques d'utilisation; d'observation participante, qui suppose un échange entre l'évaluateur et les utilisateurs; ou encore d'observation assistée, par exemple au moyen de programmes informatiques permettant de colliger les opérations effectuées avec une technologie en vue de faire un bilan de leur utilisabilité.
+Largement utilisé en ergonomie, ce type de méthode est particulièrement bien adapté à l'évaluation des opérations effectuées pour accomplir un travail.
+Il exige toutefois un certain niveau de savoir-faire et de connaissances techniques de la part de l'évaluateur.
+Carnets de route
+La collecte de données par carnet de route (ou «cahier de bord») consiste à demander aux acteurs de noter au jour le jour les problèmes d'utilisation ou d'intégration de la technologie dans le cadre de leur travail et les suggestions qu'ils entrevoient pour améliorer l'utilisation du système.
+Ces informations sont compilées en vue de guider d'éventuelles améliorations ou adaptations de la technologie, des processus de travail et/ou organisationnels.
+Une telle méthode ne permet généralement pas d'obtenir des données élaborées, mais elle requiert peu de temps et permet une observation longitudinale du changement.
+Consultations informelles
+Ces entrevues sous forme d'échanges informels visent surtout à prévenir l'apparition de problèmes graves et à faire ressortir des avenues à explorer de façon systématique en vue d'améliorer la technologie et les conditions de son utilisation.
+Leur efficacité dépend beaucoup de la relation de confiance entre les acteurs consultés et l'évaluateur.
+Les informations recueillies au moyen de ces différentes méthodes sont compilées et analysées par les responsables de l'évaluation ou du suivi.
+L'analyse consiste essentiellement à identifier les forces et les faiblesses des changements implantés, les adaptations ou les améliorations qui peuvent y être apportées du point de vue de ses utilisateurs.
+Il importe toutefois d'éviter que ce processus de validation ne devienne une limite à l'innovation, à l'imagination et à la conception de nouvelles façons de faire.
+On ne doit pas considérer les informations ainsi reccueillies comme les seules possibilités d'action, mais comme des indicateurs de ce qu'il est nécessaire, souhaitable ou envisageable de faire ou non.
+Il faut garder à l'esprit que l'application des méthodes proposées ici ne constituent pas une fin en soi, mais des moyens de faciliter le changement, de le rendre plus «approprié» aux besoins de l'organisation et des personnes qui la constitue.
+5.
+Niveaux d'intervention
+L'approche globale proposée ici ne vise pas le développement de réponses exclusivement technologiques à des problèmes donnés.
+Elle peut permettre d'envisager et d'appliquer d'autres types de changements qui pourraient s'avérer plus appropriés à certaines situations.
+Elle vise donc à identifier une diversité de types de solutions afin de répondre le plus adéquatement possible à des besoins d'amélioration ou de résolution de problèmes dans les processus de travail.
+Dans le cadre du présent document, nous mettrons toutefois l'accent sur son application au changement technologique comme tel.
+Le graphique 1 fait état des principales étapes permettant d'identifier les besoins de changement (problème à résoudre, amélioration des processus ou outils de travail) et les moyens les plus appropriés pour y parvenir (au niveau organisationnel, du contenu de travail, du perfectionnement, des technologies).
+Cette démarche de diagnostique et le travail de planification qui s'y rattache correspond à la première phase de consultation (l'amorce du changement) effectuée par le groupe de travail dans l'exemple d'INC Inc.
+Cet exercice permet de poser les bases de trois niveaux possibles d'intervention : le design contextualiste, l'évaluation d'implantation et l'évaluation des interactions personne- machine (ou évaluation d'utilisation).
+Ces trois aspects peuvent être fortement reliés, ils ont souvent été abordés conjointement à l'intérieur d'une même recherche.
+C'est à partir de ces différents mariages que nous en sommes venus à poser les bases de cette approche globale de gestion du changement technologique.
+Voyons maintenant ces trois aspects un à un.
+5.1.
+Le design contextualiste
+On a vu que le design d'une technologie pose des contraintes et des opportunités quant à l'utilisation d'une technologie et à son intégration dans un processus de travail donné.
+La conception et le développement d'outils technologiques ne consistent donc pas seulement en la création et en l'assemblage d'un ensemble de dispositifs et de fonctionnalités.
+Il s'agit également d'une mise en forme d'une philosophie sociale et organisationnelle qui impose, ou du moins favorise, certains usages, certaines façons de faire un travail.
+Bien sûr, il est possible, à travers des stratégies d'utilisation, de transformer, d'adapter ou de contourner cette philosophie implicite.
+Toutefois, de telles stratégies, surtout si elles sont développées à tâtons, par une démarche d'essais/erreurs, peuvent demander passablement d'efforts de la part des utilisateurs.
+Par contre, il est possible d'orienter le design d'une technologie de manière à ce qu'il soit ancré à priori aux pratiques réelles, à la philosophie du travail et aux aspirations des personnes à qui cette technologie est destinée.
+De cette façon, on mise sur le développement d'outils mieux adaptés aux différentes situations de travail, favorisant une intégration plus adéquate, plus rapide et moins coûteuse du changement dans le processus de travail.
+Mais comment mettre en oeuvre un tel développement, axé tant sur l'utilisation que sur la fonction des technologies?
+Il existe une multitude d'approches de design de technologies (De Serres, 1994).
+La conception du changement technologique que nous préconisons ici suppose deux conditions essentielles qui guident le choix d'une démarche de design.
+La première veut que le changement soit orienté à partir du point de vue des acteurs concernant leur travail, l'organisation à laquelle ils participent et leur vie entourant le travail.
+La seconde a trait à l'importance de prendre en considération le contexte et les conditions propres à une organisation ou à un secteur d'activités pour élaborer les moyens qui leur permettent de fonctionner, incluant, bien sûr, les technologies et leurs applications.
+Afin de répondre à ces deux conditions, nous proposons de procéder à un développement de type contextualiste.
+Une approche de design contextualiste (ou «conception contextuelle», De Serres, 1994) vise à adapter des méthodes de recherches ethnographiques aux contraintes de la conception de système.
+Elle consiste essentiellement à orienter la conception de systèmes à partir d'observations et de consultations des utilisateurs sur leur lieu de travail.
+Les informations et les idées recueillies sont intégrées dans les spécifications de l'outil à développer et ce, en amont du processus de conception.
+Il est important, en effet, que les considérations issues du point de vue des utilisateurs ne soient pas «plaquées» à une architecture déjà planifiée, mais qu'elles y soient vraiment imbriquées à la base.
+En effet, il est fréquent que, pour diverses raisons (délais, budgets, problèmes imprévus, etc.), des éléments prévus au départ soient sacrifiés en cours de design.
+Si une partie des spécifications sont ajoutées à une structure théorique déjà existante, il y a de fortes chances qu'elles échappent à la cohérence interne du plan de développement.
+De plus, ces «ajouts» en deviennent ainsi les éléments les plus faciles à éliminer, ceux qui résistent le moins à la négociation de compromis au sein de l'équipe de développement.
+Les aspects contextualistes du changement peuvent souvent sembler «flous» au départ, parce qu'ils ne reposent pas seulement sur des informations mesurables, mais aussi sur des valeurs subjectives.
+Néanmoins, l'exemple de l'importance de la qualité pour les rédacteurs et les traducteurs à l'emploi d'INC nous montre que, justement parce qu'ils permettent de faire ressortir ces dimensions subjectives, ils sont d'une grande importance pour l'obtention de résultats satisfaisants aux niveaux des choix technologiques et organisationnels qui entourent le changement.
+Idéalement, une intervention de design contextualiste est itérative (voir figure 4).
+Dans cette perspective, nous la concevons comme une succession de «boucles (ou «phases») de rétroaction», comprenant chacune trois étapes :
+· la collecte d'informations sur le terrain;
+· l'analyse des informations fournies par les acteurs impliqués, des améliorations possibles à apporter aux processus de travail et des objectifs de développement organisationnel;
+· la validation des recommandations auprès des acteurs concernés.
+Cette notion de boucles de rétroaction fait appel à une approche itérative, basée sur une démarche qui se veut suffisamment souple pour qu on puisse en modifier l orientation en tout temps, selon les informations recueillies en contexte réel, l évolution des caractéristiques (connaissances, etc.) des utilisateurs, de leurs tâches et des besoins des organisations visées.
+L'application de cette approche itérative à un design de type contextualiste fait appel à la mise en oeuvre d'une série d'étapes de consultation, de validation et de prototypage (voir graphique 2).
+5.2.
+L'évaluation d'implantation
+Plusieurs années de recherche appliquée sur l'introduction de technologies de l'information et de la communication dans divers milieux de travail nous ont démontré qu'un tel changement ne se fait généralement pas sans des interventions d'une portée beaucoup plus large.
+Il fait appel à des interventions de gestion destinées à intégrer la technologie au fonctionnement de l'organisation, au contenu du travail à effectuer, aux pratiques, aux connaissances et à la culture professionnelle des utilisateurs.
+La gestion d'un changement technologique exige donc une bonne connaissance de la situation en cours et des effets de l'implantation au fur et à mesure qu'ils se manifestent.
+Évaluer le changement ne doit pas seulement se limiter à dresser à posteriori une liste d'effets d'une technologie.
+L'utilité de l'évaluation réside plutôt dans sa capacité à identifier les forces et les faiblesses du changement dans un contexte précis, à proposer des ajustements et des adaptations en cours d'implantation, à régler les difficultés au fur et à mesure qu'elles se manifestent.
+C'est à partir d'une compréhension de l'ensemble des implications du changement (qu'elles soient techniques, organisationnelles, reliées à la formation, aux relations de travail, etc.) qu'on peut proposer des moyens de répondre aux attentes et aux besoins d'une organisation et de ses membres.
+Pour ce faire, on l'aura compris, il s'avère essentiel d'analyser non seulement la technologie mais aussi le contexte et le processus même de son insertion dans l'organisation.
+En effet, on a vu précédemment que la technologie ne produit pas d'effets spécifiques en elle- même, du moins, pas à priori, même si elle est porteuse de contraintes et de possibilités.
+L'organisation constitue un contexte spécifique, avec une «logique» de fonctionnement qui lui est propre.
+C'est pourquoi le déroulement d'une implantation technologique apparaît comme résultant de la façon dont les différents acteurs impliqués en perçoivent les enjeux, les avantages et inconvénients qui en découlent.
+Dans notre exemple du début, on a illustré ces différences de perception par les points de vue divergents des employés d'INC et des pigistes vis-à-vis de l'utilité des applications de soutien à la recherche terminologique.
+Dans ce cas, les enjeux entourant le changement concernaient le type de travail à exécuter, les compétences spécifiques qu'il requiert et la place de chacun des groupes d'acteurs par rapport à l'organisation.
+L'implantation d'un changement technologique dans une organisation peut ainsi être le déclencheur d'actions, d'adaptations et de transformations autres que techniques, portant sur la sphère du travail et de l'organisation.
+C'est pourquoi les effets d'une technologie dans une organisation découlent des modalités de son insertion dans ce qu'on pourrait appeler la «logique» ou la «philosophie» de mise en application d'une technologie.
+La capacité de comprendre cette interaction technologie-organisation constitue un important facteur de succès d'une implantation technologique.
+Cela signifie qu'une implantation doit être accompagnée de moyens permettant d'en identifier les retombées sur le travail, l'organisation et ses membres.
+De ce point de vue, l'évaluation d'implantation consiste d'abord et avant tout à situer le changement dans son contexte, à travers ses implications pour le fonctionnement de l'organisation, les pratiques de travail et les valeurs professionnelles des utilisateurs.
+Ici, les principales étapes d'évaluation (graphique 3) consistent surtout à vérifier le déroulement et les effets de l'implantation, afin de prévenir l'éclosion de problèmes et, si nécessaire, d'identifier des façons d'ajuster le changement (comme la formation, le soutien technique, les façons d'organiser et de répartir le travail, etc.).
+De cette façon, on effectue un suivi sur l'ensemble de l'implantation, dont chacune des étapes repose sur la consultation de tous les acteurs concernés.
+5.3.
+Le suivi (ou évaluation d'utilisation)
+Lorsqu'on parle du design et de l'implantation de technologies, une question demeure omniprésente.
+C'est celle de l'interaction utilisateur-machine ou plus précisément, de la façon dont l'utilisation de ces technologies s'intègre dans le travail et l'organisation.
+Il s'agit là d'un lieu d'intervention où l'on peut améliorer l'efficacité du processus de travail et la qualité de vie qui l'entoure.
+L'utilisation des technologies soulève des questions comme la qualité (convivialité) des interactions personne-machine et l'«utilisabilité» des technologies pour effectuer des opérations données.
+Mais comme l'implantation, l'utilisation d'une technologie ne s'effectue pas en vase clos.
+Selon son contexte d'application, l'utilisation d'une même technologie peut être plus ou moins facile, avoir des incidences différentes sur le travail et la vie au travail.
+Les caractéristiques des utilisateurs et du travail à accomplir, bien sûr, mais aussi les conditions entourant l'utilisation, comme la formation, le soutien technique, l'environnement de travail, la motivation des utilisateurs, constituent autant d'éléments pouvant jouer un rôle essentiel dans l'interaction personne-machine.
+Cela fait en sorte que l'utilisation d'une technologie est un processus qui évolue et qui se développe au fil du temps.
+On estime généralement que l'interaction personne-machine va dépendre de la prise en considération, dans son design, des caractéristiques des utilisateurs et de l'évolution de leurs besoins à mesure qu'ils acquièrent de l'expérience (Goodwin, 1987).
+Mais en bout de ligne, le principal critère d'utilisabilité d'une technologie reste le point de vue de ses utilisateurs, leur perception de ses contraintes et de ses possibilités pour accomplir un travail, une activité.
+Encore une fois, on se souviendra ici des distinctions entre les employés et les pigistes de l'exemple d'INC, qui ne sont pas prédisposés à investir le même effort d'apprentissage des applications d'aide à la rédaction.
+En situation de travail, l'utilisation d'une technologie est étroitement liée aux pratiques et à tout ce qui entoure les activités qu'elle contribue à réaliser.
+Or, le travail est lui-même une activité «contextuelle» (situated) et sociale (Suchman et Trigg, 1993).
+Il se déroule dans un temps et dans des lieux donnés, dans des conditions particulières et sa réalisation repose sur un minimum d'interactions, avec des collègues, des clients, un employeur, etc.
+On reconnaît donc la nécessité d'aborder les problématiques reliées à l'utilisation des technologies par une prise en compte globale des problématiques d'interaction personne-machine (Noro et Brown, 1990; Noulin, 1990; Eason, 1991; Hendrick, 1991; Reiterer et Oppermann, 1993).
+On vise ainsi à saisir l'ensemble de la dynamique entre l'utilisateur, la tâche, le système et l'organisation.
+Dans cette perspective, les modalités d'utilisation d'une technologie se définissent et évoluent de façon différente d'un milieu de travail à un autre, selon :
+· ses utilisateurs (selon leur culture professionnelle, leurs acquis antérieurs en matière de connaissances techniques, );
+· leur travail (selon les rapports sociaux qui y prennent place, le niveau de complexité et la nature des tâches, la place des technologies dans le processus de travail, );
+· les dynamiques sociales et organisationnelles qui assurent la cohésion des acteurs et du processus de travail (selon les contraintes et les possibilités qu'il pose en matière d'organisation et d'adaptabilité du processus de travail, ).
+Dans cette optique, le suivi d'utilisation doit partir d'une exploration de la façon dont les utilisateurs se représentent leur contexte de travail, leur propre rôle, celui de leur travail et ce qui fait la valeur de ce dernier.
+De plus, la diversité des utilisateurs potentiels, des tâches qu'ils ont à accomplir et les spécificités de l'organisation de leur travail font en sorte que les besoins et les attentes en matière d'interaction personne-machine sont diversifiées et difficilement prévisibles à priori.
+Les critères devant servir à évaluer l'utilisation d'une technologie doivent ainsi être définis en fonction des particularités de leur contexte.
+Le rôle du suivi des processus d'utilisation est donc d'identifier sur le terrain les besoins à combler pour qu'une technologie puisse répondre aux attentes des utilisateurs.
+Rappelons qu'à ce stade, il s'agit bien d'un suivi, qui se distingue d'une phase d'évaluation intensive.
+Le but est de soulever des questions essentielles à la prévention de problèmes et à d'éventuelles améliorations des technologies et des modes d'organisation en place, mais sur la base de consultations occasionnelles et largement informelles qui requièrent peu de temps de la part des évaluateurs et des personnes consultées.
+Ces questions de suivi (graphique 4) visent d'abord et avant tout à documenter l'évolution du processus d'utilisation et s'inscrit dans une logique de gestion de type participative.
+6.
+Conclusion
+L'essor des technologies de l'information et de la communication qu'ont connu et que continuent de connaître plusieurs secteurs d'activités a changé de façon souvent significative le travail, les organisations et la vie entourant le travail.
+Mais plus encore, l'accélération des cycles de développement des nouvelles technologies et les pressions exercées par un contexte économique fortement compétitif soumettent travailleurs et organisations au rythme et aux exigences de changements et d'adaptations presque ininterrompus.
+Il reste d'importants efforts à accomplir pour véritablement adapter le fonctionnement des organisations à cette dynamique de changements.
+Le présent document se voulait une contribution à l'accomplissement de ces efforts.
+Que l'on parle de développement ou d'implantation, le changement technologique ne repose pas uniquement sur des considérations techniques.
+Il s'agit d'un processus qui a des implications beaucoup plus larges, qui ne sont pas toujours objectivement mesurables et quantifiables.
+L'évaluation du changement technologique fait donc en partie appel à des outils capables d'en saisir les enjeux sociaux, humains et organisationnels soulevés par le changement technologique dans le travail.
+Comme nous avons tenté de le démontré dans l'exemple du début, une intervention visant, pour une raison ou pour une autre, un changement technologique et organisationnel en profondeur, devra s'inscrire dans une approche globale, fondée sur l'implication de l'ensemble des personnes concernées.
+Une telle approche, globale et contextualiste, s'amorce avec l'inscription d'une philosophie sociale de l'organisation dans le design des outils (technologies) et des processus de travail.
+Elle se poursuit avec l'application de cette même philosophie dans la gestion d'implantation et dans le fonctionnement quotidien de l'organisation.
+L'idée d'une approche modulée vise à permettre d'aiguiller le changement à travers l'ensemble du cycle de vie d'une technologie, de son design à sa mise au rancard, en passant par sa mise en oeuvre et les différentes modifications qu'elle peut avoir à subir en situation d'utilisation.
+Bien sûr, l'application d'une telle approche représente des coûts, elle exige un investissement de temps et les méthodes qui s'y rattachent demandent le développement d'un certain savoir- faire.
+De plus, le fait de miser sur une démarche contextualiste pose l'exigence de développer des façons de faire sur mesures, adaptées aux besoins et au contexte d'une l'organisation en particulier.
+Mais un changement technologique est d'abord le produit d'actions et d'éléments qui sont au moins partiellement subjectifs et contextuels, comme des rapports humains, des valeurs et des connaissances en évolution.
+Aussi, on a peu de chances de bien maîtriser un tel changement si on n'arrive pas d'abord à comprendre et à interagir avec ces éléments subjectifs et contextuels.
+C'est cette compréhension qui nous permettra d'agir de façon à ce qu'un changement technologique corresponde bien aux attentes et aux besoins des personnes doivent évoluer avec lui.
+Bibliographie
+ALSÈNE, É.
+(1990) «Les impacts de la technologie sur l'organisation», Sociologie du travail, No 3/90, 321-336.
+ALSÈNE.
+E., LÉGARÉ, J., VENDITTOLI, M. (1991) Ébauche de reconceptualisation de l'organisation à partir de la théorie de l'auto-organisation, Montréal, École Polytechnique et CCRIT.
+ANDERSON, R. J. (1994) «Representations and Requirements : The Value of Ethnography in System design» .
+Human-Computer Interaction, Vol .
+9 : 151-182.
+BERGQUIST, W. (1993) The Postmodern Organization : Mastering the Art of Irreversible Change .
+San Francisco : Jossey-Bass.
+BJØRN-ANDERSEN, N. et TURNER, J. A. (1994) «Creating the Twenty-First Century Organization : The Metamorphosis of Opticon» Dans R .
+Baskerville, S .
+Smithson, O .
+Ngwenyama, J. I. DeGross (Ed.), Transforming Organizations with Information Technology .
+North-Holland : Elsevier Science B .
+V.
+CLEMENT, A.; GRIFFITHS, M.; VAN DEN BESSELAAR, P. (1992) «Participatory Design Projects: A Retrospective Look» Dans Proceedings of the Participatory Design Conference .
+Cambridge, 6-7 November 1992.
+DAVIES, L.; MITCHELL, G. (1994) «The dual nature of the impact of IT on organizationel transformations» Dans R. Baskerville, S. Smithson, O. Ngwenyama, J. I. DeGross (Ed.), Transforming Organizations with Information Technology.
+North-Holland : Elsevier Science B. V.
+DE SERRES, M. (1994) Différentes approches de conception de systèmes d'information Centre d'innovation en technologies de l'information, Laval.
+DOUZOU, S.; LÉGARÉ, J .
+(1994) «Network-Based Information Systems, Professional Cultures and Organizational Dynamics: A Mutiple Casw Study in the Health Care Sector» ds. R. Baskerville, S. Smithson, O. Ngwenyama, J. I. DeGross (Ed.), Transforming Organizations with Information Technology .
+North-Holland : Elsevier Science B. V. : 263- 276
+DOUZOU, S. (1992) «Methodologies for Evaluating Network-based Communication Technologies in Organizations: A Critical Assessment».
+ds. SANDERSON, Duncan, Electronic Networks in Organizations: Persepctives and Issues for Research, Centre d'innovation en technologies de l'information, Laval.
+DOUZOU, S. (1991) Analyse des études, approches et méthodologies d'évaluation sociale des réseaux informatisés de communication en contexte organisationnel .
+Proposition pour le développement d'une approche méthodologique adaptée .
+Document de travail.
+Centre d'innovation en technologies de l'information.
+Laval.
+EASON, K. D. (1991) «Ergonomic perspectives on advances in human-computer interaction», Ergonomics, vol.
+34, no.
+6 : 721-741.
+GILLIS, S.; DESAUTELS, C.; DE SERRES, M.; LAPOINTE, F. (1991) THE IMOSA Project: Information Management and Office System Advancement.
+Phase I Report.
+Department of Communications (CWARC) et National Archives of Canada (GRB).
+GOODWIN, N. C. (1987) «Fonctionality and Usability», Communications of the ACM, Mars 1987, Vol.
+30, no.
+3 : 229-233.
+HENDRICK, H. W .
+(1991) «Ergonomics in organizationnal design and management», Ergonomics, vol .
+34, no .
+6 : 743-756.
+KLEIN, H. K.; KRAFT, P. (1994) «Social Control and Social Contract in NetWORKing .
+Total quality management and the control of work in the United States», Computer Supported Cooperative Work 2 : 89-108.
+KLENKE, K. (1994) «Information Technologies as Draivers of Emergent Organizational Forms : A Leadership Perspective» Dans R. Baskerville, S. Smithson, O. Ngwenyama, J. I. DeGross (Ed.), Transforming Organizations with Information Technology .
+North-Holland : Elsevier Science B .
+V.
+KRAFT, P.; TRUEX, D. (1994) «Postmodern Management and Information Technology in the Modern Industrial Corporation» Dans R. Baskerville, S. Smithson, O. Ngwenyama, J. I. DeGross (Ed.), Transforming Organizations with Information Technology.
+North-Holland : Elsevier Science B .
+V.
+LAPOINTE, F. (1996) «Vers un modèle d'évaluation du changement technologique dans les organisations».
+The Canadian Journal of Program Evaluation.
+/ La Revue canadienne d'évaluation de programme (à paraître).
+LAPOINTE, F. (1992) «Contexte organisationnel et convivialité des interfaces utilisateur- machine.
+L'exemple du poste de travail pour la traduction» Technologies de l'information et société, Vol .
+4, No .
+2 : 253-275
+LAPOINTE, F .
+(1993) Appropriation organisationnelle du changment technologique .
+Bases conceptuelles et outils d'analyse.
+Centre d'innovation en technologies de l'information, Laval.
+LAPOINTE, F. (1990) La convivialité des interfaces: proposition d'une méthodologie d'évaluation .
+Centre canadien de recherche sur l'informatisation du travail.
+Laval.
+LAVOIE, R.; TIPPIN, D.; LÉGARÉ, J.; LAPOINTE, F.; TESSIER, A.-M. (1994) «Ce que travailler veut dire.
+Regards ethnographiques sur une certaine société de l'information.»
+ds DASSOT (éd.)
+The New Frontier.
+IDATE's 16th International Conference Proceedings.
+Montpellier : IDATE.
+: 185-209.
+LÉGARÉ, J. (1991) L'évaluation d'implantations technologiques : une approche naturaliste centrée sur l'utilisateur.
+Communication présentée au Congrès «L'Homme et l'ordinateur II», Nivelles, mai 1990, Centre canadien de recherche sur l'informatisation du travail, Laval.
+LINCOLN, Y.S. et GUBA, E.G. (1985), Naturalistic Inquiry.
+Londres : Sage.
+MINC, A. (1993) Le nouveau Moyen-Age.
+Paris, Gallimard.
+NORO, K.; BROWN, O. Jr. (eds) (1990) Human factors in Organisationnal Design and Management III, Amsterdam, Elsevier
+NOULIN, M. (1990) «Ergonomie: ne pas oublier l'utilisateur», Terminal, No.
+48, Janv.
+-Fév.
+1990 : 20-23
+ORLIKOWSKI, W .
+J .
+(1992) «The Duality of Technology : Rethinking the Concept of Technology in Organisations», Organization Science, 3 (3) : 398-427
+REITERER, H.; OPPERMANN, R. (1993) «Evaluation of user interfaces : EVADIS II - a comprehensive approach», Behaviour & Information Technology, Vol.
+12, No.
+3 : 137- 148.
+SANDERSON, D. (1992) «The CSCW Implenmentation Process: An Interpretative Model and Case Study of the Implementation of a Videoconference System» .
+Preoceedings of CSCW '92 : 370-377.
+SANDERSON, D. (1994) «Mediated Collaborative Research?
+Claims, Evidence, and a Case Study of a Distributed Science Group» CSCW, 2 : 41-65.
+SUCHMAN, L. (1987) Plans and Situated Actions .
+The Problem of Human-Machine Communication, Cambridge, Cambridge University Press.
+SUCHMAN, L. A.; TRIGG, R. H. (1993) «Understanding Practice : Video as a Medium for Reflection and Design», in BAECKER, R. M. (éd.)
+Readings in Groupware and Computer- Supported Cooperative Work.
+Assisting Human Computer Collaboration, San Mateo, Morgan Kaufman Publishers.
+TESSIER, A.-M.; LAPOINTE, F. (1994) Projet «Travail à domicile» à Emploi et immigration Canada.
+Rapport final d'évaluation.
+Centre d'innovation en technologies de l'information, Laval.
+TIPPIN, D. (1994), «Control Processes in Distance Work Situations: The Case of Satellite Offices.»
+Annual Meeting of the Canadian Sociology and Anthropology Association, Calgary, 1-4 juin 1994.
+TYRE, M. J.; ORLIKOWSKI, W. J. (1993) «Exploiting Opportunities for Technological Improvement in Organizations», Sloan Management Review , 35(1) : 13-36.

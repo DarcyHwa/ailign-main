@@ -1,0 +1,1650 @@
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng"?>
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng"?>
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encodage developpé pour le projet ParaTAXE</title>
+            <respStmt>
+               <resp>Responsable du projet</resp>
+               <name xml:id="louettec">Christiane Louette</name>
+            </respStmt>
+            <respStmt>
+               <resp>Élaboration du schéma</resp>
+               <name xml:id="annegf">Anne Garcia Fernandez</name>
+            </respStmt>
+            <respStmt>
+               <resp>Élaboration et implementation du schéma</resp>
+               <name xml:id="crespis">Serena Crespi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encodage du fichier</resp>
+               <name xml:id="aurorag">Aurora Giribuola</name>
+            </respStmt>
+         </titleStmt>
+         <!--####################################################
+            ATTENTION: Ici c'est possible d'insérer les informations 
+               concernantes le fichier electronique xml.
+            ########################################################-->
+         <editionStmt>
+            <edition/>
+            <author/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>UMR Litt&amp;Arts (UGA-CNRS)</authority>
+            <address>
+               <addrLine>UGA Grenoble</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <!--####################################################
+            ATTENTION: Ici c'est possible d'insérer les informations 
+               bibliographiques de l'édition.
+            ########################################################-->
+            <bibl>
+               <title>Iliade</title>
+               <editor role="editor_scientifique">Paolo La Badessa</editor>
+               <pubPlace>Padoue</pubPlace>
+               <publisher>Gratioso Perchachino</publisher>
+               <date>1564</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <front>
+         <!--####################################################
+            ATTENTION : Ici, il est possible d'insérer les informations 
+            des sections. Chaque section doit présenter un attribut 
+            xml:id qui permet de l'identifier.
+            ########################################################-->
+         <interpGrp source="livreI_Homère">
+            <desc>Les séquences ont été établies d'après les notes marginales des traductions de
+               Hessus et de Salel</desc>
+            <interp xml:id="p1a">Proposition et invocation</interp>
+            <interp xml:id="p2a">Narration</interp>
+            <interp xml:id="p3a">Discours de Chrysès aux Atrides et aux Grecs</interp>
+            <interp xml:id="p4a">Agamemnon repousse Chrysès avec outrage</interp>
+            <interp xml:id="p5a">Chrysès à Apollon</interp>
+            <interp xml:id="p6a">Apollon envoie la peste au camps des Grecs</interp>
+            <interp xml:id="p7a">Achille convoque les Grecs</interp>
+            <interp xml:id="p8a">Achille à Agamemnon</interp>
+            <interp xml:id="p9a">Calchas à Achille</interp>
+            <interp xml:id="p10a">Achille à Calchas</interp>
+            <interp xml:id="p11a">Avis de Calchas touchant la peste au camp des Grecs</interp>
+            <interp xml:id="p12a">Agamemnon à Calchas</interp>
+            <interp xml:id="p13a">Achille à Agamemnon</interp>
+            <interp xml:id="p14a">Agamemnon à Achille</interp>
+            <interp xml:id="p15a">Achille en colère à Agamenon</interp>
+            <interp xml:id="p16a">Agamemnon à Achille</interp>
+            <interp xml:id="p17a">Achille en pensée s'il doit tuer Agamemnon</interp>
+            <interp xml:id="p18a">Achille à Pallas</interp>
+            <interp xml:id="p19a">Pallas à Achille</interp>
+            <interp xml:id="p20a">Achille encore à Pallas</interp>
+            <interp xml:id="p21a">Injures d'Achille à Agamemnon</interp>
+            <interp xml:id="p22a">Nestor</interp>
+            <interp xml:id="p23a">Harangue de Nestor à Agamemnon</interp>
+            <interp xml:id="p24a">Agamemnon à Nestor</interp>
+            <interp xml:id="p25a">Achille à Agamemnon</interp>
+            <interp xml:id="p26a">Agamemnon renvoie Cryséis à son père</interp>
+            <interp xml:id="p27a">Agamemnon fait repurger le camp</interp>
+            <interp xml:id="p28a">Agamemnon envoie oster Briséis à Achille par ses hérauts</interp>
+            <interp xml:id="p29a">Achille aux hérauts d'Agamemnon</interp>
+            <interp xml:id="p30a">Patrocle leur délivre Briséis</interp>
+            <interp xml:id="p31a">Achille à Thétis sa mère</interp>
+            <interp xml:id="p32a">Thétis vient à son fils</interp>
+            <interp xml:id="p33a">Plaintes d'Achille à Thétis</interp>
+            <interp xml:id="p34a">Thétis à Achille</interp>
+            <interp xml:id="p35a">Ulysse arrive vers Chrysès et lui rend Chryséis sa fille</interp>
+            <interp xml:id="p36a">Ulysse à Chrysès</interp>
+            <interp xml:id="p37a">Prière de Chrysès à Apollon pour retirer la peste du camp des
+               Grecs</interp>
+            <interp xml:id="p38a">Apollon entend la prière de Chrysès</interp>
+            <interp xml:id="p39a">Thétis à Jupiter pour son fils</interp>
+            <interp xml:id="p40a">Jupiter à Thétis</interp>
+            <interp xml:id="p41a">Junon à Jupiter</interp>
+            <interp xml:id="p42a">Jupiter à Junon</interp>
+            <interp xml:id="p43a">Junon encore à Jupiter</interp>
+            <interp xml:id="p44a">Jupiter à Junon</interp>
+            <interp xml:id="p45a">Vulcan à Junon sa mère</interp>
+         </interpGrp>
+         <interpGrp source="livreII_Homère">
+            <interp xml:id="p1b">Jupiter préoccupé de la situation d'Achille</interp>
+            <interp xml:id="p2b">Jupiter parle au Dieu du songe</interp>
+            <interp xml:id="p3b">Le Songe vole vers les navires grecs</interp>
+            <interp xml:id="p4b">Le Songe à Agamemnon</interp>
+            <interp xml:id="p5b">Agamemnon délibère en soi-même</interp>
+            <interp xml:id="p6b">Agamemnon se lève et s'habille</interp>
+            <interp xml:id="p7b">Lever du soleil et réunion du conseil</interp>
+            <interp xml:id="p8b">Agamemnon raconte son songe</interp>
+            <interp xml:id="p9b">Nestor conseille aux Grecs de croire Agamemnon</interp>
+            <interp xml:id="p10b">Comparaison des abeilles</interp>
+            <interp xml:id="p11b">La Renommée messagère de Jupiter</interp>
+            <interp xml:id="p12b">Le sceptre d'Agamemnon</interp>
+            <interp xml:id="p13b">Agamemnon aux Grecs</interp>
+            <interp xml:id="p14b">Deux comparaisons pour décrire l'inconstance de la foule</interp>
+            <interp xml:id="p15b">Junon à Pallas</interp>
+            <interp xml:id="p16b">Pallas descend du ciel et vient à Ulysse</interp>
+            <interp xml:id="p17b">Pallas à Ulysse</interp>
+            <interp xml:id="p18b">Ulysse prend le sceptre d'Agamemnon</interp>
+            <interp xml:id="p19b">Ulysse parle doucement aux grands princes</interp>
+            <interp xml:id="p20b">Ulysse châtie rudement les soldats mutins ou rebelles</interp>
+            <interp xml:id="p21b">Comparaison</interp>
+            <interp xml:id="p22b">Description de Thersite, envieux séditieux et méchant
+               personnage</interp>
+            <interp xml:id="p23b">Thersite à Agamemnon</interp>
+            <interp xml:id="p24b">Ulysse à Thersite</interp>
+            <interp xml:id="p25b">Ulysse frappe Thersite du sceptre</interp>
+            <interp xml:id="p26b">Le jugement qu'on faisait d'Ulysse</interp>
+            <interp xml:id="p27b">Ulysse à Agamemnon</interp>
+            <interp xml:id="p28b">Nestor aux Grecs</interp>
+            <interp xml:id="p29b">Agamemnon à Nestor</interp>
+            <interp xml:id="p30b">Comparaison</interp>
+            <interp xml:id="p31b">Les sacrifices et l'invitation à souper</interp>
+            <interp xml:id="p32b">Prière d'Agamemnon à Jupiter</interp>
+            <interp xml:id="p33b">Le sacrifice</interp>
+            <interp xml:id="p34b">Nestor à Agamemnon</interp>
+            <interp xml:id="p35b">Les Grecs s'apprêtent pour la bataille</interp>
+            <interp xml:id="p36b">Pallas et l'égide</interp>
+            <interp xml:id="p37b">Comparaison du feu qu'on voit de loin</interp>
+            <interp xml:id="p38b">Comparaison des cygnes, et grues et oies sauvages et des fleurs
+               des champs</interp>
+            <interp xml:id="p39b">Comparaison du berger</interp>
+            <interp xml:id="p40b">Comparaison des chevriers</interp>
+            <interp xml:id="p41b">Comparaison d'Agamemnon avec un taureau indompté</interp>
+            <interp xml:id="p42b">Invocation des muses</interp>
+            <interp xml:id="p43b">Catalogue des vaisseaux et des chefs grecs</interp>
+            <interp xml:id="p44b">L'armée grecque s'avance. Comparaisons</interp>
+            <interp xml:id="p45b">Iris est envoyée par Jupiter auprès des Troyens</interp>
+            <interp xml:id="p46b">Iris à Priam</interp>
+            <interp xml:id="p47b">L'armée troyenne court aux armes</interp>
+            <interp xml:id="p48b">Le tumulus de Batiée</interp>
+            <interp xml:id="p49b">Catalogue des chefs troyens</interp>
+         </interpGrp>
+         <interpGrp source="livreIII_Homère">
+            <interp xml:id="p1c">Comparaison des Grues qui font la guerre aux Pygmées</interp>
+            <interp xml:id="p2c">Les Grecs avancent en silence, mais en colère. Comparaison</interp>
+            <interp xml:id="p3c">Témérité de Paris Alexandre</interp>
+            <interp xml:id="p4c">Comparaison de Ménélas avec un lion</interp>
+            <interp xml:id="p5c">Crainte et couardie de Paris. Comparaison</interp>
+            <interp xml:id="p6c">Discours véhément d'Hector à Paris</interp>
+            <interp xml:id="p7c">Paris à Hector</interp>
+            <interp xml:id="p8c">Agamemnon retient l'armée grecque</interp>
+            <interp xml:id="p9c">Hector aux Grecs et aux Troyens</interp>
+            <interp xml:id="p10c">Ménélas aux Grecs et aux Troyens</interp>
+            <interp xml:id="p11c">Les deux armées déposent les armes et des hérauts sont envoyés à
+               Priam</interp>
+            <interp xml:id="p12c">Iris messagère des Dieux</interp>
+            <interp xml:id="p13c">Exercice d'Hélène</interp>
+            <interp xml:id="p14c">Iris à Hélène</interp>
+            <interp xml:id="p15c">Changement de volonté d'Hélène</interp>
+            <interp xml:id="p16c">Les vieillards troyens, comparés à des cigales</interp>
+            <interp xml:id="p17c">Ils admirent la beauté d'Hélène</interp>
+            <interp xml:id="p18c">Priam à Hélène</interp>
+            <interp xml:id="p19c">Hélène à Priam</interp>
+            <interp xml:id="p20c">Priam loue Agamemnon</interp>
+            <interp xml:id="p21c">Priam à Hélène</interp>
+            <interp xml:id="p22c">Hélène décrit Ulysse</interp>
+            <interp xml:id="p23c">Anténor à Hélène</interp>
+            <interp xml:id="p24c">Priam à Hélène</interp>
+            <interp xml:id="p25c">Hélène à Priam lui montrant Ajax de Télamon</interp>
+            <interp xml:id="p26c">Apprêt des cérémonies</interp>
+            <interp xml:id="p27c">Les Herauts à Priam</interp>
+            <interp xml:id="p28c">Priam et Anténor vont au camp</interp>
+            <interp xml:id="p29c">Cérémonie</interp>
+            <interp xml:id="p30c">Oraison d'Agamemnon à Jupiter et aux Dieux</interp>
+            <interp xml:id="p31c">Oraison d'un soldat</interp>
+            <interp xml:id="p32c">Priam aux Troyens et aux Grecs</interp>
+            <interp xml:id="p33c">Hector et Ulysse mesurent le lieu du combat et préparent les
+               sorts</interp>
+            <interp xml:id="p34c">Oraison des soldats grecs et troyens</interp>
+            <interp xml:id="p35c">Le sort de Paris est le premier tiré</interp>
+            <interp xml:id="p36c">Paris revêt d'autres armes</interp>
+            <interp xml:id="p37c">Paris tire le premier coup</interp>
+            <interp xml:id="p38c">Oraison de Ménélas à Jupiter</interp>
+            <interp xml:id="p39c">Blasphème de Ménélas</interp>
+            <interp xml:id="p40c">Vénus sauve Paris</interp>
+            <interp xml:id="p41c">Vénus à Hélène</interp>
+            <interp xml:id="p42c">Hélène à Venus</interp>
+            <interp xml:id="p43c">Vénus menace Hélène</interp>
+            <interp xml:id="p44c">Hélène fuit Vénus et va trouver Paris</interp>
+            <interp xml:id="p45c">Hélène à Paris</interp>
+            <interp xml:id="p46c">Paris à Hélène</interp>
+            <interp xml:id="p47c">Ménélas cherche Paris dans le champ</interp>
+            <interp xml:id="p48c">Agamemnon aux Troyens</interp>
+         </interpGrp>
+      </front>
+      <body>
+         <!--####################################################
+            ATTENTION : La nouvelle structure prévoit que dans 
+            l'attribut @ana, à l'intérieur des <lg>, soit inséré 
+            le renvoi à la section textuelle correspondante, dont 
+            les informations sont encodées ci-dessus dans l'élément <interpGrp>.
+            ########################################################-->
+         <lg ana="#p1a" n="1a">
+            <anchor xml:id="l20" corresp="l11"/><l>DEL magnanimo Achille il fiero sdegno</l><anchor xml:id="l21" corresp="l12"/>
+            <l>Canta celeste Dea, l’ira, e’l furore;</l>
+            <l>Ch’a’ Greci fù cagion di tanti affanni,</l><anchor xml:id="l23" corresp="l13"/>
+            <l>Et mandò ad habitar nel basso Inferno</l><anchor xml:id="l24" corresp="l14"/>
+            <l>Di molti Heroi l’altere alme, et superbe;</l><anchor xml:id="l25" corresp="l15"/>
+            <l>Rimanendo per preda in ogni parte</l><anchor xml:id="l26" corresp="l17"/>
+            <l>I cadaveri lor d’augelli, et cani.</l><anchor xml:id="l27" corresp="l18"/>
+            <l>Fù ben ciò per voler del sommo Giove:</l><anchor xml:id="l28" corresp="l19"/>
+            <l>Però che già dinanzi a tanta strage</l><anchor xml:id="l29" corresp="l110"/>
+            <l>S’eran trà lor posti in discordia, et gara</l><anchor xml:id="l210" corresp="l111"/>
+            <l>Il Rè de’ Greci Agamennone altero</l><anchor xml:id="l211" corresp="l112"/>
+            <l>Co’l divo Achille. Qual de gl’alti Dei</l>
+            <l>Lor permise à pugnare, à far contesa?</l>
+         </lg>
+         <lg ana="#p2a" n="2a">
+            <anchor xml:id="l213" corresp="l113"/><l>Di Latona, et di Giove il figlio, irato</l><anchor xml:id="l214" corresp="l114"/>
+            <l>Co’l Rè, che per punir suo fiero orgoglio</l><anchor xml:id="l215" corresp="l115"/>
+            <l>Venir fè nel suo essercito la peste,</l>
+            <l>E’l morbo così pessimo, et crudele,</l><anchor xml:id="l217" corresp="l116"/>
+            <l>Che ne morian miseramente ogn’hora</l>
+            <l>I popoli, che seco eran nel campo:</l><anchor xml:id="l219" corresp="l117"/>
+            <l>Per l’ingiuria, ch’ei fatto, e’l grave oltraggi</l><anchor xml:id="l220"/>
+            <l>A Crise havea, che del Dio Apolline era</l><anchor xml:id="l221" corresp="l118"/>
+            <l>Ministro, et venerando Sacerdote.</l>
+            <l>Era costui di Crisa Isola, et padre</l><anchor xml:id="l223" corresp="l119"/>
+            <l>D’unica figlia al mondo accorta, et bella,</l>
+            <l>Di verde etade; à cui, di sè prendendo,</l><anchor xml:id="l225"/>
+            <l>Et de la patria il nome, il nome impose</l><anchor xml:id="l226"/>
+            <l>Criseida. Hor costei, mentre che Thebe</l><anchor xml:id="l227"/>
+            <l>Espugnavano i Greci, e quei confini</l><anchor xml:id="l228"/>
+            <l>Metteano à sacco, presero, e cattiva</l><anchor xml:id="l229"/>
+            <l>La presentaro al lor Rè Agamennone,</l><anchor xml:id="l230"/>
+            <l>Come cosa di lui ben degna, in dono;</l><anchor xml:id="l231"/>
+            <l>O’n parte pur de la già fatta preda,</l><anchor xml:id="l232"/>
+            <l>Che per dritto, et ragion se gli devea.</l><anchor xml:id="l233"/>
+            <l>Mà come fer poi subito ritorno</l><anchor xml:id="l234" corresp="l120"/>
+            <l>Già tutti à Troia, Ecco il suo padre Crise,</l>
+            <l>Ch’ivi ne vien, con infiniti doni,</l><anchor xml:id="l236" corresp="l121"/>
+            <l>Per ricomprar dal Rè l’amata figlia;</l>
+            <l>In man portando le corone sacre</l><anchor xml:id="l238" corresp="l122"/>
+            <l>Del saettante Apolline, e’l diadema</l>
+            <l>Sacro, del Dio, co’l ricco scettro d’oro:</l><anchor xml:id="l240" corresp="l123"/>
+            <l>Et da’ Principi entrando, et da gli Heroi</l>
+            <l>De’ Greci, e’nnanzi à tutti Agamennone,</l><anchor xml:id="l242"/>
+            <l>Et Menelao guardando, riverente</l><anchor xml:id="l243" corresp="l124"/>
+            <l>Prese loro à parlar con tai parole.</l>
+         </lg>
+         <lg ana="#p3a" n="3a">
+            <l>Potentissimi Rè d’Atreo figliuoli,</l><anchor xml:id="l245" corresp="l125"/>
+            <l>Et voi altri signor del Greco stuolo,</l><anchor xml:id="l246" corresp="l126"/>
+            <l>A cui gl’eterni Dei la gran Cittade</l><anchor xml:id="l247" corresp="l127"/>
+            <l>Di Troia, ove già tutti intenti sete,</l><anchor xml:id="l248" corresp="l128"/>
+            <l>Donin, che sia per le man vostre presa:</l><anchor xml:id="l249" corresp="l129"/>
+            <l>Rendete à me l’unica mia figliuola,</l>
+            <l>Sol del misero padre unica speme;</l><anchor xml:id="l251" corresp="l130"/>
+            <l>Prendendo pur da mè per ricompensa</l>
+            <l>Questi ch’io porto preciosi doni,</l><anchor xml:id="l253" corresp="l131"/>
+            <l>Ch’oltre ch’à me fia caro, al sacro Apollo,</l><anchor xml:id="l254"/>
+            <l>Di cui son’io ministro, et Sacerdote,</l><anchor xml:id="l255"/>
+            <l>Et di cui son questi ornamenti tutti,</l><anchor xml:id="l256"/>
+            <l>Ch’io porto, renderete immenso honore.</l><anchor xml:id="l257"/>
+            <l>A cotal prieghi tutti gl’altri Heroi</l><anchor xml:id="l258"/>
+            <l>Si commossero, et Principi, assentendo,</l><anchor xml:id="l259" corresp="l132"/>
+            <l>Ch’al padre sia renduta la donzella;</l>
+            <l>Come far si devea, ch’era ben giusto</l><anchor xml:id="l261" corresp="l133"/>
+            <l>Di compiacerlo; sì per gl’ampi doni,</l>
+            <l>Che per riscatto suo pronto arrecava,</l><anchor xml:id="l263"/>
+            <l>Come perche d’Apolline ministro</l><anchor xml:id="l264" corresp="l134"/>
+            <l>Era, et sì venerando Sacerdote:</l>
+            <l>Che mandarnelo senza era mal’atto.</l><anchor xml:id="l266" corresp="l135"/>
+            <l>Sol l’altero, et superbo Agamennone</l><anchor xml:id="l267" corresp="l136"/>
+            <l>Fù di voler contrario, et no’l consente;</l>
+            <l>Mà dal noioso dir turbato forte</l><anchor xml:id="l269" corresp="l137"/>
+            <l>Del vecchio sì, com’ancho per havervi</l>
+            <l>Contra ogni suo sperar gl’altri assentito,</l><anchor xml:id="l271"/>
+            <l>Altero in tal parlar la lingua sciolse.</l>
+         </lg>
+         <lg ana="#p4a" n="4a">
+            <anchor xml:id="l272"/><l>Vecchion ti dico, et chiar ti fo, e palese,</l><anchor xml:id="l273" corresp="l138"/>
+            <l>Che per questa cagion, c’hor ne venisti,</l><anchor xml:id="l274" corresp="l139"/>
+            <l>Non osi più di rinovar parola;</l>
+            <l>Ne d’hoggi in là fa più ch’io ti rivegga</l><anchor xml:id="l276" corresp="l140"/>
+            <l>Altra volta vicino à queste navi;</l>
+            <l>Ch’altrimenti io ti giuro, e ti prometto,</l><anchor xml:id="l278" corresp="l141"/>
+            <l>Che quel tuo scettro, et coteste Corone</l>
+            <l>D’allor, del Dio, poco ti gioveranno.</l><anchor xml:id="l280" corresp="l142"/>
+            <l>Costei (per farten chiaro) io mai partire</l>
+            <l>Non lascierò dal lato mio, che prima</l><anchor xml:id="l282" corresp="l143"/>
+            <l>Quinci lontan ne la mia patria in Argo</l>
+            <l>Non ne la meni, ove nel mio palagio</l><anchor xml:id="l284" corresp="l144"/>
+            <l>Vecchia divenga, opra à la tela dando,</l>
+            <l>Et giacendosi meco al proprio letto.</l><anchor xml:id="l286" corresp="l145"/>
+            <l>Vattene dunque quinci quanto prima</l>
+            <l>Puoi, dal cospetto mio, ne ad infestarmi</l><anchor xml:id="l288" corresp="l146"/>
+            <l>Seguir vogli più già, s’ir ne voi salvo.</l>
+            <l>Ciò ‘l vecchio udendo, e’l suon de le parole,</l><anchor xml:id="l290" corresp="l147"/>
+            <l>Rimase molto attonito, et confuso;</l>
+            <l>Onde ben tosto le navi lasciando,</l>
+            <l>Tacito, e mesto in dietro fè ritorno;</l><anchor xml:id="l293" corresp="l148"/>
+            <l>Ver la riva del mar drizzando il passo.</l>
+            <l>Et poi che da le tende allontanato</l><anchor xml:id="l295"/>
+            <l>Si fù gran pezza, con dirotto pianto</l><anchor xml:id="l296" corresp="l149"/>
+            <l>Gl’occhi alzando sù al Cielo humidi, e gravi</l><anchor xml:id="l297" corresp="l150"/>
+            <l>Apolline pregò con queste voci.</l>
+         </lg>
+         <lg ana="#p5a" n="5a">
+            <l>Sacro Apollo di Giove, et di Latona</l><anchor xml:id="l299" corresp="l151"/>
+            <l>Chiara, illustre progenie, alta, et famosa,</l>
+            <l>Potente Apollo, cui co’l lucente arco,</l><anchor xml:id="l2101" corresp="l152"/>
+            <l>Che d’argento in man porti, in honor’hanno</l><anchor xml:id="l2102" corresp="l153"/>
+            <l>Color, c’habitan Cilla, e Crisa, et quelli,</l>
+            <l>Che dimorano in Tenedo, et à Sminta:</l><anchor xml:id="l2104" corresp="l154"/>
+            <l>Se mai grati ti fur gl’uffici miei,</l>
+            <l>L’ornar de’Tempi, et l’honorate feste,</l><anchor xml:id="l2106"/>
+            <l>Le solennità fatte, e i sacrifici</l><anchor xml:id="l2107"/>
+            <l>Di Capre opimi, et d’imolati Tori;</l><anchor xml:id="l2108" corresp="l155"/>
+            <l>Odi, et intendi hor’il tuo Sacerdote,</l>
+            <l>Che si afflitto t’invoca; et essaudisci</l><anchor xml:id="l2110" corresp="l156"/>
+            <l>Del miser padre i tanto giusti prieghi.</l>
+            <l>Manda gran Dio co’l tuo possente braccio</l><anchor xml:id="l2112" corresp="l157"/>
+            <l>I pungenti tuoi strale, et le saette</l><anchor xml:id="l2113" corresp="l158"/>
+            <l>Mortifere, nel campo al Greco stuolo:</l>
+            <l>Che dia la pena del tanto dolore,</l><anchor xml:id="l2115" corresp="l159"/>
+            <l>E de le tante lagrime, c’hò sparso</l>
+            <l>Per lor cagion, del ricevuto oltraggio.</l>
+         </lg>
+         <lg ana="#p6a" n="6a">
+            <anchor xml:id="l2117" corresp="l160"/><l>I cui prieghi essaudendo allhora Apollo,</l><anchor xml:id="l2118" corresp="l162"/>
+            <l>Scese à un tratto dal Ciel, di sdegno pieno,</l><anchor xml:id="l2119" corresp="l163"/>
+            <l>E d’ira acceso, nubiloso, e cinto</l>
+            <l>D’horror’intorno, à la notte simile.</l><anchor xml:id="l2121" corresp="l164"/>
+            <l>E nel discender, per la furia molta,</l><anchor xml:id="l2122" corresp="l165"/>
+            <l>Si scuotean le saette, e s’udia il suono</l>
+            <l>Ne la ricca faretra, in sù sbalzando,</l><anchor xml:id="l2124" corresp="l166"/>
+            <l>Con l’arco anchor, che pendea dal tergo:</l><anchor xml:id="l2125" corresp="l167"/>
+            <l>E ver le navi, e i Greci padiglioni,</l>
+            <l>Con empito n’andò ratto, e veloce;</l>
+            <l>E fermandosi à lor poco lontano</l><anchor xml:id="l2128" corresp="l168"/>
+            <l>Per nove giorni, et altrettante notti</l>
+            <l>Con suono horrendo, saettando strali,</l><anchor xml:id="l2130" corresp="l169"/>
+            <l>Le bestie prima, e gl’animai percosse,</l><anchor xml:id="l2131" corresp="l171"/>
+            <l>E poi gl’huomini appresso, in tal maniera,</l><anchor xml:id="l2132" corresp="l172"/>
+            <l>Ch’ogni giorno di morti horribil monte</l>
+            <l>Abbruciar si vedea nel mesto campo.</l>
+         </lg>
+         <lg ana="#p7a" n="7a">
+            <anchor xml:id="l2134" corresp="l174"/><l>Mà venendo il di decimo, e si horrenda</l><anchor xml:id="l2135" corresp="l175"/>
+            <l>Strage vedendo Pallade, à pietade</l>
+            <l>Commossa assai di lor miseria tanta,</l><anchor xml:id="l2137" corresp="l176"/>
+            <l>Che si in particolar tutti affligea:</l>
+            <l>Del magnanimo Achille apri la mente,</l><anchor xml:id="l2139" corresp="l177"/>
+            <l>Che sopra ciò al Senato ragionasse,</l><anchor xml:id="l2140" corresp="l178"/>
+            <l>E de’ Greci al concilio, ò dar riparo.</l><anchor xml:id="l2141" corresp="l179"/>
+            <l>Al cui richiamo dunque uniti insieme</l><anchor xml:id="l2142" corresp="l180"/>
+            <l>Sendo i popoli, i Principi, e gl’Heroi,</l>
+            <l>E’n un luogo ridotti ivi sedendo</l><anchor xml:id="l2144" corresp="l181"/>
+            <l>Ciascuno; Achille in piè ritto levosse</l>
+            <l>E lor prese à parlar, cosi dicendo.</l>
+         </lg>
+         <lg ana="#p8a" n="8a">
+            <anchor xml:id="l2146" corresp="l182"/><l>Eccelso Agamennon, vana la speme</l>
+            <l>Nostra, per quanto i veggio, fia; che senza</l>
+            <l>Vittoria haver de la Troiana impresa,</l><anchor xml:id="l2149" corresp="l183"/>
+            <l>Saremo astretti in dietro à far ritorno,</l>
+            <l>Se pur ritorno far ci fia concesso,</l><anchor xml:id="l2151" corresp="l184"/>
+            <l>E la morte schivar, c’hor ci stà sopra;</l>
+            <l>Per ciò che già quasi i Soldati tutti</l><anchor xml:id="l2153" corresp="l185"/>
+            <l>Tolti ci son, da l’aspra guerra parte,</l>
+            <l>E parte da la peste, c’hor c’è intorno.</l><anchor xml:id="l2155" corresp="l186"/>
+            <l>Onde la via miglior parmi, che saggio</l>
+            <l>Sia consiglio pigliarne, e alcun parere</l><anchor xml:id="l2157" corresp="l187"/>
+            <l>Da qualche saggio Aruspice, ò Indovino,</l><anchor xml:id="l2158" corresp="l188"/>
+            <l>O’nterpetre di sogni; che di Giove</l><anchor xml:id="l2159" corresp="l189"/>
+            <l>Sono i sogni, et chiarir Giove sovente</l>
+            <l>I dubbi suoi; ch’à noi poi riferire</l><anchor xml:id="l2161" corresp="l190"/>
+            <l>La cagion debba, ch’à tant’ira hà mosso</l><anchor xml:id="l2162" corresp="l191"/>
+            <l>Febo contra di noi, quant’hor si mostra:</l><anchor xml:id="l2163" corresp="l192"/>
+            <l>Se’l suo sdegno fors’è per non gli havere</l>
+            <l>Noi sodisfatto alcun debito voto,</l>
+            <l>O sacrifici pur non fatto, come</l><anchor xml:id="l2166" corresp="l193"/>
+            <l>La santa, e giusta legge richiedea;</l>
+            <l>O s’altra egli hà cagion di giusto sdegno:</l><anchor xml:id="l2168" corresp="l194"/>
+            <l>Appresso poi, con purgamento quale,</l>
+            <l>Forse sacrificando agnelli, ò capre,</l><anchor xml:id="l2170" corresp="l195"/>
+            <l>Mitigarlo possiam, che da noi questa</l>
+            <l>Peste, che ci mandò fiera, via tolga.</l>
+         </lg>
+         <lg ana="#p9a" n="9a">
+            <anchor xml:id="l2172" corresp="l196"/><l>Calcante figlio di Testore allhora,</l><anchor xml:id="l2173" corresp="l197"/>
+            <l>Tacendo Achille, in piè dritto levosse:</l>
+            <l>Huom frà tutto l’essercito migliore</l><anchor xml:id="l2175"/>
+            <l>D’ogn’altro era costui, molto eccellente</l><anchor xml:id="l2176"/>
+            <l>D’indovinar ne la scientia sperto,</l><anchor xml:id="l2177" corresp="l198"/>
+            <l>Ch’ei da l’stesso Apolline havea appreso</l><anchor xml:id="l2178" corresp="l199"/>
+            <l>L’arte, et fattone lunga isperienza;</l>
+            <l>E sapea del passato, e del presente,</l><anchor xml:id="l2180" corresp="l1100"/>
+            <l>E del futuro dar chiara certezza;</l><anchor xml:id="l2181" corresp="l1101"/>
+            <l>Cui, venendo di Troia à l’alta impresa</l><anchor xml:id="l2182" corresp="l1102"/>
+            <l>I Greci, menar seco, argomentando</l>
+            <l>Deversene servir per guida, mentre,</l><anchor xml:id="l2184" corresp="l1103"/>
+            <l>(Come già fer) del mar solcavan l’onde.</l>
+            <l>Dunque costui, come che savio molto</l><anchor xml:id="l2186" corresp="l1104"/>
+            <l>Fosse, e prudente, lor mirando intorno</l>
+            <l>In tai parole allhor la lingua sciolse.</l><anchor xml:id="l2188" corresp="l1105"/>
+            <l>O magnanimo Achille, amico à Giove,</l>
+            <l>Commandi, e vuoi ch’io qui in publico spanda,</l><anchor xml:id="l2190" corresp="l1106"/>
+            <l>E manifesti la cagion secreta,</l><anchor xml:id="l2191" corresp="l1107"/>
+            <l>Ch’ad Apolline il cor si d’ira accese:</l><anchor xml:id="l2192" corresp="l1108"/>
+            <l>Per ubbidirti io’l farò già, ma prima</l>
+            <l>Io vò che tu à l’incontro mi prometta</l>
+            <l>Con ben sacro, e solenne giuramento,</l><anchor xml:id="l2195"/>
+            <l>Che se per tal cagion periglio mai</l><anchor xml:id="l2196" corresp="l1109"/>
+            <l>Per venir me ne fia di morte, ò danno,</l>
+            <l>Che non m’habbi à lasciar senza diffesa,</l><anchor xml:id="l2198"/>
+            <l>Se mestier fusse oprar la lingua, ò l’arme.</l><anchor xml:id="l2199" corresp="l1110"/>
+            <l>Ciò so ben’io, che contro di me fiera</l>
+            <l>Mente, s’hà di sdegnar colui, cui sono</l><anchor xml:id="l2201" corresp="l1111"/>
+            <l>I Greci tutti pronti ad ubbidire</l>
+            <l>Né commandi, et à far sue voglie ogn’hora.</l><anchor xml:id="l2203" corresp="l1112"/>
+            <l>Ne fia molto à me già s’hoggi sol scampo</l>
+            <l>Mi dai da tal periglio, ò magno Achille,</l><anchor xml:id="l2205"/>
+            <l>Se non disponi à farlo ogn’hora, et sempre.</l><anchor xml:id="l2206" corresp="l1113"/>
+            <l>Perciò ch’un Rè, un Signor meco, il qual sono</l>
+            <l>Di lui minor, sdegnato, et da me offeso;</l><anchor xml:id="l2208" corresp="l1114"/>
+            <l>Benche alquanto dissimuli lo sdegno,</l>
+            <l>E di far la vendetta si ritenga,</l><anchor xml:id="l2210" corresp="l1115"/>
+            <l>Non si scorda però l’offesa mai;</l><anchor xml:id="l2211" corresp="l1116"/>
+            <l>Ma ricerca d’ogn’hor pronta cagione</l>
+            <l>Di poter sodisfar l’animo altero:</l><anchor xml:id="l2213" corresp="l1117"/>
+            <l>Onde se vuoi, se mi commandi, ò Achille,</l><anchor xml:id="l2214" corresp="l1118"/>
+            <l>Ch’io facci hor chiar l’alto divin secreto,</l><anchor xml:id="l2215" corresp="l1119"/>
+            <l>E’ndovinando la cagion m’esprima;</l>
+         </lg>
+         <lg ana="#p10a" n="10a">
+            <l>Rispondi hor già, se tu Calcante vuoi,</l><anchor xml:id="l2217" corresp="l1120"/>
+            <l>Et puoi salvo campar d’ogni periglio,</l><anchor xml:id="l2218" corresp="l1121"/>
+            <l>E nel tempo à venir d’ogn’altra offesa.</l>
+            <l>A cui cosi rispose, e disse Achille.</l><anchor xml:id="l2220" corresp="l1122"/>
+            <l>Non temer, mio Calcante, ma sicuro</l>
+            <l>Dichiara homai quanto nel petto interno</l><anchor xml:id="l2222"/>
+            <l>Hai del divin presagio innanzi à ogn’uno;</l><anchor xml:id="l2223"/>
+            <l>Ch’io per Febo ti giuro, di cui dire</l><anchor xml:id="l2224"/>
+            <l>T’apparecchi l’oracolo, che mentre</l><anchor xml:id="l2225" corresp="l1123"/>
+            <l>I vivo sia, mentre che sù la terra</l>
+            <l>Ir veduto sarò, per tal cagione</l><anchor xml:id="l2227" corresp="l1124"/>
+            <l>Verun non mai l’ingiuriose mani</l>
+            <l>Contro te stenderà, dico veruno</l><anchor xml:id="l2229" corresp="l1125"/>
+            <l>Di quanti Greci à queste navi intorno</l><anchor xml:id="l2230" corresp="l1126"/>
+            <l>Hoggi vi son, ne Agamennone istesso,</l><anchor xml:id="l2231" corresp="l1127"/>
+            <l>Ch’è il maggior d’ogni Principe, e signore;</l><anchor xml:id="l2232" corresp="l1129"/>
+            <l>Quando pur contro lui fosse il presagio.</l>
+         </lg>
+         <lg ana="#p11a" n="11a">
+            <anchor xml:id="l2233" corresp="l1130"/><l>Allhora il saggio aruspice Calcante,</l><anchor xml:id="l2234" corresp="l1131"/>
+            <l>Già deposto il timor, non per alcuna,</l>
+            <l>Disse, Apollo cagion, che sia già detta</l><anchor xml:id="l2236" corresp="l1132"/>
+            <l>Contra voi s’è così commosso à sdegno;</l><anchor xml:id="l2237" corresp="l1133"/>
+            <l>Mà sol perche il suo Sacerdote Crise</l><anchor xml:id="l2238" corresp="l1134"/>
+            <l>D’Agamennon l’ingiuria hà ricevuto,</l>
+            <l>E spregiato da lui, non gli rendendo</l><anchor xml:id="l2240"/>
+            <l>La figliuola, poi che di suo riscatto</l><anchor xml:id="l2241" corresp="l1135"/>
+            <l>Offeria il prezzo, e tanti ricchi doni.</l>
+            <l>Onde per ciò questa ruina fiera</l><anchor xml:id="l2243" corresp="l1136"/>
+            <l>Hà mandato, e maggior per mandar fia.</l>
+            <l>Ne prima darà fine à tanto danno,</l><anchor xml:id="l2245" corresp="l1137"/>
+            <l>Ch’al padre sia renduta la sua figlia,</l>
+            <l>Senza che prezzo alcun se ne riceva:</l><anchor xml:id="l2247" corresp="l1138"/>
+            <l>Poi che allhora ch’à darnelo già venne</l><anchor xml:id="l2248" corresp="l1139"/>
+            <l>Per lei, da noi ricever non si volle.</l><anchor xml:id="l2249" corresp="l1140"/>
+            <l>E carca à lui si mandi ella di doni,</l>
+            <l>Ond’egli possa sacrificio farne;</l><anchor xml:id="l2251" corresp="l1141"/>
+            <l>Però che allhor, quand’ei da noi qui venne</l>
+            <l>Recando i doni, hebbe da noi dispregio.</l><anchor xml:id="l2253" corresp="l1142"/>
+            <l>Allhor; tanto per che, cosi facendo,</l>
+            <l>Sodisfarem da noi; quanto pe’ prieghi</l><anchor xml:id="l2255" corresp="l1143"/>
+            <l>Di Crise, amico Febo ci faremo,</l><anchor xml:id="l2256" corresp="l1144"/>
+            <l>Ricevendo da lui l’amata pace.</l>
+         </lg>
+         <lg ana="#p12a" n="12a">
+            <l>Detto cosi, si ritornò a sedere</l><anchor xml:id="l2258" corresp="l1145"/>
+            <l>Calcante; Agamennon sorgendo allhora,</l><anchor xml:id="l2259" corresp="l1146"/>
+            <l>Dimostrando nel volto, e per la faccia</l><anchor xml:id="l2260" corresp="l1147"/>
+            <l>D’ira un’incendio, e gl’occhi torti intorno</l><anchor xml:id="l2261" corresp="l1148"/>
+            <l>Girando, che parean di foco accesi,</l><anchor xml:id="l2262" corresp="l1149"/>
+            <l>Affissando Calcante; O indovin, disse,</l><anchor xml:id="l2263" corresp="l1150"/>
+            <l>Augoroso à me sempre; e non mai bene,</l>
+            <l>Allegrezze non mai, non mai gioconde</l><anchor xml:id="l2265" corresp="l1151"/>
+            <l>Cose, indovinerai ad Agamennone?</l>
+            <l>Quasi ch’egli t’aggradi, e sia diletto</l><anchor xml:id="l2267" corresp="l1152"/>
+            <l>D’annontiarmi nuove avverse, e fiere;</l>
+            <l>Perche paia tu stesso al tuo pensiero</l><anchor xml:id="l2269" corresp="l1153"/>
+            <l>Conforme, osi di dir cotal ruina</l>
+            <l>Haver per mia cagion nel Greco stuolo</l><anchor xml:id="l2271" corresp="l1154"/>
+            <l>Febo eccitato; perch’io non fossersi</l><anchor xml:id="l2272" corresp="l1155"/>
+            <l>Render la figlia al padre, et ricusai</l><anchor xml:id="l2273" corresp="l1156"/>
+            <l>I suoi doni accettar, per suo riscatto.</l><anchor xml:id="l2274" corresp="l1157"/>
+            <l>Ne in secreto, ò’n disparte m’ammonisci,</l><anchor xml:id="l2275" corresp="l1158"/>
+            <l>Ma’n publico, e nel mezo del concilio</l><anchor xml:id="l2276" corresp="l1159"/>
+            <l>Scuopri quel c’hai nel cor, senza rispetto,</l>
+            <l>Senza punto mirar, s’egli m’offenda.</l><anchor xml:id="l2278" corresp="l1160"/>
+            <l>Egl’è ben ver, à ciò che ritorno i facci</l><anchor xml:id="l2279" corresp="l1161"/>
+            <l>A voi, de’ Greci Principi, et Heroi,</l>
+            <l>E già’l confesso, che preso d’Amore</l><anchor xml:id="l2281" corresp="l1162"/>
+            <l>Son de la donna; e la mia vita insieme</l>
+            <l>In Argo con lei far disposto havea</l><anchor xml:id="l2283" corresp="l1163"/>
+            <l>Come colei, che più degna che meco</l>
+            <l>Si giaccia, sia, che Clitennestra istessa,</l><anchor xml:id="l2285" corresp="l1164"/>
+            <l>Che mia moglie è; perche di faccia, e membre,</l>
+            <l>Di costumi, d’ingegno, e finalmente</l><anchor xml:id="l2287"/>
+            <l>Di quanto s’appartien di donne à l’opre</l><anchor xml:id="l2288" corresp="l1165"/>
+            <l>Non essa pur, ma ogn’altra donna avanza.</l>
+            <l>Mà s’egli pur cosi convien, ch’al padre</l><anchor xml:id="l2290" corresp="l1166"/>
+            <l>La donzella sia resa, hor hor si renda.</l>
+            <l>Per cio ch’io tal non son, che più mi piaccia</l><anchor xml:id="l2292" corresp="l1167"/>
+            <l>Lasciar perire il popol tutto, ov’io</l>
+            <l>Cercassi compiacer l’animo, e’l senso;</l><anchor xml:id="l2294"/>
+            <l>Che far che fosse immaculato, e salvo.</l><anchor xml:id="l2295" corresp="l1168"/>
+            <l>M’à voi conviene, anzi à vicenda accade</l>
+            <l>In modo proveder, che questo danno,</l><anchor xml:id="l2297" corresp="l1169"/>
+            <l>Questa perdita mia renduta altronde</l>
+            <l>Mi sia, e ristorata in qualche modo;</l><anchor xml:id="l2299"/>
+            <l>A ciò che non io sol fra tutti (indegno</l><anchor xml:id="l2300" corresp="l1170"/>
+            <l>Il che sarebbe, e’ngiusto; e lascio quanto</l>
+            <l>Di pregio i sia) sia nel mio honore offeso;</l><anchor xml:id="l2302" corresp="l1171"/>
+            <l>La donzella levatami, che (come</l>
+            <l>Sapete) à me de la già fatta preda,</l><anchor xml:id="l2304" corresp="l1172"/>
+            <l>Fatte le parti, allhor toccò per sorte.</l>
+            <l>Al che Achille opponendosi rispose. </l>
+         </lg>
+         <lg ana="#p13a" n="13a">
+            <anchor xml:id="l2306" corresp="l1173"/><l>E’n qual maniera, ò magno Agamennone,</l><anchor xml:id="l2307" corresp="l1174"/>
+            <l>Ciò far si può. che i Proceri, e gl’Heroi</l>
+            <l>De l’essercito Greco, ricompensa</l><anchor xml:id="l2309" corresp="l1175"/>
+            <l>Faccino à l’honor tuo scemo, e ristoro?</l><anchor xml:id="l2310" corresp="l1176"/>
+            <l>Poi che cosa non v’è commun, che sia</l>
+            <l>Di tutti insieme, onde noi ti possiamo</l><anchor xml:id="l2312"/>
+            <l>Dono già far, ne compensar l’honore.</l><anchor xml:id="l2313" corresp="l1177"/>
+            <l>E quelle, che da le già fatte prede</l>
+            <l>De le prese Città partite sono</l><anchor xml:id="l2315" corresp="l1178"/>
+            <l>Frà i Soldati, e frà gli altri Capitani;</l>
+            <l>Par già disconvenevol ritrattarsi,</l><anchor xml:id="l2317" corresp="l1179"/>
+            <l>E da ciascun qui in publico recate</l>
+            <l>Frà lor di novo poi distribuire.</l><anchor xml:id="l2319" corresp="l1180"/>
+            <l>Ma ritorna, ò gran Rè tu la donzella,</l>
+            <l>Che commanda colui che si ritorni;</l><anchor xml:id="l2321" corresp="l1181"/>
+            <l>Che noi altri dapoi tre volte il doppio,</l>
+            <l>E quattro pur ti promettiam, se Giove</l>
+            <l>Ci concederà mai da le man nostre</l><anchor xml:id="l2324" corresp="l1182"/>
+            <l>Troia esser presa, di renderti allhora.</l>
+         </lg>
+         <lg ana="#p14a" n="14a">
+            <l>Cui rispondendo Agamennon superbo,</l><anchor xml:id="l2326" corresp="l1183"/>
+            <l>Non voler, disse, ò valoroso Achille.</l><anchor xml:id="l2327" corresp="l1184"/>
+            <l>Benche tu sia cosi prestante, e degno,</l><anchor xml:id="l2328" corresp="l1185"/>
+            <l>Persuadermi in ciò, con tue parole.</l><anchor xml:id="l2329" corresp="l1186"/>
+            <l>Commandi cosi tu, ch’io costei renda</l><anchor xml:id="l2330" corresp="l1187"/>
+            <l>Al padre, perche del tuo honor ti goda,</l><anchor xml:id="l2331" corresp="l1188"/>
+            <l>Et io del mio resti deluso, e scemo?</l><anchor xml:id="l2332" corresp="l1189"/>
+            <l>In ogni modo à l’honor mio ristoro</l><anchor xml:id="l2333" corresp="l1190"/>
+            <l>Faranno i Greci, tosto, ritrovando</l><anchor xml:id="l2334" corresp="l1191"/>
+            <l>Rimedio già che’l danno mio s’emende.</l><anchor xml:id="l2335" corresp="l1192"/>
+            <l>Di che se lor si graveranno, ò forse</l><anchor xml:id="l2336" corresp="l1193"/>
+            <l>Voler contrario havranno, io stesso allhora</l><anchor xml:id="l2337" corresp="l1194"/>
+            <l>Da me stesso il farò; che n’andrò ratto</l>
+            <l>Da ciascun che parrammi, da cui tolga</l><anchor xml:id="l2339" corresp="l1195"/>
+            <l>Quello che più mi piaccia, e mi sia à grado;</l>
+            <l>O sia pur’egli Ulisse, ò pur Aiace,</l><anchor xml:id="l2341" corresp="l1196"/>
+            <l>Over tu stesso, ò chiunque altro sia.</l>
+            <l>Questo i so ben certissimo, che grave</l><anchor xml:id="l2343" corresp="l1197"/>
+            <l>A colui fia, cui poi tocchi la sorte;</l>
+            <l>E se grave gli fia, poscia’l vedremo.</l><anchor xml:id="l2345" corresp="l1198"/>
+            <l>Ma mettasi hor, senza indugiarmi punto</l><anchor xml:id="l2346" corresp="l1199"/>
+            <l>Una nave nel mare, ove si ponga</l>
+            <l>Tutto’l bisogno d’huomini, e di remi,</l><anchor xml:id="l2348" corresp="l1200"/>
+            <l>E d’hostie anchor, per sacrifici farne;</l>
+            <l>E Criseida al padre hor si rimandi.</l><anchor xml:id="l2350" corresp="l1201"/>
+            <l>E de’ primati anchor’ alcun s’elegga,</l><anchor xml:id="l2351" corresp="l1202"/>
+            <l>A cui si degno ufficio si commetta;</l><anchor xml:id="l2352" corresp="l1203"/>
+            <l>Ad Aiace, ad Ulisse, ò à Idomeneo,</l>
+            <l>O à te, d’ogn’altro più crudele, Achille;</l><anchor xml:id="l2354" corresp="l1204"/>
+            <l>Ch’Apolline, che contra il Greco stuolo</l><anchor xml:id="l2355" corresp="l1205"/>
+            <l>Co’l rio morbo si sfoga, supplicare</l>
+            <l>Vogli, offrendo sacrifici, e prieghi.</l>
+         </lg>
+         <lg ana="#p15a" n="15a">
+            <anchor xml:id="l2357" corresp="l1206"/><l>A cui con volto assai turbato, e fiero</l><anchor xml:id="l2358" corresp="l1207"/>
+            <l>Guardando Achille; O pien d’inganno, e froda,</l><anchor xml:id="l2359" corresp="l1208"/>
+            <l>E d’imprudenza generato, e fatto</l><anchor xml:id="l2360" corresp="l1210"/>
+            <l>Tutto, gli disse; e chi del Greco campo,</l>
+            <l>Fia mai, che d’hoggi in là più t’ubbidisca,</l><anchor xml:id="l2362" corresp="l1211"/>
+            <l>Et vada allegro à le future imprese,</l><anchor xml:id="l2363" corresp="l1212"/>
+            <l>Et volontier per te la guerra prenda?</l>
+            <l>Non io per privato odio, (come sai)</l><anchor xml:id="l2365" corresp="l1213"/>
+            <l>Ch’i havessi già contra i Troiani, venni</l><anchor xml:id="l2366" corresp="l1214"/>
+            <l>Qui, con lor guerreggiando à vendicarmi</l>
+            <l>D’ingiuria, che da lor fatta mi fosse:</l><anchor xml:id="l2368" corresp="l1215"/>
+            <l>Che i campi guasto havessero, ò gl’armenti</l>
+            <l>Di cavallo, e di buoi dentro il mio regno</l><anchor xml:id="l2370" corresp="l1216"/>
+            <l>Quà trasportato mai; sendo interposto</l><anchor xml:id="l2371" corresp="l1217"/>
+            <l>Frà Troia, e Phtia di mar si lungo spatio,</l><anchor xml:id="l2372" corresp="l1218"/>
+            <l>E di terra ancho. Sol per tua cagione</l><anchor xml:id="l2373" corresp="l1219"/>
+            <l>Svergognato insolente, in questo loco</l><anchor xml:id="l2374" corresp="l1220"/>
+            <l>Venuti siam, quanti che siam, che teco</l><anchor xml:id="l2375" corresp="l1221"/>
+            <l>Sol navigato habbiam per compiacerti,</l><anchor xml:id="l2376" corresp="l1222"/>
+            <l>E vendicar l’ingiurioso oltraggio</l><anchor xml:id="l2377" corresp="l1223"/>
+            <l>Di Menelao, come di te egualmente.</l>
+            <l>A costor dunque tu perfido, e’ngrato,</l><anchor xml:id="l2379" corresp="l1225"/>
+            <l>Che se’, à costor non havrai già rispetto,</l><anchor xml:id="l2380" corresp="l1226"/>
+            <l>E lor di poco, ò nulla istimerai?</l><anchor xml:id="l2381" corresp="l1227"/>
+            <l>E quel, che già per si fieri perigli</l><anchor xml:id="l2382" corresp="l1228"/>
+            <l>DI guerra, meritar queste mie mani,</l><anchor xml:id="l2383" corresp="l1229"/>
+            <l>(Per che ne le ruine, e ne gli assalti</l><anchor xml:id="l2384" corresp="l1230"/>
+            <l>De’ villaggi, e de gl’oppidi Troiani,</l><anchor xml:id="l2385" corresp="l1231"/>
+            <l>Io più ch’ogn’altro di presidio, e d’opra,</l><anchor xml:id="l2386" corresp="l1232"/>
+            <l>E di valor vi puosi, e porsi:) e quello,</l>
+            <l>Che co’l voler di tutti mi fù dato,</l><anchor xml:id="l2388" corresp="l1233"/>
+            <l>Che me’l torrai, che per te’l vuoi minacci,</l>
+            <l>Sendo, che sempre nel partir, che farsi</l><anchor xml:id="l2390" corresp="l1234"/>
+            <l>Suol de le prede, tu la miglior parte,</l>
+            <l>E maggior, che non io sempre haver soglia?</l><anchor xml:id="l2392" corresp="l1235"/>
+            <l>E quest’è ver, che d’ogni partigione</l>
+            <l>Di preda, che s’è fatta, la maggiore,</l><anchor xml:id="l2394" corresp="l1236"/>
+            <l>E la parte miglior à te si cede;</l>
+            <l>E la mia è molto piccola, e minore;</l><anchor xml:id="l2396"/>
+            <l>Per che nulla giamai da verun toglio,</l><anchor xml:id="l2397"/>
+            <l>Nulla del mio sudor sottraggo, e scuoto.</l><anchor xml:id="l2398"/>
+            <l>Ma sol quel poco, che da gl’altri offerto</l><anchor xml:id="l2399" corresp="l1237"/>
+            <l>M’è di lor voglia libera, quel poco</l>
+            <l>Mi toglio, e di quel sol resto contento.</l><anchor xml:id="l2401" corresp="l1238"/>
+            <l>Onde, poscia ch’à far cosi disponi,</l>
+            <l>Sappi ch’à casa, e’n Phtia farò ritorno,</l><anchor xml:id="l2403" corresp="l1239"/>
+            <l>Che più facil mi fia, che qui fermarmi,</l>
+            <l>E quasi che hor hor prendo il viaggio.</l><anchor xml:id="l2405" corresp="l1240"/>
+            <l>Nè pens’io già, che per lo tolto honore,</l>
+            <l>E per la poca riverenza, io debba</l><anchor xml:id="l2407" corresp="l1241"/>
+            <l>Perduto haver da te ricchezze immense;</l>
+            <l>Che no’l facendo, guadagnato havrei.</l>
+         </lg>
+         <lg ana="#p16a" n="16a">
+            <anchor xml:id="l2409" corresp="l1242"/><l>Agamennone allhor; Vattene hor’hora</l><anchor xml:id="l2410" corresp="l1243"/>
+            <l>Quinci, disse, e ben pur tosto, e veloce</l>
+            <l>S’egli ti piace, ò se pur voglia n’hai;</l><anchor xml:id="l2412" corresp="l1244"/>
+            <l>Però ch’io già che tu con noi rimanga</l>
+            <l>Per mia cagion, mai non ti priego punto;</l><anchor xml:id="l2414" corresp="l1245"/>
+            <l>Non creder ciò: che tu non rimanendo</l>
+            <l>Meco, molti, e molt’altri, che qui sono,</l><anchor xml:id="l2416" corresp="l1246"/>
+            <l>Vi rimarranno: et non si poco honore,</l><anchor xml:id="l2417" corresp="l1247"/>
+            <l>E si poco rispetto, e riverenza,</l>
+            <l>Essi mi porteran, com’hai tu fatto.</l><anchor xml:id="l2419"/>
+            <l>E vi farà, che piu d’ogn’altro stimo,</l><anchor xml:id="l2420"/>
+            <l>Meco l’aiuto del gran padre Giove.</l><anchor xml:id="l2421" corresp="l1248"/>
+            <l>Ma tu perche’l sappi, fra gli altri tutti</l>
+            <l>Rè, che qui son, mi sei molesto, e grave:</l><anchor xml:id="l2423" corresp="l1249"/>
+            <l>E sospetto in estremo, che veruna</l>
+            <l>Cosa vie piu le gare, e le contese,</l><anchor xml:id="l2425"/>
+            <l>E’l fa liti, e’l pugna ti giova, e piace:</l><anchor xml:id="l2426" corresp="l1250"/>
+            <l>Che tu sia più d’ogni altro di valore,</l>
+            <l>E fortezza dotato, e singolare;</l>
+            <l>Da gli Dei, non da tè questo procede.</l><anchor xml:id="l2429" corresp="l1251"/>
+            <l>Vattene dunque nel tuo Regno insieme</l>
+            <l>Con le tue genti, e là, s’egli ti piace,</l><anchor xml:id="l2431" corresp="l1252"/>
+            <l>Frà i Mirmidoni tuoi commanda, e impera.</l>
+            <l>Però ch’à te fra gli altri, e’n questo loco,</l><anchor xml:id="l2433"/>
+            <l>Non è lecito far, ne s’appartiene;</l><anchor xml:id="l2434" corresp="l1253"/>
+            <l>Ove son io, dov’io tengo l’impero,</l>
+            <l>Che tè per nulla stimo, anzi ti spregio.</l>
+            <l>Per ciò non ti preg’io, ben che tu sia</l><anchor xml:id="l2437" corresp="l1254"/>
+            <l>Irato si, cosi commosso à sdegno,</l>
+            <l>Che rimanghi, ne già che ti diparta.</l><anchor xml:id="l2439" corresp="l1255"/>
+            <l>Questo ben ti vò dir, questo t’aviso;</l>
+            <l>Che si come colei mi toglie Apollo,</l><anchor xml:id="l2441"/>
+            <l>Che mi toccò per sorte; io cosi anchora</l><anchor xml:id="l2442" corresp="l1256"/>
+            <l>A te colei torrò, ch’à tè fu data.</l>
+            <l>E si com’hor Criseida, che fuora</l><anchor xml:id="l2444" corresp="l1257"/>
+            <l>De la mia tenda uscita già, rimando</l><anchor xml:id="l2445" corresp="l1258"/>
+            <l>Al padre; cosi anchor de le tue tende</l><anchor xml:id="l2446" corresp="l1259"/>
+            <l>Briseida farò che se ne parta:</l><anchor xml:id="l2447" corresp="l1260"/>
+            <l>E torrollati, anchor che ti dispiaccia,</l><anchor xml:id="l2448" corresp="l1261"/>
+            <l>Et al mio padiglion farò menarla</l>
+            <l>Per che tu sappia, quanto io di tè sia</l><anchor xml:id="l2450" corresp="l1262"/>
+            <l>Superiore, e gli altri di quà innante</l>
+            <l>Non osin parlar meco ad egual fronte;</l><anchor xml:id="l2452" corresp="l1263"/>
+            <l>Ne ad opporsi altrimenti à quel, ch’io dico.</l>
+         </lg>
+         <lg ana="#p17a" n="17a">
+            <anchor xml:id="l2453" corresp="l1264"/><l>Havendo Agamennon cotai parole</l>
+            <l>Detto, e dal forte Achille udite, acceso</l><anchor xml:id="l2455" corresp="l1265"/>
+            <l>L’alma già di furore, il petto, e’l core,</l><anchor xml:id="l2456" corresp="l1266"/>
+            <l>Subito entrò in pensier, s’egli dovea</l>
+            <l>Porre à la spada man, ch’al alto cinta</l><anchor xml:id="l2458" corresp="l1267"/>
+            <l>Tenea, e correndo sopra Agamennone</l><anchor xml:id="l2459" corresp="l1268"/>
+            <l>Ucciderlo, e turbar l’ordine tutto</l>
+            <l>De gli assettati; ò pur l’ira frenando,</l><anchor xml:id="l2461" corresp="l1269"/>
+            <l>Vincer il duol, che l’alma gli affligeva.</l><anchor xml:id="l2462" corresp="l1270"/>
+            <l>E mentre frà se stesso pur discorre,</l><anchor xml:id="l2463" corresp="l1271"/>
+            <l>Trà fuor la spada: </l>
+         </lg>
+         <lg ana="#p18a" n="18a">
+            <anchor xml:id="l2464" corresp="l1272"/><l>ma allhor giù dal Cielo</l>
+            <l>Pallade immantinente ivi discesa,</l><anchor xml:id="l2466"/>
+            <l>Vi fu presente, e à dar riparo venne;</l><anchor xml:id="l2467"/>
+            <l>Però che su nel Ciel la Dea Giunone</l><anchor xml:id="l2468" corresp="l1273"/>
+            <l>Er’à lei entrata per pregarla allhora,</l>
+            <l>Che sopra ciò’l suo aiuto à darvi fosse:</l>
+            <l>Amando ella ambi due d’egual amore,</l>
+            <l>E d’ambi due sollecita egualmente.</l><anchor xml:id="l2472" corresp="l1274"/>
+            <l>Hor dunque poi che Pallade dal tergo</l>
+            <l>D’Achille si fermò invisibilmente,</l><anchor xml:id="l2474" corresp="l1275"/>
+            <l>Veduta, che da lui, d’altri non sendo,</l><anchor xml:id="l2475"/>
+            <l>Gli prese allhor con man le chiome bionde.</l><anchor xml:id="l2476" corresp="l1276"/>
+            <l>Alqual toccar’, e al cui cospetto Achille</l>
+            <l>Sbigottito guardando, e gli occhi fieri</l><anchor xml:id="l2478" corresp="l1277"/>
+            <l>D’ardor d’ira cospersi, rivolgendo</l>
+            <l>Ver la Dea, à un tratto esser la Dea conobbe</l><anchor xml:id="l2480" corresp="l1278"/>
+            <l>Onde à parlarle, e cosi à dir le prese.</l><anchor xml:id="l2481" corresp="l1279"/>
+            <l>Per qual cagione, ò del gran Giove figlia</l><anchor xml:id="l2482" corresp="l1280"/>
+            <l>Vien tu qui hor? Fors’à mirar l’oltraggio,</l><anchor xml:id="l2483" corresp="l1281"/>
+            <l>E’l vitupero del Rè Agamennone:</l>
+            <l>Ch’è per ricever hor da questa spada,</l><anchor xml:id="l2485" corresp="l1282"/>
+            <l>Di quella in scambio, e’n ricompensa, ch’io</l>
+            <l>Qui in palese da lui già ricevei?</l><anchor xml:id="l2487" corresp="l1283"/>
+            <l>La mirabil superbia, e l’insolenza</l>
+            <l>Di costui, fa, c’hor hor gli dia la morte:</l><anchor xml:id="l2489"/>
+            <l>Che non potrà per conto alcun schivarla:</l><anchor xml:id="l2490" corresp="l1284"/>
+            <l>Tal’è ver lui mio cor di sdegno acceso.</l>
+         </lg>
+         <lg ana="#p19a" n="19a">
+            <l>A cui Pallade allhor cosi rispose.</l><anchor xml:id="l2492" corresp="l1285"/>
+            <l>Già non scesi io dal Ciel, non venni, ò Achille,</l><anchor xml:id="l2493" corresp="l1286"/>
+            <l>Per vederti sfogar l’acceso core</l>
+            <l>De l’ira, c’hai, co’l farne hora vendetta;</l><anchor xml:id="l2495"/>
+            <l>Ma per quella frenar, farla deporre.</l><anchor xml:id="l2496" corresp="l1287"/>
+            <l>Ne sol da me ciò à far, ma sospint’ancho</l>
+            <l>Da’ prieghi di Giunon, che mi suase,</l><anchor xml:id="l2498" corresp="l1288"/>
+            <l>Che venir vi dovessi. Et certo ch’ella</l><anchor xml:id="l2499" corresp="l1289"/>
+            <l>L’uno, e l’altro di voi di pari effetto</l>
+            <l>Ama, et vi porta caritade immensa.</l><anchor xml:id="l2501" corresp="l1290"/>
+            <l>Onde poi meglio il mio consiglio prendi;</l>
+            <l>Raffrena l’ira, e l’empito, e ritrova</l><anchor xml:id="l2503"/>
+            <l>Nel suo loco la spada, e con parole</l><anchor xml:id="l2504" corresp="l1291"/>
+            <l>La tua causa diffendi, e non co’l ferro.</l>
+            <l>Sia’l corruccio di biasmi, e di villane</l><anchor xml:id="l2506" corresp="l1292"/>
+            <l>Parole sodisfatto; e sia bastante</l>
+            <l>Tal vendetta à pagar tutta l’offesa:</l><anchor xml:id="l2508" corresp="l1293"/>
+            <l>E perche sii più pronto ad ubbidirmi,</l><anchor xml:id="l2509" corresp="l1294"/>
+            <l>E’l furore à depor, porgi l’orecchie</l><anchor xml:id="l2510" corresp="l1295"/>
+            <l>Al mio parlar’, à quanto hor’io t’espongo.</l>
+            <l>Tempo verrà, (et à Pallade dà fede)</l><anchor xml:id="l2512" corresp="l1296"/>
+            <l>Ch’Agamennon, per ammendar l’offesa,</l>
+            <l>Ch’egli ti fè, da se del doppio, et ancho</l><anchor xml:id="l2514"/>
+            <l>Di maggior quantità ti faccia offerta,</l><anchor xml:id="l2515" corresp="l1297"/>
+            <l>E doni assai maggior darti poi voglia.</l>
+         </lg>
+         <lg ana="#p20a" n="20a">
+            <l>Al cui parlar non si volendo Achille</l><anchor xml:id="l2517" corresp="l1298"/>
+            <l>Oppor, ne contrastar, cosi rispose.</l><anchor xml:id="l2518" corresp="l1299"/>
+            <l>Benche, Dea sacra, i nel pensier già havessi</l><anchor xml:id="l2519" corresp="l1300"/>
+            <l>Proposto di costui prender vendetta,</l>
+            <l>E del fallo pagar fargli la pena:</l><anchor xml:id="l2521" corresp="l1301"/>
+            <l>Pur non sol convenevol’è ubbidire</l>
+            <l>Al voler di voi Dei, ch’à nostri affetti:</l><anchor xml:id="l2523" corresp="l1302"/>
+            <l>M’ancho esser suol giovevole sovente:</l><anchor xml:id="l2524" corresp="l1303"/>
+            <l>Perche chiunque i Dei pronto ubbidisce</l><anchor xml:id="l2525" corresp="l1304"/>
+            <l>Da lor poscia egli è gratamente udito.</l><anchor xml:id="l2526" corresp="l1306"/>
+            <l>Cosi dicendo al suo luogo ripose</l>
+            <l>La spada, che d’argento l’elsa havea;</l><anchor xml:id="l2528" corresp="l1307"/>
+            <l>Allhor a Giove nel celeste regno</l>
+            <l>Pallade fece, e à gli altri Dei ritorno.</l>
+         </lg>
+         <lg ana="#p21a" n="21a">
+            <anchor xml:id="l2530" corresp="l1308"/><l>Ma nondimeno Achille al Rè de’ Greci,</l><anchor xml:id="l2531" corresp="l1309 l1310"/>
+            <l>Non del tutto il fervor scemo, e deposto</l>
+            <l>De la rabbia, e de l’ira, un’altra volta</l><anchor xml:id="l2533"/>
+            <l>Contal aspro parlar si fece innante.</l><anchor xml:id="l2534" corresp="l1311"/>
+            <l>Ebbro, carco di vin, viso canino,</l>
+            <l>Timido, cor di cervo; à cui non mai</l><anchor xml:id="l2536" corresp="l1312"/>
+            <l>Fù tanto di valor, ch’armato osassi</l>
+            <l>Con l’essercito insieme entrar in guerra,</l><anchor xml:id="l2538" corresp="l1313"/>
+            <l>O in mezo a’ più gagliardi assedio porre</l><anchor xml:id="l2539"/>
+            <l>Ne’ luoghi atti à l’insidie, et à gli agguati.</l><anchor xml:id="l2540" corresp="l1314"/>
+            <l>E certo che l’intendi, giudicando</l>
+            <l>Esser molto miglior starti sicuro</l><anchor xml:id="l2542" corresp="l1315"/>
+            <l>Ne’ padiglioni; e poi à compagni torre</l>
+            <l>Le lor parti per forza, se tal’hora</l><anchor xml:id="l2544" corresp="l1316"/>
+            <l>Osin dir punto incontro’l tuo parere,</l>
+            <l>Devorator del popol, Rè crudele.</l><anchor xml:id="l2546" corresp="l1317"/>
+            <l>Che s’in color, sopra à cui regni, fosse</l><anchor xml:id="l2547" corresp="l1318"/>
+            <l>Segno alcun di virtù Greca, e virile</l>
+            <l>Per Dio, c’hoggi porresti al tutto fine</l><anchor xml:id="l2549" corresp="l1319"/>
+            <l>Al ritrovar di farci ogn’hora oltraggi.</l>
+            <l>Io d’hor mi ti protesto; e perche mai</l><anchor xml:id="l2551" corresp="l1320"/>
+            <l>Non ne resti dubbioso, v’interpongo</l>
+            <l>(Che non è poco già) tal giuramento.</l>
+            <l>Per questo scettro, sotto’l cui governo</l><anchor xml:id="l2554" corresp="l1321"/>
+            <l>Stà de’ Prencipi Greci, e’l cui vigore</l>
+            <l>Fà a’ popoli ragion, le leggi intatte</l><anchor xml:id="l2556" corresp="l1322"/>
+            <l>Serba, et è per serbar del sommo Giove:</l>
+            <l>Che si come, poi che questo reciso</l><anchor xml:id="l2558" corresp="l1323"/>
+            <l>Fù da l’albero suo, e in lavor posto</l><anchor xml:id="l2559" corresp="l1324"/>
+            <l>Da l’artefice, e fatto in cotal forma,</l>
+            <l>Non mai più rami è per produr, ne frondi,</l><anchor xml:id="l2561" corresp="l1325"/>
+            <l>Ne men ancho più mai tornerà verde;</l>
+            <l>Cosi cura non mai, d’hoggi in la fia,</l><anchor xml:id="l2563" corresp="l1326"/>
+            <l>Che de’ Greci, ò pensier prenda già Achille:</l><anchor xml:id="l2564" corresp="l1327"/>
+            <l>Ne’l muova mai di lor bisogno estremo,</l>
+            <l>O miseria, che lor unqua avvenisse:</l><anchor xml:id="l2566" corresp="l1328"/>
+            <l>Fin tanto, che da l’homicide mani</l><anchor xml:id="l2567" corresp="l1329"/>
+            <l>Del fiero Hettor, non siano oppressi in guisa</l><anchor xml:id="l2568" corresp="l1330"/>
+            <l>Che’l mio aiuto men giovi al loro scampo.</l>
+            <l>Aciò che allhora teco tu stesso ingrato,</l>
+            <l>Ti tormenti, e t’affligga, non potendo</l><anchor xml:id="l2571" corresp="l1331"/>
+            <l>Far loro allhor da te riparo, ò schermo;</l><anchor xml:id="l2572" corresp="l1332"/>
+            <l>E per tanto dolor del tuo pentire,</l>
+            <l>Che nulla gioverà, à scoppiar ne venga;</l><anchor xml:id="l2574" corresp="l1333"/>
+            <l>Tu che di tutta Grecia il piu prestante,</l>
+            <l>E’l miglior Cavalier dispregiat’hai.</l><anchor xml:id="l2576" corresp="l1334"/>
+            <l>Detto cosi gittò lo scettro in terra</l><anchor xml:id="l2577" corresp="l1335"/>
+            <l>Di punte d’or fregiato, et à sedere</l>
+            <l>Fè al suo seggio ritorno immantinente.</l><anchor xml:id="l2579" corresp="l1336"/>
+            <l>Mentre che Agamennon di sdegno, e d’ira</l>
+            <l>Ripien, si stava tacito, e’n se stesso</l><anchor xml:id="l2581" corresp="l1337"/>
+            <l>Si rodea, di furor nel core acceso,</l><anchor xml:id="l2582" corresp="l1338"/>
+            <l>Presso à mostrarne fuor quasi l’effetto.</l>
+         </lg>
+         <lg ana="#p22a" n="22a">
+            <anchor xml:id="l2583" corresp="l1339"/><l>Nestor risorse, Rè de’ Pili, molto</l>
+            <l>In ogn’opra eccellente, e’n dir facondo:</l><anchor xml:id="l2585" corresp="l1340"/>
+            <l>Da la cui bocca, più del mel soave,</l><anchor xml:id="l2586" corresp="l1341"/>
+            <l>E più dolce uscia fuor l’alto sermone:</l>
+            <l>Huom di saper si come d’anni grave,</l><anchor xml:id="l2588" corresp="l1342"/>
+            <l>Si come quel ch’era à la terza etade</l><anchor xml:id="l2589" corresp="l1343"/>
+            <l>Già de la vita giunto, e pur vivea;</l>
+            <l>E fiorito havea già con molti insieme,</l><anchor xml:id="l2591" corresp="l1344"/>
+            <l>C’haveva allhor la ingorda morte estinti.</l>
+            <l>Costui dunque ver lor, come che fosse</l><anchor xml:id="l2593" corresp="l1345"/>
+            <l>Maturo, e savio; altier guardando, disse.</l>
+         </lg>
+         <lg ana="#p23a" n="23a">
+            <l>O gran vergogna, ò indegno fatto in vero,</l><anchor xml:id="l2595" corresp="l1346"/>
+            <l>O di quanto dolor, di quanti affanni,</l>
+            <l>E di quanta tristezza fia cagione</l>
+            <l>A tutta Grecia, tal contesa vostra;</l><anchor xml:id="l2598" corresp="l1347"/>
+            <l>E d’allegrezza à Priamo, et à suoi</l>
+            <l>Figli, et in somma à tutti altri Troiani:</l><anchor xml:id="l2600" corresp="l1348"/>
+            <l>Quando porta lor fia colta novella,</l><anchor xml:id="l2601" corresp="l1349"/>
+            <l>Che fra voi, che ciascun di valor d’arme</l><anchor xml:id="l2602" corresp="l1350"/>
+            <l>E di senno, e consiglio superate</l><anchor xml:id="l2603" corresp="l1351"/>
+            <l>Nata sia lite, e far trà voi contesa,</l><anchor xml:id="l2604" corresp="l1352"/>
+            <l>E d’odio haver macchiato, e sdegno il core?</l><anchor xml:id="l2605" corresp="l1353"/>
+            <l>Priego, che v’accostiate al mio consiglio;</l>
+            <l>Poi che d’ambi due voi d’eta maggiore</l><anchor xml:id="l2607" corresp="l1354"/>
+            <l>Sono, e’l consiglio mio mai spregiat’ancho</l><anchor xml:id="l2608" corresp="l1355"/>
+            <l>Non fu da’ più eccellenti, e da coloro,</l>
+            <l>Che gran Prencipi fur, come voi siete.</l>
+            <l>Ne tali huomini già ch’io dico forse</l><anchor xml:id="l2611" corresp="l1356"/>
+            <l>Veder m’avvenne à caso, ò udir per fama,</l>
+            <l>Quai fosser; ma fui lor amico, et vissi</l><anchor xml:id="l2613" corresp="l1357"/>
+            <l>Con lor gran tempo in amicitia molta.</l><anchor xml:id="l2614" corresp="l1358"/>
+            <l>Come già fur Pirithoo, Drionte,</l>
+            <l>Theseo, Ceneo, Essadio, e Polifemo;</l><anchor xml:id="l2616" corresp="l1359"/>
+            <l>Degni ben d’agguagliarsi a’ Dei immortali,</l><anchor xml:id="l2617" corresp="l1360"/>
+            <l>Non che sol de’ mortai fosser piu forti:</l><anchor xml:id="l2618" corresp="l1361"/>
+            <l>Poi che attaccar l’horrenda pugna, e fiera</l>
+            <l>Co’ Centauri fortissimi, e feroci</l><anchor xml:id="l2620" corresp="l1362"/>
+            <l>Habitator de monti, e’l valor loro</l><anchor xml:id="l2621" corresp="l1363"/>
+            <l>Lor facendo conoscer nel conflitto.</l><anchor xml:id="l2622" corresp="l1364"/>
+            <l>Io, ch’era indi lontan, chiamato allhora</l>
+            <l>Fin da Pilo, à dar loro aiuto corsi;</l><anchor xml:id="l2624" corresp="l1365"/>
+            <l>E con lor seco insieme in quella guerra</l><anchor xml:id="l2625" corresp="l1366"/>
+            <l>Mi provai si contro i feroci mostri,</l>
+            <l>E del corpo, e del cor le forze usando,</l><anchor xml:id="l2627"/>
+            <l>Ch’opre allhor feci gloriose, e degne;</l><anchor xml:id="l2628" corresp="l1367"/>
+            <l>Che verun già di questi, c’hor qui sono,</l>
+            <l>E vivono hoggi di, saria di tanto,</l><anchor xml:id="l2630" corresp="l1368"/>
+            <l>D’osar con loro hor d’essere à le mani.</l>
+            <l>Se di voi dunque i più forti sovente</l><anchor xml:id="l2632" corresp="l1369"/>
+            <l>Meco si consigliavano, et haveano</l>
+            <l>A caro d’ubbidirmi, ogn’hor prendendo</l><anchor xml:id="l2634" corresp="l1370"/>
+            <l>Per lo miglior il mio consiglio, e’l mio</l><anchor xml:id="l2635" corresp="l1371"/>
+            <l>Parer, voi devete ancho (ad ambi doi</l><anchor xml:id="l2636" corresp="l1372"/>
+            <l>Fia non poco giovevole) acquetarvi</l>
+            <l>A’ miei ricordi, a’ miei sani consigli.</l><anchor xml:id="l2638" corresp="l1373"/>
+            <l>Dunque ne tu di tua potentia troppo,</l>
+            <l>O Agamennon, fidandoti, à costui</l><anchor xml:id="l2640" corresp="l1374"/>
+            <l>Tor l’amata sua donna, ch’in honore</l><anchor xml:id="l2641" corresp="l1375"/>
+            <l>Gli diero i Greci, e de la preda in parte;</l>
+            <l>Mà lasciagli goder quel, ch’è suo in pace.</l><anchor xml:id="l2643" corresp="l1376"/>
+            <l>Ne men tu Achille à par contender vogli</l><anchor xml:id="l2644" corresp="l1377"/>
+            <l>Co’l Rè cui del gran Giove istesso questa</l><anchor xml:id="l2645" corresp="l1379"/>
+            <l>Degnità, et non altrui mai, fù concessa.</l><anchor xml:id="l2646" corresp="l1380"/>
+            <l>E se tù di valor del corpo sei,</l>
+            <l>E fortezza di lui maggiore, et nato</l><anchor xml:id="l2648" corresp="l1381"/>
+            <l>Di madre Dea; questi è pur piu possente</l><anchor xml:id="l2649" corresp="l1382"/>
+            <l>Di tè già, perche in più l’Imperio tiene.</l><anchor xml:id="l2650" corresp="l1383"/>
+            <l>Onde tù Agamennon lo sdegno homai</l>
+            <l>Lascia, c’hai contro lui, ch’io lui co’prieghi</l><anchor xml:id="l2652" corresp="l1384"/>
+            <l>Mi sforzerò riconcigliare intanto,</l>
+            <l>Com’è mestier, send’egli il più prestante,</l><anchor xml:id="l2654" corresp="l1385"/>
+            <l>E ne le guerre il più d’ogn’altro ardito.</l>
+         </lg>
+         <lg ana="#p24a" n="24a">
+            <anchor xml:id="l2655" corresp="l1386"/><l>A cui cosi rispose Agamennone.</l><anchor xml:id="l2656" corresp="l1387"/>
+            <l>Ben’ hai detto, buon vecchio, e tutte vere</l><anchor xml:id="l2657" corresp="l1388"/>
+            <l>Le cose son, le quai poc’anzi hai detto;</l><anchor xml:id="l2658" corresp="l1389"/>
+            <l>Mà costui sopr’à tutti, oltre il dovere,</l>
+            <l>Superior si stima, e’l piu eccellente;</l><anchor xml:id="l2660" corresp="l1390"/>
+            <l>Vincere à ciascun vuol, vuole à ciascuno</l>
+            <l>Signoreggiar, vuol sopra ogn’un l’Impero.</l><anchor xml:id="l2662" corresp="l1391"/>
+            <l>De la qual speme fia (come già credo)</l>
+            <l>Non guari altier, che fia di lei ingannato.</l><anchor xml:id="l2664" corresp="l1392"/>
+            <l>Per che s’à lui gli Dei concesser, ch’egli</l>
+            <l>Fosse nel guerreggiar forte, e prestante;</l><anchor xml:id="l2666" corresp="l1393"/>
+            <l>Veggiam s’ancho gli dier, ch’egli potesse</l>
+            <l>Svillaneggiar, far’à ciascuno oltraggio?</l>
+         </lg>
+         <lg ana="#p25a" n="25a">
+            <anchor xml:id="l2668" corresp="l1394"/><l>Al che Achille interrotte le parole</l><anchor xml:id="l2669" corresp="l1395"/>
+            <l>Del Rè, disse, veggiam, s’io errassi forse,</l>
+            <l>Et vil potessi, e timido esser detto,</l><anchor xml:id="l2671" corresp="l1396"/>
+            <l>Co’l cederti, et ubbidirti à ogni comando,</l><anchor xml:id="l2672" corresp="l1397"/>
+            <l>Che mi facessi? à gl’altri à gl’altri, dico,</l>
+            <l>Non à me commandar, che questa spene</l><anchor xml:id="l2674" corresp="l1398"/>
+            <l>Fia, come io credo assai, fallace et vana;</l><anchor xml:id="l2675" corresp="l1399"/>
+            <l>Se pensi sopr’à me l’Imperio havere.</l>
+            <l>Ma’ntendi questo ben, c’hor dico, e tienlo</l><anchor xml:id="l2677" corresp="l1400"/>
+            <l>Scritto nel cor, ne la memoria saldo;</l>
+            <l>Io non teco già mai, ne con altrui,</l><anchor xml:id="l2679" corresp="l1401"/>
+            <l>Perche rimanghi à me la mia donzella</l><anchor xml:id="l2680" corresp="l1402"/>
+            <l>Verrò à le mani, ò moverò mai l’arme:</l>
+            <l>Perciò che quel voi mi togliete, quello,</l><anchor xml:id="l2682" corresp="l1403"/>
+            <l>Che da voi stessi dato mi fu in dono.</l><anchor xml:id="l2683" corresp="l1404"/>
+            <l>De l’altre cose già, di che signore</l>
+            <l>Io sono, e’n mio poter si stanno, alcuno</l><anchor xml:id="l2685" corresp="l1405"/>
+            <l>Che le tolga non fia, s’io no’l consento.</l>
+            <l>Onde se non dai fede à mie parole,</l><anchor xml:id="l2687" corresp="l1406"/>
+            <l>E cio non credi; à ciò ch’ancho costoro</l>
+            <l>Ne sien capaci, hor hor fanne la prova;</l><anchor xml:id="l2689" corresp="l1407"/>
+            <l>Che si vedrà’l tuo sangue immantinente</l>
+            <l>Correr giù per la lancia in lunga riga,</l>
+            <l>Con laqual ti trapassi il petto, e’l core.</l><anchor xml:id="l2692"/>
+            <l>Stando dunque tra loro in simil gare,</l><anchor xml:id="l2693" corresp="l1408"/>
+            <l>E’n si fiere contese, fu disciolto</l>
+            <l>Il Concilio, e fin posto al parlamento.</l><anchor xml:id="l2695"/>
+            <l>Onde col suo Patroclo Achille insieme,</l><anchor xml:id="l2696" corresp="l1409"/>
+            <l>E gl’altri suoi, verso le navi andando,</l>
+            <l>Fer nel suo padiglion tosto ritorno.</l>
+         </lg>
+         <lg ana="#p26a" n="26a">
+            <l>Ma Agamennon, posto già in tanto il legno</l><anchor xml:id="l2699" corresp="l1413"/>
+            <l>Nel mare, e venti à trarre i remi eletti,</l><anchor xml:id="l2700" corresp="l1414"/>
+            <l>Postevi sopra vittime: et venire</l><anchor xml:id="l2701" corresp="l1415"/>
+            <l>Fatt’ivi la sua cara donna, e bella,</l><anchor xml:id="l2702" corresp="l1417"/>
+            <l>Criseida, su quel la fè ancho porre,</l>
+            <l>Ulisse pria per Capitano eletto.</l>
+         </lg>
+         <lg ana="#p27a" n="27a">
+            <anchor xml:id="l2704" corresp="l1418"/><l>ll qual poi che lontan dal lito vede,</l><anchor xml:id="l2705" corresp="l1419 l1420"/>
+            <l>E che già in alto mar sciogliea le vele,</l>
+            <l>Al popol comandò, che si purgasse.</l><anchor xml:id="l2707" corresp="l1421"/>
+            <l>Onde per ciò purgandosi, nel mare</l>
+            <l>Ciascun da se gettava i purgamenti</l><anchor xml:id="l2709" corresp="l1422"/>
+            <l>Presso al lido, ad Apolline facendo</l><anchor xml:id="l2710" corresp="l1423"/>
+            <l>Sacrifici, imolando altri allhor Tori,</l>
+            <l>Altri Montoni, et altri birsute Capri:</l><anchor xml:id="l2712"/>
+            <l>Onde i lidi vedeansi in ogni parte</l><anchor xml:id="l2713" corresp="l1424"/>
+            <l>Tralucer tutti, e’n ogni parte al cielo</l>
+            <l>Ascendere salendo il fumo, ilquale</l>
+            <l>Mandato venia fuor da l’hostie accese.</l>
+         </lg>
+         <lg ana="#p28a" n="28a">
+            <anchor xml:id="l2716" corresp="l1425"/><l>Ne laqual opra, e ne’ quai studi essendo</l><anchor xml:id="l2717" corresp="l1426"/>
+            <l>Tutti i Greci occupati; Agamennone,</l><anchor xml:id="l2718"/>
+            <l>Ch’ancho impiagato havea l’animo, e’l core</l><anchor xml:id="l2719"/>
+            <l>Per quel che dianzi minacciato havea</l><anchor xml:id="l2720" corresp="l1427"/>
+            <l>Ad Achille in parlar, porre ad effetto;</l>
+            <l>Chiamar si fè Taltibio, et Euribate,</l><anchor xml:id="l2722" corresp="l1428"/>
+            <l>Suoi ministri fedeli, ambi suoi messi,</l>
+            <l>Ambi da lui ne l’opre lor provati;</l><anchor xml:id="l2724"/>
+            <l>A cui parlando, disse in tal maniera.</l><anchor xml:id="l2725" corresp="l1429"/>
+            <l>Itene hor hor d’Achille à padiglioni,</l>
+            <l>E la bella Briseida prendendo,</l><anchor xml:id="l2727" corresp="l1430"/>
+            <l>Menatela hor quà ne la mia tenda:</l>
+            <l>E s’ei pur di voi darla ricusasse,</l><anchor xml:id="l2729" corresp="l1431"/>
+            <l>Ditegli da mia parte, ch’io in persona</l><anchor xml:id="l2730" corresp="l1432"/>
+            <l>Là ne verrò con maggior sforzo, e quella</l><anchor xml:id="l2731" corresp="l1433"/>
+            <l>Per forza gli torrò, senza rispetto,</l><anchor xml:id="l2732" corresp="l1434"/>
+            <l>E non senza di lui tema, e spavento.</l><anchor xml:id="l2733" corresp="l1435"/>
+            <l>Da’ messi allhor cotai parole udite,</l><anchor xml:id="l2734" corresp="l1436"/>
+            <l>E commandi si fieri, et insolenti,</l><anchor xml:id="l2735" corresp="l1437"/>
+            <l>Benche mal volontier, partirsi tosto</l><anchor xml:id="l2736" corresp="l1439"/>
+            <l>Dal Rè, per far quant’ei lor detto havea.</l><anchor xml:id="l2737" corresp="l1440"/>
+            <l>Onde la via del mar prendendo al lido,</l><anchor xml:id="l2738" corresp="l1441"/>
+            <l>A le navi arrivaro, et à le tende</l><anchor xml:id="l2739" corresp="l1442"/>
+            <l>De’ Mirmidoni, e à loro alloggiamenti:</l>
+         </lg>
+         <lg ana="#p29a" n="29a">
+            <l>Ove Achille trovar, che fuor sedea</l><anchor xml:id="l2741" corresp="l1443"/>
+            <l>Del padiglione, e avanti à la sua nave.</l>
+            <l>Costor, vedendo Achille, il venir loro</l><anchor xml:id="l2743"/>
+            <l>Non hebbe molto à ca; n’ancho più appresso</l><anchor xml:id="l2744"/>
+            <l>Hebber essi di farsi ardire, à sporli</l><anchor xml:id="l2745"/>
+            <l>L’ambasciata del Rè, ne bocca aprire.</l><anchor xml:id="l2746"/>
+            <l>Ma sospesi restar, si per temere</l><anchor xml:id="l2747"/>
+            <l>Del Rè il turbato, e spaventevol viso;</l><anchor xml:id="l2748"/>
+            <l>Come per parer lor vergogna, e scorno,</l><anchor xml:id="l2749"/>
+            <l>Di lui cotal lor ambasciata esporre.</l><anchor xml:id="l2750"/>
+            <l>Ma allhora il temer lor compreso Achille,</l><anchor xml:id="l2751"/>
+            <l>Che gl’havea del parlar la via precisa,</l><anchor xml:id="l2752"/>
+            <l>E la cagion perch’ivi eran venuti;</l><anchor xml:id="l2753" corresp="l1444"/>
+            <l>Dio vi salvi, à lor disse, del gran Giove</l>
+            <l>Nuntii e de gl’huomini ancho esperti messi,</l><anchor xml:id="l2755" corresp="l1445"/>
+            <l>Fatevi in quà piu appresso: I’ non da voi</l>
+            <l>Ricevo gia l’ingiuria, e ques’oltraggio,</l>
+            <l>Essendo voi tenuti ad ubbidire</l><anchor xml:id="l2758"/>
+            <l>Il Signor vostro, et ir dove à lui piacce:</l><anchor xml:id="l2759" corresp="l1446"/>
+            <l>Ma dal fiero, e superbo Agamennone</l>
+            <l>Che vi mandò, da lui che ve n’ha imposto</l><anchor xml:id="l2761" corresp="l1447"/>
+            <l>Necessità di farlo, sol per tormi</l>
+            <l>Malgrado mio, la mia cara donzella</l>
+            <l>Briseida: Egli m’ha, non voi già offeso.</l><anchor xml:id="l2764" corresp="l1448"/>
+            <l>Ma hor su, Patroclo mio, fa uscir quà fuora</l><anchor xml:id="l2765" corresp="l1449"/>
+            <l>Briseida à costoro, et lor la donna,</l>
+            <l>Che dal Rè Agamennon la menin tosto.</l><anchor xml:id="l2767" corresp="l1450"/>
+            <l>Ma vò pur già, che testimonii appresso</l>
+            <l>A gl immortali Dei mi sian costoro,</l><anchor xml:id="l2769" corresp="l1451"/>
+            <l>Et appo i mortal’huomini in eterno;</l>
+            <l>Et ancho appresso à l’empio Rè, e crudele,</l><anchor xml:id="l2771" corresp="l1452"/>
+            <l>Che lor quivi mandò: se pur mai alcuna</l>
+            <l>Necessità, se mai bisogno opprima</l><anchor xml:id="l2773"/>
+            <l>I Greci tanto, che di me mestiero</l><anchor xml:id="l2774"/>
+            <l>Lor fia, e d’aiuto: ond’io riparo possa</l><anchor xml:id="l2775" corresp="l1453"/>
+            <l>Dar lor, sian già giunti à l’estremo,</l>
+            <l>Et arrivati à l’ultima ruina;</l><anchor xml:id="l2777" corresp="l1454"/>
+            <l>Però ch’è si disaveduto, e tanto,</l>
+            <l>Ch’essendo del passato, e del futuro</l><anchor xml:id="l2779" corresp="l1455"/>
+            <l>Dimenticato à fatto, non riguardi,</l>
+            <l>E non s’avvegga pur con qual ragione</l><anchor xml:id="l2781" corresp="l1456"/>
+            <l>Possa quivi’l suo essercito pugnare</l><anchor xml:id="l2782" corresp="l1457"/>
+            <l>Presso à le navi, senza offesa, e danno</l>
+            <l>Dal nemico patir, senza periglio.</l>
+         </lg>
+         <lg ana="#p30a" n="30a">
+            <anchor xml:id="l2784" corresp="l1458"/><l>Questo allhor disse Achille: E’n tanto uscire</l>
+            <l>Fè Patroclo, à l’amico ubbidiente,</l><anchor xml:id="l2786" corresp="l1460"/>
+            <l>Fuor del suo padiglion la donna bella,</l><anchor xml:id="l2787" corresp="l1461"/>
+            <l>Et a’messi la diede allhora, allhora.</l>
+            <l>La preser’essi, et ver le navi, mesta</l><anchor xml:id="l2789" corresp="l1462"/>
+            <l>Benche foss’ella, trista, e lagrimosa,</l><anchor xml:id="l2790" corresp="l1463"/>
+            <l>E l’andar ricusasse, la menaro</l><anchor xml:id="l2791" corresp="l1464"/>
+            <l>Seco pur dal Rè loro Agamennone.</l><anchor xml:id="l2792" corresp="l1465"/>
+            <l>Ma Achille già per gl’occhi, e per lo viso</l>
+            <l>Fuor spargendo le lagrime, si tolse</l><anchor xml:id="l2794" corresp="l1466"/>
+            <l>Dal cospetto de’ suoi, soletto, e al lido</l>
+            <l>Sen gi del mar vicino, ove à sedere</l>
+            <l>Tutto mesto si puose; e’n quel mirando</l><anchor xml:id="l2797"/>
+            <l>Fisso, e quanto lontan potea la vista,</l><anchor xml:id="l2798" corresp="l1467"/>
+            <l>Levando in alto l’una, e l’altra palma</l>
+            <l>Chiamava la sua madre indi sovente.</l>
+         </lg>
+         <lg ana="#p31a" n="31a">
+            <anchor xml:id="l2800" corresp="l1468"/><l>Madre, dicea, che 'n cosi fier destino</l>
+            <l>Mi generasti, ohime, che giovanetto,</l><anchor xml:id="l2802" corresp="l1469"/>
+            <l>E’n sul fiorir de la mia verde etade</l>
+            <l>Morir dovessi; e pur frà cosi brieve</l><anchor xml:id="l2804" corresp="l1470"/>
+            <l>Spatio, ch’à la mia vita era concesso,</l>
+            <l>Mi promettesti, che dal sommo Giove</l>
+            <l>Ricever dovev’io già immensi honori:</l><anchor xml:id="l2807" corresp="l1471"/>
+            <l>Riguarda hor come egli non pur gia molto,</l>
+            <l>Ma ne men dar me n’hà voluto alquanto.</l><anchor xml:id="l2809" corresp="l1472"/>
+            <l>Poscia che permess’hà, ch’Agamennone</l><anchor xml:id="l2810" corresp="l1473"/>
+            <l>D’Atreo figliuolo iniquamente oltraggio</l>
+            <l>Mi fesse, e tanto vituperio, e scorno;</l><anchor xml:id="l2812"/>
+            <l>Che quel, che di commun consenso i Greci</l><anchor xml:id="l2813"/>
+            <l>Dato m’havean, per farmi honore, e’n pregio</l><anchor xml:id="l2814" corresp="l1474"/>
+            <l>De l’alte imprese; à forza hor ei mi toglia?</l>
+         </lg>
+         <lg ana="#p32a" n="32a">
+            <l>Mentre cosi dicea piangendo, allhora</l><anchor xml:id="l2816" corresp="l1475"/>
+            <l>Dal profondo del mar, ove si stava</l><anchor xml:id="l2817" corresp="l1476"/>
+            <l>Co’l vecchio Peleo, la sua madre udendo,</l><anchor xml:id="l2818" corresp="l1477"/>
+            <l>Subito apparve fuor de l’acqua, in guisa</l>
+            <l>Di nebbia uscendo, e s’accostò al figliuolo</l><anchor xml:id="l2820" corresp="l1478"/>
+            <l>E seco insieme ivi à seder si pose;</l><anchor xml:id="l2821" corresp="l1479"/>
+            <l>E con piacevol’atti, e di dolcezza</l>
+            <l>Pieni, la man porgendogli, gli disse.</l><anchor xml:id="l2823" corresp="l1480"/>
+            <l>Deh perche piangi figliuol mio? che tanto</l>
+            <l>Dolor, tanta tristezza, e tanto affanno</l>
+            <l>T’ingombra il petto? a me tua madre hor spiana</l><anchor xml:id="l2826" corresp="l1481"/>
+            <l>Ogni cosa, e celar nulla mi vogli:</l>
+            <l>A cio ch’io sappia questa fiera piaga,</l>
+            <l>Qual sia, che si t’afflige, e teco io senta.</l>
+         </lg>
+         <lg ana="#p33a" n="33a">
+            <anchor xml:id="l2829" corresp="l1482"/><l>Achille à lei, dal cor profondo allhora</l>
+            <l>Altamente trahendo un gran sospiro,</l><anchor xml:id="l2831" corresp="l1483"/>
+            <l>Tu per te stessa, disse, ogni successo,</l>
+            <l>Senza ch’io’l dica, ò cara madre, sai:</l><anchor xml:id="l2833" corresp="l1484"/>
+            <l>Che bisogno dunque è, ch’io te l’esponga?</l><anchor xml:id="l2834" corresp="l1485"/>
+            <l>Essendo noi con tutto l’hoste insieme</l>
+            <l>Iti per espugnar Thebe, ch’al fine</l><anchor xml:id="l2836" corresp="l1486"/>
+            <l>Da noi spugnata fu, disfatta, e presa:</l><anchor xml:id="l2837" corresp="l1487"/>
+            <l>Quivi condotta fu tutta la preda.</l><anchor xml:id="l2838" corresp="l1488"/>
+            <l>Laquale con buon ordine, e secondo</l><anchor xml:id="l2839" corresp="l1489"/>
+            <l>Il solito costume, i vincitori</l>
+            <l>Hebber fra lor (com’è il dover) diviso.</l><anchor xml:id="l2841" corresp="l1490"/>
+            <l>Diero ad Agamennon la donna bella</l>
+            <l>Criseida, di lui come che degno</l><anchor xml:id="l2843" corresp="l1491"/>
+            <l>Fosse un si nobil dono. Indi non molto</l>
+            <l>Dopo, venne il suo vecchio padre Crise</l><anchor xml:id="l2845" corresp="l1492"/>
+            <l>Con doni assai per ricomprar la figlia;</l>
+            <l>In man tenendo un ricco Scettro d’oro,</l>
+            <l>E’l capo ornato, e circondato intorno</l><anchor xml:id="l2848" corresp="l1493"/>
+            <l>Di monili di Febo, e di corone.</l>
+            <l>E da’ Principi Greci entrando, e verso</l><anchor xml:id="l2850" corresp="l1494"/>
+            <l>Agamennon rivolto, riverente</l>
+            <l>E Menelao, lor molti prieghi porse,</l><anchor xml:id="l2852" corresp="l1495"/>
+            <l>Che gli desser pel prezzo la figliuola,</l><anchor xml:id="l2853" corresp="l1496"/>
+            <l>Da gli cui prieghi, tutti gl’altri Heroi</l><anchor xml:id="l2854" corresp="l1497"/>
+            <l>Fur mossi, e comandor d’ugual consenso,</l><anchor xml:id="l2855" corresp="l1498"/>
+            <l>Che si rendesse al padre la sua figlia:</l>
+            <l>E ch’era ben ragion farlo, e dovere:</l><anchor xml:id="l2857" corresp="l1499"/>
+            <l>E giusto compiacernelo, recando</l>
+            <l>Per riscatto di lei si larghi doni,</l><anchor xml:id="l2859" corresp="l1500"/>
+            <l>Et ch’essendo d’Apolline ministro,</l><anchor xml:id="l2860" corresp="l1501"/>
+            <l>Rimandarnelo senza, e poco farne</l>
+            <l>Stima, era sconvenevole, e mal’atto.</l><anchor xml:id="l2862" corresp="l1502"/>
+            <l>Solo il superbo Agamennon diverso</l>
+            <l>Fu di volere, à cui dispiacea molto</l><anchor xml:id="l2864" corresp="l1503"/>
+            <l>La cosa, e’l ritornar la figlia à Crise.</l>
+            <l>Onde ripreso il vecchio, et atterrato,</l><anchor xml:id="l2866" corresp="l1504"/>
+            <l>Di minaccie, e di gridi; indi partire</l>
+            <l>Lo fè, quasi piangendo, immantinente.</l><anchor xml:id="l2868" corresp="l1505"/>
+            <l>Di cui, poi che cosi dolente, e mesto</l>
+            <l>Si diparti, mosso à pietade Apollo,</l><anchor xml:id="l2870" corresp="l1506"/>
+            <l>Et essaudendo le sue giuste preci,</l>
+            <l>Per essergli devoto, e Sacerdote;</l><anchor xml:id="l2872" corresp="l1507"/>
+            <l>Mandò nel Greco essercito la peste</l>
+            <l>Tanto crudel, che spesso à torma, à torma</l><anchor xml:id="l2874"/>
+            <l>Cadean le genti morte in ogni parte,</l><anchor xml:id="l2875" corresp="l1508"/>
+            <l>Tocche, et ferite da divini strali.</l>
+            <l>Onde un saggio, e perito Augure in tanto</l><anchor xml:id="l2877" corresp="l1509"/>
+            <l>Questo disse avvenir per l’ira fiera</l><anchor xml:id="l2878" corresp="l1510"/>
+            <l>D’Apolline. Allhor’io d’ogni altro primo</l>
+            <l>Persuasi ad ogn’un nel concistoro,</l><anchor xml:id="l2880" corresp="l1511"/>
+            <l>Che si devea placar del Dio lo sdegno,</l>
+            <l>E richieder da lui l’amata pace.</l><anchor xml:id="l2882" corresp="l1512"/>
+            <l>Onde per ciò ver me sdegnato forte,</l>
+            <l>Et adirato l’empio Agamennone,</l><anchor xml:id="l2884" corresp="l1513"/>
+            <l>Si levò in piè à parlar, me minacciando:</l>
+            <l>E le parole, e’l minacciar ben pose</l><anchor xml:id="l2886" corresp="l1514"/>
+            <l>Ad effetto di poi, che rimandata</l>
+            <l>Criseida dal padre, e à la sua terra</l><anchor xml:id="l2888" corresp="l1515"/>
+            <l>Con ampi doni; à me i suoi messi in fretta</l><anchor xml:id="l2889" corresp="l1516"/>
+            <l>Mandò, che togliesser la mia bella</l>
+            <l>Briseida, che data mi fu in dono</l><anchor xml:id="l2891" corresp="l1517"/>
+            <l>Da gl’altri Greci, e’n parte de la preda,</l>
+            <l>Che giustamente dar mi si dovea:</l><anchor xml:id="l2893"/>
+            <l>La qual tolt’hanno, et via da lui menata.</l><anchor xml:id="l2894"/>
+            <l>Onde ò madre; se puoi, come ben credo</l><anchor xml:id="l2895" corresp="l1518"/>
+            <l>Che possa, porgi aiuto al tuo figliuolo.</l><anchor xml:id="l2896" corresp="l1519"/>
+            <l>Il che farai, s’in Ciel salendo, questa</l>
+            <l>Mia causa trattarai co’l sommo Giove:</l><anchor xml:id="l2898" corresp="l1520"/>
+            <l>Del cui voler già tu il dominio tieni,</l><anchor xml:id="l2899" corresp="l1521"/>
+            <l>E stretto il cor d’indissolubil nodo,</l><anchor xml:id="l2900" corresp="l1522"/>
+            <l>Che quanto da lui vuoi, per merto impetri</l>
+            <l>De l’opre si, come di tue parole.</l><anchor xml:id="l2902" corresp="l1523"/>
+            <l>E mi rament’io ben, che di mio padre</l>
+            <l>Ne la casa, sovente, e’n mia presenza</l><anchor xml:id="l2904" corresp="l1524"/>
+            <l>Gloriata ti sei, dicendo, sola</l><anchor xml:id="l2905" corresp="l1525"/>
+            <l>Tu Giove haver da un fier periglio, e grave,</l>
+            <l>D’indegna morte liberato, e assolto;</l><anchor xml:id="l2907" corresp="l1526"/>
+            <l>Quando Nettuno, Pallade, e Giunone</l>
+            <l>E gli altri Dei fur congiurati insieme</l><anchor xml:id="l2909"/>
+            <l>Contro lui, e con si fier empito mossi,</l><anchor xml:id="l2910" corresp="l1527"/>
+            <l>Che prender il voleano, e’n duri lacci</l>
+            <l>Stretto legarlo, e poi ucciderlo al fine.</l><anchor xml:id="l2912" corresp="l1528"/>
+            <l>Onde tu allhor sopr’arrivata, e’n tempo,</l>
+            <l>Mossa à pietà del fier caso di Giove,</l><anchor xml:id="l2914" corresp="l1529"/>
+            <l>E del grave periglio, in ch’era posto,</l><anchor xml:id="l2915" corresp="l1530"/>
+            <l>N’andasti à un punto dal fier mostro horrendo</l>
+            <l>Di Centoman, nomato Briareo</l><anchor xml:id="l2917" corresp="l1531"/>
+            <l>Da gli Dei, da’ mortai detto Egeone:</l>
+            <l>E lui pregato’l conducesti in Cielo;</l><anchor xml:id="l2919" corresp="l1532"/>
+            <l>Il qual: poi che ne la virtu paterna</l>
+            <l>Confidarsi, et anchor perche di tanto</l><anchor xml:id="l2921" corresp="l1533"/>
+            <l>Horror tolto il presidio, havea, gli Dei</l>
+            <l>Videro; da timor percossi, à un tratto</l><anchor xml:id="l2923" corresp="l1534"/>
+            <l>S’arrestar da la fiera audace impresa.</l><anchor xml:id="l2924" corresp="l1535"/>
+            <l>Vanne hor dunque, mia madre, à Giove innanzi</l>
+            <l>E gettata a’ suoi piedi hor gli rammenta</l><anchor xml:id="l2926" corresp="l1536"/>
+            <l>Tutti quei grati benefici, e degni,</l><anchor xml:id="l2927" corresp="l1537"/>
+            <l>Che gl’hai tu, madre, fatto, e priega lui,</l>
+            <l>Se far si può, ch’in questo ti compiaccia,</l><anchor xml:id="l2929" corresp="l1538"/>
+            <l>Che de’ tuoi tanti degni merti in vece,</l>
+            <l>Favoreggi i Troiani, e lor si tolga</l><anchor xml:id="l2931" corresp="l1539"/>
+            <l>In suo presidio, e lor propitio sia,</l>
+            <l>Et à Greci contrario; e’n fuga, e’n rotta</l><anchor xml:id="l2933"/>
+            <l>Ponga, e’n ruina, e’n fin dentro à le navi,</l><anchor xml:id="l2934" corresp="l1540"/>
+            <l>Et ancho fin’al mar, pien di spavento,</l>
+            <l>Di paura, e d’horror, gli risospinga,</l><anchor xml:id="l2936" corresp="l1541"/>
+            <l>Perche gli altri pe’ merti del Rè loro</l>
+            <l>Portin la pena, e siano afflitti, e oppressi;</l><anchor xml:id="l2938" corresp="l1542"/>
+            <l>E conosca egli haver ben la cagione</l>
+            <l>Dato à tanta ruina, e à tanti danni,</l><anchor xml:id="l2940" corresp="l1543"/>
+            <l>Ilqual de tutti i Greci il più prestante</l>
+            <l>Spregiò, e’l miglior guerrier, che si vest’armi.</l>
+         </lg>
+         <lg ana="#p34a" n="34a">
+            <anchor xml:id="l2942" corresp="l1544"/><l>Thetide poi, che udito hebbe il sermone</l>
+            <l>Del figlio, tutta à lagrime commossa,</l><anchor xml:id="l2944" corresp="l1545"/>
+            <l>A che misera me, disse, figliuolo</l>
+            <l>Ti generai si miser? che gli Dei</l><anchor xml:id="l2946" corresp="l1546"/>
+            <l>Me’l concedesser pur, che questo poco</l>
+            <l>DI tempo, che di vita ti rimane,</l><anchor xml:id="l2948" corresp="l1547"/>
+            <l>(Che ben poc’è, ne di lontan già molto</l><anchor xml:id="l2949" corresp="l1548"/>
+            <l>La morte t’è, ma prossima, e vicina)</l><anchor xml:id="l2950" corresp="l1549"/>
+            <l>Lecito almen ti fusse in pace, e senza</l><anchor xml:id="l2951" corresp="l1550"/>
+            <l>Lagrime, e senza affanni à trapassarlo.</l><anchor xml:id="l2952" corresp="l1551"/>
+            <l>Ma se tu hor frà tutti gli altri Heroi</l><anchor xml:id="l2953" corresp="l1552"/>
+            <l>Per menar la tu avita, ch’è si brieve,</l><anchor xml:id="l2954" corresp="l1553"/>
+            <l>In cosi duri, e’n si penosi affanni?</l><anchor xml:id="l2955" corresp="l1554"/>
+            <l>Per ciò, figliuolo, io tua misera madre</l><anchor xml:id="l2956" corresp="l1555"/>
+            <l>T’ingenerai, e nodrii, per soffrir questo?</l><anchor xml:id="l2957" corresp="l1556"/>
+            <l>I vedrò bene di compiacerti à pieno,</l><anchor xml:id="l2958" corresp="l1557"/>
+            <l>E da Giove n’andrò à pregarlo s’egli</l><anchor xml:id="l2959" corresp="l1558"/>
+            <l>Mai quel che brami conceder mi voglia,</l>
+            <l>Ma bisogna, bisogna undici giorni,</l><anchor xml:id="l2961" corresp="l1559"/>
+            <l>Fin ch’ei da l’Ocean nel Ciel ritorni</l><anchor xml:id="l2962" corresp="l1560"/>
+            <l>Dal convito che lui fer gl’Ethiopi;</l><anchor xml:id="l2963" corresp="l1561"/>
+            <l>Ove l’altr’hier n’andò con gli altri Dei.</l>
+            <l>Allhor io là salendo, immantinente</l><anchor xml:id="l2965" corresp="l1562"/>
+            <l>Da lui n’andrò, com’ei ne venga, e tanto</l><anchor xml:id="l2966"/>
+            <l>Supplice il pregherò, ch’io mi confido</l><anchor xml:id="l2967" corresp="l1563"/>
+            <l>Da lui impetrar quant’io dimandi, e chieggia</l><anchor xml:id="l2968" corresp="l1564"/>
+            <l>Ma tu in tanto, figliuolo, uscir non vogli</l><anchor xml:id="l2969"/>
+            <l>Ne la guerra à pugnar, n’ancho al concilio</l><anchor xml:id="l2970" corresp="l1565"/>
+            <l>Intervenir più già: mostrando contro</l>
+            <l>Tutti i Greci corruccio acerbo, e fiero.</l><anchor xml:id="l2972" corresp="l1566"/>
+            <l>Poi che disse cosi, dal mesto figlio</l>
+            <l>Parti la Dea; cui fuor di modo afflitto</l><anchor xml:id="l2974" corresp="l1567"/>
+            <l>Lasciò, pien di dolor, molesto, e grave;</l><anchor xml:id="l2975" corresp="l1568"/>
+            <l>Si per l’ira, c’havea contro’l superbo</l>
+            <l>Rè Agamennon, com’ancho pe’l desire</l><anchor xml:id="l2977"/>
+            <l>Cocente, e fier, de’ suoi intercetti amori.</l>
+         </lg>
+         <lg ana="#p35a" n="35a">
+            <anchor xml:id="l2978" corresp="l1569"/><l>Mentre à le navi, et à gl’alloggiamenti</l>
+            <l>De’ Greci si facean tai cose, Ulisse,</l><anchor xml:id="l2980" corresp="l1570"/>
+            <l>Ch’era partito già con gl’altri insieme,</l><anchor xml:id="l2981" corresp="l1571"/>
+            <l>Arrivò in Crisa, ove poi che nel porto</l>
+            <l>Entrati furon, ecco abbassar le vele</l><anchor xml:id="l2983" corresp="l1572"/>
+            <l>Prima, e raccorle à un tratto, e poi riporle,</l>
+            <l>E l’alber poscia da le funi sciolto,</l><anchor xml:id="l2985" corresp="l1573"/>
+            <l>Da le quali era sostenuto, al basso</l>
+            <l>Dentro à la nave al suo loco deporre.</l><anchor xml:id="l2987"/>
+            <l>E presi i remi, e dati à l’acque, il legno</l><anchor xml:id="l2988" corresp="l1574"/>
+            <l>Drizzato al lido, e fur vicini à terra;</l>
+            <l>E gittate al fin l’anchore, et legata</l><anchor xml:id="l2990" corresp="l1575"/>
+            <l>In riva al mar la navicella, in terra</l>
+            <l>Scesero, e fer le vittime uscir fuora,</l><anchor xml:id="l2992" corresp="l1576"/>
+            <l>E la bella Criseida fuor ancho</l>
+            <l>N’escie, cui per man prende Ulisse, e seco</l><anchor xml:id="l2994" corresp="l1577"/>
+            <l>La conduce nel Tempio, e al sacro altare</l><anchor xml:id="l2995" corresp="l1578"/>
+            <l>D’Apolline, e l’assegna al padre in mano</l><anchor xml:id="l2996" corresp="l1579"/>
+            <l>Con grato viso, à lui cosi dicendo.</l>
+         </lg>
+         <lg ana="#p36a" n="36a">
+            <l>Crise; ch’io qui da te venir dovessi,</l><anchor xml:id="l2998" corresp="l1582 l1583"/>
+            <l>M’impose il Rè possente Agamennone,</l>
+            <l>Capo, e signor di tutto il Greco stuolo;</l><anchor xml:id="l21000" corresp="l1584"/>
+            <l>A ciò ch’à te ne menassi la tua figlia,</l><anchor xml:id="l21001" corresp="l1585"/>
+            <l>Con le vittime insieme, co’l cui sangue</l><anchor xml:id="l21002" corresp="l1586"/>
+            <l>Immolandole qui, con noi placare</l>
+            <l>Febo possiam, ch’è contro noi si irato,</l><anchor xml:id="l21004" corresp="l1587"/>
+            <l>E per sdegno, e furor incrudelito.</l><anchor xml:id="l21005" corresp="l1588"/>
+            <l>Bramoso Crise allhor la figlia accoglie,</l>
+            <l>Et à gl’altri commanda allhora allhora,</l><anchor xml:id="l21007" corresp="l1589"/>
+            <l>Ch’al sacro altar, ch’ornar già fatto havea</l><anchor xml:id="l21008" corresp="l1590"/>
+            <l>Nobilmente, le vittime condotte</l>
+            <l>Siano, e per farne i sacrifici acconcie:</l><anchor xml:id="l21010" corresp="l1591"/>
+            <l>Il che fatto, e le man levate, e porte</l>
+            <l>Le stiacciate di farro al mestier pronte:</l><anchor xml:id="l21012" corresp="l1592"/>
+            <l>Egli levando el Ciel le mani, e’l viso,</l>
+            <l>Et alzando la voce si, ch’ognuno</l><anchor xml:id="l21014" corresp="l1593"/>
+            <l>Il potea udir, Apolline in tal guisa</l>
+            <l>Supplicando priegò con tai parole.</l>
+         </lg>
+         <lg ana="#p37a" n="37a">
+            <anchor xml:id="l21016" corresp="l1594"/><l>Potente Apolo, che con l’arco altero,</l>
+            <l>Che d’argento hai, sei ben grande, e potente;</l><anchor xml:id="l21018" corresp="l1595"/>
+            <l>Che reggi, e’n tuo presidio hai Crisa, e Cilla,</l>
+            <l>Tenedo, e Sminta; se le mie preghiere</l><anchor xml:id="l21020" corresp="l1596"/>
+            <l>Udisti mai, priego hor, che l’oda, e’ntenda:</l><anchor xml:id="l21021" corresp="l1597"/>
+            <l>E d’honor dego hor fa’l tuoi Sacerdote.</l>
+            <l>E se mai me, che ti pregai, essaudisti,</l><anchor xml:id="l21023" corresp="l1598"/>
+            <l>E per mio honor punit’hai i Greci, loro</l><anchor xml:id="l21024" corresp="l1599"/>
+            <l>Affliggendo co’l morbo aspro, e mortale:</l><anchor xml:id="l21025" corresp="l1600"/>
+            <l>Essaudiscimi anch’hor, e a’ prieghi miei</l><anchor xml:id="l21026" corresp="l1601"/>
+            <l>Scaccia hoggimai da lor la peste horrenda,</l><anchor xml:id="l21027"/>
+            <l>Ch’è già pur troppo incrudelita, e fiera.</l>
+         </lg>
+         <lg ana="#p38a" n="38a">
+            <anchor xml:id="l21028" corresp="l1602"/><l>Lui che cosi pregava Apollo allhora</l>
+            <l>Essaudi immantinente: Egli poi c’hebbe</l><anchor xml:id="l21030" corresp="l1603"/>
+            <l>Cosi pregato, e posto sopra’l foco</l><anchor xml:id="l21031" corresp="l1604"/>
+            <l>Le stiacciate di farro, e al sacro altare</l><anchor xml:id="l21032" corresp="l1605"/>
+            <l>Fatto ridur le vittime, in un tratto</l>
+            <l>L’uccidono, e tran lor le pelli, e poscia</l><anchor xml:id="l21034" corresp="l1606"/>
+            <l>Via le taglian per mezo ambedue l’anche,</l><anchor xml:id="l21035" corresp="l1607"/>
+            <l>E le cuopron d’opima, e grassa rete</l>
+            <l>Per tutto; ne le quai poscia di sotto</l><anchor xml:id="l21037" corresp="l1608"/>
+            <l>Postovi il vecchio il foco, e sparso sopra</l><anchor xml:id="l21038" corresp="l1609"/>
+            <l>Per libamento il vin nero, raccende</l>
+            <l>Et arde il sacrificio, stando appresso</l><anchor xml:id="l21040" corresp="l1610"/>
+            <l>Ivi à l’altare i giovani ministri</l>
+            <l>Con cinque spiedi in man pieni di carne.</l><anchor xml:id="l21042" corresp="l1611"/>
+            <l>Ma dopo che fur già de l’hostie l’anche</l>
+            <l>Arse dal foco; gl’intestini prima</l><anchor xml:id="l21044" corresp="l1612"/>
+            <l>Che’n su le bragie ivi arrostito haveano,</l>
+            <l>Cominciaro à mangiar tutti frà loro.</l><anchor xml:id="l21046" corresp="l1613"/>
+            <l>E poi de l’hostie l’altre membra in pezzi,</l><anchor xml:id="l21047" corresp="l1614"/>
+            <l>C’havean troncato, ne gli spiedi acconcie</l><anchor xml:id="l21048" corresp="l1615"/>
+            <l>Poser con diligenza al foco intorno.</l><anchor xml:id="l21049"/>
+            <l>Lequai, poi che à bastanza furon cotte,</l><anchor xml:id="l21050" corresp="l1616"/>
+            <l>Su la mensa fur poste, et assetato</l>
+            <l>Per ordine ciascun, mangiaro insieme.</l><anchor xml:id="l21052" corresp="l1617"/>
+            <l>Al fin satolli; ecco i coppier, che piene</l>
+            <l>Han le tazze di vino, e da ber danno</l><anchor xml:id="l21054" corresp="l1618"/>
+            <l>Per ordine ad ogn’un, di grado, in grado.</l><anchor xml:id="l21055" corresp="l1619"/>
+            <l>Ma Ulisse allhor co’ suoi compagni, vago</l>
+            <l>Tutto quel di spese in diporto, e’n canto</l><anchor xml:id="l21057" corresp="l1620"/>
+            <l>Con hinni hor Febo, hor con canzoni, hor lodi</l><anchor xml:id="l21058" corresp="l1621"/>
+            <l>Celebrando, per quanto il di sofferse.</l><anchor xml:id="l21059" corresp="l1622"/>
+            <l>I quali udendo Febo, e contemplando,</l><anchor xml:id="l21060" corresp="l1623"/>
+            <l>Somma allegrezza, e gioia allhor n’havea.</l><anchor xml:id="l21061" corresp="l1624"/>
+            <l>Et venute le tenebre, et la notte</l>
+            <l>Ciascun quivi à giacer si pose sopra</l><anchor xml:id="l21063" corresp="l1625"/>
+            <l>Il legnetto, frà canapi, e rudenti,</l><anchor xml:id="l21064" corresp="l1626"/>
+            <l>Fin che n’usci fuor con l’Aurora il giorno.</l><anchor xml:id="l21065" corresp="l1627"/>
+            <l>Ilqual venendo, e ogn’un lasciando il sonno,</l><anchor xml:id="l21066" corresp="l1628"/>
+            <l>Si diviser fra lor per ogni scanno,</l><anchor xml:id="l21067" corresp="l1629"/>
+            <l>Pigliando i remi in man, drizzando il legno</l><anchor xml:id="l21068" corresp="l1630"/>
+            <l>Ver le tende, per far ritorno indietro.</l><anchor xml:id="l21069" corresp="l1631"/>
+            <l>E da la poppa allhor spirando il vento,</l><anchor xml:id="l21070" corresp="l1632"/>
+            <l>Lor mandato d’Apolline, le vele,</l>
+            <l>L’alber rizzato, dispiegaro à un tratto:</l><anchor xml:id="l21072" corresp="l1633"/>
+            <l>Onde facean più ratto il camin loro.</l>
+            <l>E risonando il mar tranquillo forte,</l><anchor xml:id="l21074"/>
+            <l>Fender vedeasi à la ritorta proda;</l><anchor xml:id="l21075" corresp="l1634"/>
+            <l>Si che in brieve arrivar nel Greco campo.</l><anchor xml:id="l21076" corresp="l1635"/>
+            <l>Ove scesi, dal mar la nave tranno</l>
+            <l>In terra à un tratto, e là dove prim’era</l><anchor xml:id="l21078" corresp="l1636"/>
+            <l>La riducono allhora; e ben fermata</l>
+            <l>La lascian qui, et essi à le lor tende</l><anchor xml:id="l21080" corresp="l1637"/>
+            <l>Si raccolgono, e à loro alloggiamenti.</l>
+            <l>Achille in tanto, e per quei giorni, mai</l><anchor xml:id="l21082"/>
+            <l>Non usci fuor à combattere, ne à vedere</l><anchor xml:id="l21083" corresp="l1638"/>
+            <l>Fu alcun de i Greci Prencipi, et Heroi,</l>
+            <l>Ma ritirato ne’ suoi padiglioni</l><anchor xml:id="l21085" corresp="l1639"/>
+            <l>Si stava, assai maninconoso, e mesto:</l><anchor xml:id="l21086" corresp="l1640"/>
+            <l>Sol bramoso d’udir presso à le navi</l>
+            <l>De’ nemici tumulto, e suon di guerra</l><anchor xml:id="l21088" corresp="l1641"/>
+            <l>Pien di strida, e furor: vedere intorno</l><anchor xml:id="l21089" corresp="l1642"/>
+            <l>Correre i Greci, e rivoltarsi in fuga,</l><anchor xml:id="l21090" corresp="l1643"/>
+            <l>Rotti, e posti in periglio aspero, e crudo.</l>
+         </lg>
+         <lg ana="#p39a" n="39a">
+            <anchor xml:id="l21091" corresp="l1644"/><l>Ma’l duodecimo di venendo, Giove</l>
+            <l>Con gl’altri Dei, che lui seguiano in frotta,</l><anchor xml:id="l21093" corresp="l1645"/>
+            <l>Da l’Oceano, e dal convito altero,</l><anchor xml:id="l21094" corresp="l1646"/>
+            <l>Ch’apprestato gli havean già gl’Ethiopi,</l><anchor xml:id="l21095" corresp="l1647"/>
+            <l>Partendo, su nel Ciel fece ritorno.</l><anchor xml:id="l21096" corresp="l1648"/>
+            <l>Theti che non havea posto in oblio</l><anchor xml:id="l21097" corresp="l1649"/>
+            <l>I prieghi del suo figlio, usci dal mare</l><anchor xml:id="l21098" corresp="l1650"/>
+            <l>E da Giove n’andò innanzi l’Aurora.</l>
+            <l>Cui ritrovò seder su l’alto scanno</l><anchor xml:id="l21100" corresp="l1651"/>
+            <l>Nel Cielo, in parte, e sol, senza haver seco</l><anchor xml:id="l21101" corresp="l1652"/>
+            <l>Veruno in compagnia de gl’altri Dei.</l>
+            <l>Ond’à seder vicina à lui si pose</l><anchor xml:id="l21103" corresp="l1653"/>
+            <l>A faccia, à faccia, e la sinistra in tanto</l>
+            <l>Man gli distese à le ginocchia intorno,</l><anchor xml:id="l21105" corresp="l1654"/>
+            <l>E la destra sul collo, e sotto’l mento;</l><anchor xml:id="l21106" corresp="l1655"/>
+            <l>E lui prese à pregar con tai parole.</l><anchor xml:id="l21107" corresp="l1656"/>
+            <l>Gran padre Giove; s’io frà gli altri Dei</l><anchor xml:id="l21108" corresp="l1657"/>
+            <l>Per detti, ò fatti d’alcun merto sono</l><anchor xml:id="l21109" corresp="l1658"/>
+            <l>Appo te, fammi hor gratia, hor mi concedi</l>
+            <l>Quel ch’io madre per figlio, et io infelice</l><anchor xml:id="l21111"/>
+            <l>Per chi più d’altro hogg’è infelice, chieggio</l><anchor xml:id="l21112"/>
+            <l>Però ch’egli fra tutti i Greci Heroi</l><anchor xml:id="l21113" corresp="l1659"/>
+            <l>Hebbe in sorte brievissima la vita</l>
+            <l>Tanto, quanto acerbissima, e penosa.</l><anchor xml:id="l21115" corresp="l1660"/>
+            <l>Costui’l Rè Agamennon de la sua donna,</l>
+            <l>Che gl’altri Greci al mio figliuol in dono</l><anchor xml:id="l21117" corresp="l1661"/>
+            <l>Havean dato per merto, e per honore;</l>
+            <l>Per notabile ingiuria ei fargli, e scorno,</l><anchor xml:id="l21119" corresp="l1662"/>
+            <l>Fè privo, e con disnor gliel’ha già tolta.</l>
+            <l>Sommo padre, di cio fa tu vendetta,</l><anchor xml:id="l21121" corresp="l1663"/>
+            <l>E del suo honor, dando à Troiani aiuto,</l>
+            <l>Forza, e valor, per rimaner di sopra,</l><anchor xml:id="l21123" corresp="l1664"/>
+            <l>Fin che i Greci l’ingiuria conoscendo,</l>
+            <l>C’hà ricevuto; à lui rendan l’honore,</l><anchor xml:id="l21125"/>
+            <l>Che gli han si scemo, con doppio guadagno:</l><anchor xml:id="l21126"/>
+            <l>Atto à ben ristorar si strana offesa.</l><anchor xml:id="l21127"/>
+            <l>Detto havendo cosi Thetide, e Giove</l><anchor xml:id="l21128"/>
+            <l>Lei non facendo altra risposta, e stando</l><anchor xml:id="l21129"/>
+            <l>Buona pezza in silentio, ella di nuovo</l><anchor xml:id="l21130"/>
+            <l>Più che prima l’abbraccia, e un’altra volta</l><anchor xml:id="l21131"/>
+            <l>Lo ritorna à pregar, cosi dicendo.</l><anchor xml:id="l21132"/>
+            <l>In ogni modo, Giove, ò assentirai</l><anchor xml:id="l21133"/>
+            <l>Promettendo di far quant’io ti chieggio,</l><anchor xml:id="l21134"/>
+            <l>O me’l pur negherai liberamente:</l><anchor xml:id="l21135"/>
+            <l>Ch’altrimenti giamai quinci partire</l><anchor xml:id="l21136"/>
+            <l>Non mi vedrai, ne men lasciarti mai.</l><anchor xml:id="l21137"/>
+            <l>Per ciò che cosa i non veggio alcuna,</l><anchor xml:id="l21138"/>
+            <l>Che ti tolga il poter libera farmi</l><anchor xml:id="l21139"/>
+            <l>Risposta, e sodisfar mia afflitta mente.</l><anchor xml:id="l21140"/>
+            <l>Io pur bramo saper, chiarirmi à fatto</l><anchor xml:id="l21141" corresp="l1665"/>
+            <l>Di quanto i sia appo te da te tenuta</l>
+            <l>Fra gl’altri Dei anchor, honore, e pregio.</l>
+         </lg>
+         <lg ana="#p40a" n="40a">
+            <anchor xml:id="l21143" corresp="l1666"/><l>A costei Giove; d’un fier peso, e grieve</l><anchor xml:id="l21144" corresp="l1667"/>
+            <l>Di pensier sovragiunto, e un gran fervore</l><anchor xml:id="l21145" corresp="l1668"/>
+            <l>Fuor del viso mostrando: Ah quanto, disse,</l>
+            <l>Dura condition Thetide, e forte,</l><anchor xml:id="l21147" corresp="l1669"/>
+            <l>A la vita m’imponi, e à l’esser mio;</l><anchor xml:id="l21148" corresp="l1670"/>
+            <l>Che mi comandi, et vuoi ch’in odio incorra</l><anchor xml:id="l21149" corresp="l1671"/>
+            <l>E’n sdegno fier con l’alma mia Giunone?</l><anchor xml:id="l21150" corresp="l1672"/>
+            <l>Perche, s’ella m’accusa, e mi riprende</l>
+            <l>Ogni giorno, e sovente mi molesta</l><anchor xml:id="l21152" corresp="l1674"/>
+            <l>Con lamenti spessissimi, e querele,</l><anchor xml:id="l21153" corresp="l1675"/>
+            <l>Dicendo, ch’io verso i Troiani sono</l><anchor xml:id="l21154" corresp="l1676"/>
+            <l>Favorevole piu, che verso i Greci:</l><anchor xml:id="l21155" corresp="l1677"/>
+            <l>Che fia dunque per dir, per far’allhora,</l><anchor xml:id="l21156" corresp="l1678"/>
+            <l>Quando ella mi vedrà con veri effetti</l><anchor xml:id="l21157" corresp="l1679"/>
+            <l>A’ Troiani propitio, a’ Greci avverso?</l><anchor xml:id="l21158" corresp="l1680"/>
+            <l>Ma partiti hor di qui, ch’ella non sappia,</l><anchor xml:id="l21159" corresp="l1681"/>
+            <l>Per sorte che tu sii da me venuta:</l>
+            <l>Che di quel che tu chiedi io n’havrò cura,</l><anchor xml:id="l21161" corresp="l1682"/>
+            <l>E vedrò ben di sodisfar tue voglie:</l><anchor xml:id="l21162" corresp="l1683"/>
+            <l>E per dartene speme, anzi certezza,</l><anchor xml:id="l21163" corresp="l1684"/>
+            <l>Ch’io frà gli Dei particolar mio segno,</l><anchor xml:id="l21164" corresp="l1685"/>
+            <l>Che rivocar non si può mai, ne meno</l><anchor xml:id="l21165" corresp="l1686"/>
+            <l>Uscir vano, ò scemarsi, ò preterire.</l><anchor xml:id="l21166" corresp="l1688"/>
+            <l>E cosi detto il figlio di Saturno,</l><anchor xml:id="l21167" corresp="l1689"/>
+            <l>Con le ciglia fe’l cenno; alqual si mosse,</l>
+            <l>E tremò tutto’l Ciel, spiraro odore,</l><anchor xml:id="l21169" corresp="l1690"/>
+            <l>Le chiome del divin capo, soave:</l><anchor xml:id="l21170" corresp="l1691"/>
+            <l>D’odorifera ambrosia d’ogn’intorno.</l>
+            <l>Poi che ciò fu trattato, e detto in Cielo</l><anchor xml:id="l21172" corresp="l1692"/>
+            <l>Tra’l padre Giove, e Thetide; partissi</l><anchor xml:id="l21173" corresp="l1693"/>
+            <l>Ella da lui, e nel mar indi discesa,</l>
+            <l>Se n’entrò in mezo al pelago profondo:</l><anchor xml:id="l21175" corresp="l1694"/>
+            <l>Et ei se’n gio nel suo palagio altero.</l><anchor xml:id="l21176" corresp="l1695"/>
+            <l>Al cui arrivar nessuno Iddio sostenne</l><anchor xml:id="l21177" corresp="l1696"/>
+            <l>Seder, ne rimaner nel proprio loco;</l><anchor xml:id="l21178" corresp="l1698"/>
+            <l>Ma dal suo seggio ogn’un sorgendo allhora,</l><anchor xml:id="l21179" corresp="l1699"/>
+            <l>Si fe’ncontro al gran Giove al suo venire.</l>
+         </lg>
+         <lg ana="#p41a" n="41a">
+            <anchor xml:id="l21180" corresp="l1700"/><l>Il qual poi che posò su’l suo bel soglio,</l><anchor xml:id="l21181" corresp="l1703"/>
+            <l>Se gl’appressa Giunone immantinente,</l>
+            <l>(Pero c’havea già Thetide compreso</l><anchor xml:id="l21183" corresp="l1704"/>
+            <l>Seco parlar, seco trattar secreto.)</l>
+            <l>E con parlar superbo in tal maniera</l><anchor xml:id="l21185"/>
+            <l>Gli prende à dir: E che secreti furo,</l><anchor xml:id="l21186"/>
+            <l>E che sermoni quei, che s’in disparte</l><anchor xml:id="l21187"/>
+            <l>Trattò teco colei d’ogn’altra Dea</l><anchor xml:id="l21188" corresp="l1705"/>
+            <l>E più maligna, e più di frodi piena?</l>
+            <l>T’ingegni pur d’ogn’hor da me nascosto</l><anchor xml:id="l21190" corresp="l1706"/>
+            <l>Trattar consigli, e cose occulte, senza</l>
+            <l>Che meco le communichi, e ch’io sappia</l><anchor xml:id="l21192" corresp="l1707"/>
+            <l>Nulla, di quanto far proponi, e’ntendi?</l>
+         </lg>
+         <lg ana="#p42a" n="42a">
+            <anchor xml:id="l21193" corresp="l1708"/><l>A cui il gran Giove padre de gli Dei,</l>
+            <l>E de gl’huomini, allhor cosi rispose.</l><anchor xml:id="l21195" corresp="l1709"/>
+            <l>Non ti pensar, non ti creder Giunone,</l>
+            <l>Di saper già tutti i secreti miei,</l><anchor xml:id="l21197" corresp="l1710"/>
+            <l>E quel ch’io dica, ò tratti, ò parli, ò pensi:</l>
+            <l>Però che ciò non ti convien, ne lice:</l><anchor xml:id="l21199" corresp="l1711"/>
+            <l>E ti sarà difficil d’ogni verso,</l>
+            <l>Ben che mia moglie sia, saperne mai.</l><anchor xml:id="l21201" corresp="l1712"/>
+            <l>Ma le cose, ch’udir dal tuo marito</l>
+            <l>Sarà giusto, e dover: quelle veruno</l><anchor xml:id="l21203"/>
+            <l>De gli Dei, ne de gli huomini mai fia,</l><anchor xml:id="l21204"/>
+            <l>Che pria che tu da me le sappia, e’ntenda.</l><anchor xml:id="l21205" corresp="l1713"/>
+            <l>Onde s’io nel pensier, nel petto interno</l><anchor xml:id="l21206" corresp="l1714"/>
+            <l>Cosa nodrisco, et vo’, ch’al tutto sia</l><anchor xml:id="l21207" corresp="l1715"/>
+            <l>Nascosta à gl’altri Dei, non per ciò devi</l>
+            <l>Dimandarmene tu, ne curiosa</l><anchor xml:id="l21209" corresp="l1716"/>
+            <l>Di saperla mostrartene, e si ingorda.</l>
+         </lg>
+         <lg ana="#p43a" n="43a">
+            <anchor xml:id="l21210" corresp="l1717"/><l>Ah Giove empio, e crudel; Giunone allhora</l><anchor xml:id="l21211" corresp="l1718"/>
+            <l>Gli disse: e quai da te parole io sento?</l><anchor xml:id="l21212" corresp="l1719"/>
+            <l>Sai ben, ch’io mai non soglio dimandarti</l>
+            <l>Ne curiosa investigar veruna</l><anchor xml:id="l21214" corresp="l1720"/>
+            <l>Cosa, ò cercar saper, che tu altrui dica.</l>
+            <l>Ma tu tacito sempre, mai di quanto</l><anchor xml:id="l21216" corresp="l1721"/>
+            <l>Sei già per far, non me ne fai parola,</l>
+            <l>Ne meco men te ne consigli mai.</l><anchor xml:id="l21218" corresp="l1722"/>
+            <l>Là onde i’ hor sollecita oltre modo</l>
+            <l>Sono, e tutta in pensier posta, che temo</l><anchor xml:id="l21220" corresp="l1723"/>
+            <l>Theti che innanzi il matutino albore</l><anchor xml:id="l21221" corresp="l1724"/>
+            <l>Da te n’entrò abbracciandoti, per quanto</l><anchor xml:id="l21222" corresp="l1725"/>
+            <l>I posso sospettar, te non havere</l><anchor xml:id="l21223" corresp="l1726"/>
+            <l>Stretto co’ prieghi, à vendicar l’offesa</l><anchor xml:id="l21224" corresp="l1727"/>
+            <l>Fatta ad Achille, ad onta, danno, e scorno</l>
+            <l>De’ Greci, e co’l far lor voltar le spalle</l>
+            <l>A’ Troiani, e fuggir sconfitti, e oppressi</l><anchor xml:id="l21227"/>
+            <l>Da fiera strage, infin dentro à le navi.</l>
+         </lg>
+         <lg ana="#p44a" n="44a">
+            <anchor xml:id="l21228" corresp="l1728"/><l>Giove a’ suoi detti allhor cosi rispose.</l>
+            <l>O astutissima in ver, sempre in giudicii rei,</l><anchor xml:id="l21230"/>
+            <l>Io non so già via ritrovar, che vaglia</l><anchor xml:id="l21231"/>
+            <l>Nascondermi da te, ne celar mai:</l><anchor xml:id="l21232" corresp="l1729"/>
+            <l>Ma t’affatichi in vano, e ti so dire,</l>
+            <l>Che queste tue malitie, me non solo</l><anchor xml:id="l21234"/>
+            <l>Non muteran dal mio consiglio intento;</l><anchor xml:id="l21235" corresp="l1730"/>
+            <l>Ma piu mi v’indurran, perche maggiore</l>
+            <l>Dolor ne senta tu, dispetto, et onta.</l><anchor xml:id="l21237"/>
+            <l>Che se ben passa il fatto, et è secondo</l><anchor xml:id="l21238" corresp="l1731"/>
+            <l>Tu sospetti, e dett’hai; che mi fia questo?</l>
+            <l>Onde gonfia à tuo modo, e fa ritorno</l><anchor xml:id="l21240" corresp="l1732"/>
+            <l>Al tuo seggio à seder, se vuoi; ne vogli</l>
+            <l>Disubbidir superba al mio volere,</l><anchor xml:id="l21242"/>
+            <l>Ne rubella esser già contro’l mio impero.</l><anchor xml:id="l21243" corresp="l1733"/>
+            <l>Perche quinci movendomi, l’irate</l>
+            <l>Mani sopra di te non ponga, in tanto,</l><anchor xml:id="l21245" corresp="l1734"/>
+            <l>Che non possan gli Dei tutti insieme ancho</l><anchor xml:id="l21246" corresp="l1735"/>
+            <l>Trarmiti, e darti à la lor voglia aiuto.</l><anchor xml:id="l21247" corresp="l1736"/>
+            <l>Da parole si fiere, e si orgogliose</l>
+            <l>Sbigottita Giunon, l’audaci voglie</l><anchor xml:id="l21249" corresp="l1737"/>
+            <l>Deposte, ritornò tacita, e senza</l>
+            <l>Replicar verbo al loco suo à sedere.</l>
+         </lg>
+         <lg ana="#p45a" n="45a">
+            <anchor xml:id="l21251" corresp="l1740"/><l>Vulcano allhor di tenerezza mosso</l>
+            <l>Ver la madre, con dir dolce, e giocondo,</l><anchor xml:id="l21253" corresp="l1741"/>
+            <l>A lei prese à parlare in tal maniera.</l>
+            <l>Madre mia cara, in ver debito molto</l><anchor xml:id="l21255" corresp="l1742"/>
+            <l>Che questa cosa oltre non vada, e tanto,</l><anchor xml:id="l21256"/>
+            <l>Che d’alcuna ria strage arrivi al segno;</l><anchor xml:id="l21257" corresp="l1743 l1744"/>
+            <l>Se voi divi del Ciel per gli huomini sete</l>
+            <l>L’un con l’altro frà voi posti in litigi;</l><anchor xml:id="l21259" corresp="l1745"/>
+            <l>E gl’altri Dei à tumulto provocando,</l><anchor xml:id="l21260" corresp="l1746"/>
+            <l>Turbiate à noi il piacer dolce, e soave.</l>
+            <l>Di cosi degno, et horrevol convito:</l><anchor xml:id="l21262" corresp="l1747"/>
+            <l>Per ciò che ne le gare, e rie contese</l>
+            <l>Vincer soglian sovente le peggiori.</l><anchor xml:id="l21264" corresp="l1748"/>
+            <l>Onde per quant’io posso, e so, te’n priego,</l>
+            <l>Madre, e t’essorto, ben che per te stessa</l><anchor xml:id="l21266" corresp="l1749"/>
+            <l>Habbi ben senno, ch’al gran padre vogli</l><anchor xml:id="l21267" corresp="l1750"/>
+            <l>Renderti per colpevole, e non seco</l>
+            <l>Contumace contendere, e superba;</l><anchor xml:id="l21269"/>
+            <l>A ciò ch’egli per tal cagion sdegnato</l><anchor xml:id="l21270" corresp="l1751"/>
+            <l>Rimproverando il tuo disubbidire,</l>
+            <l>E turbando la cena, ogn’altro astringa</l><anchor xml:id="l21272" corresp="l1752"/>
+            <l>Il suo seggio à lasciar, quinci à partire.</l>
+            <l>Ma con parlar piacevole, et humano</l><anchor xml:id="l21274" corresp="l1753"/>
+            <l>Favella à lui; per che cosi facendo</l>
+            <l>A noi ritornerà grato, e benigno.</l><anchor xml:id="l21276" corresp="l1754"/>
+            <l>Detto cosi, un bel trappo allhor porse</l><anchor xml:id="l21277" corresp="l1755"/>
+            <l>Nobilmente scolpito in ogni lato</l><anchor xml:id="l21278" corresp="l1756"/>
+            <l>A la sua madre, à lei cosi dicendo.</l><anchor xml:id="l21279" corresp="l1757"/>
+            <l>Sopporta ò madre in pace, e benche n’habbi</l><anchor xml:id="l21280" corresp="l1758"/>
+            <l>Cagion di lamentarti, in pace homai</l><anchor xml:id="l21281" corresp="l1759"/>
+            <l>Vogli patir del gran Giove l’impero:</l>
+            <l>A ciò stretto i non sia con mio dolore</l><anchor xml:id="l21283" corresp="l1760"/>
+            <l>Forse esser testimon de’danni tuoi,</l>
+            <l>Come io sarò, s’addosso ei ti s’avventa:</l><anchor xml:id="l21285" corresp="l1761"/>
+            <l>Ne darti aiuto allhor men possa, in contro</l><anchor xml:id="l21286" corresp="l1762"/>
+            <l>Opponendomi à lui, ch’è il più feroce,</l>
+            <l>E il più possente di noi altri Dei;</l><anchor xml:id="l21288" corresp="l1763"/>
+            <l>Com’io so, che n’ho fatto esperienza,</l>
+            <l>E ben con mio gran danno, e per te hor temo</l><anchor xml:id="l21290" corresp="l1764"/>
+            <l>Per che ben mi sovien quando una volta</l>
+            <l>Mentre ch’io te da le sue man distorre,</l><anchor xml:id="l21292" corresp="l1765"/>
+            <l>Che ti battea, sforzo facea, lasciando</l>
+            <l>Egli allhor te, ver me si volse, e prese</l><anchor xml:id="l21294" corresp="l1766"/>
+            <l>Per un de’ piedi me, e ruotando forte</l>
+            <l>Dal Ciel mandommi in precipitio in terra.</l><anchor xml:id="l21296" corresp="l1767"/>
+            <l>Usciva allhor fuor d’Oriente il Sole,</l>
+            <l>Et io d’allhor per tutto quel di intiero</l><anchor xml:id="l21298" corresp="l1768"/>
+            <l>Per l’aere lieve discorrendo al basso,</l>
+            <l>Non mi ritenni infin nel centro oscuro;</l><anchor xml:id="l21300" corresp="l1769"/>
+            <l>E di Lenno ne l’Isola percossi.</l><anchor xml:id="l21301" corresp="l1770"/>
+            <l>Ivi me allhor quasi senz’alma, essangue</l>
+            <l>Gl’habitator venendo, indi levarmi,</l><anchor xml:id="l21303" corresp="l1771"/>
+            <l>Et à ricrear presero, e à far vezzi.</l>
+            <l>Udendo ciò Giunon, lasciò lo sdegno,</l><anchor xml:id="l21305" corresp="l1772"/>
+            <l>E da le man del figlio, sorridendo,</l>
+            <l>Il nappo prese, il qual poi c’hebbe voto</l><anchor xml:id="l21307" corresp="l1773"/>
+            <l>Del nettare dolcissimo, e soave,</l>
+            <l>Ond’era pien: Vulcano à gl’altri Dei</l><anchor xml:id="l21309" corresp="l1774"/>
+            <l>Servendo di coppier, si trasse avanti.</l><anchor xml:id="l21310" corresp="l1775"/>
+            <l>E quinci hor mentre, e quindi hor iva intorno</l>
+            <l>Da ber dando sovente à gl’assettati,</l><anchor xml:id="l21312" corresp="l1776"/>
+            <l>Al zoppicar di lui brutto, e difforme</l><anchor xml:id="l21313" corresp="l1777"/>
+            <l>Strane risa facean tutti gli Dei,</l><anchor xml:id="l21314" corresp="l1778 l1779"/>
+            <l>Per tutto’l tempo, che’l convito tenne.</l>
+            <l>Al qual dier fin sendo à l’Occaso il Sole;</l><anchor xml:id="l21316" corresp="l1781"/>
+            <l>Sonando Apollo la sua cetra in tanto</l>
+            <l>D’oro ornata, e di gemme; e con soave</l>
+            <l>Canto, et voci dolcissime le Muse</l><anchor xml:id="l21319" corresp="l1782"/>
+            <l>Ancho cantando allhor, tutte à vicenda.</l><anchor xml:id="l21320" corresp="l1783"/>
+            <l>Ma poi ch’ogn’un di delicati cibi,</l>
+            <l>E di vini dolcissimi, e di canto</l>
+            <l>Satio ben fu; lasciando il Sole il giorno,</l><anchor xml:id="l21323" corresp="l1784"/>
+            <l>Si ridusse ciascun ne la sua stanza,</l>
+            <l>Per luogo dare à la Quiete, e al Sonno;</l><anchor xml:id="l21325" corresp="l1785"/>
+            <l>Per cio ch’hanno gli Dei per se ciascuno</l>
+            <l>La sua stanza divisa, che Vulcano</l><anchor xml:id="l21327" corresp="l1786"/>
+            <l>Ottimo, e nobilissimo architetto,</l><anchor xml:id="l21328" corresp="l1787"/>
+            <l>Lor fè di sua man propria, e con mol’arte.</l><anchor xml:id="l21329" corresp="l1788"/>
+            <l>E Giove ne la sua camera entrato</l>
+            <l>Ove solea dormir, giosene al letto;</l><anchor xml:id="l21331" corresp="l1789"/>
+            <l>E Giunon seco, allato à lui à giacere.</l>
+         </lg>
+         <l>Il fine del Primo Libro.</l>
+      </body>
+   </text>
+</TEI>

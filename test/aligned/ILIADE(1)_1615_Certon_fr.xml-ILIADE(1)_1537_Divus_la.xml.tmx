@@ -1,0 +1,5434 @@
+
+    <?xml version="1.0" encoding="utf-8" ?>
+    <!DOCTYPE tmx SYSTEM "tmx14.dtd">
+    <tmx version="1.4">
+      <header
+        creationtool="AIlign"
+        creationtoolversion="1.0"
+        datatype="unknown"
+        segtype="sentence"
+        mean_score="579.8898"
+      >
+      </header>
+      <body>
+    <tu>
+	<tuv xml:lang="l1">
+		<seg>Deesse je te prie apren moy et me chante</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du Pelide Achilles la colere sanglante</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>IRAM cane Dea Pelidae Achillis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui nuisit tant aux Grecs, leur porta tant de maux,</seg>
+		<seg>Qu'elle força descendre aux regnes Infernaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pernitiosam: quae infinitos Achivis dolores inflixit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les plus braves Espricts de leurs bons Capitaines</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De leurs chefs genereux, exposant par les plaines</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Leurs corps auparavant tant forts tant estimez,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Multas aut fortes animas inferis misit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Aux oiseaux devorants et aux chiens affamez.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Heroum, ipsos aut laniamenta fecit canibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Du puissant Iupiter l'ordonnance fut telle; </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Avibusque omnibus. Jovis autem perficiebat voluntas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des le premier instant qu'entrirent en querelle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ex quo sane primum divisi sunt contendentes </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et furent divisez Achille au divin nom;</seg>
+		<seg>Et des hommes le Roy l'Atride Agamemnon.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atridesque Rex virorum, et divus Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Quel des Dieux leur causa contention si grande?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quis nam ipsos Deorum contentioni commisit pugnaret </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce fut le Fils du Dieu qui sur le Ciel commande</seg>
+		<seg>Que Latone enfanta. Car il se courrouça</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Latonae, et Jovis filius. hic enim regi iratus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au Roy Agamemnon, et la Peste poussa</seg>
+		<seg>Dans le camp, dont avint un horrible ravage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Morbum per exercitum suscitavit malunt: peribant autem populi, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pource qu'il avoit dict vilenie et outrage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quoniam Chrysem inhonoravit sacerdotem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A son Prestre Chrises s'en venant aux vaisseaux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atrides. hic enim venit celeres ad naves Achivorum, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour rachetter sa fille, avec presens fort beaux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Liberaturusque filiam ferensque infinita dona; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et en grand quantité: Dans ses mains la Couronne</seg>
+		<seg>Et le beau sceptre d'or, du clair fils de Latone</seg>
+		<seg>Apollon loin-tirant. Il prioit ardamment</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Coronas habens in manibus longejaculantis Apollinis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tous les Grecs pour sa fille, et principalement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aureo cum sceptro: et obsecrabat omnes Achivos. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Atrides Germains deux des chefs de la flotte.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atridas autem maxime duos principes populorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Atrides, et vous tous Grecs a la belle-botte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atridaeque et alii beneocreati Achivi, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Dieux dessus les lieux celestes habitans</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vobis quidem Dii dent coelestes domos habentes </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vous facent prendre Troye, et retourner contans</seg>
+		<seg>Heureusement chez vous, Je vous pry' de me rendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Expugnare Priami civitatem: bene vero domum reverti. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ma fille bien-aymee, et ces beaux presens prendre</seg>
+		<seg>De moy, pour sa rançon, Respectez, reverez</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Filiam autem mihi solvite dilectam: haec dona accipite: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apollon de si loing jettant ses traicts dorez.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venerantes Jovis filium longejaculantem Apollinem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Grecs trouverent bon qu'on portast reverence </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tunc alii quidem omnes laudaverunt Achivi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au prestre, et qu'on receust pour ceste delivrance </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Reverendumque esse sacerdotem et splendida accipienda dona. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les dons qu'il presentoit, Mais le faict irrita</seg>
+		<seg>L'Atride Agamemnon, qui fort le rebuta</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed non Atridae Agamemnoni placuit animos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et luy tint des propos d'ire et de mal-encontre. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed male dimisit gravem et sermonem jussit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vieillart, garde toy bien que je ne te rencontre</seg>
+		<seg>Autour de ses vaisseaux pour y faire sejour,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne te Senex concavas ego apud naves comprehendam, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et non plus pour y faire apres aucun retour:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel nunc tardantemque, vel post retro venientem: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je ne respecterois ny Sceptre, ny Couronne.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non utique tibi proderit sceptrum et corona Dei. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour celle que tu dis, tant qu'elle soit grisonne</seg>
+		<seg>Je ne la lascheray, mais elle s'en viendra</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc autem ego non solvam antequam ipsam et senectus invadat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En Argos ma maison, part de mon lict prendra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nostra in domo in Argis procul a patria </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Coudra, travaillera, bien loing de sa patrie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Telam texentem, et meum lectum instruentem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais desloge d'icy, n'irrite ma furie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed abi: ne me irrites; sanus ut redeas. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'il ne t'en prenne mal. Il dit, et le vieillart</seg>
+		<seg>Craignant lui obeit, et cheminant à part .</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit; timuit autem Senex et obedivit verbo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pres du bord de la mer, il faisoit sa priere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ibat autem tacitus juxta littus multisonantis maris. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Ardante affection au Dieu donne lumiere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Multum autem postea seorsum iens precabatur Senex </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'avoit jadis Latone aux beaux poils enfanté. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Apollinem regem: quem pulchricoma peperit Latona. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Escoute moy, dit-il, Dieu à l'arc argenté,</seg>
+		<seg>Sminthien, qui te tiens dans Cille la divine,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Exaudi me argenteum arcum habens, qui Chrysam custodis, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont la force dans Chryse, et Tenedos domine,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cillamque per divinam, Tenedoque fortiter imperas, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si jamais à ton gré, j'ay ton Temple honoré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Smintheu: siquando tibi gratum templum coronavi, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si j'ay bruslé jamais, pour ton nom reveré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel siquando tibi perpinguia crua cremavi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des chèvres, des taureaux les cuisses les plus grasses. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Taurorum et caprarum: hoc mihi perfice votum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je te pry' qu'en cecy mes desirs tu parfaces:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que les Grecs par tes traicts ayent le chastiment</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pendant Danai meas lachrymas tuis sagittis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour mes pleurs mesprisez. Il prioit humblement,</seg>
+		<seg>Et Phoebus exauça son ardante priere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit orans. hunc autem exaudivit Phoebus Apollo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si descendit soudain le cœur en grand colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venit autem ex coeli summitatibus iratus cor; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du sommet de l'Olympe, ayant l'arc sur son dos</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et la trousse couverte ou main trait estoit clos:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Arcus humeris habens circumtectamque pharetram. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au pris que s'esbranloit le Dieu tout flambant d'ire, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>On oyoit la dedans les traicts, sonner et bruire, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Resonuerunt autem sagittae in humeris irati, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il vint comme une nuict, se voulut retirer </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ipso moto. ipse autem ibat nocti similis: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A l'écart des vaisseaux, puis se prit à tirer, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sedit postea seorsum a navibus; posthaec aut sagittam emisit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et l'arc d'argent rendoit un son espouventable.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Terribilis autem clangor factus est argentei arcus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En premier il frappa d'une playe incurable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les mulets et les chiens, et puis tirant aux Grecs</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mulos quidem primum invasit et canes veloces. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dessus eux il lascha ses pestiferez traicts:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed postea in ipsos sagittam mortiferam immittens </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>On voyoit les corps morts sur les buchers étendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jecit. semper autem pyre morturoum incendebantr frequentes, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sans relasche aucun estre reduits en cendre.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Durant neuf jours entiers le mortifere étour</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Novem dies quidem per exercitum ibant sagittae Dei. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Courut par tout le camp. Mais au dixiesme jour, </seg>
+		<seg>Achilles convoqua le peuple à l'assemblee, </seg>
+		<seg>Incité par Iuno, de qui l'ame troublee,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Decimo autem ad concionem vocavit populum Achilles. </seg>
+		<seg>Huic enim in mentibus posuit Dea albasulnashabens Juno. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Prenoit pitié de voir les Grecs ainsi mourir,</seg>
+		<seg>Et desirant leur bien les vouloit secourir. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Curam namque gerebat Danaorum, quia utique morientes videbat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand ils furent venus, de voix et haulte et forte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi autem postquam congregati sunt simulque convenerunt, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achilles se levant parla de ceste sorte.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hos exurgens intersitus est pedes velox Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Fils d'Atreus, je voy qu'il faudra que cet ost </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Errant encore un coup s'en retourne bien tost, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atride nunc nos iterum errantes puto </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au moins si nous pouvons fuyr la mort funeste,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Retro recessuros, si modo mortem quidem fugiamus : </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car les Grecs sont batus et de guerre et de peste</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ecce simul bellumque domat et pestis Achivos. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Prests d'estre consumez. Mais s'il te semble bon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sçachons de quelque Prestre ou devin de renom,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed age jam aliquem vatem interrogemus, vel sacerdotem; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>ou de quel'un qui sçache interpreter les songes, </seg>
+		<seg>(Car les songes toujours ne tournent en mensonges</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel et somniorum interpretem (etenim somnium ex Jove est) </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ains sont, de Jupiter) pourquoy ce grand courroux</seg>
+		<seg>De Phoebus Apollon est si fort dessus nous:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui dicat, cur tantum iratus est Phoebus Apollo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si c'est que n'ayons pas deuement offert l'offrande,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sive hic supplicationis accusat, sive hecatombes. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et l'hecatumbe deue à sa Deité grande</seg>
+		<seg>Ou si par les brebis que nous luy offririons,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si forte ovium nidorem caprarumque perfecturum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et par les boucs entiers que nous luy brulerions,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il nous voudroit oster ceste peste meurtriere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vult, assecutus nobis pestem avertere. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille aux pieds legers dit en ceste maniere,</seg>
+		<seg>Puis Calchas se leva le divin predisant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe hic ita locutus consedit. his autem exurrexit </seg>
+		<seg>Calchas Thestorides augurum longe optimus: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui sçavoit le passé, le futur, le present, </seg>
+		<seg>Et qui pour son sçavoir et pour la prophetie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui sciebat et presentia, et futura, et praeterita: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que Phoebus Apollon luy avoit départie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'en vint avec les Grecs, guide des grands vaisseaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et navibus Dux fuit Achivorum Ilium intra, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui venoient contre Troye à la faveur des eaux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Suam propter vaticinationem, quam ei praebuit Phoebus Apollo: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si parla sagement à toute l'assistance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui ipsis benesapiens concionatus est et interfatus est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Achilles aymé de Dieu, veux tu que je m'avance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O Achilles, jubes me Jovi dilecte loqui </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin de declarer d'où peut venir au vray</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le courroux d'Apollon? Doncques je le diray, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Iram Apollinis longejaculantis regis ? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais tout premierement promes moy et me jure,</seg>
+		<seg>Que tu me deffendras et d'outrage, et d'injure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Igitur ego dico: tu autem paciscere, et mihi jura. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De parole et de mains. Car je prevoy qu'un grand</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe quidem mihi promptus verbis et manibus auxiliari. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui dessus tous les Grecs Empire et regne prend,</seg>
+		<seg>» S'en courroucera fort. Un Roy a grand puissance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe enim puto virum irasciturum, qui valde omnium </seg>
+		<seg>Argivorum dominatur, et ei obediunt Achivi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Sur un moindre que luy quand il croit qu'il offence.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>» Potentior enim Rex quando irascitur viro inferiori. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et bien qu'il ayt ce jour son courroux digeré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>» Quanvis enim iram et eodem die decoxerit: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il garde toutesfois son estomac iré</seg>
+		<seg>Tant qu'il s'en soit vangé. Donne moy donc parole</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>» Tamen et postea continet iram, donec perfecerit; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu me deffendras. Achille au pied qui vole,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>» In pectoribus suis. tu autem dic si me servabis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy respondit ainsi, Parle, dy hardiment </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic autem respondens allocutus est pedes velox Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que te dit le cœur: Car je te fay serment, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Confisus valde dic vaticinium quod scis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et te jure Apollon dont tu tiens ta science,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non enim per Apollinem Jovi dilectum, quem tu calchas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qui t'en fait donner aux Grecs l'inteligence,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Precatus Danais vaticinia ostendis, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que nul, tant que le cœur là dedans me batra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que mes yeux verront, dessus toy ne mettra</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nemo me vivente et in terra vidente, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les mains pour t'outrager, De tous ceux qui sur l'onde</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tibi concavas apud naves graves manus inferet </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ont amené les Grecs à la perruque blonde:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mesme quant ce seroit le Roy Agamemnon, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cunctorum Danorum: neque si Agamemnona dicas, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont si grand est la force, et si grand le renom,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont l'authorité grande et la force estimee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour le jourd'huy commande à toute ceste armee.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui nunc longe optimus in exercitu jactatur esse. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots s'asseura le bon devin Calchas. </seg>
+		<seg>Pour les vœuz, ce dit il, qu'on ne luy paye pas, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et tunc jam fidit et dixit vates irreprehensibilis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et moins pour les cent bœufs, le Dieu ne nous accuse, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque hic supplicationis accusat, neque hecatombes. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais pource que sa fille à son Prestre on refuse,</seg>
+		<seg>Qu'on n'accepte ses dons, pource qu'Agamemnon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed gratia sacerdotis quem inhonoravit Agamemnon: </seg>
+		<seg>Neque liberavit filiam, et non accepit dona. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'a par trop outragé, l'Archer Phoebé Apollon, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nous a fait tous ces maux, prest à les faire encore</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Idcirco dolores dedit longejaculans, et item dabit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans retenir ses mains du mal qui nous devore</seg>
+		<seg>Qu'à son pere chery ne soit premierement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque hic prius a peste graves manus continebit, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La Pucelle aux yeux noirs remise franchement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quam patri dilecto reddatur nigraoculos puella </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je dy sans que rançon pour la rendre soit prise,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In empta sine munere, et ducatur sacra hecatomba </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qu'on n'envoye apres une hecatumbe en Chryse:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In Chrysam. tunc ipsum forte placantes persuadebimus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout cela fait, peut-estre on le rapaisera,</seg>
+		<seg>Persuadé possible, il se retirera. </seg>
+		<seg> Ayant dit, il s'assit. Alors le fils d'Atree</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe hic ita locutus consedit. his autem surrexit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Agamemnon, ayant l'ame de dueil outree,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Heros Atrides latedominans Agamemnon </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plein d'extreme depit, le cœur noir au dedans</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contristatus. ira autem valde praecordia circum nigra </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De coleres humeurs, et les deux yeux ardans,</seg>
+		<seg>Comme un éclair de feu, plus rouge que la braize,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Plena erant: oculi autem sibi igni lucenti similes erant: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy dit, le regardant d'une œillade mauvaise. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Calchanta primum male intuens allocutus est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Malencontreux Devin, qui jamais ne me dis </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vates malorum nunquam mihi bonum dixisti. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chose qui me sceut plaire, Et qui quand tu predis</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Semper tibi mala sunt amica mentibus ad vaticinanda. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du mal'heur, ce plaisir grandement te console,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui jamais ne peus dire une bonne parole,</seg>
+		<seg>Moins faire un bon effect, Tu presche maintenant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Bonum autem nondum aliquod dixisti verbum, neque perfecisti: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu vas encor' asteure aux Gregeois devinant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et nunc inter Danaos vaticinans concionaris. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que la cause des maux dont Phœbus nous bourrelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quod idcirco ipsis longejaculans dolores facit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Est que je ne veux pas delivrer la pucelle</seg>
+		<seg>La belle Chryseis, et que du beau present</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quoniam ego Puellae Chryseidis clara dona </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'on faict pour la r'avoir je me rends refusant,</seg>
+		<seg>Car de l'avoir chez moy, j'avois desir extrême</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nequaquam volui accipere: quoniam multum volo ipsam </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et de la preferer à Clytemnestra mesme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Domi habere. etenim Clytemnestrae praeposui. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que fille j'espousay. Pour ce qu'en aucun point</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Puellari uxori: quoniam non ipsa est pejor </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ceste-cy n'est rien moindre, et ne luy cede point,</seg>
+		<seg>De beauté, d'art, d'esprit, ny de menagerie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque corpore, neque aetate, neque mentibus, neque item opibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Toutesfois pour cela je ne veux pas qu'on crie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je la rends volontiers, s'il est meilleur aussi,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed et sic volo dare retro. si hoc est melius. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je ne veux que pour moy le peuple meure ainsi,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Volo ego populum salvum esse, non perire. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plustost je veux sauver, mais j'entends que l'on pense</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed mihi praemium statim praeparate: ut non solus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A me faire un present, et qu'on me recompense. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'estant pas la raison, puis qu'on m'oste mon bien,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Argivorum praemiocarens sim: quoniam neque decet. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que je sois seul des Grecs à qui ne reste rien.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Videtis enim hoc omnes quod mihi praemium recedit alio. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Auquel respond Achille en force de piez rare,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic autem respondit postea pedibus praestans divus Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Atride ambitieux, de tous le plus avare, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atride gloriosissime, avarissime omnium; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme est-ce que les Grecs te recompenseront? </seg>
+		<seg>Où est-ce que pour toy des presens ils prendront? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quomodo enim tibi dabunt praemium magnanimi Achivi ? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rien ne reste entre nous à remetre au partage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque item adhuc scimus communia posita multa. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tout ce qu'on a pris de butin, de pillage,</seg>
+		<seg>Au lot on l'a jetté, Qui voudroit contester</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed partim quidem ex urbibus depraedati sumus, partim vero divisa sunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour faire encor le tout au peuple rapporter?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Populos autem non decet iterum collecta haec congregare. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais les Grecs, si jamais Dieu leur fait prendre Troye,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu quidem nunc hanc Deo permitte. at Achivi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Te donneront trois parts voire quatre en la proye.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Triplicia quatyrupliciaque remunerabimus: siquam Jupiter </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dabit urbem Troiam benemuratam debellare. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Agamemnon alors. Non, ne te trompe point </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic autem respondens interfatus est Rex Agamemnon. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achilles, quoy qu'aux Dieux tu sembles de tout point, </seg>
+		<seg>Et que tu sois tres-fort: Tu n'auras l'avantage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque sic fortis, quanvis existens Deosimilis Achilles </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De tant m'en faire accroire à tout ton beau langage.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tege mente, quoniam non praeteribis, neque mihi persuadebis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu voudrois volontiers qu'on te recompensast</seg>
+		<seg>Et sans avoir esgard à moy, qu'on me laissast</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nunquid vis ut ipse habeas praemium, sed me invanum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Après m'avoir contrainct de rendre la pucelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont je suis bien contant, moyennant que pour elle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sedere indigentem ? jubes autem me hanc reddere ? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Grecs facent estat de mettre en ma maison</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed siquidem dabunt praemium magnanimi Achivi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Un present qui la vaille: Et c'est bien la raison</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Componentes secundum animum, ut aequale sit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ils s'accommodent tous pour un si bon affaire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Selon ma volonté. S'ils ne le veulent faire</seg>
+		<seg>Je le feray moy-mesme, iray prendre le bien</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si autem non dabunt; ego certe ipse accipiam </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Ajax ou d'Ulysses, voire mesme le tien.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel tuum, vel Ajacis veniens, praemium, vel Ulyssis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et s'en fasche quiconque à qui je l'iray prendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Abducam accipiens; ille autem irascetur ad quem ibo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais ce sera mieux faict en autre temps d'attendre</seg>
+		<seg>A parler de cecy. Pensons presentement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed certe quidem haec post consultabimus et rursus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De jetter un vaisseau sur la mer vitement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nunc autem age navem nigram trahamus in mare divum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avec de bons rameurs, Puis y mettons l'offrande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Intus aut remiges idoneos congregemus, intus aut hecatombem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avecques Chryseis que l'on veut que je rende,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ponamus, ipsam vero Chryseida pulchram genas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'un Prince conduira, soit Idomeneus,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ascendere faciamus. unus autem aliquis princeps vir consultor sit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit Ajax, soit Ulysse, ou toy fils de Peleus</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel Ajax, vel Idomeneus, vel divus Ulysses: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le terrible de tous, Pour faire sacrifice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel tu Pelide omnium splendidissime virorum, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au loin dardant Phœbus, et le rendre propice,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ut nobis longejaculantem places sacra faciens. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots respondit de travers regardant</seg>
+		<seg>Achille aux pieds legers. O causeur impudent, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hunc autem torveintuens allocutus est pedes velox Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>O renard deceveur, comme se peut-il faire </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Heu impudentia indute, astute; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'on vueille aller pour toy en quelque bon affaire?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que pas un des Grecs te puisse estimer tant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quando aliquis tibi promptus verbis obediet Achivorum; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que d'aller aux dangers sous ton nom combatant?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel viam ire, vel adversus viros fortiter pugnare? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour moy, que m'importoit de venir à la guerre</seg>
+		<seg>Contre les forts Troyens si distans de ma terre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non enim ego troianorum gratia veni bellicosorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Veu que je ne sçaurois en rien me plaindre d'eux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huc pugnaturus: quia nullae mihi causae sunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui ne ravirent onc mes chevaux ne mes bœufs,</seg>
+		<seg>Et qui de leur pays onc ne firent sortie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non enim unquam meas boves abegerunt, neque equos: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour venir ravager la populeuse Phthie?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque unquam in Phthia fertili populosa </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pource qu'entr'eux et moy, il y a trop de mers</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fructum laeserunt: quoniam valde multi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il y a trop de monts de grands ombres couverts.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Montes umbrosique intermedii sunt, mareque resonans. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cependant, impudent nous voicy à ta suite,</seg>
+		<seg>Afin que tout icy t'accroisse et te profite:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed te ô valde impudens consequimur, ut tu gaudeas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nous conservons icy, ô visage de chien,</seg>
+		<seg>De ton frere et de toy et l'honneur et le bien,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Poenam sumentes Menelao tibique canino vir aspectu </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Faisans teste aux Troyens, Sans graces nous en rendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A Troianis: quos neque advertis neque curas: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plustost me menaçant tu oses entreprendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et jam mihi praemium ipse auferre minaris. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De me ravir mon bien, Où j'ay pour le gaigner</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Couru risque et hazard, Que m'ont voulu donner</seg>
+		<seg>Les Grecs pour ma vertu. Eus-je oncques recompense</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Super quo multum laboravi. dederunt autem mihi filii Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui la tienne égalast, alors que la puissance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non equidem tibi unquam aequale habeo praemium, quum Achivi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des Grecs bouleversoit tant de riches Citez?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Troianorum destruent benehabitatam urbem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Bien que j'aye le plus de leurs travaux portez</seg>
+		<seg>Et que la plus grand part des beaux exploicts de guerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed quidem plus impetuosi belli </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit faicte par mes mains? Tu prens alors, tu serre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Manus meae gubernant. sed si quando divisio venerit, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le meilleur du butin, J'en ay la moindre part,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tibi praemium multo maius. ego autem parvumque dilectumque </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que j'emporte pourtant dans mes vaisseaux à part,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venio habens ad naves postquam laboravi bellans. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et contant et sans bruit, Bien que j'aye le pire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que j'aye tout fait. Mais bien, je me retire</seg>
+		<seg>En Phthie mon pays, je mets dessus les eaux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nunc autem vado Phthiam, quoniam multo melius est </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour gaigner ma maison, mes gens et mes vaisseaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Domum ire cum navibus rostratis: neque te puto </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car c'est bien le meilleur. Toy si tu veux demeure</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans honneur consumant tes biens à la mal'heure.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hic inhonoratus existens divitias et opes exhausturum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Auquel Agamemnon des combatans le Roy.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic autem respondit postea Rex virorum Agamemnon. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Va, si le cœur t'en dit, fuy t'en viste, Pour moy </seg>
+		<seg>Je ne te priray pas d'arrester d'avantage. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fuge valde, si tibi animus turbatur: neque te ego </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'autres demeureront qui auront le courage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Rogo gratia mei manere. apud me et alii, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De ne m'abandonner, Jupiter mesmement</seg>
+		<seg>Me donnera tousjours prudence et jugement:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui me honorabunt: maxime autem prudens Jupiter. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Aussi bien ne sers-tu qu'à faire des querelles</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Inimicissimus autem mihi es a Jove nutritorum regum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et des contentions par tes façons rebelles.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Semper enim tibi contentioque amica, bellaque, pugnaeque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si tu as de la force, elle te vient de Dieu.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si valde fortis es: Deus certe tibi hoc dedit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu dis que tu t'en vas en ta maison: A dieu,</seg>
+		<seg>Va t'en, deloge, et toy, et ta flotte noircie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Domum vero iens cum navibusque tuis, et tuis sociis, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De tous tes Myrmidons, Car je ne me soucie</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Myrmidonibus impera. te autem ego non curo: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De toy, de ton depit, ny de ton cœur felon.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais je te dis aussi, Puis qu'il fault qu'Appollon</seg>
+		<seg>M'oste ma Chryseis, Je n'y veux contredire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque adverto irascentem. minabor autem tibi sic. </seg>
+		<seg>Quoniam a me aufert Chryseida Phoebus Apollo; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je la vay renvoyer contant dans mon navire,</seg>
+		<seg>Mais quant et quant moy-mesme en tes tentes iray,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc quidem ego cum navique mea et meis sociis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Prendray ta Bryseis, et me l'appropriray</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mittam: ego autem duco Briseida pulchram genas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Bien qu'elle t'apartienne, afin que tu apprenne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ipse veniens ad tentorium, tuum praemium, ut bene scias </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que ma force est beaucoup plus grande que la tienne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et que tout autre apres, qui que ce soit, ayt peur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quanto melior sim te: timeat autem et alius </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De s'esgaler à moy, abraver ma grandeur.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aequalem se mihi dicere et assimilari contra. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots un dépit saisit l'ame d'Achille, </seg>
+		<seg>Son cœur dans sa poictrine et balance, et vacille </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit. Pelidae autem dolor factus est: intus autem sibi cor </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'il doit tirer l'espee, et d'un vangeur effort </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In pectoribus hirsutis bifariam cogitavit: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jetter Agamemnon par terre roide mort,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>An ipsemet ensem acutum extrahens a femore: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En rompant l'assemblee: ou s'il doit au contraire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hos quidem fugaret: ipse autem Atridem interficeret. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Retenir son courroux et forcer sa colere.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>An iram sedaret, compesceretque furorem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ainsi comme il flotoit d'un douteux pensement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Donec hic haec agitaret per mentem et per animum; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'espee horrible il tire: Et voici promptement </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Traxit autem ex vagina magnum ensem. venit autem Pallas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pallas venir du Ciel, par Junon incitee </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Coelitus. praemiserat enim Dea albaulnas Juno, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui les aymoit tous deux, Elle s'est arrestee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ambos simul animo amansque curansque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par derriere le tire et luy prend les cheveux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Stetit autem retro: per flavam autem comam apprehendit Pelidem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De luy seul apperceuë et de nul autre d'eux:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Soli apparens. aliorum autem nullus videbat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille s'estonna, puis se tournant arriere </seg>
+		<seg>Cognut incontinent la Deesse guerriere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Expavit autem Achilles. retro autem conversus, statim cognovit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ses yeux étinceloient luisans terriblement:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Palladem Atheniensem: terribiles autem ei oculi lucebant. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Fille de Jupiter, pourquoy si vistement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ipsam vocans verba alata allocutus est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Viens-tu icy? dit-il. Est-ce pour l'insolence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cur huc Aegiochi Jovis progenies venisti? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Agamemnon l'Atride, et pour son arrogance?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>An ut injuriam noscas Agamemnonis Atridae? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais laisse faire à moy, les doigts il s'en mordra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tibi edico hoc autem et perficiendum puto. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et pour son grand orgueil la vie il en perdra.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Suis superbiis cito tandem animum perdet. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui de Jupiter Pallas la fille chere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hunc autem rursus allocuta est Dea caesiosoculostishabens Minerva </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je viens expressement retenir ta colere,</seg>
+		<seg>Si tu me crois, au moins. Juno qui de tous deux </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Veni ego sedatura tuam iram si mon persuadearis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A soing extre[me]ment, m'envoye icy des Cieux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Coelitus. premisit autem me Dea albaulnas Juno </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Modere donc ton ire, et remets ton espee,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ambos simul animo diligensque curansque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que ta main dans le sang, ne soit icy trempee:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed age quiesce a contentione, neque ensem trahe manu. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et comba de propos tant que ton cœur voudra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed certe verbis quidem injuria affice, sicut erit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car je te dy un faict qui sans doubte aviendra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Un jour pour reparer ce tort et cete offence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic enim edico hoc et perfectum erit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au triple on t'envoira dons beaux par excellence,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et aliquando tibi ter tot aderunt splendida dona </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin de t'appaiser. Ainsi reprime toy,</seg>
+		<seg>Obey pour ce coup à ma voix et me croy,</seg>
+		<seg>Deesse, la raison veut que je t'obtempere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Injurie causa huius. tu autem cohibere, obtempera autem nobis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy respond Achilles, combien que ma colere </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic autem respondens allocutus est pedes velox Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Ait un juste dépit. Mais tousjours il vaut mieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» En leur obeyssant porter respect aux Dieux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Oportet quidem vestrum Dea verbum custodire, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Et ne resister point à ce qu'ils nous commandent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Etiam valde animo iratum. sic enim melius. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>» Afin qu'en nostre endroit propices ils se rendent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et soyons ouys d'eux. Il tenoit, ce disant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quisquis utique Diis obtemperaverit, magis exaudiunt ipsum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La main sur le pommeau d'argent fin et luysant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dixit, et in argenteo manubrio tenebat manum gravem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis dedans le fourreau remit l'espee horrible,</seg>
+		<seg>Rendant obeyssance à Pallas la terrible:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Retro autem in vaginam impulit magnum ensem: neque non obedivit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui reprend sa volee au clair plancher des Cieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verbo Minervae. haec autem coelum ascendit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vers Jupiter l'Aegide et vers les autres Dieux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In domos Aegiochi Jovis ad daemonas alios. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais Achilles tousjours continuant sa rage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pelides autem iterum contumeliosis verbis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A l'Atride disoit et convice et outrage.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atridem allocutus est; et nondum cessabat ab ira. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Yvrongne aux yeux de chien, et du cœur ressemblant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vino gravis, canis oculos habens, cor vero cervi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le plus timide cerf, aux coups tousjours tremblant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui n'osas onc t'armer, soit pour la guerre ouverte,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque unquam in bellum una cum populo armari, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit pour aller dresser une embuche couverte,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque ad insidias ire cum optimatibus Achivorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tant tu crains de mourir. Que s'est bien mieux ton cas</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ausus es animo: hoc autem tibi mors videtur esse. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De piller un chacun, que d'aller aux combas,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu te plais bien mieux à ravir, à detruire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe multo melius est per exercitum latum Achivorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sur tous celuy-là qui t'ose contre-dire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dona auferre quicunque tibi contrarium dixerit: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Roy mangeur de sujects, peu s'en faut et me crois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Populivorator Rex, quoniam vilibus imperas. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tu n'aye outragé pour la derniere fois.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe enim Atride nunc postremum damnum intulisses. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais escoute à ce coup, par ce sceptre je jure</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tibi edico, et super magnum juramentum juro. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui n'aura jamais plus ne feuilles ne verdure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe per hoc sceptrum, quod quidem nunquam folia et ramos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Pour ce qu'il fut coupé quand le cousteau tranchant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Producet, postquam primum incisionem in montibus reliquit, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Fut son écorce vive à sa fueille arrachant)</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque pullabit: circum enim gladius decorticavit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ores les fils des Grecs exerceans la justice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Foliaque et corticem: nunc iterum ipsum filii Achivorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Portent dedans leurs mains, justice protectrice</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In manibus portant judices quique leges </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des loix de Jupiter: Le jour viendra</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>A Jove hauserunt. hoc autem tibi erit juramentum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que le camp des Gregeois de moy se souviendra,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et me voudra r'avoir, quant les mains homicides</seg>
+		<seg>D'Hector renverseront les soldats des Atrides,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe aliquum Achillis desyderium habebit filios Achivorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais tu ne les pourras au besoin secourir;</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Universos. his autem non poteris contristatus quanvis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu creveras de dueil de les voir tous mourir.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Prodesse, quando multi ab Hectore homicida </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Lors en vain tu rompras ton ame de detresse</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Morientes cadent: tu autem intus animum lacerabis, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'avoir deshonnoré le plus fort de la Grece.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Iratus, quando optimum Achivorum non honorasti. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ce disant, contre terre il jetta de depit,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit Pelides. sceptrum autem projecit in terram </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Son sceptre aux beaux cloux d'or, puis derechef s'assit.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aureis clavis transfixum. consedit autem ipse. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'Atride d'autre part sa colere remasche,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atrides vero ex alia parte irascebatur. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne se peut adoucir et grandement se fache.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Surquoy vint se lever Nestor le doux parleur,</seg>
+		<seg>Nestor des Pyliens le disert harangueur, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>his autem Nestor </seg>
+		<seg>Suaviloquus surrexit suavis Pyliorum concionator: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De la bouche duquel paroles et langages</seg>
+		<seg>Plus doux que miel couloient. Il avoit veu deux aâge</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cujus et a lingua melle dulcior fluebat sermo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Defaillir devant luy d'hommes auparavant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic jam duae quidem aetates mortalium hominum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et levez et nourris quant et quant luy vivant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Defecerant, quam cum ipso antea simul nutriti sunt, et geniti sunt </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et si regnoit encor' entre ceux du troisiesme.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In Pylo divina: cum autem tertiis regnabat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Lors il vint à parler d'une prudence extreme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hic illis benesentiens concionatus est, et dixit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> O Dieux, quel grand malheur tombe dessus les Grecs! </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O heu, certe magnus luctus Achivam terram invadit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Combien Priam, ses fils, et les Troyens apres, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe laetabitur Priamus, Priamique filii, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Auront d'ayse en leur cœur, s'ils sçavent la nouvelle </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que les meilleurs des Grecz sont entrez en querelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aliique Troiani valde gaudebunt animos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je dy vous les premiers de nostre nation</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si vos haec omnia audient decertatos: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En combat, en conseil, en resolution.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui quidem consilio Danais antecellitis et pugnandi peritia. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais venez croyez-moy. Car j'ay cet avantage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed persuadeamni: ambo autem juniores estis me. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur vous, qu'aupres de moy vous estes moindres d'aage:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jam enim aliquando ego et cum melioribus quam vos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>J'ay veu, j'ay frequenté des hommes autresfois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cum viris conversatus sum: et nunquam me ipsi parvi penderunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Beaucoup meilleurs que vous, qui jamais toutesfois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Non enim unquam tales vidi viros, neque videbo; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne m'ont desestimé, tels qu'estoit Polypheme</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qualem Pirithoumque, Dryanque gubernatorem populorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Semblable aux immortels, Cené de force extreme,</seg>
+		<seg>Pirithous, Dryant, Exadie et Thesé,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Caeneaque, Exadiumque, et aequalem Deo Polyphemum, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand il vivoit au monde autant qu'un Dieu prisé.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Theseumque Aegiden similem immortalibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ils estoient des plus forts qui fussent en la terre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fortissimi jam illi terrestrium, qui nutriti sunt virorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et contre des plus forts firent mortelle guerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fortissimi quidem erant, et cum fortissimis pugnabant </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Monstre'-hommes montaignards qu'ils mirent tous à mort</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Gigantibus monticolis, et gloriose interfecerunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je venois avec eux, je les frequentois fort,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Parce qu'ils m'envoyoient querir jusques à Pyle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et quidem cum his conversabar ex Pylo veniens </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Assez loin de leur terre Apia la fertile:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Procul ex Apia terra. vocabant enim ipsi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je me trouvois souvent à la guerre avec eux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et pugnabam per me ipsum ego. cum illis autem nullus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nul de ceux d'aujourd'huy tant soient-ils belliqueux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Eorum qui nunc homines sunt terrestres pugnaret. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'oseroit s'esgaler à leur force et puissance:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Cependant ils m'oyoient en faits de consequence</seg>
+		<seg>Et ne mesprisoient pas mes conseils et advis.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et quidem mea consilia audiebant, obediebantque verbo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Croyez-moy donc aussi, il vaut mieux mes amis,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed obedite et vos, quia obedire melius. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vivre entre vous en paix. Toy, bien que ta puissance </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soit grande entre les Grecs, ne pren pas la licence</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De luy ravir la fille, ainsi laisse luy le prix</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque tu ab isto fortis quanvis sis auferas puellam. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'il a de tous les Grecs pour son merite pris.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed concede sicut ei primum dederunt praemium filii Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et toy fils de Peleus, ne vueille pas contendre </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque tu Pelide velis contendere regem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Contre nostre Empereur ny sur luy entreprendre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car jamais Roy aucun qui Sceptre sceust porter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contra: quia nunquam similem sortitus est honorem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'a receu tel honneur qu'il a de Iupiter.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sceptriger Rex; cuique Jupiter gloriam dedit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si tu as plus de force, une Deesse grande</seg>
+		<seg>Aussi t'a engendré: Mais cetuy-cy commande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si autem tu fortior es: Dea te generavit mater. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A plus de gens que toy, a plus d'authorité.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tamen hic potentior est; quia pluribus imperat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Toy, Atride, retien ton courroux depité,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atride tu autem compesce tuam vim. sed ego </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>J'en supply' tout de mesme Achil', qui de la Grece</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Precor Achillem deponere iram: qui magnum omnibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Est le fort boulevard, l'appuy, la forteresse.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Propugnaculum Achivis est belli mali. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Tout ce que tu as dit, respond Agamemnon </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hunc autem respondens allocutus est Rex Agamemnon. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mon pere, sans nul doute, est equitable et bon: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ita sane haec omnia senex secundum decens dixisti. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais aussi cestuy-cy en fait trop, il veut estre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed hic autem vir vult supra omnes esse alios. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par sur tous dessus tous le Seigneur et le maistre,</seg>
+		<seg>Il veut tenir chascun sous son commandement:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Omnes quidem vincere vult: omnibus et dominari: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais il n'en viendra pas à bout trop aysement.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Omnibus et praecipere quae non persuasurum puto. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si les Dieux l'ont pourveu d'un grand et fort courage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si autem ipsum bellicosum fecerunt Dii semper existentes: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Est il dit qu'il s'en serve à faire à tous outrage?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Propterea ipsi permittunt contumelias loqui? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Sur ces propos Achil' vint encore à parler: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic autem interpellato sermone respondit divus Achilles: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Certes lasche et poltron on pourroit m'appeller </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe timidusque et vilis vocari possem, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si je t'allois ceder ainsi en toute chose:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si jam tibi per omne opus subjiciar quod dicis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais commande autre-part, pour moy je me propose</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Alysiam haec jube, non enim mihi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De ne t'obeyr plus. Voicy encore un cas,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Praecipe. non enim me tibi obtemperaturum puto. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont je veux t'advertir: Je ne combateray pas</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aliud autem tibi dico: tu autem in mentibus mitte tuis: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Contre qui que ce soit, non pas contre toy-mesme</seg>
+		<seg>Pour Bryseis la belle, encore que je l'ayme,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Manibus quidem non ego pugnabo gratia puellae, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que l'on m'avoit donnee et que l'on veut m'oster,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque tecum, neque cum alio: quoniam a me aufertis dantes. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais si tu entreprens malgré moy d'emporter</seg>
+		<seg>Autre chose du mien qui soit dedans ma tente,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aliarum autem rerum quae mihi sunt velocem apud navem nigram; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Je te feray mourir, viens, et l'experimente,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Harum nihil utique auferes accipiens invito me. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ceux-cy en soient tesmoins, ils verront que ton flanc</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sin autem, age, fac periculum, ut cognoscant et hi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'ouvrira par mon glaive empourpré de ton sang. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim tibi sanguis niger fluet per lanceam. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Apres avoir crié, les Princes se leverent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic hi contrariis contendentes verbis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rompirent l'assemblee, en leurs naus s'en allerent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Surrexerunt: solverunt autem concionem apud naves Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Achille avec Patrocle, et tous ses compagnons</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pelides quidem ad tentoria et naves equales </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Se retire à sa flotte et vers ses pavillons.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ivit cunque Menoetiade et propriis sociis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Agamemnon fait mettre en mer un bon navire </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atrides autem navem velocem in mare protraxit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et vingt rameurs dedans qu'il commenda d'élire, </seg>
+		<seg>Avec le Sacrifice à Phoebus préparé: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Intus autem remiges elegit viginti: intus autem hecatombem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Faict venir Chryseis au cheveu blond doré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Imposuit Deo. supra vero Chryseidem pulchrigenam </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'il faict mettre dessus, Puis apres la consigne</seg>
+		<seg>Entre les mains d'Ulisse à la prudence insigne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sedere fecit ducens: in ea aut princeps ascendit multiconsilii Ulysses </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Afin de la mener: Ils montent aux vaisseaux,</seg>
+		<seg>Et s'en vont navigant par l'humide des eaux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui quidem quum ascendissent innavigabant per humidas vias. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Tandis Agamemnon fait repurger l'armee </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Populos autem Atrides purgari jussit: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et jetter dans la mer, l'ordure envenimée: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui purgati sunt, et in mare sordes jecerunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis on faict à Phoebus sur la rive des eaux</seg>
+		<seg>Le sacrifice entier des boucs et des taureaux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sacrificabat autem Apollini perfectas hecatombas </seg>
+		<seg>Taurorum et caprarum juxta littus maris infructuosi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont l'odeur monte au Ciel aux vœux de l'exercite.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nidor autem ad coelum ibat involutus circa fumum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais cela n'appaisoit la menace depite</seg>
+		<seg>Que fit Agamemnon au fils de Peleus :</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic hi quidem haec operabant per exercitum: </seg>
+		<seg>neque Agamemenon </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cessabat a rixa quam primum minatus est Achilli. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Eurribate il appelle avec Taltibius</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed hic Talthybiumque, et Eurybatem affatus est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ses fideles herauts : Allez dedans la tente </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>(Hi ipsi erant praecones et fortes ministri.) </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'Achilles, vous saisir de Briseys la gente, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Abite ad tentorium Pelidae Achillis, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et l'amenez, dit-il: S'il ne la veut donner </seg>
+		<seg>Moy-mesme m'y feray tres-bien accompagner,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Manu accipientes ducite Bryseida pulchrigenam. </seg>
+		<seg>Si autem non dabit: ego ipse auferam </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce qui luy sera plus encore insupportable.</seg>
+		<seg>Telle commission leur fut mal agreable,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Veniens cum pluribus: quod illi et horribilius erit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et fort à contre-cœur, ils marchent cependant.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dicens praemisit, forte et verbum jussit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et prennent leur chemin le long du flot grondant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi inviti iverunt juxta littus maris infructuosi: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En fin aux pavillons et naus ils arriverent</seg>
+		<seg>Des braves Myrmidons, où Achille trouverent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Myrmidonum vero ad tentoriaque et naves pervenerunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dedans sa tente assis sur son navire à part,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hunc autem invenerunt apudque tentorium et navem nigra </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui jetta dessus eux un fort triste regard. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sedentem: neque sane hos intuitus laetatus est Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais eux espouvantez d'une crainte fort grande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi quidem timentes et reveriti Regem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Resterent sans mot dire, et faire leur demande:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Steterunt: ne quaquam vero ipsum alloquebantur, neque interrogabant. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce qu'il recognut bien, puis leur dit en ces mots. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed hic cognovit suis in mentibus, vocavitque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Soyez les bien-venuz, ô fideles herauts, </seg>
+		<seg>Des hommes et des Dieux messagers honnorables,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Avete praecones Jovis nuncii atque etiam virorum: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Approchez-vous plus prez: Vous n'estes pas coulpables,</seg>
+		<seg>Cest Agamemnon seul de par qui vous venez</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Propius accedite; nihil mihi vos culpabiles, sed Agamemnonis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour m'oster Briseys, ne soyez estonnez,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui vos premisit Bryseidis causa puellae. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Or sus vaillant Patrocle ameine-la, qu'ils prennent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed age generose Patrocle educ puellam: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La fillette à leur gré, qu'à leur aise ils l'emmenent.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ipsis da ut ducunt. vos ipsi autem testes estote </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais soyez-moy tesmoins, et devant les grands Dieux</seg>
+		<seg>Et devant les mortels, et ce Roy furieux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Coram Diis beatis, coramque mortalibus hominibus; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>S'il avenoit jamais qu'il eust de moy affaire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et coram rege crudeli, si unquam posthac </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour repousser de nous la tempeste contraire,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Indigentia mei fuerit indecentem pestem removere </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que sa folie en est la cause entierement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aliis. certe enim hic pernitiosis consiliis insanit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qu'il ne sçait prevoir en son entendement</seg>
+		<seg>Comme est-ce qu'il pourra cy-apres faire en sorte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque quicquam novit intelligere simul ante et retro: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que le Grec pour combattre ayt l'espee assez forte.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quomodo sibi apud naves salvi pugnare queant Achivi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Patrocle, d'Achilles faict le commandement, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit. Patroclus autem dilecto obedivit socio. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Entre dedans la chambre, ameine promptement </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La belle Briséis, entre leur mains la livre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Eduxit autem ex tentorio Bryseida pulchrigenam: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La met en leur puissance et luy dit de les suivre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Eux la prennent de luy, et le pas retournant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vers les vaisseaux des Grecs ils la vont emmenant:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dedit autem ducere. hi aut retro iverunt ad naves Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Elle contre son gré suivant les accompagne.</seg>
+		<seg> Mais Achilles à part tout de larmes se baigne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>illa vero invita una cum his mulier ibat. sed Achilles </seg>
+		<seg>Lachrymans seorsum a sociis statim sedit separatus, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur le bord de la mer, et dedans regardant,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Littus maris cani respiciens in nigrum pontum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sa mere il suplioit les deux mains luy tendant.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Multa autem Matri dilectae precabatur manus porrigent. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Puis que pour vivre peu vous me mistes au monde, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Mater postquam me peperisti brevis temporis existentem, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour le moins le moteur de la machine ronde, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ma mere, me devoit faire vivre en honneur.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Honorem mihi debebat Olympius tradere </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais voicy qu'il m'enfondre en un grand deshonneur,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jupiter altitonans: nunc autem neque me paululum honoravit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car c'est Agamemnon superbement m'offence,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe enim me Atrides latedominans Agamemnon </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et me ravit mon bien d'injuste violence.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>inhonoravit: capiens enim habet praemium ipse auferens. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Cecy dit-il pleurant, et furent ses sanglots</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit lachrymans. hunc autem exaudivit veneranda mater </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De sa mere entendus seante sous les flots</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sedens in profunditatibus maris apud patrem senem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De son pere chenu. Vers luy elle est venuë</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sortant de la mer creuse en forme d'une nue,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim autem prodiit ex cano mari, velut nebulat </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Se sied aupres de luy de tristesse transi,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ante ipsum sedit lachrymantem: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le flatte de la main, et puis luy dit ainsi.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Manuque ipsum demulsit, verbumque dixit, et denoiavit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Que pleures tu, mon fils? quelle douleur te fasche? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Fili quid fles? quis vero tibi mentem invadit moeror? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dy, ne me cele rien, et fais que je le scache.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dic: ne tege animo, ut sciamus ambo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ma mere, dit Achil, souspirs du cœur jettant, </seg>
+		<seg>Vous ne l'ignorez pas, quel besoin est il tant </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc autem graviter suspirans allocutus est pedes velox Achilles: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De vous le dire, à vous à qui rien ne se cele? </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nosti cur tibi haec scienti omnia dicam. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Nous fusmes donc à Thebe, en la cité tres-belle</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ivimus in Thebem sacram civitatem Eetionis: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du Prince Eetion, nous la mismes à bas,</seg>
+		<seg>En emportasmes tout, et les Grecs nos soldats</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc depopulatique sumus, et portavimus huc omnia. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Partirent le butin, donnerent à l'Atride</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et haec quidem bene diviserunt inter se filii Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Comme au chef general) la belle Chryseide.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Elegerunt autem Atridae Kryseida pulchrigenam. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Or son pere Chryses grand Prestre d'Appollon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Chryses autem postea sacerdos longejacientis Apollinis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vint aux barques des Grecs devers ce Roy felon</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venit ad veloces naves Achivorum ferrovestitorum, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour racheter sa fille, ayant et la couronne</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Liberaturusque filiam, ferensque infinita dona, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le sceptre du Dieu qui loing de ses traits donne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Coronamque habens in manibus longejacientis Apollinis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et force beaux presens, desquels il essayoit</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'Atride contenter, les Grecs il suplioit,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aureo cum sceptro, et deprecabatur omnes Achivos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les Atrides sur tout conducteurs de la bande</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atridas autem maxime duos principes populorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et chascun consentoit à sa juste demande,</seg>
+		<seg>Tout le monde disoit qu'il faloit delivrer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tunc alii quidem omnes laudaverunt Achivi, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La fille, et le sainct prestre et ses dons reverer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Venerandum esse sacerdotem, et splendida accipienda esse dona. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais l'Atride trouva ceste parole dure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed non Atridae Agamemnoni placuit animo: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Renvoya le vieillard, et luy dit force injure,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed male dimisit: forte et verbum mandavit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont le prestre indigné s'en retournant, haussa</seg>
+		<seg>Ses deux mains à Phoebus, et le Dieu l'exauça,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Iratus autem senex retro abivit. hunc autem Apollo </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pource qu'il aymoit fort. Si qu'en son ire il jette</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Precantem exaudivit, quoniam valde sibi amicus erat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dessus le camp des Grecs sa mortelle sagette,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Misit autem in Argivos malam sagittam: hi autem populi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui perissoient à tas, au prix que ses durs traits</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Moriebantur frequentes: ibant autem spicula dei </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Frapoient mortellement l'exercite des Grecs.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quoquo versus per exercitum latum Achivorum. nobis autem vates </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dont le prophete sainct enquis, nous fait entendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Bene sciens concionabatur vaticinationes longejacientis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La cause et le suject de ce funeste esclandre:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dequoy moy tout émeu conseille sur le lieu </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim ego primus jussi Deum placari. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'appaiser la vengeance et le courroux du Dieu,</seg>
+		<seg>Cela fascha l'Atride, et s'en mit en colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Atridem autem postea ira cepit. Statim autem exurgens </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Me menacea de chose en fin qu'il a peu faire.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Minatus est verbum, quod jam perfectum est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car pour sa Chryseys que les Grecs l'ont contraint</seg>
+		<seg>De renvoyer par mer au Prestre sacrosaint,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc quidem enim cum navi veloci nigrioculos Achivi </seg>
+		<seg>Ad Chrysem mittunt: ducunt autem dona regi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il m'a par ses herauts pris Bryseys par force,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc autem nuper ex tentorio iverunt praecones ducentes </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Donnée à moy des Grecs pour loyer de ma force. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Puellam Brisei: quam mihi dederant filii Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Venez en cet émoy vostre fils assister</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu, si potes, auxiliare filio tuo </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ma mere, et supliez sur le Ciel Jupiter</seg>
+		<seg>Si jamais diligente à son ayde vous fustes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vadens ad coelum. Jovem precare, si unquam aliquid </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et d'effect et d'avis onques le secourustes.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel verbo iuvisti cor Jovis vel etiam opere. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Car de cela j'ouy qu'un jour vous vous vantiez </seg>
+		<seg>Quand j'estois chez mon pere, et que vous racontiez </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Saepe enim te patris in aedibus audivi </seg>
+		<seg>Gloriantem, quod dicebas facienti nigras nubes Saturnio. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'avoir assisté seule en sa deconvenue </seg>
+		<seg>L'ayné fils de Saturne amasseur de la nue,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sola inter immortales indecentem cladem expulisse: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quant tous les autres Dieux, Neptun, Pallas, Junon</seg>
+		<seg>Le vouloient enferrer et le metre en prison:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quoniam ipsum colligare coelestes volverunt alii </seg>
+		<seg>Juno et Neptunus et Pallas Minerva. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Vous vintes la dessus, des ceps le delivrastes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et pour le secourir au ciel vous appellastes</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu hunc profecta dea liberasti a vinculis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le geant aux cent mains Briare au cœur de lion,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim Centimanum vocans in altum Olympum: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des Dieux ainsi nommé, des hommes Aegeon,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quem Briareum vocant Dii: viri autem omnes </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Plus puissant et plus fort au double que son pere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Aegeonem. hic enim rursus potentia proprio patre melior. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ces Dieux eurent frayeur telle de sa colere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui apud Saturnium sedebat superbia tumens. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ils le laisserent là sans oser l'enferrer.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hunc et timuerunt immortales Dii, neque ligaverunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Allez le donc trouver pour luy rememorer</seg>
+		<seg>Ce secours oportun, et signalé service,</seg>
+		<seg>Embrassez les genous, et pour ce bon office</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>His nunc illi in memoriam revocatis asside et accipe genuas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Faictes tant qu'il se mette au secours des Troyens,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si aliquo modo velit Troanis auxiliari. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chasse jusqu'en leurs naus les fuitifs Achaiens</seg>
+		<seg>Mis en route et n'aurez, tant qu'ils se mécontantent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hos autem usque ad puppesque et circa mare expellere Achivos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De leur bel Empereur, et cognoissent et sentent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Occisos, ut omnes fruantur rege. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur tous Agamemnon ce qu'il s'est procuré</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Noscat autem et Atrides latedominans Agamemnon </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'avoir le plus vaillant des Grecs déshonoré.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Suum detrimentum, quod optimum Achivorum nihili fecit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Helas, luy dit Thetis toute en larmes tournée, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic respondit postea Thetis lachrymas effundens. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pourquoy sous si cruelle et dure destinée </seg>
+		<seg>T'ay-je nourry, mon fils! que deusses tu long-temps</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Heu fili mi: cur te enutrivi in malum pariens? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chez toy passer tes jours et joyeux et contans!</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Utinam posses apud naves sine lachrymis, et illaesus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais cela ne se peult, car il fault que ta vie</seg>
+		<seg>Par le cruel destin te soit bien tost ravie,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sedere: quoniam tibi parca paululum neque multum diu: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tes jours briefs te soient tristes et langoureux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nunc autem simul citomoriturus et erumnosus supra omnes </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>C'est pourquoy tu es né sous un sort malheureux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Es. idcirco te malo fato peperi in aedibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Or pour te contanter il fauldra que je vole</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sur le Ciel nuageus porter ceste parole</seg>
+		<seg>Au puissant Jupiter. Je luy ramentevray,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hoc autem dictura verbum Jovi gaudenti fulmine </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et s'il se peult, ton faict luy persuaderay</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vado ipsa in Olympum valdenivosum, si persuadeatur. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Demeure cependant icy sur ta galere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu quidem nunc navibus assidens velocibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Gardant sans te bouger sur les Grecs ta colere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Irascere Achivis: bello autem abstine omnino. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et sur tout garde toy de combatre et t'armer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jupiter seulement se mit hyer en mer</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jupiter enim in Oceanum ad bonos Aethiopas </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Affin de se trouver au festin où le traittent</seg>
+		<seg>Les Aethiopiens, où tous les Dieux banquetent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hesternus ivit ad convivium. Dii autem simum omnies secuti sunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par dela l'Ocean il y fera sejour,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et n'en retournera que le douziesme jour</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Duodecima autem rursus veniet ad coelum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A son retour de là je seray toute preste</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et tunc postea vadam Jovis ad solidam domum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'aller baiser ses pieds et faire ta resqueste.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ipsius genibus advolvar, et ipsum persuasurum puto. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Ce disant, elle part, et laisse là son fils</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic utique locuta abiit. hunc reliquit ibi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Triste d'avoir perdu sa belle Briseys</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Iratum in animo propter formosam mulierem: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Laquelle on luy avoit par violence prise,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais Ulisses voguant parvint en fin en Chryse </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quam vi ab invito abstulerant. Sed Ulysses </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Avec ce qu'il menoit au Prophete sacré: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In Chrysem pervenit ducens sacram hecatombem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dedans le port profond si tost qu'il fut entré </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi quando jam portum valdeprofundum intra pervenerunt, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il fit plier le voile et serrer le cordage, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vela quidem collegerunt, posueruntque in navi nigra. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Malum autem in thecam reposuerunt funibus demittentes. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mettre à point le grand Mast avec tout l'equipage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim hanc autem in portum protraxerunt remis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ficher l'anchre dans terre et la nef attacher,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Anchoras jecerunt, ac funibus puppium ligaverunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis sortans du vaisseau se prirent à marcher</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verum et ipsi exierunt in littus maris. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Devers le Saint Autel où mainte offrande tumbe</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En touchant devant eux la sacrée Hecatumbe,</seg>
+		<seg>De Phoebus Apollon, si marchoit avec eux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et hecatombem exposuerunt longejacienti Apollini. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La belle Chryseïs sortant du vaisseau creux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed et Chryseis navi exivit Pontigrada. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Conduite prés l'autel par Ulysse le sage,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc quidem postea ad altare ducens prudens Ulysses, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui la rend à son pere et luy tient ce langage.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Patri charo in navibus posuit: et ipsum allocutus est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Venerable Chryses, Agamemnon le Roy </seg>
+		<seg>Prince de nostre camp m'envoye devers toy </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>O Chryse praemisit me rex virorum Agamemnon: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Te remettre ta fille, et pour rendre propice</seg>
+		<seg>Phoebus aux Argiens par un sainct sacrifice,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Filiamque tibi ut ducerem: Pheoboque sacram hecatombem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et destourner le mal que contre eux irrité</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il leur faict pour t'avoir par trop peu respecté. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sacrificiarem pro Danais ut placemus regem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce disant il luy livre et la fille et l'offrande,</seg>
+		<seg>Que prend le Prestre sainct en allegresse grande:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Qui modo Argivis multisuspirii dolores immisit. </seg>
+		<seg>Sic dicens in manibus posuit: hic suscepit gaudens </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tout soudain eux tous aprestent dignement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Filiam dilectam. hi autem statim deo gloriosam hecatombem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'offrande sur l'autel preparé sainctement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Deinceps statuerunt bene aedificatum circa altare. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis se lavent les mains, et l'aspersion preste</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Manus laverunt autem postea, et molas sumpserunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chryses fit à Phoebus ceste ardente requeste.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>His autem Chryses valde precabatur manus elevans. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Dieu à l'arc argenté qui en Chryse te tiens </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Audi me argenteumarcum habens, qui Chrysen gubernas, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En Cille et Tenedos entend ces propos miens.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cillamque valde divinam, Tenedoque generose imperas. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu m'as par cy-devant exaucé favorable </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jam quidem aliquando me antea exaudisti precantem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et m'as faict un honneur du tout inenarrable </seg>
+		<seg>En ce qu'en ma faveur tu as frappé les Grecs </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Honorasti quidem me: valde autem nocuisti populo Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>D'une playe bien grande, Or fay moy cy apres</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jam item et nunc mihi hoc perfice desyderium. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ceste grace, qu'aussi recevant ma priere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu vueilles chasser d'eux ceste peste en arriere.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jam nunc Danais indecentem pestem remove. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Apollon l'exauça, puis ayant achevé</seg>
+		<seg>Sa devote oraison et sur le chef levé</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit orans. hunc autem exaudivit Phoebus Apollo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La saincte aspersion, l'holocauste ils rangerent,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed postquam precati sunt, et molas projecerunt: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tout premierement du couteau l'égorgerent,</seg>
+		<seg>L'écorchèrent apres, coupèrent les jambons</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>retro traxerunt quidem primum, et jugulaverunt, et excoriaverunt, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'ils couvrirent de gresse, et dessus les charbons</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Femoraque secuerunt, arvinaque cooperuerunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les mirent pour rostir, Chryses y vint respandre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dupliciter facientes. super ipsis autem cruda posuerunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>L'effusion de vin, et les jeunes gens prendre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Adolebat autem in lignis incisis senex: in autem rubrum vinum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Libabat: juvenis autem apud ipsum tenebant verva quinque ordines habentia manibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les broches à cinq rancs: Quand ils furent bien cuits</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed postquam femora cocta sunt: et viscera comederunt </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et en eurent gousté, ils trancherent depuis </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ac minutatim secuerunt, alia et in verubus transfixerunt, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout le reste en morceaux, en la broche le mirent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Assaruntque accurate, traxeruntque omnia. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et curieusement au feu cuire le firent:</seg>
+		<seg>Cela faict, et ayans preparé le banquet</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Caeterum ubi quieverunt a labore, praeparaveruntque convivium, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Chacun à suffisance à repaistre se met.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Convivati sunt: neque in aliquo ainus indiguit cibo aequali. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Quand la faim et la soif eurent laissé les troupes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed postquam potus et escae desyderium ejecerunt: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Les garçons de bon vin couronnerent les coupes,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pueri quidem crateras coronaverunt vino: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis vindrent les offrir à chacun à leur tour. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Distribueruntque omnibus incipientes poculis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apres, les fils des Grecs chanterent tout le jour</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi autem totamdiem cantu deum placabant: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Paeanes et chansons en grande esjouyssance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A Phoebus qui ses traicts et ses raiz loin eslance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Pulchrum canentes paeana pueri Achivorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui receut appaisé leurs vœux benignement,</seg>
+		<seg>Et de leurs hymnes prit un grand contentement.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Canentes longe operante.hic autem mentem delectabatur audient. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Quand le soir fut venu les Grecs s'en retournerent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quando autem sol occidit, et crepusculum supervenit: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Coucher dans leur navire, au sommeil se donnerent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tunc sane dormiverunt in puppibus navis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Jusques au poinct du jour, qu'ils reprirent la mer,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quum autem manegenita apparuit roseadigitos Aurorae: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour retourner au camp à force de ramer:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et tunc postea recesserunt ad exercitum latum Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Phoebus leur donna le vent fort favorable.</seg>
+		<seg>Ils leverent adonc le mast avec le cable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>His autem concitatum ventum misit longejaculans Apollo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tendirent le voile, et le vent leur donnoit</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi vero malum erexerunt, supraque vela alba extenderunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par le milieu du voile, et le flot resonnoit</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ventus autem perflabat medium velum circum autem unda </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Autour du vaisseau noir qui couroit dessus l'onde</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Carinam nigra valde resonabat navi eunte. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et coupoit les sillons de la vague profonde. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Haec autem currebat per undam pertransiens vias. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Quand ils furent venus à l'exercite fort</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed postquam venerunt ad exercitum latum Achivorum, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ils tirerent soudain le vaisseau sur le bord</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Navem quidem hi nigram. in continentem traxerunt </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A grand'force de tours, puis chacun se retire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In summam harenam, ac sustentacula longa subextenderunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme il veut dans sa tente ou dedans son navire. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ipsi autem sparsi sunt per tentoriaque navesque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verum hic irascebatur navibus assidens velocibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Mais le fils de Peleus Achille aux pieds disposts</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Generosus Pelei filius pedes velox Achilles. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Courroucé demeuroit en sa nef en repos,</seg>
+		<seg>Sans vouloir se trouver en conseil n'assemblee,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque unquam in concione versabatur gloriosos viros faciente, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ny en pas un exploit sa poitrine troublee</seg>
+		<seg>Dire se consumoit, desirant de courrous</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque unquam in praelio: sed consumebat dilectum cor </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que tout fust desja plein et de guerre et de coups. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Illic manens. desyderabat autem clamoremque pugnamque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Or comme on vit venir la douziesme journée</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed quando jam ex illo, duodecimus factus est dies; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que sur le ciel devoit s'en estre retournée</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et tunc jam ad Olympum iverant dii semper existentes </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>La troupe des haults Dieux, on vit aussi Thetis</seg>
+		<seg>Venir persuader Jupiter pour son fils</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Omnes simul. Jupiter autem praeibat. Thetis autem non oblita est mandatorum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Elle delaissa donc la demeure salée</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Filii sui: sed emersit ex unda maris: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Montant de grand matin sur la voute estoillée,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Matutinaque conscendit in magnum coelum olympumque: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Où elle rencontra sur le bout flamboyant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Invenit autem latesonantem Saturnidem seorsum sedentem ab aliis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De l'Olympe monteux Jupiter loin-voyant:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>In summo vertice eminentis olympi: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si s'assit devant luy, ayant de la senestre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et ante ipsum sedit, et prehendit genibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Embrassé ses genous, sa barbe de la dextre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sinistra: dextera autem mento apprehendens, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Au dessous du menton, puis vint à le flatter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Supplicans allocuta est Jovem Saturnidem regem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En ces mots doucement. O pere Jupiter </seg>
+		<seg>Si onc de tous les Dieux, je t'ay fait assistance </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jupiter pater, siquando te inter immortales juvi. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et de bouche et d'effect, ayez en souvenance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel verbo vel opere, hoc mihi perfice desyderium. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Accomply ma priere, et honore mon fils </seg>
+		<seg>A qui vivre si peu du destin est prefix</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Honora mihi filium, qui brevissimae vitae inter alios </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le Roy Agamemnon luy fait un grand outrage</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Est. sed ipsum nunc rex virorum Agamemnon </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy ravissant son bien, de sa vertu le gage: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Inhonoravit: auferens enim habet praemium ipse abstrahens. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Donne luy de r'avoir son bien ou son honneur,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu ipsum honora coelestis consiliator Jupiter. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rend si grands aux Troyens et la force et le cœur</seg>
+		<seg>Que les Grecs soient contrains et de se recognoistre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tandiu autem Troianis adiice robur, donet Achivi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et les biens de mon fils et ses honneurs acroistre. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Filium meum honorent, augeantque ei honorem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A ces mots, Jupiter demeura longuement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit. hanc autem nihil allocutus est nubes congregans Jupiter </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tacitus diu sedit. Thetis autem sicut apprehenderat genibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic inhaerebat advoluta, et rogabat sciendo iterum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verum quidem iam mihi promitte et annue: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vel abnue (quoniam non tibi est timor) ut bene sciam, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quantum ego inter omnes inhonoratissima dea sim. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans repondre, et pensif ne parloit nullement,</seg>
+		<seg>Mais Thetis ne cessoit toujours de le semondre,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc autem graviter suspirans allocutus est nubiumcongregator Jupiter. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne laissoit ses genoux, le pressoit de respondre:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Promets-moy, disoit-elle, ou refuse cecy,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>(Car tu ne crains personne) et que je sçache icy,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si je suis tout à fait mesprisée et chassée.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui le collecteur de la nuë entassée, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Respondit souspirant. Quelle estrange douleur! </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car tu me viens encore jetter par grand malheur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Exitialia sane opera quod me inimicari adhortaris </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En noise avec Junon, qui tousjours me querelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Junoni, quando me irritat contumeliosis verbis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et conteste entre ceux de la troupe immortelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Haec autem et vane mecum semper inter immortales deos </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Criant que je soustiens le party d'Ilion:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contendit: et quam me dicit in pugna troianis auxiliari. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais oste toy d'icy, et fay tant que Iunon:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu quidem nunc rursus abi, ne te intelligat </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ne t'aperçoive point. J'auray en souvenance,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Juno, mihi autem haec erunt curae ut perficiam. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce dont tu m'as requis: et pour ton asseurance</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed age, jam tibi capite annuam, ut credas. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>J'enclineray ma teste en signe du serment</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qui m'est avec les Dieux commun pour jurement,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hoc enim a me cum immortalibus maximum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce signe rend mon dire à jamais immuable :</seg>
+		<seg>Tout ce que j'ay promis demeure irrevocable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Signum. non enim meum irrevocabile, neque deceptorium, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Sans plus y retourner, Et reste permanent</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tout ce que j'ay juré mon sainct chef enclinant.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque imperfectibile quodcunque capite annuam. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ainsi dit Jupiter, puis il branla sa nuque,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Dixit: et nigris superciliis annuit Saturnides. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et fronçant les sourcils, fit branler la perruque</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ambrosiae autem comae concussae sunt regis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De son chef immortel, et de ce branle-là,</seg>
+		<seg>Il émeut tout le Ciel et l'Olympe en croula. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ex capite immortali: ac magnum tremefecit Olympum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> D'aupres de luy Thetis à ces mots se retire</seg>
+		<seg>Et devale du Ciel dans le profond empire;</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi sic consultantes diuisi sunt. haec quidem postea </seg>
+		<seg>In mare dilapsa est profundum a splendido Olympo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Jupiter s'en va dans son Palais mouvant:</seg>
+		<seg>Tous les Dieux se levans luy viennent au devant</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jupiter autem in sua domum. Dii vero simul omnes surrexerunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme à leur pere et Roy, pas un ne s'en exempte,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ex sedibus sui patris in occursum: neque aliquis sustinuit </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le voyant venir deant luy se presente: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Expectare venientem: sed obvii steterunt omnes. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy s'asseant se mit en son throsne doré,</seg>
+		<seg>Mais à Juno le faict ne peut estre ignoré,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic hic quidem illic sedit in solio, neque ipsum Juno </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ayant bien veu Thetis sa requeste luy faire</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ignoravit intuita quod ei consultasset consilia </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et brasser son dessein. Font palle e cholere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Argenteospedeshabens Thetis filia marini Senis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Elle le provoquoit de mots contentieux. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim irritativis Jovem Saturnium allocuta est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Trompeur, dissimulé, avec lequel des Dieux </seg>
+		<seg>As-tu tenu conseil? Ce t'est chose plaisante</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Quis autem rursus tibi dolose deorum consultavit consiliat </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De resoudre en cachette, et quand je suis absente</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Semper tibi amicum est me sine absentem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que tu veux parfaire, et si ne te vient point</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Occulta sapientem judicare: neque aliquod adhuc mihi </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>A cœur d'en reveler à moy le moindre poinct.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Promptus tolerasti dicere verbum quodcunque cogitas. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui respond des Dieux et des hommes le pere. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic respondit postea pater virorumque deorumque. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Juno, d'ainsi sçavoir tout mon secret n'espere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Juno ne omnia mea spera verba </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Bien que tu sois ma femme, et si tu y taschois</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Scire, difficilia tibi erunt uxori quamvis existenti. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu n'en viendrois à bout. Tu sçauras toutesfois </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed quod quidem decens fuerit audire nullus postea </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que tu dois sçavoir et qui est raisonnable,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Comme estant la premiere en la troupe honorable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque dorum prior hoc sciet neque hominum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des Dieux tousjours vivans. Mais ce que j'ay pensé</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hoc autem ego seorsum a Diis vellem intelligere, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De faire à part moy seul, ton cœur ne soit poussé</seg>
+		<seg>D'en vouloir rechercher la cause et l'origine.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne tu haec singula interrogis, neque perscrutare. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> A qui replique encore la Deesse divine. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Huic respondit postea bovinosoculoshabens veneranda Juno. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le plus fascheux qui soit du vieil Saturne né </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Molestissime Saturnide quale verbum dixisti ? </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le plus rude encor, quand t'ay-je importuné</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et valde te ante neque interrogavi, neque inquisivi, </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour vouloir tant sçavoir de ton secret affair ?</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed valde tacitus haec consultas quae vis: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu fais tout à ton gré, et je te laisse faire:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Nunc autem valde timeo in mente, ne te seducat </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais je suis en grand peine, et je tressauts de peur</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Argenteospedeshabens Thetis filia marini Senis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que Thetis te flattant ne t'ayt seduit le cœur:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Matutina enim tibi assedit: et apprehendit genibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car je sçay qu'elle s'est à tes pieds prosternee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Cui te puto annuisse verum, ut Achillem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et qu'elle t'a parlé toute la matinee</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Tu luy auras, je croy, promis de revancher</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Son Achille, et les Grecs ruiner et fascher. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Honores : perdas autem multos in navibus Achivorum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Fascheuse, luy respond le Dieu qui du ciel tonne, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hanc respondens allocutus est nebularum congregator Jupiter. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>C'est grand cas que ton cœur sans cesse me soupçonne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Misera semper quidem suspicaris, neque te lateo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais tu ne gaignes rien: Car plus tu en feras</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Facere autem tamen nihil poteris. sed ab animo </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et plus rude et contraire à toy me trouveras.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Magis mihi eris. hoc tibi et molestum erit. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si j'ay rien accordé, ma volonté est telle.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si autem sic hoc est: mihi debet charum esse. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Or tays toy, obey, et plus ne me querelle,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tacita sede, meo et obedi verbo. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Que je ne te chastie, et que les Dieux en vain</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne te non juvent quotquot dii sunt in olympo </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>N'essayent de t'oster de ma cholere main.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Prope venientem, quem tibi intangibiles manus injecero. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Il se teut, et Junon eut peur de sa menace</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit. timuit autem bovinosoculoshabens veneranda Juno. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si que sans dire mot elle reprit sa place,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Et tacita sedit inclinans dilectum cor. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et les Dieux pour ces mots et dicts contentieux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Furent tous attristez sur le palais des Cieux.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ingemuerunt autem in domo Jovis Dii coelicolae: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Ce que voyant Vulcan l'ouvrier incomparable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>His autem Vulcanus inclytus artifex incepti concionari. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Se prit à dire ainsi à sa mere honorable.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Matri dilectae amabilia ferens albasulnashabenti Junoni. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si ces noises icy durent plus longuement,</seg>
+		<seg>Entre vous puissans Dieux, et principalement </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Certe pestifera opera haec erunt, neque tolerabilia: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour des hommes mortels, je ne voy que ruine </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si jam vos gratia mortalium contendetis sic: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et dissipation sur la troupe divine,</seg>
+		<seg>Nos festins en seront et rompus et troublez,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Inter deos autem tumultum excitetis: neque convivii </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et plus ne pourrons estre en liesse assemblez.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Boni erit voluptas: quoniam pejora vincunt. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par ainsi j'admoneste et conseille ma mere</seg>
+		<seg>Toute sage qu'elle est, de ceder à mon pere,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Matrem autem ego admoneo ipsam quamvis intelligentem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Luy parler doucmeent, de peur de l'irriter</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Patri dilecto amabilia afferre Jovi, ut ne iterum </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et nos festins ainsi troubler et constrister,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Contendat pater nobiscum, et convivium turbet. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Car si Jupiter veult, des traicts de son tonnerre</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Si vult coelestis fulminator </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il nous peut, tout-puissant, precipiter en terre.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ex sedibus quatere, hic enim multum potens est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Donc, ma mere, parlez à luy plus doucement</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed tu hunc verbis demulce mollibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Si vous en desirez avoir bon traittement.</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Statim postea benevolus coelestis erit nobis. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg> Il dit, et se levant il tendit à sa mere</seg>
+		<seg>Une coupe, et luy dit de joyeuse maniere:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit. et surgens poculum rotundum </seg>
+		<seg>Matri dilecte in manibus posuit: et ipsam allocutus est. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Patientez, ma mere, en la necessité,</seg>
+		<seg>Durez, combien qu'ayez l'esprit fort contristé: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tolera mater mea, et suffer, moesta quamvis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il me feroit grand mal de vous voir outragée:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ne te dilectam quamvis existentem oculis videam </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Par moy vous ne pourriez estre en rien revangée,</seg>
+		<seg>Jupiter est trop fort, on ne gaigneroit rien</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Verberatam: tunc non in aliquo potero tristatus quamvis </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>De s'opposer à luy. Car il me souvient bien</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Juvare. difficilis enim coelestis ut repugnetur. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Qu'autrefois vous voulant oster à sa colere</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il me poussa du pié, me fit choir en arriere, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jam enim me et alias adjuvare desyderantem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Du hault du ciel en bas, faisant en l'air maint tour </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jecit pede extrahens a coelo divino. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et tousjours tournoyant, tant que dura le jour </seg>
+		<seg>Jusqu'au soleil couché, que je cheu miserable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Totam autem diem ferebar. una autem cum sole occidente </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En l'Isle de Lemnos, où l'ayde secourable</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Decidi in Lemno, paucus autem animus erat. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Des humains Sintiens bien a propos me vint,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Tunc me Sintii viri statim exceperunt cadentem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et Junon se sourit aux propos que luy tint</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic dixit. risit autem dea albasulnashabens Juno. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le Dieu boiteux son fils, prit de ses mains la coupe,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ridens autem filii suscepit e manu poculum. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Puis commenceant à droite, à tous ceux de la troupe</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed hic aliis Diis apte omnibus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Il vint la presenter pleine de nectar doux,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Propinabat dulce nectar ab cratere hauriens. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Un grand desir de rire à l'heure les prit tous,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Inextinguibilis autem excitatus est risus beatis Diis; </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Voyans ainsi Vulcan avec sa jambe torte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Postquam viderunt Vulcanum per domum ministrantem. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Verser le vin aux Dieux d'une si bonne sorte: </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le festin donc se fit au celeste sejour</seg>
+		<seg>Jusqu'au Soleil couchant tant que dura le jour,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sic tunc quidem totam diem usque ad solem occidentem </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Rien n'y fut espargné tant il fut magnifique, </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Convivabantur. neque amplius animus indiguit convivio aequali: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Apollon sa guiterne, et ses sœurs la Musique</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Neque lyra pulchra, quam tenebat Apollo </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Y firent retentir d'un accord nonpareil. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Musisque, quae canebant invicem excipientes se voce pulchra. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Mais quant dessous les eaux on vit cheoir le Soleil,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Sed postaquam occidit splendida lux solis: </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Pour s'aller reposer, les Dieux font la retraicte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Hi quidem dormiturientes iverunt domum unusquisque </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et gaignent la maison qu'à chacun d'eux a faicte</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ubi singulis domum inclytus utroquepedeclaudus </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Le pié-tortu Vulcan artiste ingenieux:</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Vulcanus fecerat doctis arobtibus. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Et le grand foudroyeur se retire comme eux</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Jupiter autem ad suum lectum ivit coelestis fulminator. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>En son lict où il dort quand le sommeil le gaigne,</seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>Ubi antea dormiebat, quam ipsum dulcis somnus invaderet. </seg>
+	</tuv>
+</tu>
+<tu>
+	<tuv xml:lang="l1">
+		<seg>Où tost il est suivy de Juno sa compagne. </seg>
+	</tuv>
+	<tuv xml:lang="l2">
+		<seg>illic dormivit ascendens: juxtaque aureamsedemhabens Juno. </seg>
+	</tuv>
+</tu>
+
+      </body>
+    </tmx>  
+                

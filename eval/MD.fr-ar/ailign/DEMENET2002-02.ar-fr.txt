@@ -1,0 +1,256 @@
+Mean similarity:0.5800284073922625
+[0 1] مليارات مرض السيدا قضية ستافودين
+[0 1] LE SCANDALE STAVUDINE Ces profiteurs du sida
+
+[2] فيليب دوميني *
+[2] PHILIPPE DEMENET
+
+[] 
+[3] Pfizer, le numéro un mondial de la pharmacie, s'est engagé, le 15 janvier 2002, à remettre à la redoutée Cour des comptes du Congrès des Etats-Unis (GAO) les données comptables indispensables à la vérification des prix des médicaments. Dix autres firmes en ont fait autant. Pour parvenir à cette remise de documents il a fallu un ordre formel du GAO. Déjà, en septembre 2001, les autorités américaines avaient contraint Bayer à réduire le prix de son traitement contre la maladie du charbon. En fait, aux Etats-Unis comme en Europe, on commence à s'alarmer de la rentabilité inouïe de l'industrie pharmaceutique : entre 15 % et 25 % du chiffre d'affaires. Dans les pays riches, les choix de production et les politiques tarifaires des laboratoires entraînent un véritable racket ; dans les pays pauvres, ces décisions empêchent l'accès aux soins du plus grand nombre. L'itinéraire de la stavudine, un médicament contre le sida, est en cela exemplaire : issue de recherches universitaires, la molécule a été attribuée en exclusivité à la firme Bristol-Myers Squibb, qui a entravé sa commercialisation dans les pays les plus touchés par la pandémie...
+
+[3] يمكن ان يطلق عليه اسم "مبنى ستافودين".
+[4] On aurait pu l'appeler le Stavudine Building.
+
+[4] يقوم المبنى بالقرب من مدرسة الطب، في مكان غير بعيد عن "المعاهد" ذات الهندسة الغوطية الجديدة، ولا عن المكتبات ذات الطابع الجنوبي التابعة لجامعة يال في نيوهافن (كونكتيكوت).
+[5] Le nouveau bâtiment s'élève près de la Medical School, non loin des « colleges » néo-gothiques et des bibliothèques d'allure médiévale de l'université Yale, à New Haven (Connecticut).
+
+[5] ولم تكن المساعدات ولا رسوم التسجيل هي التي أمّنت دفع نصف مبلغ الـ176 مليون دولار، نقداً وعداً، الذي كلفه بناء هذا الصرح الجديد المخصص للأبحاث، بل هي بدلات حق الملكية لدواء مضاد للسيدا كانت الجامعة قد اكتشفته وسجلت براءة اختراعه باسمها.
+[6] Ce ne sont ni les subventions ni les droits d'inscription qui ont permis de régler, rubis sur l'ongle, la moitié des 176 millions de dollars qu'a coûtés ce nouveau temple dédié à la recherche, mais les royalties d'un médicament antisida, découvert et breveté par l'université.
+
+[6] فمنذ إنزاله الى الأسواق في العام 4199 درّ دواء ستافودين [2] على جامعة يال 261 مليون دولار على الأقل [3] ، وهو إذ يشكل 90 في المئة من مداخيل حقوق الملكية التي تمتلكها الجامعة، فقد جعلها تحلق على رأس الجامعات الأميركية التي افسدتها حقوق الملكية الفكرية اكثر من غيرها.
+[7 8] Depuis sa mise sur le marché, en 1994, la stavudine (1) a rapporté à Yale au moins 261 millions de dollars (292 millions d'euros) (2). Représentant 90 % des royalties engrangées par l'université, le médicament a permis à celle-ci de caracoler dans le peloton de tête des universités américaines les plus gâtées par la propriété intellectuelle.
+
+[7] ففي الواقع أن هذه الجامعات هي صاحبة الحق في امتلاك الاختراعات التي تحققها [4] حتى وإن كان 80 في المئة من الموازنات المخصصة لأبحاث الطب الحيوي تؤمّن لجامعة يال كما لغيرها من الأموال الاتحادية العامة عبر مؤسسة الصحة الوطنية.
+[9] Ces dernières sont, en effet, propriétaires des inventions qu'elles réalisent (3), même si, à Yale comme ailleurs, 80 % des budgets de la recherche biomédicale sont financés par les fonds publics fédéraux du National Institute of Health (NIH).
+
+[8] لكن الاختراع الذي يعطى براءة ليس بشيء إذا لم ينزل الى الأسواق، وهكذا منحت الجامعة في العام 1988، بعد سنتين من تسجيل اختراعها [5] ، شركة تصنيع الأدوية العملاقة "بريستول-مايرز سكويب" الحق المطلق في استثمار اختراعها.
+[10 11] Mais une invention brevetée n'est rien si elle n'est pas portée sur le marché. En 1988, deux ans après avoir déposé son brevet (4), l'université concède au géant pharmaceutique Bristol-Myers Squibb (BMS) les droits exclusifs d'exploitation sur son invention.
+
+[9] وبفضل هذه "الاجازة المطلقة" حصلت هذه الشركة على احتكار في جميع دول العالم التي سجلت فيها الجامعة براءة اختراعها، من الولايات المتحدة الى اوروبا وأوستراليا وجنوب افريقيا...
+[12 13] Grâce à cette « licence exclusive », BMS va acquérir un monopole dans tous les pays du monde où l'université a déposé son brevet : Etats-Unis, Europe, Canada, Australie, Afrique du Sud...
+
+[10] وهذا يعني أن للشركة الحرية في تحديد الأسعار كما يحلو لها، وفي المناسبة هي تبيع دف الأقراص من زنة 40 ملليغرام (الكمية المطلوبة يومياً للعلاج هي دفّان) بسعر وسطي يقدر 4.28 دولار [6] .
+[14 15] Ce qui signifie que la compagnie est libre de fixer les prix à sa guise : en l'occurrence, elle vend 4,28 dollars (5) en moyenne la tablette de 40 mg (la dose journalière est de deux tablettes).
+
+[11] وقد حقق دواء ستافودين، تحت الاسم التجاري "زيريت أر" (Zerit(r)) نجاحاً باهراً.
+[16] Sous le nom commercial de Zerit®, la stavudine va faire une carrière fulgurante.
+
+[12] فهذا الدواء، حجر الزاوية في وسائل العلاج الثلاثية، بات منذ العام 1998 اكثر دواء مضاد لتجدد الفيروس يوصف في العالم، فخلال سنتين ونصف سنة (من العام 1998 حتى النصف الأول من العام 2000) باعت منه شركة "بريستول-مايرز سكويب" بما يزيد على 2.3 مليار دولار وخصوصاً في أوروبا والولايات المتحدة.
+[17 18] Pierre d'angle de la trithérapie, ce médicament devient, dès 1998, l'antirétroviral le plus prescrit du monde. En deux ans et demi (de 1998 au premier semestre 2000), BMS en vendra pour plus de 2,3 milliards de dollars, principalement en Europe occidentale et aux Etats-Unis.
+
+[13] أما في جنوب افريقيا، حيث الوباء هو الأكثر انتشاراً [7] ليست المبيعات ذات قيمة (000 600 دولار في العام 1998)، ذاك ان هناك عجزاً عن شراء دواء "زيريت" علماً أن سعر الجرعة اليومية منه 2.23 دولار.
+[19 20] En Afrique du Sud, le pays le plus touché par la pandémie (6), les ventes resteront insignifiantes (600 000 dollars en 1998). A 2,23 dollars la dose, le Zerit est inaccessible.
+
+[14] وطوال العام 2001 سيكون "زيريت" في صلب المعركة من أجل تمكين الأكثر فقراً من الحصول على العلاج، بعدما فتح النار الفرع الجنوب أفريقي لمنظمة "أطباء بلا حدود".
+[21 22] Tout au long de l'année 2001, le Zerit va se trouver au coeur de la bataille pour l'accès des plus pauvres aux médicaments. C'est l'antenne sud-africaine de Médecins sans frontières (MSF) qui ouvre le feu.
+
+[15] ففي شباط/فباير عام 2001 كتب ممثلها الدكتور إيريك غوماير الى السيد جوناثان سودرستروم، مدير مكتب الأبحاث التعاونية في يال والذي يتولى إدارة مسألة البراءات والاجازات.
+[23] En février 2001, son représentant, le Dr Eric Goemaere, écrit à M. Jonathan Soderstrom, directeur de l'Office for Cooperative Research, à Yale, qui gère les brevets et les licences.
+
+[16] وطلبت منظمة "أطباء بلا حدود"، التي منحت جائزة نوبل للسلام في العام 1999 الى الجامعة أن "تسمح باستيراد دفعة نوعية من دواء ستافودين (الى جنوب افريقيا) بما يسمح بتقديم علاج مجاني الى الاشخاص المصابين بمرض السيدا".
+[24] MSF, qui a reçu le prix Nobel de la paix en 1999, demande à l'université « d'autoriser l'importation [en Afrique du Sud] d'une version générique de la stavudine de façon à fournir un traitement gratuit aux personnes affectées par le VIH/sida ».
+
+[17] وأشارت في رسالتها الى العرض المقدم من المصنّع الهندي شركة "سيبلا ليمتد" لبيعها كمية نوعية من "ستافودين" بسعر أدنى من سعر "زيريت" بـ"خمس وثلاثين مرة".
+[25] Elle mentionne, dans sa lettre, la proposition faite par le fabricant indien Cipla Ltd de lui vendre une version générique de la stavudine « trente-quatre fois moins cher » que le Zerit.
+
+[18] في بادئ الأمر رمت جامعة يال الكرة في ملعب شركة "بريستول ــ مايرز سكويب" التي أعادتها الى يال.
+[26] Yale renvoie d'abord la balle à BMS, qui la retourne à Yale.
+
+[19] وفي أواخر شباط/فبراير، وفي حين كانت 39 شركة أدوية تقاضي حكومة جنوب افريقيا لأنها سمحت باللجوء الى "الاجازات الالزامية" في الحالات الصحية الطارئة، كانت مباني جامعة يال تدخل في حال من الغليان، حين قامت إحدى طالبات الحقوق، الآنسة آمي كابتشينسكي، بحملة توقيع عريضة تدعم التماس المنظمة الطبية الطارئ، مدعومة من نقابة جامعية هي "منظمة خريجي الجامعة وطلابها وموظفيها".
+[27 28] Fin février, au moment où trente-neuf compagnies pharmaceutiques attaquent le gouvernement sud-africain en justice parce qu'il a autorisé le recours aux « licences obligatoires » en cas d'urgence sanitaire, le campus de Yale entre en ébullition. Une étudiante en droit, Mlle Amy Kapczynski, soutenue par un syndicat universitaire, le Graduate, Employees and Students Organization (GESO), fait circuler une pétition appuyant la requête de l'organisation médicale d'urgence.
+
+[20] وقد حملت العريضة 600 توقيع من الطلاب والتقنيين والبحاثة منهم الدكتور وليم بروسوف (81 عاماً) الذي كشف مع الدكتور تاي- شون لن (توفي في ما بعد) خصائص "ستافودين" في معالجة مرض السيدا [8] ، الذي اوضح أنه "يجب ألا يموت اي انسان لاسباب اقتصادية، أو لأنه لم يتمكن من شراء الدواء، وسأكون سعيداً بالتخلي عن أي تعويض إذا ساعد هذا في استئصال المرض".
+[29 30 31] La pétition va recueillir 600 signatures d'étudiants, de techniciens, de chercheurs, dont celle du Dr William Prusoff, 81 ans, qui a mis en évidence, avec le Dr Tai-Shun Lin (aujourd'hui décédé), les propriétés de la stavudine dans le traitement du sida (7). « Personne ne devrait mourir pour des raisons économiques, faute de pouvoir s'acheter un médicament, explique-t-il. Et je serais très heureux de ne plus percevoir aucunes royalties si cela pouvait aider à l'éradication de la maladie. »
+
+[21] وفي الواقع تمنح جامعة يال مخترعيها 30 في المئة من عائدات حقوق الاختراع التي تجنيها.
+[32] Yale rétrocède en effet à ses inventeurs 30 % des redevances qu'elle perçoit.
+
+[22 23] ويجري السيد العجوز بعض الحسابات (وهو لا يقبض سوى نصف المبلغ): في الآونة الخيرة وصلت حصتي الى 5.5 او 6 ملايين دولار سنوياً..."
+[33 34] « Ces derniers temps, calcule le vieux monsieur (qui ne touche que la moitié du total), ma part s'est élevée à... 5,5 ou 6 millions de dollars par an... »
+
+[24] فعلى أي أساس تقبض مثل هذه المبالغ؟
+[35] En quoi est-il fondé à percevoir de telles sommes ?
+
+[25] أليس انه أنجز عمله الطبيعي كباحث؟
+[36] N'a-t-il pas accompli normalement son travail de chercheur ?
+
+[26 27] وهو يعترف قائلاً: "أنا لست رجل مال لكن لماذا تترك الجامعات الشركات تملأ جيوبها بفضل اختراعاتنا؟".
+[37] « Je ne suis pas un homme d'argent, reconnaît-il, mais pourquoi les universités laisseraient-elles les compagnies pharmaceutiques se remplir les poches avec nos inventions ? »
+
+[28] وعلى غرار معظم البحاثة في المعهد الطبي في يال فإن الدكتور بروسوف يقلل من اهمية استثماره ومن قدرته على التأثير في الشركة الخاصة التي تستثمر اكتشافه، ويقول ممازحاً:
+[38] Comme la plupart des chercheurs de la Medical School, à Yale, le Dr Prusoff minimise l'importance de son investissement et sa capacité d'influence sur la compagnie privée qui exploite sa découverte.
+
+[29] "أنا في أي حال أستطيع أن أعطيها رأيي لكن ليس من المؤكد أنها ستأخذ به".
+[39 40] « Je peux toujours lui livrer mon opinion. Mais ce n'est pas sûr qu'elle m'écoute », plaisante-t-il.
+
+[30] لكن هذا لم يمنع أن تعمد شركة "بريستول ــ مايرز سكويب"، حتى قبل ان يسلّم الطلاب عريضتهم الى السيد سودرستروم، من التراجع، ففي 14 آذار/مارس أعلنت الشركة من مقرها في نيويورك عن خفض مهم في أسعارها المخصصة لجنوب أفريقيا وتعهدت عدم اللجوء الى أي ملاحقة قضائية ضد أي منتج للدواء، ودائماً شرط ان يكون من جنوب افريقيا.
+[41 42 43 44] Il n'empêche : avant même que les étudiants ne remettent leur pétition à M. Soderstrom, BMS a déjà reculé. Le 14 mars, la compagnie basée à New York annonce une baisse draconienne de ses prix en Afrique du Sud et s'engage à ne pas poursuivre en justice un éventuel producteur de génériques. L'issue de la bataille laissera les activistes de Yale sur leur faim.
+
+[31] لكن نتيجة المعركة هذه لم تشف غليل الناشطين في جامعة يال، فالجامعة لم تتخلّ عن براءة اختراعها لدواء "ستافودين" في جنوب افريقيا كما انها لم تفسخ عقدها مع شركة "بريبستول ــ مايرز سكويب"، وظلت الشركة الهندية "سيبلا ليمتد" خارج اللعبة، أما شركة "أسبن فارماكار" المصنّع المحلي المتوقع لانتاج كمية نوعية من "ستافودين" فقد أجبرت على العمل بالتعاون الوثيق مع الشركة الأميركية الأولى.
+[45 46 47 48] L'université n'a pas renoncé à son brevet sur la stavudine en Afrique du Sud ni rompu son accord de licence avec BMS. « En Afrique du Sud, raconte le Dr Eric Goemaere, nous utilisons de la stavudine de chez BMS, parce que, grâce entre autres à Amy Kapczynski, leurs prix se sont effondrés. » Aspen Pharmacare, un fabricant sud-africain de génériques, s'est mis sur les rangs pour en produire une copie. « Mais aucun accord n'a été signé entre Aspen et BMS et, depuis le début, Aspen se plaint du fait que BMS traîne les pieds, rapporte le Dr Goemaere.
+
+[32] والحال فإنه تمّ وقف المنافسة من جهة، ولم يعد امام حكومة جنوب أفريقيا،من جهة أخرى، أي سبب وجيه لإقرار قانون "الاجازة الالزامية" في قضية "ستافودين" والذي كان سيساعدها في تخطي رأي الممسكين بالبراءة والاجازة.
+[49 50 51] La compagnie sud-africaine n'a obtenu aucun fichier d'informations sur la molécule, aucun transfert de technologie. Contrairement à d'autres, BMS semble avoir lâché beaucoup de lest. Mais cette baisse drastique des prix lui a permis de décourager la concurrence et d'empêcher jusqu'ici l'émergence de produits génériques. »
+
+[33 34] وتقول الآنسة امي كابتشينسكي بشيء من الأسف: "إن مركز القرار لا يزال في الولايات المتحدة، وليس من اجل هذا كنا نناضل!
+[52 53] « Le centre de décision se trouve toujours aux Etats-Unis, regrette Mlle Amy Kapczynski. Ce n'est pas pour cela que nous nous étions battus !
+
+[35] كنا نريد قلب هذا النوع من توازن القوة، فأولئك الذين يحتاجون الدواء يجب أن يشاركوا في اتخاذ القرار، ولكانت تبدلت الأمور كثيراً لو ان جامعة يال تنازلت عن براءة اختراعها محلياً، لكانت قامت حركة منافسة فعلية.
+[54 55 56] Ceux qui ont besoin de ces traitements doivent être associés aux prises de décision. Tout aurait été différent si Yale avait renoncé à son brevet local. Une vraie concurrence aurait pu s'instaurer.
+
+[36] لكن التنازل عن البراءة أو فسخ العقد كان يعني بالنسبة الى جامعة يال المسّ بنقطة بالغة الحساسية، وهي مسألة العلاقات بين الجامعة والشركات".
+[57 58] Mais renoncer au brevet ou rompre le contrat, pour Yale, c'était toucher à un point extrêmement sensible : celui des relations entre l'université et les compagnies. »
+
+[37] وترفض شركة "بريستول ــ مايرز سكويب" أن تبدي رأيها في هذه النقطة بالذات وفي غيرها، وهذا التحليل هو أيضاً رأي السيد سودرستروم الذي أكد:
+[59 60] Sur ce point comme sur tous les autres, BMS refuse de s'exprimer. Mais cette analyse est aussi celle de M. Soderstrom :
+
+[38] "لم يكن هناك قط أدنى اختلاف بيننا وبين شركة بريستول ــ مايرز سكويب، وكان همنا أن نجد الجواب الصحيح (على طلب منظمة "أطباء بلا حدود").
+[61 62] « Jamais, entre BMS et nous, il n'y a eu le moindre différend, affirme-t-il. Notre souci commun était de trouver une réponse juste [à la demande de MSF].
+
+[39] فلم يكن يحق لنا، نحن كجامعة يال، أن نقرر التصرف من طرف واحد.
+[63] Nous ne pouvions pas décider, nous Yale, d'une action unilatérale.
+
+[40] فلقد عقدنا اتفاقاً حول الاجازة ومنذ سنوات ونحن نقوم بالعديد من مشاريع الأبحاث مع شركة بريستول مايرز سكويب".
+[64] Nous avions passé un accord de licence et nous menons depuis des années plusieurs programmes de recherches avec BMS. »
+
+[] 
+[65] Opacité totale, données biaisées
+
+[41] ففي الواقع، تموّل الشركة النيويوركية سنوياً في يال ندوة شركة "بريستول ــ مايرز سكويب" إضافة الى ندوة أبحاث المتخرجين التي يفترض بها مساعدة المجازين في علوم الطب الحيوي للالتقاء بمستخدميهم مستقبلاً.
+[66] La compagnie new-yorkaise sponsorise en effet chaque année, à Yale, le symposium BMS ainsi que le Graduate Student Research Symposium, qui doit aider les diplômés en sciences biomédicales à rencontrer leur futur employeur.
+
+[42] كما ان بعض كبار الموظفين المديرين في هذه الشركة قد تولوا مسؤوليات كبرى في جامعة يال، وقد موّلت الشركة، بحسب ما يقول السيد سودرستروم، العديد من برامج الأبحاث حول أمراض الزهايمر والسرطان والسيدا...
+[67] Certains cadres dirigeants de chez BMS ont exercé de hautes responsabilités à Yale et la compagnie - comme le dit M. Soderstrom - a financé plusieurs programmes de recherche sur la maladie d'Alzheimer, le cancer, le sida...
+
+[43 44] ويعترف الدكتور بروسوف: "من المؤكد أن شركات الأدوية تتشدد في موضوع الأسعار!
+[68 69] « Bien sûr, les compagnies pharmaceutiques peuvent exagérer sur les prix ! reconnaît le Dr Prusoff.
+
+[45] لكننا مرتهنون لها إذ انها تسدي الينا خدمة بالغة الأهمية، فجامعة يال لا تملك الوسائل التقنية ولا المالية لتصنيع الدواء.
+[70 71 72] Mais nous en sommes dépendants. Elles nous rendent un service extraordinaire : Yale n'a pas les moyens techniques ni financiers de produire un médicament.
+
+[46] ولكي يصل الدواء الى المريض يجب أن يحظى بموافقة دائرة الغذاء والأدوية، مما يتطلب تجارب باهظة الكلفة على الانسان، فغالباً ما يتبين ان الدواء سام وهذا يعني خسارة كلية لملايين الدولارات في الاستثمار، وإذا اخذنا في الاعتبار الأخطار ما بين وضع التصور والانزال الى الاسواق، يجب ان نحتسب الكلفة ما بين 500 و800 مليون دولار!".
+[73 74 75 76] Pour qu'il arrive jusqu'aux patients, il doit être approuvé par la Food and Drug Administration (FDA), ce qui nécessite des essais sur l'homme très onéreux. Souvent, il arrive qu'un médicament se révèle toxique. Ce sont des millions de dollars investis en pure perte. Compte tenu des risques, entre le concept et la mise sur le marché, il faut compter de 500 à 800 millions de dollars ! »
+
+[47] فمن أين يأتون بهذه الارقام وقد ذكرها أيضاً خلال منبر حرّ نشر في 19 آذار/مارس عام 2001 في صحيفة "نيويورك تايمز"؟
+[77] D'où tire-t-il ces chiffres, qu'il a également cités dans une tribune libre publiée le 19 mars 2001 par le New York Times ?
+
+[48] فحتى السيد العجوز يعترف بأنه لا يعرف شيئاً ويقول "أسمعهم يوردون الأرقام طوال الوقت".
+[78 79] Le vieux monsieur avoue qu'il n'en sait rien. « Je les entends citer tout le temps », dit-il.
+
+[49] في الحقيقة أنها تأتي من شركة "اميركا لأبحاث الأدوية وتصنيعها" (Pharmaceutical Research and Manufacturers of America) ومن مجموعة الضغط التي تشكلها شركات تصنيع الأدوية ومن مركز "تافتس لدراسة تطور الادوية"، وهو مركز أبحاث تموله شركات تصنيع الأدوية بنسبة 65 في المئة.
+[80] En réalité, ils viennent du Pharmaceutical Research and Manufacturers of America (PhRMA), le lobby des compagnies pharmaceutiques, et du Tufts Center for the Study of Drug Development, un centre de recherche sponsorisé à 65 % par l'industrie du médicament.
+
+[50] وبحسب هذين الجهازين أن مبلغ الـ500 مليون هو متوسط كلفة إعداد دواء جديد حتى كانون الأول/دسمبر عام 2001، اي حتى الموعد الذي أعادت فيه شركة "تافتس سنتر" تقدير هذا الرقم بـ802 مليون دولار.
+[81 82] 500 millions : c'est - selon ces deux organismes - le coût moyen de l'élaboration d'un nouveau médicament jusqu'en décembre 2001, date à laquelle le Tufts Center réévalue ce chiffre à 802 millions de dollars.
+
+[51] غير أن دراسته لا تتناول سوى عدد قليل من أنواع الأدوية وهي تلك التي اكتشفت وطورت بدون أي مساعدة من الدولة، كما أن نصف هذا المبلغ على الأقل وهمي وهو عبارة عن "تعويض" تقتطعه الشركات لنفسها قياساً على الفوائد التي كان يمكن ان تدرها المبالغ الموظفة لو أنها استثمرت في البورصة.
+[83 84 85 86] Mais son étude ne porte que sur une minorité de molécules : celles qui ont été découvertes et développées sans aucune aide de l'Etat. Et la moitié de cette somme est pour le moins virtuelle : il s'agit du « coût d'opportunité », une compensation que s'accorde l'industrie privée en fonction des intérêts qu'auraient rapportés les sommes investies, si elles avaient été placées en Bourse.
+
+[52] إذاً هناك مبالغة في تقدير المجازفات و"التعويضات" وتناسٍ للاعفاءات الضرائبية...
+[87] Evaluation exagérée des risques et des compensations, oubli des exonérations fiscales...
+
+[53] فحتى في العام 2001 قدّر جهاز مستقل هو "بابليك سيتيزن" [9] وعلى الأسس نفسها أن الكلفة القصوى في القطاع الخاص لتكوين جسم كيميائي جديد كلياً هو 110 ملايين دولار.
+[88] Toujours en 2001, un organisme indépendant, Public Citizen (8), chiffrait, sur les mêmes bases, à 110 millions de dollars la somme maximum dépensée par le privé pour faire éclore une entité chimique entièrement nouvelle.
+
+[54] أما ما هي حصة كل من القطاع العام والقطاع الخاص؟
+[89] Quelle est la part du public et du privé ?
+
+[55] فالأمر يكتنفه الغموض ويجري تحريف المعطيات، وما تستنجه الآنسة إلس تورريلي، الباحثة في التكنولوجيا الحيوية ومنشطة حملة "أطباء بلا حدود" من أجل الأمراض المهملة أنه "عندما يوظف القطاع الخاص ألف دولار لانتاج دواء جديد فإنه يقدره في التكاليف النهائية بألفي دولار آخذاً في الاعتبار الأخطار والتعويضات.
+[90 91 92] L'opacité est totale et les données biaisées : « Quand le secteur privé met 1 000 dollars dans un nouveau médicament, il l'évalue, dans le coût final, à 2 000 dollars, compte tenu des risques et des compensations. Quand le secteur public, en revanche, met 1 000 dollars dans un médicament, sa part sera évaluée, au final, à 1 000 dollars.
+
+[56] وفي المقابل عندما يوظف القطاع العام ألف دولار لانتاج دواء ما فإن مساهمته تقدر في النهاية بألف دولار، وذلك لأنه يعتبر مساعدة وليس استثماراً، وهكذا يقلل الى حد بعيد من أهمية مساهمة القطاع العام في اعمال البحث والتطوير.
+[93 94] Parce que c'est une subvention, non un investissement. C'est ainsi que la contribution du public à la recherche et au développement est largement sous-évaluée », constate Mme Els Torreele, chercheuse en biotechnologie et animatrice de la campagne de MSF en faveur des maladies négligées.
+
+[57] والأسوأ أن القطاع الخاص قد تعوّد ان يشمل المال العام في حساباته الخاصة لتحديد كلفة دواء ما وثمنه، والنتيجة ان المكلف يدفع مرتين ثمن الدواء نفسه".
+[95 96 97] « Pire : le secteur privé a pris l'habitude d'englober l'argent public dans ses propres calculs pour définir le coût et le prix d'un médicament. Résultat : le contribuable paye deux fois le même médicament. »
+
+[58] إن "ستافودين" والأدوية الأربعة الأخرى المضادة لتجدد الفيروس من فصيلة "نوكليوسيديك" [10] قد استنبطت كلها بواسطة الأموال العامة في الولايات المتحدة.
+[98] La stavudine et les quatre autres antirétroviraux de la famille des inhibiteurs nucléosidiques (9) ont tous été inventés sur fonds publics aux Etats-Unis.
+
+[59] أما بالنسبة الى المضادات التسعة الأخرى لتجدد الفيروس (الكابتة للبروتياز وغير النوكليوسيدية) فقد استفادت من دعم أموال الدولة من وقت الى آخر في مراحل البحث او في المراحل التجريبية.
+[99] Pour les neuf autres antirétroviraux (inhibiteurs de protéase et non nucléosidiques), des fonds d'Etat sont venus soutenir, à un moment ou à un autre, la recherche ou les phases d'essai.
+
+[60] غير أن أموال القطاع الخاص هي التي توجه الأمور.
+[100] Mais ce sont les fonds privés qui donnent le « la ».
+
+[61 62] ويؤكد الدكتور بروسوف: "إن مشاركة المال الخاص لم تتجاوز قط ربع التمويل الذي حظيت به على مدى ثلاثين عاماً من إدارتي الأبحاث.
+[101] « L'apport d'argent privé n'a jamais dépassé le quart du total de mes financements, pendant les trente années où j'ai dirigé des recherches, reconnaît le Dr Prusoff.
+
+[63] لكني أوعزت بإعطاء اجازة ستافودين الى شركة بريستول مايرز سكويب لأن قسمنا قد تلقى منذ سنوات مساعدة كبيرة من هذه الشركة لصناعة أدوية ضد السرطان.
+[102] Mais j'ai recommandé BMS, pour l'attribution d'une licence sur la stavudine, parce que notre département, il y a plusieurs années, avait reçu une grosse subvention de cette société pour élaborer des médicaments anticancer.
+
+[64] وقد استفدت من جزء بسيط من هذه الأموال للعمل على مضادات تجدد الفيروس.
+[103] J'avais bénéficié d'une petite partie de ces fonds pour travailler sur les antirétroviraux.
+
+[65] ومقابل ذلك حظيت هذه الشركة بحق الشفعة في كل دواء نركبه، وهذا ما انطبق على ستافودين".
+[104 105] En échange, BMS s'était réservé un droit de préemption sur tout composé que nous produirions. Ce fut le cas de la stavudine. »
+
+[66] وباستثناء حلقة ضيقة من مناضلي منظمة الخريجين والموظفين والطلاب، بدا ان جامعة يال بأجمعها تنساق وراء حديث واحد.
+[106] Sauf dans le petit cercle des militants du GESO, Yale tout entière semble vouée à un discours fataliste.
+
+[67] فلماذا مثلاً لم تعطَ إجازة عادية، غير مطلقة، لشركة "بريستول مايرز سكويب"، مما كان سيسمح للجامعة بتدبر طريقة ضغط لصالح المصلحة العامة؟
+[107] Pourquoi, par exemple, ne pas avoir accordé une simple licence - non exclusive - à BMS, ce qui aurait permis à l'université de se ménager un moyen de pression en faveur de l'intérêt public ?
+
+[68] على هذا السؤال يرد السيد سودرستروم:
+[108] « Aucune compagnie ne l'aurait accepté, rétorque M. Soderstrom.
+
+[69] "لم تكن اي شركة لتقبل بذلك، فإما الاجازة المطلقة وإما لا إجازة ابداً!
+[109] C'est la licence exclusive ou pas de licence du tout !
+
+[70] ونظراً الى الوقت والمال الضروريين لإجراء التجارب المخبرية ولتطوير الدواء يبدو من الصعوبة بمكان التصور أن شركة ما ستلتزم معنا بدون أن تؤمّن لها الوسائل لحماية استثمارها!".
+[110] Vu le temps et l'argent nécessaires pour mener les essais cliniques et développer un médicament, il est difficilement concevable qu'une entreprise s'engage avec nous sans avoir les moyens de protéger son investissement ! »
+
+[71] أما الآنسة آن فاليري كانيندا، المستشارة الطبية في مكتب "أطباء بلا حدود" في نيويورك، فتعطي تفسيراً آخر لحال التصلب هذه إذ تقول:
+[111] Conseillère médicale au bureau MSF de New York, Mme Anne-Valérie Kaninda apporte une autre explication à cette intransigeance :
+
+[72] "إن الاجازة المطلقة هي امتداد لمسيرة الاحتكار التي تبدأ مع براءة الاختراع، وهذا الاحتكار هو الذي يجعل الأسعار تشتعل".
+[112 113 114] « La licence exclusive, dit-elle, prolonge la chaîne du monopole initiée par le brevet. Et c'est ce monopole qui fait que les prix flambent. » Ouvrir les livres de comptes
+
+[73] ولذلك فان أي تعرض مهما كان بسيطاً لـ"سلسلة الاحتكار" هذه سرعان ما تعتبره الشركات تعرضاً للأبحاث.
+[115] Toute atteinte si minime soit-elle à cette « chaîne du monopole » est aussitôt considérée par l'industrie comme une atteinte à la recherche.
+
+[74] فحين قررت منظمة التجارة العالمية التي اجتمعت في الدوحة في تشرين الثاني/نوفمبر المنصرم ان تخفف من قيود براءة الاختراع من أجل الدول الفقيرة، ارتفعت على الفور صرخات الاحتجاج، فاذا السيد دانيال فاسيلا، المدير العام لشركة "نوفارتس آ.جي." [11] يصرح:
+[116] Quand l'Organisation mondiale du commerce (OMC) réunie à Doha, en novembre 2000, décida d'assouplir les règles du brevet pour les pays pauvres, ce fut immédiatement une levée de boucliers :
+
+[75] "بدون براءات الاختراع لا يمكن تحقيق المكاسب وهذا ما سيعوق الأبحاث".
+[117] « Sans les brevets, les profits ne sont pas possibles et la recherche souffre », déclara M. Daniel Vasella, PDG de Novartis AG (10).
+
+[76] ولكن كيف يمكن أن نفسر في هذه الظروف أن تعمد الشركات الكبرى المنتجة للأدوية، وكلها تحقق أرباحاً قياسية، الى التوظيف في مجال التسويق والادارة ثلاثة اضعاف ما توظفه في مجال الأبحاث والتطوير [12] ؟
+[118] Mais comment expliquer, dans ces conditions, que les grands producteurs de médicaments - qui tous engrangent des profits records - investissent trois fois plus dans le marketing et l'administration que dans la recherche et le développement (11) ?
+
+[77] كما ان المختبرات، ودعماً لسياسة التسعير التي تعتمدها، تثير كما رأينا مسألة التكاليف الباهظة في تجارب المرحلة الثالثة، اي تلك المخصصة للاختبارات الواسعة على المرضى المتطوعين، وهم في الغالب مضطرون لتقديم أنفسهم لهم.
+[119] A l'appui de leur politique de prix, les laboratoires invoquent, on l'a vu, les coûts exorbitants des essais de phase III - ceux dédiés aux tests à grande échelle sur des volontaires malades - qui leur échoient généralement.
+
+[78] لكن كم كلفت في الحقيقة هذه المرحلة الثالثة في حالة دواء "ستافودين"؟
+[120] Mais combien cette phase III a-t-elle vraiment coûté dans le cas de la stavudine ?
+
+[79] في منبره الحر الذي ورد في صحيفة "نيويورك تايمز" أثار الدكتور بروسوف الرقم اللافت، "اكثر من 13000 مصاب بفيروس السيدا" خضعوا لاختبارات شركة "بريستول ــ مايرز سكويب" في إطار تجارب المرحلة الثالثة.
+[121] Dans sa tribune libre au New York Times, le Dr Prusoff évoquait le chiffre impressionnant de « plus de 13 000 patients infectés par le VIH » testés par BMS dans le cadre des essais de phase III.
+
+[80] وبعد ثمانية اشهر اعترف لنا هذه الباحث أن هذا الرقم على الأرجح "قد تناهى اليه من أحد المتحمسين في شركو بريستول مايرز سكويب".
+[122] Huit mois plus tard, le chercheur reconnaissait devant nous que ce chiffre lui avait sans doute été « soufflé par quelqu'un d'enthousiaste, chez BMS ».
+
+[81] ومن جهته فإن أختصاصياً في تطوير مضادات تجدد الفيروس قد قدر بـ3000 متوسط عدد المرضى الذين اختبروا في إطار المرحلة الثالثة، على أساس ما بين 25000 و30000 دولار سنوياً للمريض الواحد.
+[123] Pour sa part, un spécialiste du développement des antirétroviraux évalue à 3 000 le nombre moyen de malades testés en phase III, à raison de 25 000 à 30 000 dollars par patient et par an.
+
+[82] "وإذا اخذنا في الاعتبار بدلات التامين ونقل شرائح الدم وجمع المعطيات ومعالجتها والمتابعة اللصيقة لألوف المصابين الذين توزع عليهم الأدوية من باب الرحمة والدراسات المتعلقة بالسموم ، وتطوير الدواء...
+[124] « Compte tenu des primes d'assurance, du transport des échantillons de sang, du recueil et du traitement des données, du suivi plus léger des milliers de patients à qui l'on distribue le médicament au titre de l'usage compassionnel, des études toxicologiques, du développement pharmaceutique...
+
+[83] فإن الكلفة تقارب الـ500 مليون دولار!".
+[125] On n'est pas loin des 500 millions de dollars ! »
+
+[84] إن السيد جيمس لوف، احد معاوني السيد رالف نادر، المتخصص في الكفاح ضد احتكارات الأدوية، قد اعاد الحسابات بالنسبة الى "ستافودين" مستنداً الى المعطيات التي نشرتها دائرة الغذاء والأدوية (822 مصاباً خضعوا للاختبار) على أساس كلفة متوسطة للمريض سنوياً تقدر بـ10000 دولار("وهو رقم يفوق بشكل واضح متوسط الرقم الوارد في العقود المعتمدة عادة في هذا القطاع").
+[126] M. James Love, l'animateur du Consumer Projet on Technology, a refait ces calculs pour la stavudine, en se fondant sur les données publiées par la FDA (822 patients testés) à raison de 10 000 dollars en moyenne, par patient et par an (« ce qui est nettement supérieur à la moyenne des contrats habituellement pratiqués dans le secteur »).
+
+[85] ففي الاجمال ومع الأخذ في الاعتبارالأخطار "غير المرتفعة كون 70 في المئة من الأدوية المستخدمة في المرحلة الثالثة تكون مختبرىة في الأساس" إضافة الى التعويضات "كون الرأسمال الموظف هو قليل بدوره لأن عملية التحقق لا تدوم سوى سنتين"، يتوصل جيمس لوف الى خلاصة مفادها أن تطوير دواء ستافودين يجب ألا يكون قد كلّف شركة "بريستول ــ مايرز سكويب" اكثر من 15 مليون دولار.
+[127 128] Au total, compte tenu des risques - « qui ne sont pas si élevés puisque 70 % des médicaments en phase III sont approuvés » - et des compensations, « le coût du capital étant lui aussi assez faible, puisque l'investigation n'a duré que deux ans », il en arrive à la conclusion que le développement de la stavudine n'a pas dû coûter plus de... 15 millions de dollars à BMS.
+
+[86] فأين هي الحقيقة؟
+[129] La vérité ?
+
+[87] إنها في دفاتر حسابات شركات الأدوية التي تتمنع بعناد عن فتحها باسم السرية التجارية.
+[130] Elle se trouve dans les livres de comptes que les compagnies pharmaceutiques refusent obstinément d'ouvrir, au nom du secret commercial.
+
+[88] فعندما طلب القاضي الجنوب افريقي الحصول على معطيات محددة حول سياسة التسعير المتعلقة بمضادات تجدد الفيروس، فضّل أصحاب المصانع التسعة والثلاثون أن يسحبوا دعواهم.
+[131] Quand, à Pretoria, le juge sud-africain a voulu obtenir des données précises sur les politiques de prix concernant les antirétroviraux, les trente-neuf industriels ont préféré retirer leur plainte.
+

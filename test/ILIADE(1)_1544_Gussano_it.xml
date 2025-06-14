@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng"?>
+<?xml-model href="https://gricad-gitlab.univ-grenoble-alpes.fr/elan/schemas-tei/-/raw/main/parataxe/out/parataxe_odd.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encodage developpé pour le projet ParaTAXE</title>
+            <respStmt>
+               <resp>Responsable du projet</resp>
+               <name xml:id="louettec">Christiane Louette</name>
+            </respStmt>
+            <respStmt>
+               <resp>Élaboration du schéma</resp>
+               <name xml:id="annegf">Anne Garcia Fernandez</name>
+            </respStmt>
+            <respStmt>
+               <resp>Élaboration et implementation du schéma</resp>
+               <name xml:id="crespis">Serena Crespi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encodage du fichier</resp>
+               <name xml:id="aurorag">Aurora Giribuola</name>
+            </respStmt>
+         </titleStmt>
+         <!--####################################################
+            ATTENTION: Ici c'est possible d'insérer les informations 
+               concernantes le fichier electronique xml.
+            ########################################################-->
+         <editionStmt>
+            <edition/>
+            <author/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>UMR Litt&amp;Arts (UGA-CNRS)</authority>
+            <address>
+               <addrLine>UGA Grenoble</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <!--####################################################
+            ATTENTION: Ici c'est possible d'insérer les informations 
+               bibliographiques de l'édition.
+            ########################################################-->
+            <bibl>
+               <title>Iliade</title>
+               <editor role="editor_scientifique">Francesco Gussano</editor>
+               <pubPlace>Venise</pubPlace>
+               <publisher>Comin da Trino</publisher>
+               <date>1544</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+   </teiHeader>
+   <text>
+      <front>
+         <!--####################################################
+            ATTENTION : Ici, il est possible d'insérer les informations 
+            des sections. Chaque section doit présenter un attribut 
+            xml:id qui permet de l'identifier.
+            ########################################################-->
+         <interpGrp source="livreI_Homère">
+            <desc>Les séquences ont été établies d'après les notes marginales des traductions de Hessus et de Salel</desc>
+            <interp xml:id="p1a">Proposition et invocation</interp>
+            <interp xml:id="p2a">Narration</interp>
+            <interp xml:id="p3a">Discours de Chrysès aux Atrides et aux Grecs</interp>
+            <interp xml:id="p4a">Agamemnon repousse Chrysès avec outrage</interp>
+            <interp xml:id="p5a">Chrysès à Apollon</interp>
+            <interp xml:id="p6a">Apollon envoie la peste au camps des Grecs</interp>
+            <interp xml:id="p7a">Achille convoque les Grecs</interp>
+            <interp xml:id="p8a">Achille à Agamemnon</interp>
+            <interp xml:id="p9a">Calchas à Achille</interp>
+            <interp xml:id="p10a">Achille à Calchas</interp>
+            <interp xml:id="p11a">Avis de Calchas touchant la peste au camp des Grecs</interp>
+            <interp xml:id="p12a">Agamemnon à Calchas</interp>
+            <interp xml:id="p13a">Achille à Agamemnon</interp>
+            <interp xml:id="p14a">Agamemnon à Achille</interp>
+            <interp xml:id="p15a">Achille en colère à Agamenon</interp>
+            <interp xml:id="p16a">Agamemnon à Achille</interp>
+            <interp xml:id="p17a">Achille en pensée s'il doit tuer Agamemnon</interp>
+            <interp xml:id="p18a">Achille à Pallas</interp>
+            <interp xml:id="p19a">Pallas à Achille</interp>
+            <interp xml:id="p20a">Achille encore à Pallas</interp>
+            <interp xml:id="p21a">Injures d'Achille à Agamemnon</interp>
+            <interp xml:id="p22a">Nestor</interp>
+            <interp xml:id="p23a">Harangue de Nestor à Agamemnon</interp>
+            <interp xml:id="p24a">Agamemnon à Nestor</interp>
+            <interp xml:id="p25a">Achille à Agamemnon</interp>
+            <interp xml:id="p26a">Agamemnon renvoie Cryséis à son père</interp>
+            <interp xml:id="p27a">Agamemnon fait repurger le camp</interp>
+            <interp xml:id="p28a">Agamemnon envoie oster Briséis à Achille par ses hérauts</interp>
+            <interp xml:id="p29a">Achille aux hérauts d'Agamemnon</interp>
+            <interp xml:id="p30a">Patrocle leur délivre Briséis</interp>
+            <interp xml:id="p31a">Achille à Thétis sa mère</interp>
+            <interp xml:id="p32a">Thétis vient à son fils</interp>
+            <interp xml:id="p33a">Plaintes d'Achille à Thétis</interp>
+            <interp xml:id="p34a">Thétis à Achille</interp>
+            <interp xml:id="p35a">Ulysse arrive vers Chrysès et lui rend Chryséis sa fille</interp>
+            <interp xml:id="p36a">Ulysse à Chrysès</interp>
+            <interp xml:id="p37a">Prière de Chrysès à Apollon pour retirer la peste du camp des Grecs</interp>
+            <interp xml:id="p38a">Apollon entend la prière de Chrysès</interp>
+            <interp xml:id="p39a">Thétis à Jupiter pour son fils</interp>
+            <interp xml:id="p40a">Jupiter à Thétis</interp>
+            <interp xml:id="p41a">Junon à Jupiter</interp>
+            <interp xml:id="p42a">Jupiter à Junon</interp>
+            <interp xml:id="p43a">Junon encore à Jupiter</interp>
+            <interp xml:id="p44a">Jupiter à Junon</interp>
+            <interp xml:id="p45a">Vulcan à Junon sa mère</interp>
+         </interpGrp>         
+      </front>
+      <body>
+         <!--####################################################
+            ATTENTION : La nouvelle structure prévoit que dans 
+            l'attribut @ana, à l'intérieur des <lg>, soit inséré 
+            le renvoi à la section textuelle correspondante, dont 
+            les informations sont encodées ci-dessus dans l'élément <interpGrp>.
+            ########################################################-->
+         <lg ana="#p1a" n="1a">
+            <l>L’ira dannosa o Dea canta d’Achille</l>
+            <l>Figliuol di Peleo: che infinite doglie</l>
+            <l>A i Greci porse: et molte anime chiare</l>
+            <l>Gir fece inanzi al natural destino,</l>
+            <l>Giu nel caliginoso et cieco inferno,</l>
+            <l>d’Heroi possenti: et le lor membra diede</l>
+            <l>Per duro, acerbo, et doloroso scempio</l>
+            <l>A ingordi cani et a rapaci augelli.</l>
+            <l>Per di Giove adempir l’alto consiglio:</l>
+            <l>Onde pria fur divisi contendendo,</l>
+            <l>Atride re degli uomini mortali;</l>
+            <l>E Achille, per valor alto e divino.</l>
+            <l>Qual de i celesti et immortali Dei,</l>
+            <l>Pose tra lor contese a l’aspra guerra?</l>
+         </lg>
+         <lg ana="#p2a" n="2a">
+            <l>Quel ch’è di Giove, et di Latona figlio:</l>
+            <l>che contra il re di fiero sdegno acceso;</l>
+            <l>Di morbo reo il greco stuolo oppresse.</l>
+            <l>Il popolo infelice ognihor periva.</l>
+            <l>Fu la cagion; perche il figliuol d’Atreo</l>
+            <l>Fe a Chryse sacerdote ira et vergogna.</l>
+            <l>Questi de greci a le veloci navi</l>
+            <l>Venne per liberar l’amata figlia;</l>
+            <l>Portando molti doni a cio far degni:</l>
+            <l>Ne le mani tenendo le corone</l>
+            <l>D’Apollo che lontan ferisce e’mpiaga</l>
+            <l>Col suo donato scettro: et e pregava</l>
+            <l>Tutta de greci l’honorata schiera;</l>
+            <l>Et sopra ogni altro, i duo figli d’Atreo</l>
+            <l>Principi del gran stuolo. </l>
+         </lg>
+         <lg ana="#p3a" n="3a">
+            <l> O voi figliuoli</l>
+            <l>D’Atreo, et altri ben armati greci,</l>
+            <l>I Dei che tengon i celesti alberghi,</l>
+            <l>Vi dian la gran città di Troia, altiero</l>
+            <l>Seggio di Priamo in preda; et il ritorno,</l>
+            <l>Felice, ne i paterni amati nidi:</l>
+            <l>De l’empia servitù sciogliete il nodo</l>
+            <l>A la mia figlia, mio diletto pegno:</l>
+            <l>Et prendete i bei doni ch’io vi porto:</l>
+            <l>Honorando di Giove il figlio Apollo,</l>
+            <l>Che manda di lontan gli horribil strali.</l>
+            <l>Lodaro gli altri greci ad alta voce,</l>
+            <l>Che reso fosse al sacerdote honore</l>
+            <l>Pigliando i ricchi et bei lucenti doni.</l>
+            <l>Del grande agamenon figliol d’Atreo,</l>
+            <l>Gia non piacque al nato animo altiero</l>
+            <l>Ma con ingiuriose aspre parole,</l>
+            <l>A lui dando licenza cosi disse</l>
+         </lg>
+         <lg ana="#p4a" n="4a">
+            <l>Grave da gli anni, fa che non ti trovi</l>
+            <l>Piu, dove sono l’incoronate navi: </l>
+            <l>Ne hor fa che ritardi o ardisca poi</l>
+            <l>Di ritornar perche dei creder certo,</l>
+            <l>Che non ti giovera scetro o corona</l>
+            <l>Del Dio che gia non voglio la tua figlia</l>
+            <l>Scioglier di servitu; fin che l’asale</l>
+            <l>La faticosa, et debile vecchiezza;</l>
+            <l>In Argo nostro antico et degno seggio;</l>
+            <l>Lontan de la sua patria amata et dolce:</l>
+            <l>Tessendo tela: et al mio letto adorno</l>
+            <l>Venendo incontra reverente humile,</l>
+            <l>Vattene adunque; ne far ch’i m’adiri;</l>
+            <l>Mentre che salvo tu puoi far partita.</l>
+            <l>Cosi diss’egli: e il vecchio sbigottito,</l>
+            <l>Tosto obedisce a l’alto suo sermone.</l>
+            <l>Et cheto lungo a i liti se ne giva,</l>
+            <l>Dove percuote risuonando il mare.</l>
+            <l>Poscia, cosi solingo andando il vecchio,</l>
+            <l>Molte preghere porse al gran re Apollo.</l>
+            <l>Che partori Latona, ch’a i capelli</l>
+            <l>A l’aura sparsi, et sopra or terso biondi.</l>
+         </lg>
+         <lg ana="#p5a" n="5a">
+            <l>Odimi tu, ch’l bell’arco d’argento</l>
+            <l>Possiedi; et guardi Chryse et la divina</l>
+            <l>Cilla; et tenendo tien tuo seggio altiero</l>
+            <l>Apollo; se giamai il tuo grato tempio</l>
+            <l>Coronai di be fiori et verdi frondi:</l>
+            <l>O se giamai le grasse coscie i arsi,</l>
+            <l>di forte toro, et di lasciva capra.</l>
+            <l>Adempi alto Signor questo desio:</l>
+            <l>Fa che paghino i greci il caldo humore,</l>
+            <l>Che stillan gli occhi miei, con li tuoi strali.</l>
+         </lg>
+         <lg ana="#p6a" n="6a">
+            <l>Cosi disse pregando. E’ l chiaro Apollo</l>
+            <l>Udi la su, gli ardenti prieghi suoi:</l>
+            <l>Et ratto scese giu da l’alte cime</l>
+            <l>Del grande Olympo, et ne l’interno petto</l>
+            <l>Tutto avampava di focoso sdegno.</l>
+            <l>L’arco pendea da gli homeri del Dio,</l>
+            <l>Con la pharetra d’ognintorno cinta.</l>
+            <l>Risuonaro le acute aspre quadrella,</l>
+            <l>Ne gli homeri a l’irato, essendo mosso.</l>
+            <l>Ei sen’giva simile a l’ombra oscura;</l>
+            <l>Che spiega il vel de la profonda notte,</l>
+            <l>Et s’assise in disparte de le navi.</l>
+            <l>Ne l’usar poi de velenoso strale,</l>
+            <l>Che il Dio mandò da la spietata corda;</l>
+            <l>Fece l’arco d’argento horribil suono:</l>
+            <l>Assalse prima i muli, et i veloci</l>
+            <l>Cani: et poscia in lor l’acuto strale</l>
+            <l>Drizzò, che porta seco acerba morte.</l>
+            <l>Le spesse pyre de la gente occisa</l>
+            <l>Mai sempre ardevan di novelle flamme.</l>
+            <l>Nove giorni nel popolo infelice</l>
+            <l>Andar vagando le crudel saette;</l>
+            <l>Spinte da l’arco de l’irato Dio.</l>
+         </lg>
+         <lg ana="#p7a" n="7a">
+            <l>Nel decimo chiamò la turba mesta</l>
+            <l>A la pubblica piazza il grande Achille.</l>
+            <l>Gli pose questo ne l’animo altiero</l>
+            <l>Giunon, di bianche membra adorna e bella.</l>
+            <l>Che per li greci la divina mente</l>
+            <l>In profondo pensier tenea sepolta; </l>
+            <l>Mentre de morti il gran numero vede,</l>
+            <l>Ma poi, che gia fu il popol ragunato;</l>
+            <l>Et tutto insieme in un loco racolto:</l>
+            <l>Levatosi fu pie veloci et pronti,</l>
+            <l>Cotai formo parole il forte Achille.</l>
+         </lg>
+         <lg ana="#p8a" n="8a">
+            <l>Atride, penso hor noi pieni d’errore</l>
+            <l>Debbiam di nuovo ritornar indietro:</l>
+            <l>Se pur contra la morte habbiamo scampo</l>
+            <l>Poi ch’aspra guerra, et grave morbo insieme</l>
+            <l>Doma de greci l’infelice stuolo.</l>
+            <l>Ma domandiamo homai qualche indovino;</l>
+            <l>O qualche sacerdote; o alcun che sappia</l>
+            <l>Scoprir il vel de ricoperti sogni:</l>
+            <l>(Perche ’l sogno è di Giove altiero dono)</l>
+            <l>Che dica la cagion, ch ’l biondo Apollo</l>
+            <l>Tanto contra di noi raccende in ira.</l>
+            <l>O ch’egli chiede gli humil prieghi nostri;</l>
+            <l>O il sacrificio pur di cento buoi:</l>
+            <l>Forse ch’ei vuol di semplicetti agnelli</l>
+            <l>Grato vapor, et di perfette capre:</l>
+            <l>Et questo havendo sgombrerà da noi</l>
+            <l>L’aspro velen di questo fiero morbo.</l>
+         </lg>
+         <lg ana="#p9a" n="9a">
+            <l>Cosi havendo parlato egli s’assise,</l>
+            <l>Et tra costor levossi di Thestorre</l>
+            <l>Il figliuol, che Calchante era nomato,</l>
+            <l>Che tiene tra indovini il primo honore:</l>
+            <l>Il quale, et le presenti, et le passate,</l>
+            <l>Et le future cose conoscea:</l>
+            <l>Et fu anchor ne le navi guida et scorta</l>
+            <l>De greci: quando navigaro a Troia;</l>
+            <l>Merce che ’gli sapea l’arte divina</l>
+            <l>Di predir a mortai tutte le cose;</l>
+            <l>Celeste don de l’immortale Apollo</l>
+            <l>Il qual pien di prudente alto consiglio,</l>
+            <l>Apertamente tai parole disse</l>
+            <l>Achille, al sommo Giove caro amico;</l>
+            <l>Commandi tu, ch’i dica il fiero sdegno</l>
+            <l>D’Apollo re, che di lontan saetta?</l>
+            <l>Adunque i lo dirò: ma promettendo</l>
+            <l>Giurami; che sarai pronto mai sempre</l>
+            <l>Et con lingua, et con mano ad aiutarmi:</l>
+            <l>Perche so che ’l rand’huom deve adirarsi,</l>
+            <l>Che tien de i graci l’honorato impero;</l>
+            <l>Onde ciascun il reverisce et teme.</l>
+            <l>Perche il possente Re, quando s’adira</l>
+            <l>Contra l’huomo, che sia negletto et vile:</l>
+            <l>Benche paia a ciascun, che questo sdegno</l>
+            <l>In quel giorno sia preso al digerire;</l>
+            <l>Pur resta ne profondo altiero petto,</l>
+            <l>Fin ch’adempia il desio d’aspra vendetta.</l>
+            <l>Hor dimmi adunque, se salvar mi dei.</l>
+         </lg>
+         <lg ana="#p10a" n="10a">
+            <l>Ver lui cosi rispose il fiero Achille.</l>
+            <l>Havendo in me Calchante alta speranza,</l>
+            <l>Di pur la voluntà pronto et securo</l>
+            <l>Del grande Dio; che tu conosci e intendi:</l>
+            <l>Perche, con verità t’affermo et giuro</l>
+            <l>Per Apollo diletto al sommo Giove:</l>
+            <l>Al qual porgendo giusti prieghi honesti,</l>
+            <l>Discopri a i greci le celate cose;</l>
+            <l>che mentre viverò la dolce vita;</l>
+            <l>Che a me di veder non sia conteso</l>
+            <l>La terra col suo herboso et verde manto;</l>
+            <l>Nessun di tutto il numero de grei</l>
+            <l>Fia, qui vicino a questi cavi legni,</l>
+            <l>ch’ardisca sopra te le gravi mani</l>
+            <l>Spinger, per darti noia, et farti oltraggio:</l>
+            <l>Ne Agamennon, anchor che tu dirai</l>
+            <l>Hor nel gran stuol de greci il piu perfetto</l>
+            <l>Esser, et ch’egli se ne glorie et vanti.</l>
+         </lg>
+         <lg ana="#p11a" n="11a">
+            <l>Allhora l’indovin fatto securo,</l>
+            <l>Disse; senza temer l’esser ripreso.</l>
+            <l>Egli non chiede gli humil prieghi vostri;</l>
+            <l>Ne il sacrificio anchor di cento buoi.</l>
+            <l>Ma per cagion del disonesto scorno,</l>
+            <l>Che Agamennon al sacerdote feo:</l>
+            <l>Ne gli lasciò la figlia: ne anchor volse</l>
+            <l>Pigliar i cari doni, ch’ei portava.</l>
+            <l>Però colui, che di lontan saetta</l>
+            <l>Diede, et dara mai sempre aspri martiri:</l>
+            <l>Ne pria porrà la grave et forte mano</l>
+            <l>Il fren, al crudo et velenoso morbo;</l>
+            <l>Ch’al padre amato la sua cara figlia;</l>
+            <l>Cui siede amor ne i veri occhi lucenti;</l>
+            <l>Sia resa, senza dono o premio alcuno:</l>
+            <l>E a i sacri altar ne la città di Chrysa,</l>
+            <l>Condotto sia il sacrificio santo:</l>
+            <l>Allhor reso da noi benigno et pio</l>
+            <l>Forse ch’adempirà l’honeste voglie.</l>
+            <l>Cosi detto s’assise.</l>
+         </lg>
+         <lg ana="#p12a" n="12a">
+            <l> Indi levossi</l>
+            <l>Lo illustre Agamenon figliuol d’Atreo,</l>
+            <l>Che l’ampio tien et honorato impero,</l>
+            <l>Alqual, colmo d’acerbo alto dolore,</l>
+            <l>la nera tela, che circonda e serra</l>
+            <l>Il cor s’empie di gran disdegno et ira:</l>
+            <l>Eran gli occhi simili al foco ardente,</l>
+            <l>Et rivolgendo il torvo et crudo sguardo,</l>
+            <l>Prima verso Calchante, cosi disse.</l>
+            <l>Certo indovin d’ogni futuro male,</l>
+            <l>Mai non mi fosti d’alcun ben presago.</l>
+            <l>Et ne la mente ti è mai sempre amico </l>
+            <l>Predir del male i dolorosi effetti.</l>
+            <l>Anchor da questa tua fallace lingua,</l>
+            <l>Buona parola non usci giamai.</l>
+            <l>Ne cosa hai fatto qui di laude degna.</l>
+            <l>Et hor tra greci indovinando dici,</l>
+            <l>Che quel che l’arco di lontano scocca,</l>
+            <l>Sentir fa il duol de le saette horrende;</l>
+            <l>Però i chiari et honorati doni</l>
+            <l>Pigliar non volsi de la bella figlia</l>
+            <l>Di Chryse sacerdote: perche voglio</l>
+            <l>Haverla dentro al mio reale albergo:</l>
+            <l>Ch’i l’amo molto; et tengo via piu cara</l>
+            <l>Che la giovine moglie Clitemnestra:</l>
+            <l>Laqual non è di lei punto men degna;</l>
+            <l>Ne di corpo ne di età, d’ingegno et opre.</l>
+            <l>Pur render io la vo, se questo è meglio:</l>
+            <l>perche gli è ferma la sentenza mia.</l>
+            <l>Che il popolo sia salvo, et non che pera.</l>
+            <l>Ma il premio perparate (sic) immantinente,</l>
+            <l>Che a mia reale altezza si confaccia:</l>
+            <l>Accio ch’i sol del numero de greci,</l>
+            <l>Non resistenza il mio devuto honore;</l>
+            <l>Perche degno non è, ne si conviene.</l>
+            <l>Che voi tutti vedete il premio vostro,</l>
+            <l>Andar senza dimora in altra parte.</l>
+         </lg>
+         <lg ana="#p13a" n="13a">
+            <l>A cui rispose il valoroso Achille:</l>
+            <l>Atride, che via più d’ogni mortale</l>
+            <l>Pieno di gloria, et d’avaritia sei.</l>
+            <l>In che guisa daranti premio alcuno</l>
+            <l>I magnanimi greci? Non sapemo,</l>
+            <l>Esser poste communi molte cose:</l>
+            <l>Però, che quella poca di rapina</l>
+            <l>De le città, che gia ponemmo in preda,</l>
+            <l>La medesima fu da noi divisa:</l>
+            <l>Laqual di nuovo, che la gente greca,</l>
+            <l>Ragunandola insieme la raccoglia;</l>
+            <l>A la vera honestà si disconviene.</l>
+            <l>Ma tu per hor al Dio concedi questa:</l>
+            <l>Che poscia da noi greci in mille doppi,</l>
+            <l>Reso ti sia il desiato merto.</l>
+            <l>Se da Giove giamai sarà concesso,</l>
+            <l>La preda far de la città di Troia,</l>
+            <l>Di forti mura d’ognintorno cinta.</l>
+         </lg>
+         <lg ana="#p14a" n="14a">
+            <l>Cui il gran re Agamenon cosi rispose.</l>
+            <l>Achille di bellezza a Xio simile;</l>
+            <l>Anchora che tu sii possente e forte</l>
+            <l>Non s’avezzi la mente a tali inganni:</l>
+            <l>Che non andrai de la vittoria altiero.</l>
+            <l>E in esortar sia ogni fatica vana.</l>
+            <l>Adunque vuoi del chiaro tuo valore</l>
+            <l>Goder il dolce guiderdone amato,</l>
+            <l>Et ch’io mi sieda con disagio et scorno?</l>
+            <l>Tu comandi ch’i renda questa al padre:</l>
+            <l>Ma il degno honor i valorosi greci</l>
+            <l>Mi daranno, ch’ascenda a ogni altro eguale,</l>
+            <l>Facendo cosa, onde s’acheti l’alma.</l>
+            <l>Che se quel non daranno, io ti prometto</l>
+            <l>Venir io stesso, et di voler pigliare</l>
+            <l>O il tuo, o l’un de duo famosi heroi,</l>
+            <l>Del forte Aiace, o del facondo Ulysse:</l>
+            <l>Menando via la giovenetta bella,</l>
+            <l>Dolce de le fatiche amato premio.</l>
+            <l>Colui dovunque andrò n’havrà disdegno:</l>
+            <l>Ma di cio poscia prenderem consiglio.</l>
+            <l>Hor la nave di nera pete adorna</l>
+            <l>Ne l’empio mar, da l’arenoso lito</l>
+            <l>Trahendo; sopra quella raguniamo</l>
+            <l>I naviganti al lor officio accorti.</l>
+            <l>Poniamo in quella il sacrificio grande:</l>
+            <l>Chryseida poi c’ha le dovine guancie</l>
+            <l>Piene d’un dolce et amoroso fuoco</l>
+            <l>Facciam salire: et quel che dia consiglio</l>
+            <l>Sia l’un de i maggior principi de Greci;</l>
+            <l>O Aiace, o Idomeneo, o il grande Ulysse;</l>
+            <l>Over tu Achille, il cui splendor abbaglia,</l>
+            <l>Quanti son’hor per fama illustri et chiari.</l>
+            <l>Accio che a l’offerir de i sacri voti,</l>
+            <l>Il cor del Dio, che l’ira indura et serra</l>
+            <l>Benigno s’apra, intenerisca et snodi.</l>
+         </lg>
+         <lg ana="#p15a" n="15a">
+            <l>Fiso nel volto horribilmente il mira,</l>
+            <l>Formando tal risposta il fiero Achille.</l>
+            <l>Oime vestito di frenato ardire;</l>
+            <l>Oime via piu d’ogni altro avaro astuto:</l>
+            <l>Qualunque sia de i valorosi Greci;</l>
+            <l>In che guisa sarà veloce et pronto,</l>
+            <l>Obedir a l’altiere tue parole,</l>
+            <l>O seguir te per la noiosa via;</l>
+            <l>O dimostrar valor ne l’empia guerra,</l>
+            <l>Contra i possenti tuoi nemici armati,</l>
+            <l>Se’ l vuoi privar de l’honorate spoglie?</l>
+            <l>Io, già non venni qui per far battaglia,</l>
+            <l>Contra i Troiani bellicosi et forti;</l>
+            <l>Mosso da odio o inimicitia alcuna:</l>
+            <l>Che gia nulla cagion mi spinger o tira.</l>
+            <l>Perche’l buoe pigro, o il bel caval veloce,</l>
+            <l>Mai non trassero quei for del mio armento:</l>
+            <l>Ne giamai ne i secondi et lieti campi</l>
+            <l>Di Phthia, la cui felice et larga copia,</l>
+            <l>ch’in lei produce ogn’hor benigno cielo,</l>
+            <l>Pasce infinita valorosa gente;</l>
+            <l>Fecero oltraggio a le mature spiche;</l>
+            <l>O colser frutti con nimica mano:</l>
+            <l>Che molti ombrosi et smisurati monti</l>
+            <l>Surgon nel mezo; e il tempestoso mare</l>
+            <l>Mai sempre s’ode risuonar ne i liti:</l>
+            <l>Ma il tuo solo seguimo altiero orgoglio:</l>
+            <l>Per farti cosa che diletti et piaccia:</l>
+            <l>Per Menelao, e per te c’hai il guardo torvo</l>
+            <l>Simile a un fiero et arrabbiato cane;</l>
+            <l>Dando a Troiani la devuta pena;</l>
+            <l>Dei gia contra di voi commessi furti.</l>
+            <l>Et tu noi non riguardi, o prendi cura;</l>
+            <l>Et homai di privarmi alto minacci,</l>
+            <l>Del poco et faticoso guiderdone,</l>
+            <l>Che con tanto sudor gia racquistai</l>
+            <l>Et dui figli de greci mi fu dato,</l>
+            <l>Non penso haver al tuo mai premio eguale;</l>
+            <l>Quando i greci faran la nobil preda</l>
+            <l>Di Troia ricca, popolosa et grande. </l>
+            <l>Ma la mia forte man governa e regge</l>
+            <l>L’aspra battaglia, nel maggior furore.</l>
+            <l>Ma poi quando la preda si divide;</l>
+            <l>Il tuo premio è maggior vie piu d’ognuno.</l>
+            <l>Et io dapoi l’immensa alta fatica,</l>
+            <l>Ch’i ho fatto, co nimici combattendo,</l>
+            <l>Vengo a le navi, con un picciol carco</l>
+            <l>Di poche, et da me molto amate spoglie.</l>
+            <l>Hor dunque a la mia Phtia farò ritorno</l>
+            <l>Perche meglio è verso l’amato albergo;</l>
+            <l>L’onde solcar con gli’incornati legni,</l>
+            <l>che star qui privo del, devutto honore;</l>
+            <l>Ne penso essendo pieno di grave scorno,</l>
+            <l>Che ritrar possa qui tante ricchezze</l>
+            <l>Che satino lo ingordo tuo desio</l>
+            <l>Poscia il gran re del greco armato stuolo.</l>
+         </lg>
+         <lg ana="#p16a" n="16a">
+            <l>Agamenon, cotai parole disse.</l>
+            <l>Fuggi veloce, se ’l tuo cor si turba:</l>
+            <l>Che tu rimanga meco i non ti prego</l>
+            <l>Per contentarmi di piacer alcuno</l>
+            <l>Che di quei, per cui reso honor mi fia</l>
+            <l>Son presso me molti altri et sopra tutti</l>
+            <l>Ho per mio consiglier il sommo Giove.</l>
+            <l>Tu sol mi sei via piu maggior nimico</l>
+            <l>Degli altri re; cui, per divin consiglio</l>
+            <l>Del padre eterno, porge il nobil cibo,</l>
+            <l>La madre universal benigna terra.</l>
+            <l>Perche a te sol, ti son mai sempre amici</l>
+            <l>Sdegni, gridi, minaccie, armi et battaglie:</l>
+            <l>Se tu sei molto forte; tal fortezza.</l>
+            <l>E dono de i celesti eterni Dei.</l>
+            <l>Tu veramente andando a le paterne</l>
+            <l>Case, con le tue navi, et con gli amici;</l>
+            <l>Signoreggia a la gente myrmidona.</l>
+            <l>Perche del tuo partir punto non curo:</l>
+            <l>Ne anchor mi cale de tuo folle sdegno.</l>
+            <l>Ma ben in cotal modo ti minaccio.</l>
+            <l>Togliendomi Chryseida il chiaro Apollo;</l>
+            <l>Con la mia nave, et con gli amici insieme</l>
+            <l>Io gli è la manderò: poscia venendo</l>
+            <l>Dentro al tuo padiglione, prender voglio</l>
+            <l>Briseida adorna de le belle guancie:</l>
+            <l>Per esser il tuo premio; accio ben sappi</l>
+            <l>Quanto ch’i sia di te via piu migliore:</l>
+            <l>Et tuo malgrado, a te tue spese impari</l>
+            <l>Altri non dirsi a mia grandezza uguale;</l>
+            <l>O in parte alcuna farsi a se simile,</l>
+            <l>Cosi disse.</l>
+         </lg>
+         <lg ana="#p17a" n="17a">
+            <l>Et interno alto dolore</l>
+            <l>Assalse il cor del gran figliuol di Peleo:</l>
+            <l>Et subito nel petto horrido hirsuto,</l>
+            <l>Si venne a partorir doppio pensiero:</l>
+            <l>L’un fu, se trar dovea da la vagina</l>
+            <l>L’acuta spada, che prendea dal lato;</l>
+            <l>Et sgombrar questi, et tor di vita Atride.</l>
+            <l>L’altro fu di ammorzar l’acceso sdegno,</l>
+            <l>Et raffrenar il crudo alto furore.</l>
+            <l>Mentre da doppia cura combattuto</l>
+            <l>Era il petto et la mente; trasse fuorre</l>
+            <l>De la vagina, la tagliente spada.</l>
+         </lg>
+         <lg ana="#p18a" n="18a">
+            <l>Ma subito dal ciel scese Minerva:</l>
+            <l>L’havea mandata gia la Dea Giunone,</l>
+            <l>De le candide membra adorna et bella:</l>
+            <l>La qual d’ambe duo lor serba memoria,</l>
+            <l>Ne l’interno divin animo altiero,</l>
+            <l>Con ugual cura, et con uguale amore.</l>
+            <l>Fermossi dunque dietro; et in di prese</l>
+            <l>Di Peleo il figlio, per la bionda chioma:</l>
+            <l>A lui solo visibile apparendo;</l>
+            <l>Agli altri fu invisibile sua forma.</l>
+            <l>Achille da la subita apparenza</l>
+            <l>Resto smarrito, et si rivolse adietro:</l>
+            <l>Dove veggendo Palla a cui s’inchina</l>
+            <l>Et arde incensi la superba Athene;</l>
+            <l>Subito la conobbe: perche gli occhi</l>
+            <l>Pieni d’ardente et paventoso horrore;</l>
+            <l>Ovunque gli volgea rendevan luce.</l>
+            <l>Et chiamandola a se con alta voce;</l>
+            <l>Formò parole cosi lievi et preste,</l>
+            <l>Che parean ch’a l’uscir havesser ale.</l>
+            <l>Perche divina prole de gran Giove,</l>
+            <l>Che prese da la capra il latte primo,</l>
+            <l>Venuta sei tra le miserie humane</l>
+            <l>Forse, per ispiar la grave ingiuria,</l>
+            <l>Che mi fa agamenon figliuol d’Atreo</l>
+            <l>Ma questa cosa sol t’affermo et dico;</l>
+            <l>Laqual penso ch’in breve sia compita:</l>
+            <l>Ch’ei forse al fin per lo sfrenato orgoglio</l>
+            <l>Perderà quel superbo animo altiero.</l>
+         </lg>
+         <lg ana="#p19a" n="19a">
+            <l>Con fiero sguardo allhor la Dea Minerva,</l>
+            <l>Sciolse verso di lui la lingua, et disse.</l>
+            <l>Vermi a quetar il cieco ardor de l’ira</l>
+            <l>Dal ciel; se dai credenza a mie parole:</l>
+            <l>Pur dianzi mi mandò la Dea Giunone</l>
+            <l>De le candide braccia adorna et bella:</l>
+            <l>Laqual ambeduo voi nel petto tiene,</l>
+            <l>Con pare amor, et con cosiglio pare.</l>
+            <l>Ma cessa adunque homai da le contese;</l>
+            <l>Ne ritrar fuor con man l’acuta spada;</l>
+            <l>Ma sfogherai sol con parole l’ira:</l>
+            <l>Et in queste sarà posto ogni contesa:</l>
+            <l>Cosi ti dico; et questo fia perfetto:</l>
+            <l>Ch’anchor tempo verrà, che per cagione</l>
+            <l>Di questo oltraggio, ti seran presenti</l>
+            <l>Tre volte tanti bei lucenti doni.</l>
+            <l>Tu dunque raffrenando il nuovo sdegno;</l>
+            <l>Obedisci al divin nostro consiglio.</l>
+         </lg>
+         <lg ana="#p20a" n="20a">
+            <l>Ver lei cosi rispose il forte Achille.</l>
+            <l>O Dea, serbar et obedir conviensi</l>
+            <l>A pien, vostre divine alte parole</l>
+            <l>Da ognun; anchor, che sia nel petto irato:</l>
+            <l>Che certo questa cosa è honesta et buona:</l>
+            <l>Chiunque obedirà gli eterni Dei;</l>
+            <l>Gli havrà nel porger de i devoti preghi;</l>
+            <l>D’ogni celeste don cortesi et larghi.</l>
+            <l>Cosi disse, et tenea con grave mano</l>
+            <l>De la gran spada sua l’elsa dargento.</l>
+            <l>La qual ne la vagina tosto spinse:</l>
+            <l>Ne puo non ubedir a gli alti accenti</l>
+            <l>Di Minerva: che’ al ciel riprese il volo;</l>
+            <l>E ascese a gli altri Dei, ne i chiari alberghi</l>
+            <l>Del sommo Giove eterno, a cui la capra</l>
+            <l>Gia porse il latte, et gli alimenti primi.</l>
+         </lg>
+         <lg ana="#p21a" n="21a">
+            <l>Ma il gran figliuol di Peleo non havendo</l>
+            <l>Il bollente fervor de l’ira spento;</l>
+            <l>Di nuovo assalse con parole acerbe</l>
+            <l>L’alto figliuol d’Atreo, cosi dicendo:</l>
+            <l>O tu dal vino sonnacchioso et grave:</l>
+            <l>C’hai gli occhi bieci di rabbioso cane:</l>
+            <l>E il cor di cervo timido et fugace.</l>
+            <l>Non anchora col popolo in battaglia,</l>
+            <l>Ti sei vestito de le lucid’armi;</l>
+            <l>Ne havesti ardir giamai con li migliori</l>
+            <l>De Greci, andar ne le notturne infide</l>
+            <l>Che questo esser ti par l’istessa morte.</l>
+            <l>Che gli è meglio, et vie piu securo et pronto,</l>
+            <l>Ognihora d’involar per l’ampio stuolo</l>
+            <l>De Greci, i cari et più graditi doni;</l>
+            <l>Se alcun si mostra al tuo volere adverso.</l>
+            <l>Devorator de l’infelice plebe,</l>
+            <l>Che sol di gente vil porti corona.</l>
+            <l>Et io t’affermo Atride, che quest’era</l>
+            <l>L’estrema ingiuria ch’altrui far potessi.</l>
+            <l>Ma io ti dico; et con gran giuramento</l>
+            <l>Giuro; per questo scetro; il qual giamai </l>
+            <l>Fiori non produrrà, rami né foglie:</l>
+            <l>Ne anchor si puo sperar piu che germogli,</l>
+            <l>Spargendo fuore i piccioli rampolli:</l>
+            <l>Poscia che dal suo molto amato tronco,</l>
+            <l>Fu tagliato negli alti incolti monti;</l>
+            <l>Et fu privato dal tagliente ferro</l>
+            <l>Di fiori, frondi, rami et dura scorza.</l>
+            <l>Hora de greci i piu honorati figli,</l>
+            <l>Che sono eletti a di grandito honore</l>
+            <l>Di giudicar; et le lor sante leggi</l>
+            <l>Trasser dal sommo Giove; portan quello</l>
+            <l>Ne le lor mani, al sol giudicio intente.</l>
+            <l>Questo ti sia gran giuramento et fido;</l>
+            <l>Che tempo anchor verrà, ch’alto desio</l>
+            <l>D’Achille, con ugual fiamma sovente,</l>
+            <l>De greci accenderà gli animi alteri</l>
+            <l>Ma a costor non potrai, anchor che mesto,</l>
+            <l>Punto giovar, o ritrovar rimedio;</l>
+            <l>Quando per man de l’homicida Hettorre</l>
+            <l>Molti morendo caderanno in terra.</l>
+            <l>Tu pien di acerbo e inreparrabil sdegno,</l>
+            <l>Dentro ti struggerai, come al sol neve;</l>
+            <l>Quando tu pensarai ch’l piu perfetto</l>
+            <l>De Greci, hai privo del devuto honore,</l>
+            <l>Cosi dicendo il gran figliuol di Peleo,</l>
+            <l>Getto per terra l’honorato scettro,</l>
+            <l>tutto trafitto di dorati chiodi.</l>
+            <l>Il che poi che fatt’hebbe, egli s’assise.</l>
+            <l>Da l’altra parte Atride era pien d’ira.</l>
+         </lg>
+         <lg ana="#p22a" n="22a">
+            <l>Ma tra costor levossi il gran Nestorre</l>
+            <l>Di Pylo: ch’era nel suo dir soave;</l>
+            <l>Eloquente ornato, arguto et pronto:</l>
+            <l>Da la cui lingua uscivano parole,</l>
+            <l>Assai piu dolci che soave mele.</l>
+            <l>Era visso costui due etati apieno,</l>
+            <l>Dal cielo rivolte a gli huomini mortali:</l>
+            <l>Che per adietro nacquero con lui;</l>
+            <l>Et seco parimente fur nudriti,</l>
+            <l>Ne la divina Pylo; che gia stanchi</l>
+            <l>Da i molti affanni de la lunga vita,</l>
+            <l>Chiuser le luci in sempiterno sonno:</l>
+            <l>E gia la terza età si rivolgea</l>
+            <l>Ch’insieme con color tra cui regnava.</l>
+            <l>Anchor vita vivea gioiosa et lieta.</l>
+            <l>Questi pien di consiglio amico et saggio,</l>
+            <l>Fe udir il suon del suo chiaro sermone.</l>
+         </lg>
+         <lg ana="#p23a" n="23a">
+            <l>Oime che grande et angoscioso pianto,</l>
+            <l>Di Grecia assale l’honorata terra:</l>
+            <l>Et quanto vie piu lieta, et maggior gioia</l>
+            <l>Sentirà Priamo, et di lui Priamo i figli;</l>
+            <l>Et gli altri tutti suoi Troiani insieme,</l>
+            <l>Quanto haveran di gaudio ne i lor petti;</l>
+            <l>Se voi, che ne la guerra il pregio e’l vanto</l>
+            <l>Tra greci havete, di consiglio et arte,</l>
+            <l>Udiranno che fate aspre contese.</l>
+            <l>Ma state cheti al mio fedel sermone!</l>
+            <l>Piu gioveni di me sete ambo voi:</l>
+            <l>Et io gia qualche volta conversai,</l>
+            <l>Con huominidi voi via piu migliori;</l>
+            <l>Ne mi sprezzaro in alcun tempo quelli.</l>
+            <l>I non vidi giamai, ne credo anchora</l>
+            <l>Veder, huomini piu di tal valore;</l>
+            <l>Qual fu Pirithoo, et Drya, sotto il cui fre</l>
+            <l>Popoli si reggean superbi et forti.</l>
+            <l>E insieme Cenea, exadio et polyphemo,</l>
+            <l>Ch’era per gran virtute uguale a un Dio:</l>
+            <l>Et anchor Theste il gran figliuol di Egeo</l>
+            <l>Che fu simile agli immortali Dei.</l>
+            <l>Che d’esser forti, hebber la fama e’l grido,</l>
+            <l>Piu di tutti gli altri huomini mortali,</l>
+            <l>Nudriti in grembo de l’antica madre.</l>
+            <l>Fortissimi eran questi, et con Giganti</l>
+            <l>Albergatori de gli incolti monti</l>
+            <l>Fortissimi, faceano aspra battaglia:</l>
+            <l>Et havendogli uccisi con gran laude;</l>
+            <l>Hebber di lor vittoriose palme.</l>
+            <l>Et con lor conversava gia venendo</l>
+            <l>Da Pylo, di lontan da l’Apia terra</l>
+            <l>Perche essi mi chiamar a l’alte imprese:</l>
+            <l>Et io per me medesmo combatteva.</l>
+            <l>Con lor, nessun del numer de mortali;</l>
+            <l>Che vesten’hora le terrene spoglie,</l>
+            <l>Ardirebbe venir a la battaglia.</l>
+            <l>Pur udivan’ il mio fedel consiglio;</l>
+            <l>Et obediano a le parole mie.</l>
+            <l>Obedite anchor voi; che forse fia,</l>
+            <l>A voi più sano, et vie miglior pensiero</l>
+            <l>Ne tu, benche sii forte, provar vogli</l>
+            <l>Achille de la donna, c’hebbe in premio</l>
+            <l>Da i figliuoli de Greci: ma tu quella</l>
+            <l>Concedi; come fecer essi imprima.</l>
+            <l>Ne tu figliuol di Peleo, vogli anchora</l>
+            <l>Contender contra il Re: perche giamai</l>
+            <l>Re, che porti corona, o tenga scettro;</l>
+            <l>Non hebbe qui da i fati uguale honore.</l>
+            <l>Et sol Giove gli diede si alta gloria.</l>
+            <l>Et se tu sei piu forte: la tua madre</l>
+            <l>Che ti produsse è Dea: pur è costui</l>
+            <l>Di te, vie piu possente: che tra molti</l>
+            <l>Il seggio tien de l’honorato impero.</l>
+            <l>Et tu raffrena la tua forza Atride.</l>
+            <l>Ma ben con humiltà supplico Achille;</l>
+            <l>Che li piaccia por giu l’odio et lo sdegno.</l>
+            <l>Che ne le crude et sanguinose imprese;</l>
+            <l>E di tutta la Grecia alto riparo.</l>
+         </lg>
+         <lg ana="#p24a" n="24">
+            <l>Cui il grande Agamenon cosi rispose.</l>
+            <l>Veramente ogni cosa hai detto bene</l>
+            <l>Vecchio, et qual si conviene al giusto, e al vero.</l>
+            <l>Ma quest’huomo vuol esser sopra ogni altro:</l>
+            <l>vuol vincer; comandar, et regger tutti:</l>
+            <l>Ne penso gia che piegar possi alcuno,</l>
+            <l>ch’obediente a le sue voglie inchini.</l>
+            <l>Se i Dei, che sempre furo, et sempre sono,</l>
+            <l>Lo fecer molto valoroso, et forte;</l>
+            <l>percio dunque permetteno ch’ei possa,</l>
+            <l>Altrui biasmar con dishoneste voci?</l>
+         </lg>
+         <lg ana="#p25a" n="25a">
+            <l>Interrompendo le parole sue,</l>
+            <l>Il magnanimo Achille alto rispose.</l>
+            <l>Veramente da ogniun timido et vile</l>
+            <l>Ben detto esser potrei, se in ogni cosa</l>
+            <l>Che tu dicesti, fossi pronto a pieno,</l>
+            <l>Di seguir l’aure al tuo desir seconde.</l>
+            <l>Homai comanda queste cose altrui;</l>
+            <l>Non far gia motto a me: che piu non penso</l>
+            <l>Esser obediente al tuo volere.</l>
+            <l>Ma ben ti dico; et queste mie parole,</l>
+            <l>Fa che le serbi ne la mente interna.</l>
+            <l>Che, con queste mie invitte et forti mani,</l>
+            <l>Teco ne con altrui combatter voglio;</l>
+            <l>Per cagion de la giovenetta donna;</l>
+            <l>Che gia mi deste in dono, hor mi togliete.</l>
+            <l>De l’altre cose ch’i possiedo et serbo,</l>
+            <l>Al lito, appresso la veloce nave;</l>
+            <l>Di nera pece d’ognintorno tinta;</l>
+            <l>Certo, malgrado mio mi torrai nulla:</l>
+            <l>Ma se vuoi pur homai fanne la prova;</l>
+            <l>Accio, ch’anchor conoscano costoro:</l>
+            <l>Subitamente da profonda piaga,</l>
+            <l>Uscendo fuor il tuo vermiglio sangue</l>
+            <l>Scorrerà giu per la mia dura lancia.</l>
+            <l>Et cosi con contrarie alte parole</l>
+            <l>Costoro contendendo, si levaro:</l>
+            <l>Et fu data licenza a i ragunati;</l>
+            <l>A le navi de Greci al lito intorno.</l>
+            <l>Il figliuol di Peleo, poscia sen’gio</l>
+            <l>Con figliuol di Meneto et gli altri amici</l>
+            <l>A i padiglioni, et a le navi loro,</l>
+            <l>Ch’erano tutte d’un’istessa forma.</l>
+         </lg>
+         <lg ana="#p26a" n="26a">
+            <l>Atride intanto una veloce nave</l>
+            <l>Trasse nel mar; et fece gir in quella</l>
+            <l>A priova venti naviganti eletti</l>
+            <l>Et dentro pose il sacrificio grande,</l>
+            <l>Col qual s’haveva da placar il Dio:</l>
+            <l>Et menando Chryseida, c’ha le guancie</l>
+            <l>Sparse di gigli, et di vermiglie rose;</l>
+            <l>La fe sieder in quella: et dopo ascese</l>
+            <l>Il signor pieno d’alto consiglio Ulysse.</l>
+            <l>Poscia ch’ascesi furo, in mar solcando</l>
+            <l>Navigavan ne i suoi liquidi calli,</l>
+         </lg>
+         <lg ana="#p27a" n="27a">
+            <l>Ma il grande Agamenon figliuol d’Atreo</l>
+            <l>Volse, che tutto ‘l popol si mondasse;</l>
+            <l>Il qual poscia gittò ne l’onde false</l>
+            <l>Le cose immonde; et cosi puro et netto</l>
+            <l>Facea ad Apollo il sacrificio santo,</l>
+            <l>Et di tori, et di capre: appresso al lito</l>
+            <l>Del mar pieno di sterile campagne,</l>
+            <l>Grato vapor intorno al denso fumo</l>
+            <l>Rivolto, penetrava insino al cielo.</l>
+            <l>Tal era l’opra de l’armate squadre.</l>
+         </lg>
+         <lg ana="#p28a" n="28a">
+            <l>Ne Agamenon dando a la lite fine;</l>
+            <l>Con ch’egli havea gia minacciato Achille</l>
+            <l>Cosi parlo a Talthybio, et Eurybate:</l>
+            <l>(Ch’eran preconi, et suoi ministri forti)</l>
+            <l>Tosto n’andate al padiglion d’Achille</l>
+            <l>Figliuol di Peleo; et con spedita mano</l>
+            <l>Hor la bella Briseida qua menate:</l>
+            <l>Et se di darla ei non consente a voi</l>
+            <l>Io stesso a torla ne verrò con molti;</l>
+            <l>Che a lui cagion sia di maggior paura.</l>
+            <l>Così dicendo, li fé gir inanzi,</l>
+            <l>Al suon de le parole audaci et fiere.</l>
+            <l>Costor al mar incolto et senza frutto</l>
+            <l>Andar contra lor voglia, lungo al lito:</l>
+            <l>Et vennero a le navi, e a i pagiglioni</l>
+            <l>De Myrmidoni; ove trovar sedendo</l>
+            <l>Appresso al padiglion, et l’alta nave</l>
+            <l>Il fiero Achille, che vedendo loro</l>
+            <l>Non mostrò punto d’allegrezza segno</l>
+            <l>Liquali il Re temendo, et honorando</l>
+            <l>Taciti si fermaro; ne ardimento</l>
+            <l>Hebber di domandarlo, o farli motto.</l>
+         </lg>
+         <lg ana="#p29a" n="29a">
+            <l>Ma ei ne l’alta mente conoscendo,</l>
+            <l>Questo suo star pien di vergogna et tema;</l>
+            <l>Mosse verso di lor queste parole.</l>
+            <l>Guardivi il ciel pregovi alti messaggi</l>
+            <l>Del sommo Giove, et de mortali anchora.</l>
+            <l>Appressatevi a me senza sospetto:</l>
+            <l>Nulla di cio cagion mi siate voi;</l>
+            <l>Ma Agamennon: il qual vi ha qui mandato,</l>
+            <l>Sol per Briseida leggiadretta et bella</l>
+            <l>Hor tu Patroclo generoso mena</l>
+            <l>Fuori a costor la giovinetta donna,</l>
+            <l>Che quella condurran dove gir deve.</l>
+            <l>Voi mai sempre sarette testimoni,</l>
+            <l>Dinanzi a i Dei beati et immortali;</l>
+            <l>Et dinanzi a l’humana mortal gente;</l>
+            <l>Et parimente al Re crudele et empio;</l>
+            <l>Se giamai per inanzi alcun bisogno,</l>
+            <l>Agli altri fia del mio proprio valore;</l>
+            <l>Per disgombrar l’inreparabil danno,</l>
+            <l>Che costui veramente è fatto insano;</l>
+            <l>Col mal consiglio pien d’alta ruina:</l>
+            <l>Et insieme di cio, c’ha inanzi o adietro,</l>
+            <l>Egli non sa pensar cio che conviene</l>
+            <l>Come appresso le navi i Greci seco.</l>
+            <l>Potran securi star ne la battaglia.</l>
+         </lg>
+         <lg ana="#p30a" n="30a">
+            <l>Cosi di se egli: et subito hobedito</l>
+            <l>Patroclo havendo al suo diletto amico;</l>
+            <l>Menò Briseida fuor del padiglione,</l>
+            <l>C’ha sperso il volto di color vermiglio</l>
+            <l>Et diedela a costoro; che con lei</l>
+            <l>A le navi de greci ritornaro.</l>
+            <l>La bella donna suo mal grando andava.</l>
+            <l>Ma Achille separato dagli amici,</l>
+            <l>Tingea le guancie di stillante humore;</l>
+            <l>Et subito in disparte, egli s’assinsse,</l>
+            <l>Del mar schiumoso nel’estrema sponda:</l>
+            <l>Et riguardando nel suo nero aspetto;</l>
+            <l>Molto pregava la diletta madre,</l>
+         </lg>
+         <lg ana="#p31a" n="31a">
+            <l>Porgendo ambe le mani, dicea, o Madre;</l>
+            <l>Dapoi mi partoristi, accio dovessi</l>
+            <l>Viver si brieve questa dolce vita;</l>
+            <l>Doveva almen il gran padre celeste,</l>
+            <l>Giove che d’alto quand’è irato tuona,</l>
+            <l>Rendermi honor: et hor non fui da quello</l>
+            <l>Punto onorato in piccioletta parte.</l>
+            <l>Però ch’Agamenon figliuol d’Atreo,</l>
+            <l>Che de i greci possiede il largo impero,</l>
+            <l>M’ha fatto assai vergogna; che per forza</l>
+            <l>Ha tolto, et tiene il mio devuto premio.</l>
+         </lg>
+         <lg ana="#p32a" n="32a">
+            <l>Cosi disse piangendo. Et egli a pieno,</l>
+            <l>Udito fu da l’honorata madre:</l>
+            <l>La qual sedea nel liquido profondo</l>
+            <l>Del mar; appresso de l’antico padre.</l>
+            <l>Tosto da le canute onde levossi,</l>
+            <l>A guisa d’una folta humida nebbia;</l>
+            <l>Et si puose a seder dinanzi a lui;</l>
+            <l>Che spargea amare lagrime dal volto:</l>
+            <l>Con la candida man, la madre pia</l>
+            <l>Gli asciugò gli occhi rugiadosi et molli</l>
+            <l>Benignamente; et tai parole disse.</l>
+            <l>Perche piangi figliuol? Che gran dolore</l>
+            <l>E quel, ch’assale la tua mente altiera?</l>
+            <l>Dillo: ne lo tener nel petto ascoso;</l>
+            <l>Accio, che lo sappiamo ambi duo noi.</l>
+         </lg>
+         <lg ana="#p33a" n="33a">
+            <l>Con un vento angoscioso di sospiri;</l>
+            <l>Rispose, in cotal modo il forte Achille.</l>
+            <l>O madre mia, se per te stessa sai,</l>
+            <l>Et ben conosci queste cose intere;</l>
+            <l>Perche dunque dirotti il tutto a pieno?</l>
+            <l>Andammo a Thebe, a la citta sacrata</l>
+            <l>Di Etion: la qual ponemmo in preda;</l>
+            <l>Et poi portammo qui tutte le cose:</l>
+            <l>Che fur divise da i figliuol de Greci</l>
+            <l>Tra loro, bene; ma Chryseida poi</l>
+            <l>Ch’a le guancie, ch’adorna un dolce fuoco,</l>
+            <l>Diero per elettion al grande Atride.</l>
+            <l>Del grande arcier Apollo il sacerdote</l>
+            <l>Chryse, poi venne a le veloci navi,</l>
+            <l>De greci, armati di lucente ferro;</l>
+            <l>Per liberar la sua figlia diletta;</l>
+            <l>Portando molti doni a cio far degni:</l>
+            <l>Havendo ne le mani le corone</l>
+            <l>D’Apollo, che lontan ferisce e’mpiagha:</l>
+            <l>Col suo dorato scettro: et e pregava</l>
+            <l>Tutta de Greci l’honorata schiera:</l>
+            <l>Et sopra ogn’altro i duo figli d’Atreo,</l>
+            <l>Principi del gran stuolo. Allhora gli altri</l>
+            <l>Greci lodaro tutti ad alta voce;</l>
+            <l>Che reso fosse al sacerdote honore,</l>
+            <l>Togliendo i ricchi et bei lucenti doni.</l>
+            <l>Del grande Agamenon figliuol d’Atreo</l>
+            <l>Gia non piacque, a l’irato animo altiero:</l>
+            <l>Ma comandò con gravi aspre parole;</l>
+            <l>Ch’egli fosse al partir pronto et spedito.</l>
+            <l>Et indi il vecchio partendo adirato</l>
+            <l>Ritornò adietro: et prieghi alti porgendo,</l>
+            <l>Udito fu nel ciel dal biondo Apollo:</l>
+            <l>Perche mai sempre gli fu grande amico,</l>
+            <l>Mandò dunque ne i greci il crudo strale:</l>
+            <l>Sovente et questo, et quel correva a morte.</l>
+            <l>La quadrella del Dio, per ogni loco</l>
+            <l>De Greci, se ne gian ne l’ampio stuolo.</l>
+            <l>Ma lo indovin, de le future cose,</l>
+            <l>Apertamente prediceva a noi,</l>
+            <l>il celato voler del grande Arciero.</l>
+            <l>Et di subito primo i comandai,</l>
+            <l>Che placar si devesse l’alto Iddio.</l>
+            <l>Ma il grande Atride fu da l’ira preso:</l>
+            <l>Et levandosi in piè subitamente,</l>
+            <l>Mi minacciò con dispiacevol grido:</l>
+            <l>A cui seguito n’è conforme effetto.</l>
+            <l>Di commune voler dunque costei,</l>
+            <l>Senza tardar, la bella coppia manda,</l>
+            <l>Con la veloce nave, a padre Chryse:</l>
+            <l>Et al Re portan gli honorati doni.</l>
+            <l>Et pur dianzi i precon dal padiglione.</l>
+            <l>Partendo, menar seco la gentile</l>
+            <l>Briseida: che mi dier de greci i figli.</l>
+            <l>Ma tu, se puoi, il tuo figliuolo aiuta:</l>
+            <l>Poggiando al cielo prega il sommo Giove:</l>
+            <l>Se tu giamai, o con parole, od opre,</l>
+            <l>Festi cosa, ch’a lui porgesse aita;</l>
+            <l>Et di cio tien nel cor grata memoria.</l>
+            <l>Perche sovente ne i paterni alberghi,</l>
+            <l>Ti ho udito, gloriando, che dicevi;</l>
+            <l>Che tu sola tra gli altri immortal Dei,</l>
+            <l>Dal figliuol di Saturno, che far suole</l>
+            <l>Le folte nebbie tenebrose e oscure;</l>
+            <l>Havei scacciato un duro et grave danno.</l>
+            <l>Quando gli altri celesti eterni Dei,</l>
+            <l>Giunon, Nettuno et la possente Dea</l>
+            <l>Che die ad Athene l’honorato nome;</l>
+            <l>Lo volsero legar; andando a lui</l>
+            <l>Tu Dea, lo festi da i legami sciolto.</l>
+            <l>Di subito chiamando al grande Olympo</l>
+            <l>Colui c’ha cento mani: che da i Dei</l>
+            <l>E chiamato per nome Briareo:</l>
+            <l>Et è detto dagli huomini Egeone:</l>
+            <l>Questi era di possanza assai migliore</l>
+            <l>Del proprio padre: et di superbia gonfio</l>
+            <l>Sedeva appresso il figlio di Saturno.</l>
+            <l>Lo qual temendo gli immortali Dei,</l>
+            <l>Non hebbero ardimento di legarlo.</l>
+            <l>Rimembrandoli a pieno queste cose,</l>
+            <l>Siedegli appresso; et le ginocchia abbraccia</l>
+            <l>Et vedi di far si ch’egli soccorra</l>
+            <l>A qualche modo, le Troiane squadre:</l>
+            <l>Et a l’alte poppi, intorno a l’onde salse,</l>
+            <l>Discacci i Greci rotti et messi a morte.</l>
+            <l>Accio che del suo Re godano insieme:</l>
+            <l>Et anchor Agamenon figliuol d’Atreo,</l>
+            <l>Ch’a in man il fren de i l’honorato impero;</l>
+            <l>Conosca quanto sia suo grave danno;</l>
+            <l>C’ha sprezzato de Greci un’huom perfetto.</l>
+         </lg>
+         <lg ana="#p34a" n="34a">
+            <l>Con lagrime rigando ambe le gote,</l>
+            <l>Thetide mando fuor queste parole.</l>
+            <l>Oime figliuolo mio: perche nudriti,</l>
+            <l>Havendoti prodotto in tanti mali?</l>
+            <l>O à Dio piacesse almen, ch’appo le navi</l>
+            <l>Seder potessi senza pianto et noia:</l>
+            <l>Poscia, che la crudel invida parca,</l>
+            <l>Tosto troncar ti die il gradito stame</l>
+            <l>Di questa giovenil amata vita.</l>
+            <l>Hor sei tu parimente per morire</l>
+            <l>Si tosto et sopra tutti pien di scorno.</l>
+            <l>Per certo i fati fur contrari et empi;</l>
+            <l>Quando ti parturi ne i tetti alteri.</l>
+            <l>Per dir adunque tai parole à Giove,</l>
+            <l>Che folgorando si compiace et gode;</l>
+            <l>Io poggio a l’alto olympo; il qual sovente</l>
+            <l>Candida neve d’ogni intorno imbianca:</l>
+            <l>S’averrà, che con prieghi i possa tanto,</l>
+            <l>Ch’inchini a questo la divina mente.</l>
+            <l>Ma sedendo hor ne le veloci navi,</l>
+            <l>Accendendoti in ira contra i Greci;</l>
+            <l>Cessa de la battaglia empia e noiosa.</l>
+            <l>Perche ‘l gran Giove andò ne l’oceano</l>
+            <l>Hieri ad un sontuoso, et bel convito,</l>
+            <l>De gli Ethiopi d’ogni colpa privi:</l>
+            <l>Et tutti i Dei l’hanno seguito insieme.</l>
+            <l>Et ei ritornerà di nuovo al cielo</l>
+            <l>Il duodecimo giorno: et poscia allhora</l>
+            <l>Al fermo ascenderò di Giove albergo.</l>
+            <l>Con le ginocchie a lui divote et chine,</l>
+            <l>Usando prieghi humil, da sua bontade</l>
+            <l>Penso pur ch’otterrò quanto i desio.</l>
+            <l>Cosi havendo parlato, indi partissi:</l>
+            <l>Et lasciò lui pien di dispetto et ira,</l>
+            <l>Per cagion de la bella amata donna:</l>
+            <l>Che mal grado di lui li fu rapita.</l>
+         </lg>
+         <lg ana="#p35a" n="35a">
+            <l>Ma Ulysse giunse a la città di Chryse</l>
+            <l>Portando seco il sacrificio santo.</l>
+            <l>Questi, entrati nel porto alto e profondo,</l>
+            <l>Insieme ragunar le bianche vele;</l>
+            <l>Che poste fur ne la spalmata nave.</l>
+            <l>Et l’arbore riposer nel suo loco,</l>
+            <l>Chalando ‘l giu con le ritorte funi:</l>
+            <l>Et subito la trassero a la ripa</l>
+            <l>Co i forti remi: et l’anchore gettaro</l>
+            <l>Et la legaro con le due funi,</l>
+            <l>Che tengon ferme l’alte poppi a i liti.</l>
+            <l>Poscia che stesi furo in ripa al mare;</l>
+            <l>Esposero ad Apollo il sacrificio.</l>
+            <l>Chryseida usci de la veloce nave.</l>
+            <l>Laqual dapoi, che dal prudente Ulisse</l>
+            <l>Fu menata a l’altare; al caro padre</l>
+            <l>La pose in mano: et tai parole disse.</l>
+         </lg>
+         <lg ana="#p36a" n="36a">
+            <l>O Chryse; Agamenon Re del gran stuolo,</l>
+            <l>M’ha qui mandato: accio ch’insieme adduca</l>
+            <l>A te la figlia, a Phebo il sacrificio:</l>
+            <l>Et quel sacrificando per le Greci</l>
+            <l>Placar debba il gran Re: loqual pur dianzi</l>
+            <l>Mando tra Greci assai sospiri et doglie.</l>
+            <l>Cosi dicendo, glie la pose in mano.</l>
+            <l>Et lieto accolse la diletta figlia.</l>
+            <l>Costor subitamente al dio fermaro</l>
+            <l>Il sacrificio glorioso et degno;</l>
+            <l>Intorno al ben edificato altare.</l>
+            <l>Poi che lavato ogniun s’ebbe le mani,</l>
+            <l>Il cotto gran pigliar sparso di sale.</l>
+         </lg>
+         <lg ana="#p37a" n="37a">
+            <l>Chryse tra lor, levando ambe le mani</l>
+            <l>Alti porgeva affetuosi prieghi</l>
+            <l>Odimi tu, ch’l bell’arco d’argento</l>
+            <l>Possiedi; et guardi Chrysa, et la divina</l>
+            <l>Cilla; et tenendo tien tuo segio altiero.</l>
+            <l>Perche gia alcuna volta alto pregando,</l>
+            <l>Udisti nel ciel i miei devoti prieghi.</l>
+            <l>E qual dianzi giovando mi honorasti;</l>
+            <l>Cosi tu festi a i Greci scorno et noia</l>
+            <l>Hor alto Signor mio, questo desio</l>
+            <l>Adempi anchora al yuo servo fedele.</l>
+            <l>Sgombra da i Greci questa grave peste.</l>
+         </lg>
+         <lg ana="#p38a" n="38a">
+            <l>Cosi diss’ei pregando. E ’l chiaro Apollo</l>
+            <l>Udi nel ciel le calde honeste voci.</l>
+            <l>Ma dapoi il porger de i devoti prieghi,</l>
+            <l>Et via gettato il gran sparso di sale;</l>
+            <l>Trassero imprima gli animali a dietro;</l>
+            <l>Poi che scannati, et scorticati furo,</l>
+            <l>Tagliar le coscie, et le coprir col grasso.</l>
+            <l>Doppie facendo queste cose tutte.</l>
+            <l>Le carne crude poi potervi sopra.</l>
+            <l>Et raccendendo il Vecchio il fuoco ardente</l>
+            <l>Ne le tagliate legna; sopra quello</l>
+            <l>Spargea vermiglio et precioso vino.</l>
+            <l>Et i giovani ch’eran presso lui,</l>
+            <l>Tenean ne le mani rivolgendo</l>
+            <l>Schidoni di cinque ordini composti.</l>
+            <l>Poi dunque che le cose furon cotte:</l>
+            <l>Di lor mangiate pria le parti interne;</l>
+            <l>L’altre parti tagliar minutamente,</l>
+            <l>Et le trafisser schidoni acuti:</l>
+            <l>Onde ben cotte, et arrostite essendo;</l>
+            <l>Indi trassero fuor tutte le cose.</l>
+            <l>Poscia che essi cessar da la fatica;</l>
+            <l>Il bello apparecchiato et gran convito</l>
+            <l>Mangiaro: ne in alcuna cosa a l’alma,</l>
+            <l>Huopo fu di vivanda o cibo uguale.</l>
+            <l>Ma poi ch ’l lor desio fu parimente</l>
+            <l>Di mangiar, et di ber contento et satio;</l>
+            <l>I giovenetti coronaro i vasi,</l>
+            <l>Empiendo quelli di vemiglio vino.</l>
+            <l>Et comminciaro a tutti ad uno ad uno.</l>
+            <l>Porger da ber, con le spumante tazze.</l>
+            <l>Costoro, per placar il grande Iddio,</l>
+            <l>Speser tutto quel giorno in dolce canto.</l>
+            <l>E i giovenetti Greci in rari accenti,</l>
+            <l>Formavano canzoni alte e gentili,</l>
+            <l>Celebrando colui che di lontano,</l>
+            <l>De le sue man vittoriose et forti,</l>
+            <l>Fa sentir quanto pon l’opre divine.</l>
+            <l>Che nel udir sentiva alto diletto;</l>
+            <l>Et ripiena di gaudio havea la mente.</l>
+            <l>Ma poi che’l chiaro sol scese a l’occaso,</l>
+            <l>Et velo l’ombra il volto de la terra:</l>
+            <l>Dormiro sopra l’aspre et grosse funi,</l>
+            <l>Che tener soglion l’alte poppi a l lito.</l>
+            <l>Ma gia aprendo il balcon de l’oriente,</l>
+            <l>Nascea la bella matutina aurora;</l>
+            <l>Con vaghe dita di color di rose.</l>
+            <l>Et indi allhora fecero partita,</l>
+            <l>Per ritornar de Greci a l’ampio stuolo.</l>
+            <l>Et fece lor spirar l’aura seconda</l>
+            <l>Apollo le cui man possenti et forti</l>
+            <l>Fan sentir di lontan l’opre divine</l>
+            <l>Et l’arbore drizzando al loco usato,</l>
+            <l>Spiegaro sopra quel le bianche vele:</l>
+            <l>Mentre dunque secondo il vento spira</l>
+            <l>De la candida vela empieva il seno.</l>
+            <l>Et d’ogn’intorno al fondo de la nave,</l>
+            <l>Che ’l mar solcando va spedita et lieve,</l>
+            <l>Si sentia suonar l’onda marina:</l>
+            <l>Che per l’acque correa veloce et presta</l>
+            <l>Per le liquide vie varcando il mare.</l>
+            <l>Poi de Greci fur giunti a l’empio stuolo;</l>
+            <l>Trasser le nave per la pece negra</l>
+            <l>In terra sopra la propinqua arena</l>
+            <l>Ponendo sotto lei lunghi sostegni.</l>
+            <l>Onde quindi partendo immantinente,</l>
+            <l>Si sparser per le navi et padiglioni.</l>
+            <l>Ma il generoso et gran figliuol di Peleo</l>
+            <l>Achille ch’e de i pie veloce al corso;</l>
+            <l>Sedendo ne le sue veloci navi,</l>
+            <l>Era pien di grand’ira: ne giamai</l>
+            <l>Ne la publica piazza conversava,</l>
+            <l>Che gli huomini far suol famosi et degni.</l>
+            <l>Ne anchor sen gia mai ne l’aspra guerra</l>
+            <l>Ma struggeva il suo molto amato core;</l>
+            <l>Ivi restando, pien d’alto desio</l>
+            <l>Di gridi, d’arme et di crudel battaglia.</l>
+            <l>Ma’l duodecimo di gia rilucendo;</l>
+            <l>Allhora gli celesti eterni Dei</l>
+            <l>Tutti insieme poggiaro cerso il cielo:</l>
+            <l>E’l sommo Giove se ne giva inanzi</l>
+         </lg>
+         <lg ana="#p39a" n="39a">
+            <l>Ma Theti non havea posto in oblio,</l>
+            <l>Cio che l’impuose il suo diletto figlio.</l>
+            <l>Però sorgendo da l’onde marine,</l>
+            <l>Ascese a l’alto et rilucente cielo;</l>
+            <l>Ne lo spontar del matutino raggio.</l>
+            <l>Dove trovò il gran figliuol di Saturno</l>
+            <l>Ch’udir fa di lontan l’orribbil suono,</l>
+            <l>Ch’indisparte sedea da gli altri Dee;</l>
+            <l>Ne l’alta cima del superno Olimpo:</l>
+            <l>Dove dinanzi a lui giunta s’assise:</l>
+            <l>Et abbracciando con la manca mano</l>
+            <l>Le sue ginocchia con la destra insieme</l>
+            <l>Gli prese il mento et supplicando humile,</l>
+            <l>Disse al figliuolo di Saturno Ciove.</l>
+            <l>O sommo padre Giove; se giamai</l>
+            <l>Tra gli immortali Dei ti porti aita;</l>
+            <l>O con pronto parlar, o con forte opra.</l>
+            <l>Adempimi signor questo desio.</l>
+            <l>Honora il mio figliuol; ch’inanzi a gliatri</l>
+            <l>Corre de la sua vita a l’hore estreme</l>
+            <l>Puo dianzi il Re de gli huomini mortali</l>
+            <l>Agamenon gli ha fatto grave oltraggio;</l>
+            <l>Che per forza gli ha tolto il guiderdone;</l>
+            <l>E in suo potere appresso lui se ’l tiene.</l>
+            <l>Ma tu pien di divino alto consiglio</l>
+            <l>Giove Signor del ciel, rendegli honore:</l>
+            <l>Ponendo ne i Troiani alto valore,</l>
+            <l>Insino che da i Greci al mio figliuiolo,</l>
+            <l>Et reso gli sia, et acresciuto honore.</l>
+            <l>Cosi disse. Ma a lei nulla rispose</l>
+            <l>Giove, ch’accoglie le disperse nebbie:</l>
+            <l>Ma lungamente tacito s’assise.</l>
+            <l>Theti, qual havea preso le ginocchia;</l>
+            <l>Cosi, tenendo quelle et stando avinta:</l>
+            <l>Torno a pregarlo la seconda volta.</l>
+            <l>Promettimi Signor, afferma o niega:</l>
+            <l>Perch’in te non ha loco fredda tema:</l>
+            <l>Accio che bene ‘sappia il vero, quanto</l>
+            <l>Sia dea, fra tutti priva d’ogni honore.</l>
+         </lg>
+         <lg ana="#p40a" n="40a">
+            <l>Giove ch’aduna sprezzate nebbie;</l>
+            <l>Con gravi alti sospiri, cosi disse.</l>
+            <l>Certo quest’opre son dannose et empie;</l>
+            <l>Che di Giunon mi sforzi esser nimico:</l>
+            <l>Quando sovente ella mi muove ad ria,</l>
+            <l>Con detti ingiuriosi et importuni.</l>
+            <l>Costei fra tutti gli immortali Dei</l>
+            <l>Mai sempre meco in van contende et grida;</l>
+            <l>Et dice ch’a i Troiani porgo aita</l>
+            <l>Ne la guerra crudel: partiti adunque,</l>
+            <l>Accio non siano a la consorte mia,</l>
+            <l>Cotai parole manifeste et conte.</l>
+            <l>Che queste cose ne l’eterna mente</l>
+            <l>Saranno, fin ch’i l’adempisca a pieno.</l>
+            <l>Ma per aggionger speme al tuo desio;</l>
+            <l>Ti affermaro con l’inchinar la testa.</l>
+            <l>Questo da me con gli immportali Dei</l>
+            <l>E grandissimo segno di fermezza:</l>
+            <l>Et tutte quelle cose, che piegando</l>
+            <l>La testa affermaro, non sien giamai</l>
+            <l>Imperfette, mutabili o fallaci</l>
+            <l>Poi c’hebbe detto il figlio di Saturno,</l>
+            <l>Ratto affermò, con le serene ciglie:</l>
+            <l>Et del gran Re la chioma alta et divina;</l>
+            <l>Essendo scossa da l’immortal testa;</l>
+            <l>Fece tremar tutto ’l superno chiostro.</l>
+            <l>Poi che costor si consigliaro insieme</l>
+            <l>Fece partita: et steti indi discese</l>
+            <l>Da l’alto ciel giu nel profondo mare</l>
+            <l>Ma Giove ascese nel suo chiaro albergo.</l>
+            <l>Et tutti insieme si levaro i Dei,</l>
+            <l>Da gli alti seggi: et allhor padre eterno</l>
+            <l>Si fero incontra: ne gia alcun sostenne</l>
+            <l>Aspettarlo venendo: ma a l’incontro</l>
+            <l>Fermarsi tutti: et cosi egli si pose</l>
+            <l>A seder sopra l’alto et divin seggio.</l>
+         </lg>
+         <lg ana="#p41a" n="41a">
+            <l>Ma ben conobbe nel mirar Giunone,</l>
+            <l>Qual era stato a lui consiglio espresso,</l>
+            <l>Da Theti de l’antico dio marino</l>
+            <l>Figlia c’ha i pie d’argento puro e torso [sic]</l>
+            <l>Subitamente con parole acerce,</l>
+            <l>Giove figliuolo di Saturno assalse.</l>
+            <l>O consiglier d’inganni: qual de i dei</l>
+            <l>Novellamente fu teco a consiglio?</l>
+            <l>Essendo di lontan da gli occhi miei,</l>
+            <l>Senza me sempre ti diletta et piace,</l>
+            <l>Pensando giudichar le cose occulte:</l>
+            <l>Ne anchora fosti a sostener ben pronto,</l>
+            <l>Di dir parola alcuna, et che tu pensi,</l>
+         </lg>
+         <lg ana="#p42a" n="42a">
+            <l>Indi verso costei la lingua sciolse,</l>
+            <l>Il gran padre de gli huomini, et de Dei.</l>
+            <l>Giunon; scaccia da te la vana speme</l>
+            <l>Di saper sempre qual’io parlo a pieno:</l>
+            <l>Perche, be,che mi sii sorella et moglie,</l>
+            <l>Queste cose ti sieno dure et gravi.</l>
+            <l>Ma quel che di saper honesto sia;</l>
+            <l>Nessun prima di te, lo sapra inante,</l>
+            <l>Ne del numer de Dei, ne de mortali.</l>
+            <l>Ma cio ch’intender vuo stando in disparte</l>
+            <l>Da gli altri Dei: deh non voler, tu anchora</l>
+            <l>De tutte queste cose ad una ad una, </l>
+            <l>Chieder, o ricercar l’alta cagione.</l>
+         </lg>
+         <lg ana="#p43a" n="43a">
+            <l>Giunon, con gli occhi rilucenti et vaghi</l>
+            <l>Ch’è d’ogni reverenza, et honor degna;</l>
+            <l>Cotal formò ver lui risposta et disse.</l>
+            <l>Grave et molesto di Saturno figlio,</l>
+            <l>Che parole hai tu detto? Ne giamai</l>
+            <l>Chieder ne ricercar molto ti soglio,</l>
+            <l>Ma tu mai sempre tacito et secreto,</l>
+            <l>Quelle cose consegli, che tu vuoi.</l>
+            <l>Hor grave tema la mia mente preme;</l>
+            <l>Che con lusinghe non ti inganni Theti,</l>
+            <l>Figliuola del marino antico Dio.</l>
+            <l>C’ha le piante d’argento puro et terso.</l>
+            <l>Che a lo spontar de la novella luce,</l>
+            <l>Teco s’assise, et le ginocchia prese:</l>
+            <l>Et a cui penso il vero, che col cenno</l>
+            <l>Habbi affermato d’honorar Achille;</l>
+            <l>Et strugger molti Greci, ne le navi</l>
+         </lg>
+         <lg ana="#p44a" n="44a">
+            <l>Giove ch’aduna le disciolte nebbie,</l>
+            <l>Ver lei sciolse la lingua in tal sermone.</l>
+            <l>Misera: che mai sempre stai in sospetto;</l>
+            <l>Ne t’inganno: ma nulla far potrai.</l>
+            <l>Et dal cor mi serai via piu lontana:</l>
+            <l>Et questo anchora ti sia duro et grave.</l>
+            <l>Et s’egli è pur cosi; grato mi sia.</l>
+            <l>Ma tu sedendo homai tacita et cheta;</l>
+            <l>Obedisci a queste alte mie parole.</l>
+            <l>Perche, non tu potranno dar aita,</l>
+            <l>Quanti Dei sono ne l’excelso chiostro;</l>
+            <l>Venendo presso; et sopra te le mani</l>
+            <l>Ponendo, che non hai riparo o schermo.</l>
+            <l>Cosi havend’ei parlato, fredda tema</l>
+            <l>Assalse il cor de l’honorata dea</l>
+            <l>Et tacita s’assise, et in un punto</l>
+            <l>Chinò gli occhi sereni, et l’alma amica.</l>
+            <l>Onde i Dei che la su son cittadini;</l>
+            <l>Nel palazzo real del sommo Giove,</l>
+            <l>Trasser da i petti gemiti et sospiri.</l>
+         </lg>
+         <lg ana="#p45a" n="45a">
+            <l>Ma lo illustre Vulcan pien d’arte e ingegno,</l>
+            <l>Incominciò in cotal modo a dire.</l>
+            <l>Apportando a la mia madre diletta,</l>
+            <l>Giunon, e ha il volto piu che neve bianco,</l>
+            <l>Cose amate, et da lei gradite et care:</l>
+            <l>Certo questo’ opre sien spietate et crude,</l>
+            <l>Ne a modo alcun di sofferenza degna.</l>
+            <l>Se per cagion de gli huomini mortali.</l>
+            <l>Tai contese farete: et tal romore</l>
+            <l>Da voi si leverà tra gli altri Dei:</l>
+            <l>Ne sia del bel convito alcun piacere:</l>
+            <l>Che trista noia vinte il bel diletto.</l>
+            <l>Adunque madre t’ammonisco, et chieggio: </l>
+            <l>Anchor che per te stessa intendi et vedi;</l>
+            <l>Ch’al mio diletto eterno padre Giove,</l>
+            <l>Apporti cose di divino amore:</l>
+            <l>Acciò che’l padre hor non contenda et gridi;</l>
+            <l>Et turbi il nostro chiaro et bel convito.</l>
+            <l>Che s’egli vuol, che le saette ardenti</l>
+            <l>Manda, dal ciel a i miseri mortali;</l>
+            <l>Tutti ne crollarà da gli altri seggi:</l>
+            <l>Che questi e sopra ogniun possente et forte.</l>
+            <l>Ma tu col tuo parlar soave et molle,</l>
+            <l>Placa d’alto Signor de l’universo;</l>
+            <l>Et subito sia a noi cortese et pio.</l>
+            <l>Poi c’hebbe cosi detto, in pie levossi;</l>
+            <l>Et puose in mano a la diletta madre</l>
+            <l>Il bel vaso rotondo; et ver lei disse</l>
+            <l>Sofferi madre mia; benche sii mesta:</l>
+            <l>Che sofferenza è nel dolor conforto.</l>
+            <l>Accio che gli occhi miei, madre diletta</l>
+            <l>Non ti veggian percossa, anchor che doglia</l>
+            <l>Ne senta; non potro punto aiutarmi:</l>
+            <l>Gli è duro al contrastar al Re del cielo</l>
+            <l>Gia alcuna volta spinto dal desio</l>
+            <l>Di dar aita; mi gitto col piede,</l>
+            <l>Trahendomi dal ciel alto et divino.</l>
+            <l>Tutto quel giorno andai per l’aer vagando;</l>
+            <l>E insieme poi col tramontar del sole,</l>
+            <l>In lemno caddi, con poc’alma et spirto.</l>
+            <l>Et da gli huomini Sintii fui raccolto;</l>
+            <l>Allhor subitamente ch’i ardeva.</l>
+            <l>Cosi diss’egli, et l’alta dea Giunone;</l>
+            <l>C’ha le braccia di terso avorio bianco;</l>
+            <l>Sorrise; et sorridendo di man tolse</l>
+            <l>Del suo figliuolo la spumante tazza.</l>
+            <l>Dava costui leggiadramente a bere</l>
+            <l>A tutti gli altri Dei, del netar dolce;</l>
+            <l>Che fuor traeva d’un gran vaso pieno.</l>
+            <l>Inestinguibil riso si raccese</l>
+            <l>Fra i dei beati, nel veder Vulcano;</l>
+            <l>Per le case divine ministrando.</l>
+            <l>Tutto’l giorno duro quel bel convito</l>
+            <l>Infin che’l sole s’attuffo ne l’onde:</l>
+            <l>Ne huopo hebbe piu il desio di egual vivanda:</l>
+            <l>Ne anchora vi mancò la bella cetra;</l>
+            <l>Che teneva, suonando il biondo Apollo,</l>
+            <l>Ne vi mancar le muse, ch’alterando</l>
+            <l>Seco, cantavan con divini accenti.</l>
+            <l>Poscia che’l sol la chiara luce ascose;</l>
+            <l>Tutti giro a dormir ne i loro alberghi,</l>
+            <l>Fatti con arti inusitate et nuove,</l>
+            <l>a ognun di lor; dal l’inclyto Vulcano;</l>
+            <l>Ch’era zoppo de l’uno et l’altro piede.</l>
+            <l>Ma il gran Signor del cielo Giove eterno,</l>
+            <l>Che vibrar suole gli affocati strali;</l>
+            <l>Ando al suo letto, ove solea dormire;</l>
+            <l>Quando che’l dolce sonno l’assaliva:</l>
+            <l>Dove asceso dormiva: et ivi presso</l>
+            <l>Havea Giunon il suo dorato seggio:</l>
+            <l>IL FINE</l>
+         </lg>        
+      </body>
+   </text>
+</TEI>

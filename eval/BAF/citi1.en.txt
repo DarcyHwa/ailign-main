@@ -1,0 +1,653 @@
+Industry Canada Centre for Information Technology Innovation (CITI) Work and Technology Program
+Technological Change and the Organization of Work
+François Lapointe
+Laval October 6, 1995
+This report was prepared in connection with work carried out by Centre for Information Technology Innovation (CITI) of Industry Canada.
+The views expressed in the report are those of the author.
+Une version française est également disponible.
+= Copyright Industry Canada 1996
+N° catalogue Co28-1/127-1996E
+N° ISBN 0-662-24298-X
+Table of Contents
+1.
+Introduction: Context and Challenges
+1
+2.
+Technological Change as a Global Process: An Example
+. . .
+4
+2.1
+The Organizational Context
+. . . . . . . . . . . .
+4
+2.2
+Laying the Groundwork for Change
+. . . . . . . .
+6
+2.3
+Designing Change
+. . . . . . . . . . . . . . . . .
+8
+2.4
+Implementing the Solutions Developed
+. . . . . . .
+10
+2.5
+Follow-up
+. . . . . . . . . . . . . . . . . . . .
+12
+3.
+The Issues Involved in Technological Change in Organizations: Some Theoretical Signposts
+. . . . . . . . . . . . . . .
+14
+4.
+A Contextualistic Approach to Assessment
+.
+17
+4.1
+General Description
+. . . . . . . . . . . . . . .
+17
+4.2
+Strategy for Applying This Approach
+. . . . . . .
+20
+4.3
+Assessment Methods
+. . . . . . . . . . . . . . . .
+22
+5.
+Levels of Intervention
+. . . . . . . . . . . . . .
+26
+5.1
+Contextualistic Design
+. . . . . . . . . . . . . .
+28
+5.2
+Assessment of Implementation
+. . . . . . . . . . .
+32
+5.3
+Follow-up (Assessment of System Use)
+. . . . . . .
+37
+6.
+Conclusion
+.
+40
+Bibliography
+. . . . . . . . . . . . . . . . . . . . . . .
+42
+Acknowledgments
+The author wishes to express his gratitude to his colleagues in the Work and Technology program including David Tippin, Richard Lavoie, Duncan Sanderson, Anne-Marie Tessier and, in particular, Judith Légaré for their invaluable contribution to this paper.
+Their comments, advice and suggestions were highly significant and greatly appreciated.
+1.
+Introduction: Context and Challenges
+The issue of technological change in the workplace is nothing new.
+Since the early days of the industrial age, the development of technological tools (mechanization and automation) has ushered in different forms of work.
+As can be seen from the history of industrialization, the implementation of technological innovations occurs in conjunction with or is followed by the emergence of new ways of organizing and managing work.
+The mechanization and automation of work processes in the manufacturing industry have been governed successively by mass production, Taylorism and Fordism.
+In industrial societies, new methods of organization have had an enormous impact not only on business organizations, but also on the quality of life at work and the fabric of society as a whole.
+For example, they have made it possible for industrial societies to substantially increase their production and consumption capacities, just as they have been the source of profound social tensions related primarily to worker obsolescence, unequal distribution of wealth, and the profoundly hierarchical organization of the work environment.
+While we are still not far enough removed from the situation to observe the true impact, many observers (notably, Bergquist 1993 and Minc 1993) believe that we are undergoing yet another period of radical transformation, stemming largely from the evolution of technologies and of the ways in which work is organized.
+A number of emerging trends suggest the decentralization of organizational structures and of the organization of work.
+These trends are reflected above all in the growing autonomy of an ever-increasing number of workers (e.g., the move toward replacing salaried employees by self-employed workers, the downsizing of large organizations in favour of outsourcing, etc.).
+Concurrently with this radical organizational restructuring, we are witnessing what seems to be the virtual disappearance of the traditional structures within these organizations and the emergence of dynamic processes as the new mechanisms of organizational cohesion.
+Information and communications technologies are playing an important role in these organizational transformations.
+The central question underlying this issue of technological change is how to integrate change into organizations and into work content and the way work is organized, but above all into the practices of those who must perform the work.
+We often allude to the "resistance to change" that is prevalent among large segments of society, including workers, as being reactionary or unwarranted.
+In actual fact, however, this resistance may simply indicate that they have not yet become competent in handling the change, which is often presented as an unfortunate inevitability over which there is no control.
+While it is true that the social and economic structures of our society make certain trends inevitable, and that organizations are obliged to maintain a certain cruising speed in terms of development, nothing precludes our exercising some control over the way in which we perceive such changes.
+In fact, there may well be ways of facilitating change and improving efficiency, as it pertains not only to how the technologies are used, but also to work processes and the quality of life in the workplace.
+Technological change is a global process in that it affects many different aspects of work, the organization and life in the workplace.
+The chances of benefiting from such change are therefore considerably increased if there are mutual adjustments made in both the new technology and all these other areas.
+To facilitate the adjustment process, we recommend introducing follow-up mechanisms that are designed to open and maintain information channels between management and operational staff.
+This points to the need for a global, long-term approach for managing technological change.
+We therefore propose an assessment/intervention approach based on cooperation between the different players involved in the process of change, beginning with the intended users of the newly introduced technology.
+The purpose of such a strategy is to cultivate an overall understanding of the issues involved in technological change in the workplace.
+The approach and methods presented here were developed on the basis of several applied research projects conducted over the last five years by the Centre for Information Technology Innovation (CITI), and by its Work and Technology program in particular.
+The objective is to understand and assess the process of technological change and to identify means of ensuring more effective and less costly implementation that is better tailored to the particular needs of the organizations involved.
+Bearing this in mind, we will now attempt to show how these research tools can be adapted to a new perspective on management and intervention within the context of technological change.
+This paper is not intended as a tool for the initiated nor as a management handbook.
+Rather it addresses anyone interested in the question of technological change in the workplace, be they managers, consultants, union representatives, users, or others.
+It therefore seeks to shed some light on the process of technological change in the workplace and on the challenges connected with it.
+More specifically, it examines the question of how such change should be tackled by looking at a crucial yet often-overlooked factor: the adjustment that must take place between the technology, the organization and all its employees.
+Using a fictitious example derived from several case studies, we will begin by illustrating how the intervention strategies we propose can be applied.
+This example will help identify several elements that will enable us to define our viewpoint on the issue of technological change within organizations.
+We will then describe some of the methods that can be used to apply a global management approach for implementing technological change.
+The paper will conclude with a look at why and how we promote a design, implementation, and management process that is based on the involvement of all those affected by the change, beginning with front-line users.
+2.
+Technological Change As a Global Process: An Example
+The literature has already shown that it is not simply technology per se that enables an organization increase its productivity and effectiveness.
+Rather it is the organization's capacity to integrate technology into its own particular context, in keeping with the modus operandi, knowledge, and work cultures of its employees (Orlikowski 1992; Davies and Mitchell 1994).
+Taking an interest in the implications of technological change in the workplace implies to a large extent looking at the interaction between the technology as a work tool and the organization as a social context.
+In other words, any one technology may have different impacts and implications; it may sometimes facilitate and at other times impede organizational transformations, depending on how it is implemented that is, according to the management philosophy that accompanies the change.
+To delineate our approach more clearly, we shall begin by describing how a technological change might be introduced within a fictitious organization.
+While this scenario may at times seem somewhat idealistic and overly simplistic, it should be borne in mind that our goal is not so much to duplicate reality in detail (which in any case varies considerably from one organization to the next), but rather to provide a rough picture that will highlight some of the characteristics of the change-management approach put forth in this paper.
+Though inspired by the results of applied research, our example is essentially fictitious.
+Any resemblance that it may bear to any existing company is purely coincidental.
+2.1
+The Organizational Context
+INC Inc. is a firm with just under fifty employees.
+It has been in business for some twenty years in the field of communications.
+Many of its activities involve designing and producing corporate information documents, such as advertising materials, pamphlets, activity reports and public relations documents, for a wide range of companies.
+The production of such materials calls into play a variety of skills.
+In addition to office and administrative staff, INC employs graphic artists, specialists in computer graphics design and marketing, writers and translators.
+Approximately three-quarters of INC's activities are carried out by in-house staff, and the remainder is outsourced to self-employed freelancers who work mainly from home.
+Technology plays an important part in INC operations in that all its products are developed by means of computer tools.
+However, the firm's performance and the quality of its products depend above all on the skills, expertise and motivation of its staff.
+Moreover, anyone who has talked with the employees who are directly involved in the production process will attest to the great pride they take in the quality of their work.
+Clearly, what motivates INC employees its writers or translators, for instance to invest considerable time and energy in their work is largely the opportunity to contribute to the production of distinctive, high-end products that reflect the creativity and personal commitment of nearly all those who have been part of the production process.
+Cognizant of this fact, INC's senior executives have gradually developed a management approach based on the involvement of the entire staff.
+It began with the recognition a few years ago that staff turnover was high and organizational performance less than optimal.
+After scrutinizing operations, the firm's upper management succeeded in identifying a number of problems.
+The different professional groups were aware only of the segment of work requiring their particular skills; no one had a clear overview of the projects on which they worked.
+The result was poor communication among the various people involved, a factor that often led to delays, which were also attributable to a poor understanding of client needs on the part of those designing and writing the material requested by the clients.
+Moreover, it became apparent that a number of employees had limited knowledge of the technologies available to them.
+These technologies were either greatly underused or poorly used, resulting in a poorer quality product and slower production time.
+In light of this situation, the firm's management sought to reorganize the work in terms of multidisciplinary teams, all of whose members were kept abreast of each other's work, including client relations.
+The home-based freelancers were also involved in the process from a distance by means of a multi-site communication and collaboration process.
+All the employees working on a given project were consulted in order to develop specifications and proposals to be submitted to the client, and everyone's skills were called into play throughout the process.
+As a result, the end products were better adapted to the client's needs.
+Every individual was regarded as being partly responsible for the outcome of the entire work process.
+Quality control generally pre-empted direct overseeing as a form of supervision.
+Important decisions, major orientations and the methods of organizing work were thereafter discussed with the individuals involved.
+This organizational philosophy was applied to both the choice and management of technologies, including training employees and updating their technical knowledge.
+2.2
+Laying the Groundwork for Change
+Step 1:
+Identifying Problems and Possible Solutions
+Like many enterprises, INC was facing fierce competition that obliged it at the very least to maintain a certain volume and quality of production, while seeking measures to cut operational costs.
+With a view to identifying different possible solutions to these problems, management undertook a work process audit, largely through consultation with its employees.
+The consultation process was carried out by the head of human resources.
+This person met with groups from each category of employees, asking them to give detailed descriptions of the different tasks and operations involved in their work, and to identify the most important aspects, as well as those they regarded as the most interesting, the most constraining, the most time-consuming, and so forth.
+He also used the opportunity to ask the employees to identify any changes or improvements they would like to see in their work, as well as anything they would not like to see changed.
+The freelancers who did regular work for INC were also consulted, either through informal interviews with the head of human resources or through short questionnaires that were mailed out.
+This consultation process made it possible to pinpoint a number of problems that, if solved, might allow for both economies of scale and improved performance and quality of work.
+Two types of interventions stood out as promising and feasible:
+(1)
+A great deal of time was normally spent on terminology research, a major part of the work carried out by the writers and translators who worked for INC.
+In fact, unlike their freelance colleagues who write and translate in highly specialized fields (e.g., in the aeronautics industry), INC's writers and translators were called upon to work mainly as generalists.
+They had to continually familiarize themselves with new, specialized terminologies, which obliged them to spend considerable time in the documentation centre consulting terminology databases, as well as specialized dictionaries and lexicons.
+The employees concerned suggested looking into the possibility of developing computer tools that would facilitate and speed up their research.
+(2)
+INC employees frequently had to work in collaboration with freelancers to carry out certain types of projects.
+This involved providing the freelancers with information and instructions pertaining to the tasks they had been given and offering them support in their work (e.g., by giving them advice or making suggestions on their drafts).
+Often in this collaborative process, both parties spent a considerable amount of time waiting for information or redoing portions of the work because of insufficient information or misinterpretation of the information provided.
+Furthermore, in order to do their work well, freelancers often required quick access to a wide range of information.
+The two main reasons for this were (1) the need for them to produce texts very quickly, a factor that left them little leeway in preparing their work, and (2) the fact that, because they were not on the premises, they lacked access to a host of information that circulated informally within the company.
+There was therefore a clear need to improve communication links between the home-based freelancers and INC's employees by developing faster means of exchanging information on an ongoing basis.
+Step 2:
+Preparing to Act
+In order to explore the feasibility and profitability of the suggestions made, management formed a working group comprising the head of human resources (responsible for training and professional development), the head of computer services (technical support, selection and installation of equipment), as well as two employee representatives (volunteers).
+If more extensive changes or changes that required speedy implementation had been involved, specialized consultants would have been brought in, but in this instance, the skills available within the firm were adequate to launch the process.
+During an initial meeting, the members of the working group agreed to dedicate a few hours a week (anywhere from two to five hours, according to each person's responsibilities) to trying to come up with concrete solutions to the problems that had been identified.
+An inventory was drawn up of the available technological tools designed to assist in the writing and translation processes.
+Different possibilities (technologies and methods of organization) for improving communication between freelancers and the firm were investigated, and information was gathered on operations and procedures used in other work environments where comparable tasks were performed.
+The group members also agreed that they would reconvene for one hour each week to report back on what they had each accomplished.
+The outcome of these meetings was the drafting of very short memos (only a few lines each) intended to update management and all other personnel on the progress being made.
+Moreover, a suggestion box was installed on the premises to give all employees the opportunity to share their ideas or ask questions about the group's work.
+INC freelancers were also asked to take part, either by electronic mail or by using the suggestion box when they happened to be at the INC office.
+After a few weeks of research and consultation, the working group succeeded in identifying possible solutions to be explored at the two levels targeted for intervention.
+In both cases, the proposed solutions appeared to involve both technological and organizational change.
+With regard to tools to assist in the tasks of writing and translation, the possibility was raised of integrating computer tools directly into the writers' and translators' workstations to allow them to carry out their terminology research with greater ease and efficiency.
+Regarding communication with INC freelancers, the consultations held with them and the employees with whom they interacted led to the study of different scenarios, and ultimately resulted in the suggestion that network links and different communication procedures be set up between INC and its freelancers.
+Having established possible solutions and avenues to pursue, the next step was to concretely implement and validate the proposed changes.
+2.3
+Designing Change
+With clearly defined needs in mind, the next step was to determine the most appropriate means of meeting these needs, whether by introducing new technologies or new ways of organizing work, depending on the particular context at INC.
+The aim was not simply to develop solutions tailored to the organization's specific needs, but also to reduce the time needed to ensure optimal use of the technologies and organizational forms that were to be implemented.
+The working group first prepared a draft of the specifications to be used in choosing and adapting the new technologies and adaptations, and defined the organizational strategies to be adopted, both on the basis of the information gathered so far with respect to the following:
+· the profile of the individuals targeted by the changes (their technical knowledge and work culture, including considerations such as writers' and translators' concern for quality);
+· the work to be carried out (multidisciplinary teamwork requiring great creativity and a thorough knowledge of client needs, and the freelancers' need for fast access to a wide variety of information);
+· the particular needs of the organization (management based on cooperation and the involvement of all staff, and the need for better distribution of information, both in-house and among all external collaborators).
+Regarding INC's writers and translators, a decision was made to integrate directly into their workstation, tools that would assist them in their writing tasks, such as an "intelligent" spell checker, verb conjugation software, and a database on CD-ROM.
+In addition, an in-house software program was developed to help them quickly prepare terminology files adapted to INC's needs.
+The terminology database would be added to by all INC employees during the course of their duties.
+All these tools were put on a network so that they would be available to everyone, including freelancers.
+In an effort to improve communication with its freelancers, INC decided to loan each of them a modem for the duration of their contract.
+The contract would be the vehicle for specifying methods and procedures for exchanging information in this new context.
+Together, the introduction of a network and of mechanisms designed to facilitate collaboration would, it was hoped, lead to the emergence of a work process with a stronger iterative component.
+These specifications provided the basic information needed to begin the work of development per se.
+To support the process, a firm specialized in system development was hired to choose and integrate the technologies best adapted to the specifications that had been defined in light of the needs identified in-house.
+The same firm was given the mandate of carrying out the necessary development and adaptation activities, as well as devising the technical training required by the users.
+It was understood that these outside consultants would work in collaboration with the in-house working group.
+To initiate the process, the next step was to develop prototypes of the proposed technological tools and methods of organization.
+These were then tested in a real context and were modified or improved upon as required in light of consultations and information gathered from the users involved, managers and other employees.
+This feedback process was ensured by means of user interviews conducted by members of the working group.
+The net result was the implementation of solutions based on compromises that had been worked out among the various viewpoints expressed during the test period.
+Following discussions with the outside consultants and based on their own previously acquired knowledge of the changes to be effected, the working group and management reached an agreement to allow this prototyping phase to continue over a period of three months, with the option of slightly prolonging or shortening the process, depending on the headway being made.
+The proposed changes were then implemented on a small-scale trial basis with two writers and two freelancers, who were each asked to spend 20% of their work time trying out the new work tools and methods and to report back to members of the working group and the consultants.
+The information gathered was used to refine the solutions developed prior to their implementation in the target sectors.
+2.4
+Implementing the Solutions Developed
+Once the proposed technologies and methods of organization had been appropriately refined and tested with small groups, preparations were made to implement them with all the freelancers and employees concerned.
+The trials conducted during the design phase made it possible to develop a training approach that was adapted to the needs of the individuals involved, as well as to identify ways of integrating these changes into the existing work processes.
+The firm was nevertheless fully aware that once applied throughout the organization, these changes might have a different impact than during the trials involving only a few people.
+Moreover, past experience has shown that the learning and adaptations imposed by improvised change may translate into drops in productivity, which, though temporary, are nonetheless costly.
+In order to minimize this adjustment requirement, management asked the working group to continue its follow-up efforts in order to evaluate the progress of the implementation process and to propose corrective measures as required.
+It was agreed that the members of the working group would spend approximately half a day per week on evaluating the implementation of the changes.
+It seemed from the small-scale trial conducted during the design phase that the implementation of the desired changes would necessitate a period of learning and adaptation lasting about ten weeks.
+It was of course agreed that should any serious problems arise along the way, implementation would be delayed until the problems were resolved.
+At that stage, assessment consisted in meeting twice with all the employees and freelancers involved, once at the beginning of the implementation period and again at the end.
+These meetings were held either with individuals or with groups of five people, depending on each person's availability, and led to semi-structured interviews lasting about one hour on the topic of the progress being made in implementing, adapting to and learning about the changes.
+Mid-way through the implementation phase, a short questionnaire was distributed to all those involved in order to identify any problems that might have arisen.
+In addition, all employees were encouraged to keep the working group informed at all times of their comments and suggestions regarding possible improvements to the technologies and work processes being implemented.
+Analysis of the outcomes of these different consultations made it possible to identify any adaptations that needed to be made to the technologies and methods of organization, or to the process of implementation itself (user training and support).
+For example, assessment made it apparent that the implementation of the terminology file and the database on CD-ROM yielded much more significant results for the writers and translators employed by INC than it did for the freelancers performing the same tasks.
+These differences were reflected in levels of satisfaction and performance as well as learning.
+The information gathered by the working group revealed that these discrepancies in the use of the new technologies depended largely on contextual factors, namely, differences in the conditions governing work and production.
+As mentioned earlier, INC's freelancers were writers or translators who specialized in particular fields, whereas its employees tended to be generalists.
+The need to conduct terminology research is more pronounced among the latter, who are less familiar with specialized vocabularies.
+INC's employees were therefore highly motivated to invest time and effort in learning how to use tools that would facilitate their work and improve the quality of their products.
+In contrast, the freelancers found these tools to be less useful.
+Furthermore, their tenuous status with the company meant that they were often under great pressure to produce results within very short time frames, and they were thus less inclined to invest time in learning that would only have impact in the medium or long term.
+On the other hand, the hardware and logistics for facilitating communication between the different INC employees and the freelancers was readily welcomed by the latter, who felt they were being offered better support in their work, which in turn meant that they were not obliged to spend such long hours doing additional research or validating their choices regarding the way they chose to orient their products.
+At this stage, assessment made it possible not only to resolve problems pertaining to system refinements, training content and network-management task distribution, but also to identify the limitations and potential of the technological and organizational solutions envisaged.
+The differences that emerged between the employees and freelancers illustrate the close correlation between the context in which a change is implemented, the conditions under which a new technology is used and the potential results of this change (including the technological aspect).
+2.5
+Follow-up
+Once the change had been implemented, problems resolved and the main adjustments made, the working group ended the assessment phase as such.
+However, INC's management agreed with members of the working group that the group should not be disbanded.
+In fact, although no longer needed as intensively as during the design and implementation phases, it was acknowledged that the group still had an important role to play in terms of internal communication and problem prevention.
+It became apparent during the different phases of assessment that new collaborative strategies or ways of working together had grown out of the improved communication with the freelancers.
+In addition, the writers and translators employed by INC developed new strategies for using their work tools as they learned to master the different capabilities.
+In other words, even once a change has been implemented, the situation is not static.
+It continually evolves in response to the work environment, the knowledge of the people who are applying it, the way in which the technologies are used, the work content and the different adjustments made to ensure congruence with surrounding organizational forms.
+This observation led INC to conclude that it would be worthwhile to conduct periodic assessments of how the organization was using the new technologies and work processes.
+It was thought that periodic assessments would minimize the time and resources required to identify problems and prepare for change.
+It was therefore agreed that the members of the working group would set aside the equivalent of two days per quarter to assess how the new technologies were being used and what progress was being made with respect to work processes.
+To this end, employees and freelancers alike were therefore asked to keep a log of any usage problems they encountered and of their suggestions on ways to enhance the technologies and the organization of their work.
+The working group was responsible for analyzing the content of the logs and compiling the information and suggestions made in order to integrate them into future improvements or changes to be made in the existing systems.
+The assessment process would also include informal consultations between members of the working group and employees and freelancers.
+Problems were thus prevented from arising because of the ongoing sharing of information on activity progress and any adjustments needed to keep up with changes in context or methods of use.
+This periodic assessment process enabled INC to identify very quickly the impacts of the changes that had been introduced.
+The vast discrepancies between the in-house writers and translators' mastery of the terminology support software and that of their freelance counterparts made it clear that it is not only the tools that improve employee performance and satisfaction.
+It is also, and perhaps even more importantly, the correlation between what these tools make it possible to do, the specific nature of generalists' work (compared with that of more specialized freelancers), and the work culture of these employees, for whom, it must be remembered, product quality constitutes a major professional concern.
+It was further noted that the implementation of the new system and modes of communication had a significant impact on INC's relations with its freelancers.
+The improved access that freelancers gained to information and more efficient channels for reacting promptly to this information gave them a greater feeling of involvement in the decision-making processes surrounding product design.
+It was quickly observed that the implementation of communication tools had benefits that far surpassed initial expectations of a merely improvement in coordination.
+Accompanying the technological and logistical changes was a change within the organization's social structure, such that there was a shift in the role of freelancers from suppliers to collaborators, ultimately enriching INC's creative potential.
+This subsequently led to the more effective integration of INC freelancers into the firm's activities and structure as a whole, and into the logistics of participatory management at INC.
+3.
+The Issues Involved in Technological Change in Organizations: Some Theoretical Signposts
+An organization is both shaped by action and shapes, which manifests itself differently depending on the specific context in which it occurs (Suchman 1987).
+Using the example of INC, it can be stated that the particular context itself constitutes a social milieu, the outcome of a historical progression, of the work cultures of the players involved and of the social and economic environment.
+It is partly in relation to such a context that expectations, strategies (explicit or otherwise) and stances regarding phenomena such as technological change are formulated.
+The implementation of changes is often guided either by the will to preserve this context by adapting it to an environment in flux, or to break with it to ensure organizational renewal (Bergquist 1993).
+If organizations are constrained by the weight of their past, and their social, economic and cultural environment, the same holds true for technologies.
+It is important to recognize that technologies too are designed and applied according to work and social cultures in other words, according to the demands imposed by particular sectors of activity.
+This issue warrants a closer look.
+First, the design of a given technology is often guided by a particular view of the work that it is used to accomplish.
+Such a view has intrinsic constraints and potential that limit the scope of what can be accomplished.
+The manner in which a technology is applied in a particular work context in turn shapes the characteristics of what could be called its inherent "logic" (Alsène 1990).
+Consider the example of an information management system that incorporates a highly rigid command structure such that users can only carry out their work by following the steps and procedures defined at the time of the system's design.
+This type of system in fact limits the users' possibilities of archiving their data in any other way or of using the system in ways other those originally defined.
+By the same token, the type of control and supervision that predominates in an organization can place restrictions on certain uses of a technology that require extensive circulation of information.
+Moreover, technology is not a neutral force in and of itself, and, as a number of authors (notably Alsène 1990; Orlikowski 1992; Davies and Mitchell 1994) have demonstrated, technology does not necessarily provide the most logical solution to a given problem.
+Since technology is never designed in a vacuum, it does not merely reflect technical knowledge, but also references (conscious or otherwise) to a context and to ways of perceiving the activities that it is designed to make possible in short, references to a host of non-technical considerations.
+Thus, the social philosophy embedded in the design and application of a technology may constitute a central issue in defining the role and effects of the technology in the workplace and on the workers.
+However, it is also important to emphasize that the characteristics built into the design of a technology do not necessarily set it in stone.
+Once it has been applied in a particular environment under a given set of conditions, a technology may continue evolving through use.
+Technology is therefore (1) physically and socially constructed in a particular social and professional context; and (2) socially constructed by the players who use it to perform certain functions in a given organizational context (Orlikowski 1992).
+A technological change in the workplace therefore does not involve technology alone.
+It is associated with organizational dynamics and raises human and social questions.
+For example, the generation of information and communications technologies that is currently emerging favours a certain decentralization of operations within organizations, operations that can be carried out through dialogue between individuals in different physical locations.
+Faster than mail and free of the need for simultaneous user presence that governs telephone communications, these new technologies also result in time savings through dialogue and collaboration.
+The potential offered by these technologies depends largely on the context in which they are applied.
+Changes in organizational structures and processes affect the way players deal with the technologies.
+At the same time, however, because of the potential it has to offer and the very fact that it invites implementation, technology provides an essential springboard for the emergence of new forms of work and organization for work.
+It is through a technology's design that its constraints and potential the "options" that it offers organizations are pre-determined (Bj¢rn-Andersen and Turner 1994).
+Information and communications technologies thus open the door to new opportunities, just as they result in part from this same evolutionary process that generates new needs that must be met, which in turn generate yet other needs.
+Returning to the example of INC, we saw that the implementation of communications technologies and of the related methods of organization brought about changes in the firm's relationship with its freelancers, who shifted from a supplier to a collaborator role.
+This shift, initially sparked by the opportunities offered by new means of communication, thus had major impact on INC's organizational processes, on its operations and on the components (e.g., human resources and activities) that shape the company's evolution.
+To a very large extent, the effectiveness or usefulness of a technological change will depend on an organization's predisposition to identify and introduce, at the appropriate times, the adjustments required to ensure the optimal integration of technologies and work processes (Tyre and Orlikowski 1993).
+In this context, a technological change in the workplace must be seen as a global process, one that can both be impacted by and have an impact on work and the organization as a whole (Figure 1).
+It comprises
+· tensions and correlations between the logic underlying the technology and the characteristics of the organization
+· negotiations and compromises concerning what is or is not desirable in terms of the impact of the change
+· areas of acceptance of and resistance to the change.
+4.
+A Contextualistic Approach to Assessment
+4.1
+General Description
+It is important to recall that technological change is a global process that has potential impact on all aspects of an organization and the work environment.
+To exercise a certain measure of control over this impact and optimize the anticipated outcomes of the change, an overall picture must first be formed so that appropriate courses of action can be identified.
+This must be done taking into account the fact that the technologies are going to be used in a given context and that they involve a process that will evolve over time.
+Again returning to the example of INC, the work corresponded to the consultations and analyses carried out during the initial phase of the change process.
+In keeping with this logic, the methodology that we are proposing here may be described as a global approach.
+This global approach is designed to allow for a contextualistic, ongoing and adaptive assessment of the change.
+We propose a contextualistic type of assessment because the interface between the technology and the organization is defined locally.
+From this perspective, it is not a question of delineating ONE ideal methodology of "turnkey" analysis that is applicable as is, without any adjustments, to all phases of change.
+On the contrary, it must be an approach that can be adapted to a variety of organizational contexts.
+This adaptable approach calls into play a wide gamut of methodological tools that are interchangeable according to the organizational context, user profile, type of technology and field of application in question.
+In order to ensure coherence, this methodological toolkit must be grounded in the real practices of the technology users and in a specific organizational context.
+This implies that only with great difficulty could the senior executives in the hierarchy plan the change without being immersed in actual practices (including informal practices) and the social interactions surrounding the work process.
+We therefore propose an approach to managing technological change that promotes consultation and the involvement of all players concerned.
+We also submit that the assessment must be continuous because the technological-organizational interface is continually evolving.
+The effects of a technology and the ways of perceiving it evolve concurrently with its users (with their skills, knowledge and practices), and with the work processes and the context in which they occur (Suchman 1987).
+This evolution can be aided or hindered by the predisposition of the users and the organization, depending, for example, on the motivation of the players, their technical and professional knowledge, their view of the challenges involved in the change, the pressures exerted by the economic environment, and so on.
+Thus, it is important to undertake ongoing follow-up of the progress of the change and the impact it has on work processes and the organization.
+This follow-up process aims to provide an opportunity for making any necessary adjustments or improvements to meet needs that evolve en route, and to prevent problems both organizational and technical rather than having to resolve them after the fact.
+However, it is important to ensure that the assessment does not become a hindrance to operations or an irritant to the individuals consulted during the process.
+Moreover, mutual adaptations of the technologies and work processes presuppose that the users have at least a minimal mastery of the technological change.
+This is why, although it is necessary to ensure ongoing follow-up of how the change is progressing, it is preferable to do so on an episodic basis, after ensuring that a certain routine use of the technology has been established (Tyre and Orlikowski 1993).
+We therefore recommend adopting what could be called an adaptive assessment approach.
+This approach consists of a continuous follow-up of the change (analogous to INC's monitoring of the use of the new technology), but in a way that gives rise to sporadic interventions (adaptations or modifications at each phase) as needs become evident.
+Ongoing follow-up involves information gathering activities that require only a small time commitment on the part of the individuals consulted.
+This follow-up process is periodically interrupted by brief, yet intensive consultation periods when specific problems arise or when there is a need to proceed with formal adaptations of the technology or of the way in which work is organized (Figure 2).
+The main advantages of using a contextualistic approach are as follows:
+· its flexibility and adaptability to different contexts
+· the detail and scope of information that can be obtained as a result
+· the economies of scale that this information makes possible by helping the organization remain at the forefront of technological developments and by minimizing the drops in productivity that are generally associated with implementing major changes into production methods on a sporadic basis.
+Its main limitations or disadvantages are the following:
+· its "homespun" aspect, in the sense that the assessment process must be developed according to a particular context with the participation of those involved, meaning that it makes high demands on the analyst's knowledge and skills;
+· even if adaptive assessment is undertaken, of an ongoing process implies a minimum of continual work on the part of all those involved, and the impacts often become evident only in the medium or long term;
+· the participatory nature of the process necessitates organizational conditions that enable all members of the organization to express their opinions openly;
+furthermore, management must be able to show its willingness to take into account the opinions of the employees consulted.
+4.2
+Strategy for Applying This Approach
+The extent of the data collection and analysis that such an approach entails may vary from one situation to another.
+Whether part of an assessment or follow-up phase, the requirements depend largely on the following:
+· the nature and scope of the change to be brought about
+· the context and organizational climate
+· the degree of preparedness of the organization and its members.
+The people who carry out the assessment themselves have an active role to play in orienting the study and compiling the results.
+Like others involved in the process, the evaluators will have their own points of view regarding their role, the organization itself, the work, and technological change in general (Lincoln and Guba 1985).
+Through the way they formulate their questions and interpret the information that they elicit, they are called upon to contribute to the process, whether consciously or not.
+They must be aware of their own subjectivity, first, in order to give their analyses a breadth that goes beyond any individual biases, and second, to be able to establish a clear point of reference for "arbitrating" any potential points of conflict among the different groups of players consulted.
+It would therefore seem that such an approach should ideally be carried out by evaluators who are generalists.
+Therein lies its primary constraint.
+Because of its global scope, an assessment of technological change can have an impact on all facets of the organization.
+Various factors must be taken into consideration in decisions pertaining to the management of technological change.
+Such decisions may involve the following:
+· work organization
+· the development of work content (i.e., the nature and content of each task)
+· labour relations
+· the development of human resources (training, etc.)
+· the development of technical resources (work tools, equipment, etc.).
+The person in charge of the assessment or follow-up must not only have a mastery of various assessment methods, but must also be able to analyze and suggest methods of dealing with a range of scenarios involving technical, organizational, human and administrative problems, among others.
+One way of overcoming this problem is to proceed along the same lines as INC, by distributing the follow-up and assessment tasks among various specialists or departments within the organization (technical support, human resources, production, management, union representatives, etc.).
+These various representatives would form an ad hoc group that would be responsible for following up the organizational change and the work processes that accompany them.
+The group could take the form of a continuous improvement committee or a working group assigned to carry out the assessment and analyze the results.
+Ideally, the group should be able to count on the official support of upper management in order to reinforce its credibility within the organization.
+This way of proceeding allows for a multidisciplinary approach and a global view of the change, such that a diversity of viewpoints and interests can be represented.
+This sort of global vision should make it possible to implement a global strategy for managing technological change (Figure 3).
+An ongoing, adaptive assessment of the change of course requires a certain investment of time and qualified personnel.
+It can nevertheless result in significant economies of scale.
+Such an endeavour in fact generates information that can help the organization remain at the forefront of technological developments while minimizing the drops in productivity that are generally associated with the implementation of major isolated changes in production methods.
+The following section provides an overview of the available methods for applying this type of assessment approach.
+4.3
+Assessment Methods
+Since technological change has many facets, which can have varying impacts that may be perceived and expressed in different ways by various players, it is important to be able to use methods that enable us to gather a broad range of information and points of view.
+Moreover, as in all information-gathering endeavours, the data used must be validated.
+One way to meet these two objectives is through the triangulation of the various methods.
+This means that the same problem can be approached in different ways for example, the evaluators may administer a questionnaire and then go back over certain questions and gather more detailed information by means of individual interviews; the results are then viewed in light of systematic observations on site.
+In general, triangulation can be carried out on two levels: data collection and validation.
+On the level of data collection, results are obtained by various data-collection methods, which provide different portrayals of the realities observed.
+On the level of validation, the results from different sources are examined and compared in an attempt to take into account the different points of view, opinions and interests expressed by the various individuals involved.
+In order to verify to what extent the results of the assessment and their interpretation correspond to the points of view of the individuals involved, information-control measures are applied.
+The persons consulted are presented with summaries of the observations and recommendations made by the evaluators and are asked to react to them.
+This procedure must be applied periodically throughout the assessment process each time a coherent set of findings begins to emerge.
+This is a means of ensuring the relevance of the results and of the orientations of the evaluation and allows for adjustments to be made if necessary.
+When a report is finally prepared for submission, comments, suggestions and objections are incorporated into the conclusions and recommendations.
+The approach put forth here is therefore based on combining various methods of data collection.
+Certain methods, which are used predominantly on the level of contextualistic design and especially during periods of intensive assessment, allow for a large range of data to be collected.
+These methods are as follows:
+· semi-structured interviews (with individuals and/or groups)
+· questionnaires
+· various observation techniques.
+For purposes of following up the change, a relatively informal consultation method can be used.
+Alternatively, a daily record can be kept of the problems encountered, whether they pertain to technical matters, training, labour relations in connection with operations, or other considerations.
+The following means can be used:
+· logs
+· informal consultations
+· short questionnaires.
+Each data-collection method is outlined below.
+Interviews
+Semi-structured interviews are intended as an in-depth exploration of how individuals react to change.
+The method has the primary advantage of giving the respondents a great deal of latitude, thus making it easier for them to express their points of view and formulate new ideas.
+It is a key means of determining the factors that underlie the situations observed finding out the "whys."
+This method nevertheless has the drawback of requiring relatively onerous analysis of the information gathered.
+Questionnaires
+Questionnaires allow for the collection of target information on specific points in order to determine topics for further investigation, identify specific problems, validate certain analysis results, etc.
+Questionnaires can be processed more quickly than interview results or data gleaned from observation.
+Their primary limitation, however, is that they cannot easily elicit subtleties that point to underlying factors (the "whys" of the situation).
+Observation
+Observation techniques are primarily intended to analyze the user/machine interface and ways of working.
+They can consist of either direct observation or observation via videotape; participatory observation, which entails some dialogue between the evaluator and the users; or assisted observation for instance, by means of computer programs that allow for linking operations that involve a particular technology in order to assess its usability.
+Widely used in ergonomics, this approach is particularly well suited to assessing operations performed in order to accomplish specific tasks.
+However, it requires a certain level of skill and technical knowledge on the part of the evaluator.
+Logs
+Gathering information by means of logs entails asking the individuals involved to keep a daily record of their problems in using the technology or integrating it into their work and to note any suggestions that they might have for improving system use.
+This information is compiled with a view to orienting future improvements in or adaptations of the technology, as well as work and/or organizational processes.
+Though this approach generally does not yield complex data, it requires little time and allows for change to be observed in a linear manner.
+Informal Consultations
+Informal consultations, which are interviews consisting of informal dialogue, are primarily intended to prevent serious problems and identify avenues for systematically exploring ways of enhancing the technology and the conditions under which it is used.
+The effectiveness of this approach depends largely on the degree of confidence that exists between the individuals involved and the evaluator.
+The information gathered via these different methods is compiled and analyzed by the people responsible for assessment or follow-up.
+Analysis essentially consists in identifying the strengths and weaknesses of the changes implemented, as well as the adaptations or improvements that could be made from the user point of view.
+Nevertheless, it is important that the validation process not become a hindrance to innovation, imagination or devising of new ways of proceeding.
+Feedback gathered by such means must not be viewed as constituting the sole possibilities for action, but rather as indicators of what it is necessary, desirable or foreseeable to do or not do.
+It must be borne in mind that applying the methods suggested here is not an end in itself, but a means of facilitating change and making the process more congruent with the needs of the organization and its personnel.
+5.
+Levels of Intervention
+The global approach put forth here is not intended to generate solely technological solutions to specific problems.
+It allows for devising and applying other types of changes that could prove more appropriate in certain situations.
+It is thus intended to identify various types of solutions in order to respond to needs for improvement or problem solving in the work process in as satisfactory a manner as possible.
+This paper, however, will focus on the application of the global approach to technological change as such.
+Figure 4 summarizes the primary steps involved in identifying elements that require change (e.g., problems to be solved and improvements to be made to work processes or tools), as well as the most appropriate means of bringing about such change (at the organizational level, and with respect to work content, professional development, and technology).
+This diagnostic work and the planning that it entails correspond to the initial consultation phase (laying the groundwork for change) in the example of the INC Inc. working group.
+The above process lays the foundation for three possible levels of intervention: contextualistic design, assessment of implementation, and assessment of user/machine interface (or assessment of use).
+These three components can be closely linked and have often been approached as part of a single study.
+Different combinations of these components have in fact laid the foundation for the global approach to managing technological change presented in this paper.
+We shall now examine each of these components.
+5.1
+Contextualistic Design
+As seen previously, the design of a technology can impose constraints, yet it can also create opportunities with respect to its use and its integration in a given work process.
+The design and development of technological tools do not therefore consist solely in the creation and juxtaposition of a set of tools and capabilities.
+Also required is the formation of a social and organizational philosophy that calls for, or at least fosters, certain practices and ways of carrying out specific work.
+Of course, through usage strategies, it is possible to transform, adapt or sidestep such a philosophy, which is implicit.
+However, such strategies, especially if they are developed in a hit-and-miss fashion through trial and error, can require a significant amount of effort on the part of users.
+Conversely, it is possible to orient the design of a technology so that is it is necessarily grounded in actual work practices and philosophy, and in the aspirations of the people for whom the technology is intended.
+From this perspective, there is a focus on the development of tools that are better suited to the various work situations that may exist, thus favouring a better, faster and less costly integration of change into the work process.
+Yet how should this sort of development which focuses as much on the use of the technologies as on their function be implemented?
+There are many approaches to technology design (De Serres 1995).
+The approach to technological change favoured here presupposes two essential conditions that will orient the choice of a design approach.
+The first requires that the change be geared to the perspectives of the people involved with respect to their work, the organization in which they work, and life in the workplace.
+The second concerns the importance of taking into consideration the context and conditions that are particular to a given organization or sector of activity in order to develop means that enable them to function, including, of course, technologies and their applications.
+In order to meet these two conditions, we suggest a contextualistic type of development.
+A contextualistic design approach (also referred to as a contextual design approach, De Serres 1995) is intended to adapt ethnographic research methods to the constraints involved in systems design.
+It essentially consists in orienting systems design according to information gleaned from observing and consulting with users at work.
+The information and ideas noted are then compiled and integrated into the specifications for the tool to be developed, in the preliminary stages of the design process.
+It is important that the considerations that emerge from observing and interacting with the users not simply be grafted onto a structure that has already been planned, but that they truly be incorporated at the most basic level.
+For various reasons (delays, budgets, unforeseen problems, etc.), elements that were slated for inclusion from the outset are often sacrificed during the design process.
+If certain specifications are added to an already-existing theoretical structure, it is likely that they will never become a coherent part of the development plan.
+Furthermore, such additions become the elements that are the easiest to dispense with and that stand up the least well when compromises are being negotiated within the development team.
+The contextualistic aspects of change may often seem nebulous at the start because they are based not only on measurable information, but also on subjective values.
+Nevertheless, the example of the importance of quality for the writers and translators who work for INC shows that it is precisely because they are able to raise subjective considerations that such factors are very important for obtaining satisfactory results with respect to the technological and organizational choices connected with change.
+Ideally, contextualistic design interventions are iterative (see Figure 5).
+In this perspective, contextualistic design is seen as a succession of feedback loops, or feedback phases, each of which consists of three stages:
+· gathering information on site
+· analyzing information provided by the individuals involved, possible improvements to be made to the work process, and organizational-development objectives
+· validation of recommendations by the individuals involved.
+The concept of feedback loops stems from an iterative approach, which is based on a way of proceeding that is designed to be as flexible as possible so that its orientation can be adjusted at any time according to the information gathered in a real context, the development of users' characteristics (skills, etc.) and tasks, and the needs of the organization(s) involved.
+The application of this iterative approach to contextualistic design requires a series of consultation, validation and prototype-development stages (see Figure 6).
+5.2
+Assessment of Implementation
+Several years of applied research on the introduction of information and communications technologies in various work environments have demonstrated that technological change generally requires interventions that are much more far reaching than merely the technology itself.
+It involves the implementation of measures on the management level that are intended to integrate the technology with the way the organization functions and with the work content, practices, knowledge, and users' work culture.
+The management of technological change therefore requires a thorough grasp of the current situation and the effects of the implementation as they become evident.
+An assessment of change must not be limited to simply compiling a list of the effects of a technology after its implementation.
+The true merit of an assessment lies in its ability to identify the strengths and weaknesses of the change in a specific context, point to adjustments and adaptations as the technology is being implemented, and resolve problems as they arise.
+An understanding of all the implications of the change (whether they be technical or organizational, related to training or labour relations, etc.) is essential in order to suggest ways of meeting the expectations and needs of an organization and its members.
+In order to do so, it would seem essential to have analyzed not only the technology but also the context in which it is implemented and the actual implementation process.
+As seen previously, technology in and of itself does not produce specific results at least not a priori even though it may have inherent potential and constraints.
+Each organization constitutes a specific context, with a unique logic underlying its operations.
+That is why the way a technology is implemented would seem to be result of how the various players see the stakes involved and the resulting benefits and disadvantages.
+The example given at the start of this paper illustrates such differences in perception by describing the divergent points of view of the employees at INC and the company's freelancers with respect to the usefulness of the terminology research support applications.
+In the case of INC, the factors involved in the change concerned the type of work to be carried out, the specific skills required, and each group's role within the organization.
+The implementation of a technological change within an organization can thus spark action, adaptation and transformation that is other than technological, with respect to the spectrum of work carried out and the organization itself.
+That is why the effects of a given technology within an organization are contingent upon the way it is integrated into what might be termed the logic or philosophy of technological implementation.
+The ability to comprehend the technology/organization interface is an important factor in the success of technological implementation.
+This means that implementation must be accompanied by means of identifying its repercussions on the work carried out, the organization itself, and its members.
+From this perspective, an assessment of a technological implementation consists, first and foremost, in contextualizing the change by identifying its implications on the way the organization functions, its work practices, and the work-related values of its users.
+The primary assessment stages presented here (Figure 7) mostly entail verifying how the implementation is carried out and its effects in order to prevent subsequent problems and, if necessary, to identify what adjustments should be made to the change (e.g., training, technical support and ways of organizing and distributing the work).
+This ensures the follow-up of the entire implementation process, each step of which relies on consultation with all the individuals involved.
+5.3
+Follow-up (Assessment of System Use)
+In any discussion of technology design and implementation, one issue prevails: that of user/machine interface or, to be more precise, the way in which the use of the technology is integrated with the work and the organization itself.
+The different implications of this should thus be considered, as should other areas of intervention in which the efficiency of the work process and quality of life at work can be improved.
+The use of technologies raises issues such as the quality (i.e., user-friendliness) of the user/machine interface and the "usability" of the technologies for carrying out specific operations.
+However, just as a technology cannot be initially implemented in a vacuum, neither can it be used in one.
+In certain contexts, a given technology can be easier to use than in others, with varying impact on the work and on life in the workplace.
+Other factors that can play an essential role in the user/machine interface are the characteristics of both the users and the work to be carried out, as well as conditions surrounding use, such as training, technical support, the work environment, and user motivation.
+Thus, the use of a technology is a process that evolves over time.
+The user/machine interface is generally thought to depend on taking into consideration the users' characteristics at the design stage, as well as how their needs develop as they gain experience (Goodwin 1987).
+Ultimately, however, the primary criterion for the usability of a technology is the users' perspective: their perception of its limitations and its potential for accomplishing a job or activity.
+Once again, we should recall the divergence between INC employees and freelancers, who were not willing to expend the same effort to learn how to use the writing software.
+In a work situation, the way a technology is used is closely linked with the practices and all other factors that accompany the activities which the technology helps to perform.
+Work itself is thus both a contextual ("situated") and a social activity (Suchman and Trigg 1993).
+It is carried out within a specific time frame and in a particular location, under specific conditions, and involves a certain amount of interaction with colleagues, clients, the employer, and others.
+Therefore, there is clearly a need to approach problems linked to the use of technology by forming an overall awareness of the problems involved in the user/machine interface (Noro and Brown 1990; Noulin 1990; Eason 1991; Hendrick 1991; Reiterer and Oppermann 1993).
+We must endeavour to fully grasp the dynamics between the user, the task, the system and the organization.
+From this perspective, the way of using a given technology are defined and evolve differently in each work environment according to the following:
+· the workers (who will differ according to their work culture, their technical skills and knowledge, etc.)
+· their work (which will vary according to the social interaction that takes place, the nature and degree of complexity of the tasks, the role of technology in the work process, etc.)
+· the social and organizational dynamics that ensure the cohesion of the individuals involved and the work process (according to the limitations and possibilities that come to light with respect to how the work process is organized, how adaptable it is, etc.).
+Within this framework, follow-up of system use must begin with an exploration of the way in which the users regard their work context, their particular roles, the role of their work, and what gives their work value.
+Furthermore, the diversity of potential users, the tasks they have to carry out and the specificity of the way their work is organized create diverse needs and expectations with respect to the user/machine interface factors that are difficult to foresee.
+The criteria that should be used in assessing the use of a given technology must also be defined in light of the specific nature of their context.
+The role of follow-up of usage processes is therefore to identify needs on site so that the technology can meet user expectations.
+It should be borne in mind that the follow-up involved at this stage is distinct from an intensive assessment stage.
+The purpose of follow-up is to raise questions that are essential to the prevention of problems and to the possible enhancement of the technology and the organizational methods in use.
+It must, however, be on the basis of periodic and largely informal consultations that require little time on the part of the evaluators and the individuals concerned.
+Follow-up (Figure 8) is intended first and foremost to document the evolution of the usage process, and is conducted within the context of a participatory approach to management.
+6.
+Conclusion
+The proliferation of information and communications technologies in various sectors has in many cases significantly changed work, organizations and life in the workplace.
+Moreover, the acceleration of the development cycles of new technologies and the pressures exerted by a highly competitive economic context have subjected workers and organizations to the pace and requirements of virtually uninterrupted changes and adaptations.
+Major efforts still have to be made to fully adapt organizations' ways of operating to this dynamic of change.
+It is hoped that this paper will contribute to such efforts.
+Whether we speak of development or implementation, technological change does not depend solely on technical considerations.
+It entails a process that has much more far-reaching implications, which are not always objectively measurable or quantifiable.
+Assessing technological change therefore partly requires tools that can register the social, human and organizational stakes involved in technological change in the workplace.
+As we endeavoured to point out in the example at the beginning of this paper, an intervention that, for one reason or another, has an objective of far-reaching technological and organizational change must be part of a global approach based on the involvement of all individuals concerned.
+This sort of global, contextualistic approach must begin with the building of a social philosophy of the organization in the design of tools (technologies) and work processes.
+The next step is the application of the philosophy in the management of technology implementation and in the organization's daily operations.
+The idea of an adaptive approach is intended to steer change through the full life cycle of the technology, from the design stage to its retirement, including its implementation and the various adjustments that may have to be made as it is being used.
+Such an approach of course entails certain costs and a time investment, and the methods connected with it require the development of certain expertise.
+Moreover, focusing on a contextualistic approach requires the development of tailor-made measures that are adapted to the particular organization's context and needs.
+However, a technological change is first and foremost the product of actions and factors that are at least partly subjective and context-dependent, such as human relations, values, and knowledge that is in a state of flux.
+It is unlikely therefore that we will master this sort of change if we do not first manage to understand and interact with these subjective and context-dependent elements.
+It is hoped that this paper has enhanced the reader's understanding of technological change and of the means available for acting in a manner that, as much as possible, respects the expectations and needs of the individuals involved, which must evolve as technological change takes hold.
+Bibliography
+Alsène, É.
+(1990) "Les impacts de la technologie sur l'organisation."
+Sociologie du travail, no.
+3/90: 321 336.
+Alsène.
+E., Légaré, J., Vendittoli, M. (1991) Ébauche de reconceptualisation de l'organisation à partir de la théorie de l'auto-organisation, Montreal : École Polytechnique and CWARC.
+Anderson, R. J. (1994) "Representations and Requirements: The Value of Ethnography in System Design."
+Human-Computer Interaction, vol. 9: 151 182.
+Bergquist, W. (1993) The Postmodern Organization: Mastering the Art of Irreversible Change.
+San Francisco: Jossey-Bass.
+Bj¢rn-Andersen, N., and J. A. Turner (1994) "Creating the Twenty-First Century Organization: The Metamorphosis of Opticon."
+In Transforming Organizations with Information Technology, edited by R. Baskerville, S. Smithson, O. Ngwenyama, and J. I. DeGross.
+North-Holland: Elsevier Science B. V.
+Clement, A., M. Griffiths, and P. Van den Besselaar (1992) "Participatory Design Projects: A Retrospective Look."
+In Proceedings of the Participatory Design Conference.
+Cambridge, 6 7 November 1992.
+Davies, L., and G. Mitchell (1994) "The Dual Nature of the Impact of IT on Organizational Transformations."
+In Transforming Organizations with Information Technology, edited by R. Baskerville, S. Smithson, O. Ngwenyama, and J. I. DeGross.
+North-Holland: Elsevier Science B. V.
+De Serres, M. (1995) Approaches to Information-Systems Design.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+Douzou, S. (1992) "Methodologies for Evaluating Network-based Communication Technologies in Organizations: A Critical Assessment."
+In Electronic Networks in Organizations: Perspectives and Issues for Research, edited by Duncan Sanderson.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+__________ (1991) Analyse des études, approches et méthodologies d'évaluation sociale des réseaux informatisés de communication en contexte organisationnel.
+Proposition pour le développement d'une approche méthodologique adaptée.
+Working document.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+Douzou, S., and J. Légaré (1994) "Network-Based Information Systems, Professional Cultures and Organizational Dynamics: A Multiple Case Study in the Health Care Sector."
+In Transforming Organizations with Information Technology, edited by R. Baskerville, S. Smithson, O. Ngwenyama, and J. I. DeGross.
+North-Holland: Elsevier Science B. V., 263 276.
+Eason, K. D. (1991) "Ergonomic Perspectives on Advances in Human-Computer Interaction."
+Ergonomics, vol. 34, no.
+6: 721 741.
+Gillis, S., C. Desautels, M. De Serres, and F. Lapointe (1991) The IMOSA Project: Information Management and Office System Advancement.
+Phase I Report.
+Canadian Workplace Automation Research Centre (CWARC) and National Archives of Canada (GRB).
+Goodwin, N. C. (1987) "Functionality and Usability."
+Communications of the ACM, March 1987, vol. 30, no.
+3: 229 233.
+Hendrick, H. W. (1991) "Ergonomics in Organizational Design and Management."
+Ergonomics, vol. 34, no.
+6: 743 756.
+Klein, H. K., and P. Kraft (1994) "Social Control and Social Contract in NetWORKing.
+Total Quality Management and the Control of Work in the United States."
+Computer Supported Cooperative Work, no.
+2: 89 108.
+Klenke, K. (1994) "Information Technologies as Drivers of Emergent Organizational Forms: A Leadership Perspective."
+In R. Baskerville, S. Smithson, O. Ngwenyama, J. I. DeGross (Ed.)
+, Transforming Organizations with Information Technology.
+North-Holland: Elsevier Science B. V.
+Kraft, P., and D. Truex (1994) "Postmodern Management and Information Technology in the Modern Industrial Corporation."
+In R. Baskerville, S. Smithson, O. Ngwenyama, J. I. DeGross (Ed.)
+, Transforming Organizations with Information Technology.
+North-Holland: Elsevier Science B. V.
+Lapointe, F. (1990) User-friendliness of Interfaces : Proposal for an Evaluation Methodology.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+__________ (1992) "Contexte organisationnel et convivialité des interfaces utilisateur-machine.
+L'exemple du poste de travail pour la traduction."
+Technologies de l'information et société, vol. 4, no.
+2: 253 275.
+__________ (1993) Organizational Appropriation of Technological Change.
+Conceptual Basis Analatical Tools.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+__________ (1996) "Vers un modèle d'évaluation du changement technologique dans les organisations".
+The Canadian Journal of Program Evaluation/La Revue canadienne d'évaluation de programme (forthcoming).
+Lavoie, R., D. Tippin, J. Légaré, F. Lapointe, and A.-M. Tessier (1994) "Ce que travailler veut dire.
+Regards ethnographiques sur une certaine société de l'information."
+In The New Frontier.
+IDATE's 16th International Conference Proceedings, edited by Dassot.
+Montpellier: IDATE, 185 209.
+Légaré, J. (1991) "L'évaluation d'implantations technologiques : une approche naturaliste centrée sur l'utilisateur."
+Paper presented at conference entitled "L'Homme et l'ordinateur II," Nivelles, Belgium, May 1990.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+Lincoln, Y.S. et Guba, E.G. (1985), Naturalistic Inquiry.
+Londres : Sage.
+Minc, A. (1993) Le nouveau Moyen-Age.
+Paris : Gallimard.
+Noro, K., and O. Brown Jr. (eds.) (1990) Human Factors in Organisational Design and Management III. Amsterdam: Elsevier.
+Noulin, M. (1990) "Ergonomie : ne pas oublier l'utilisateur."
+Terminal, no.
+48, Jan.
+Feb. 1990: 20 23.
+Orlikowski, W. J. (1992) "The Duality of Technology: Rethinking the Concept of Technology in Organizations."
+Organization Science, vol. 3, no.
+3: 398 427.
+Reiterer, H., and R. Oppermann (1993) "Evaluation of User Interfaces: EVADIS II A Comprehensive Approach."
+Behaviour & Information Technology, vol. 12, no.
+3: 137 148.
+Sanderson, D. (1992) "The CSCW Implementation Process: An Interpretative Model and Case Study of the Implementation of a Videoconference System."
+Preoceedings of CSCW '92: 370 377.
+__________ (1994) "Mediated Collaborative Research?
+Claims, Evidence, and a Case Study of a Distributed Science Group."
+CSCW, 2: 41 65.
+Suchman, L. (1987) Plans and Situated Actions.
+The Problem of Human-Machine Communication.
+Cambridge: Cambridge University Press.
+Suchman, L. A., and R. H. Trigg (1993) "Understanding Practice: Video as a Medium for Reflection and Design."
+In Readings in Groupware and Computer-Supported Cooperative Work.
+Assisting Human Computer Collaboration, edited by R. M. Baecker.
+San Mateo: Morgan Kaufman Publishers.
+Tessier, A.-M., and F. Lapointe (1994) Telework at Home : Evaluation of a Pilot Project at Employment and Immigration Canada.
+Laval, Quebec: Centre for Information Technology Innovation (CITI).
+Tippin, D. (1994) "Control Processes in Distance Work Situations: The Case of Satellite Offices."
+Paper presented at the annual meeting of the Canadian Sociology and Anthropology Association, June 1 4 , 1994, Calgary, Alberta.
+Tyre, M. J., and W. J. Orlikowski (1993) "Exploiting Opportunities for Technological Improvement in Organizations."
+Sloan Management Review, vol. 35, no.
+1: 13 36.
